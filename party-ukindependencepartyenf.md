@@ -12,8 +12,6 @@ Last result: **26.6%** (General Election of 22 May 2014)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18.0% | 16.9–19.1% | 16.6–19.4% | 16.4–19.7% | 15.9–20.3% |
 | [28–30 March 2019](2019-03-30-Opinium.html) | Opinium <br> The Observer | 18.0% | 16.9–19.1% | 16.6–19.4% | 16.4–19.7% | 15.9–20.3% |
-| [12–15 March 2019](2019-03-15-Opinium.html) | Opinium <br> The Observer | 16.8% | 15.8–18.0% | 15.5–18.3% | 15.3–18.5% | 14.8–19.1% |
-| [10–17 January 2019](2019-01-17-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Politico | 9.9% | N/A | N/A | N/A | N/A |
 
 ### Probability Mass Function
 
@@ -45,10 +43,8 @@ Last result: **24** seats (General Election of 22 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 11–17 | 11–17 | 11–17 | 11–17 |
-| [28–30 March 2019](2019-03-30-Opinium.html) | Opinium <br> The Observer | 11 | 11–17 | 11–17 | 11–17 | 11–17 |
-| [12–15 March 2019](2019-03-15-Opinium.html) | Opinium <br> The Observer | 9 | 9–12 | 9–12 | 9–12 | 9–12 |
-| [10–17 January 2019](2019-01-17-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Politico |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 15 | 12–16 | 11–16 | 11–17 | 10–17 |
+| [28–30 March 2019](2019-03-30-Opinium.html) | Opinium <br> The Observer | 15 | 12–16 | 11–16 | 11–17 | 10–17 |
 
 ### Probability Mass Function
 
@@ -58,14 +54,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 76% | 100% | Median |
-| 12 | 0.2% | 24% |  |
-| 13 | 3% | 23% |  |
-| 14 | 1.0% | 20% |  |
-| 15 | 4% | 19% |  |
-| 16 | 4% | 16% |  |
-| 17 | 12% | 12% |  |
-| 18 | 0% | 0% |  |
+| 9 | 0.1% | 100% |  |
+| 10 | 0.6% | 99.9% |  |
+| 11 | 7% | 99.2% |  |
+| 12 | 10% | 92% |  |
+| 13 | 11% | 82% |  |
+| 14 | 8% | 71% |  |
+| 15 | 38% | 63% | Median |
+| 16 | 21% | 26% |  |
+| 17 | 5% | 5% |  |
+| 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
 | 20 | 0% | 0% |  |
 | 21 | 0% | 0% |  |

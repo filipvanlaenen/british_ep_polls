@@ -12,8 +12,6 @@ Last result: **23.1%** (General Election of 22 May 2014)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 24.0% | 22.8–25.3% | 22.5–25.6% | 22.2–25.9% | 21.6–26.5% |
 | [28–30 March 2019](2019-03-30-Opinium.html) | Opinium <br> The Observer | 24.0% | 22.8–25.3% | 22.5–25.6% | 22.2–25.9% | 21.6–26.5% |
-| [12–15 March 2019](2019-03-15-Opinium.html) | Opinium <br> The Observer | 27.7% | 26.5–29.1% | 26.1–29.4% | 25.8–29.8% | 25.2–30.4% |
-| [10–17 January 2019](2019-01-17-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Politico | 35.6% | N/A | N/A | N/A | N/A |
 
 ### Probability Mass Function
 
@@ -40,10 +38,8 @@ Last result: **19** seats (General Election of 22 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 18–21 | 18–21 | 18–21 | 18–21 |
-| [28–30 March 2019](2019-03-30-Opinium.html) | Opinium <br> The Observer | 21 | 18–21 | 18–21 | 18–21 | 18–21 |
-| [12–15 March 2019](2019-03-15-Opinium.html) | Opinium <br> The Observer | 25 | 24–25 | 23–25 | 21–25 | 21–25 |
-| [10–17 January 2019](2019-01-17-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Politico |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 19 | 18–21 | 17–22 | 17–22 | 16–23 |
+| [28–30 March 2019](2019-03-30-Opinium.html) | Opinium <br> The Observer | 19 | 18–21 | 17–22 | 17–22 | 16–23 |
 
 ### Probability Mass Function
 
@@ -53,10 +49,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 18 | 16% | 100% |  |
-| 19 | 4% | 84% | Last Result |
-| 20 | 3% | 80% |  |
-| 21 | 77% | 77% | Median |
-| 22 | 0% | 0% |  |
+| 15 | 0.2% | 100% |  |
+| 16 | 1.2% | 99.8% |  |
+| 17 | 4% | 98.6% |  |
+| 18 | 19% | 95% |  |
+| 19 | 34% | 76% | Last Result, Median |
+| 20 | 22% | 42% |  |
+| 21 | 10% | 19% |  |
+| 22 | 8% | 9% |  |
+| 23 | 1.2% | 1.2% |  |
+| 24 | 0% | 0% |  |
 
 
