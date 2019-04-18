@@ -65,7 +65,7 @@ Last result: **24** seats (General Election of 22 May 2014)
 | [5–8 April 2019](2019-04-08-HanburyStrategy.html) | Hanbury Strategy | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [28–30 March 2019](2019-03-30-Opinium.html) | Opinium <br> The Observer | 15 | 12–16 | 11–16 | 11–17 | 10–17 |
 | [12–15 March 2019](2019-03-15-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [10–17 January 2019](2019-01-17-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Politico | 6 | 3–7 | 2–7 | 2–7 | 2–8 |
+| [10–17 January 2019](2019-01-17-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Politico | 6 | 3–7 | 2–7 | 2–7 | 2–7 |
 
 ### Probability Mass Function
 
@@ -77,10 +77,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 14% | 100% |  |
 | 2 | 12% | 86% |  |
-| 3 | 4% | 73% |  |
+| 3 | 3% | 73% |  |
 | 4 | 3% | 70% |  |
-| 5 | 3% | 66% |  |
-| 6 | 8% | 63% |  |
+| 5 | 3% | 67% |  |
+| 6 | 9% | 64% |  |
 | 7 | 7% | 55% | Median |
 | 8 | 17% | 48% |  |
 | 9 | 7% | 31% |  |

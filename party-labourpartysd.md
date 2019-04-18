@@ -58,14 +58,14 @@ Last result: **20** seats (General Election of 22 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29 | 22–38 | 21–38 | 19–38 | 19–39 |
+| N/A | [Poll Average](average.html) | 28 | 22–38 | 21–38 | 19–38 | 19–39 |
 | [16–17 April 2019](2019-04-17-YouGov.html) | YouGov | 21 | 20–21 | 19–21 | 19–21 | 19–21 |
 | [9–12 April 2019](2019-04-12-Opinium.html) | Opinium <br> The Observer | 28 | 27–29 | 26–30 | 26–30 | 25–30 |
 | [10–11 April 2019](2019-04-11-YouGov.html) | YouGov | 23 | 19–26 | 19–26 | 19–27 | 18–27 |
 | [5–8 April 2019](2019-04-08-HanburyStrategy.html) | Hanbury Strategy | 38 | 36–38 | 36–38 | 35–39 | 34–39 |
 | [28–30 March 2019](2019-03-30-Opinium.html) | Opinium <br> The Observer | 26 | 25–27 | 25–27 | 25–27 | 24–28 |
 | [12–15 March 2019](2019-03-15-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [10–17 January 2019](2019-01-17-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Politico | 30 | 28–32 | 28–33 | 28–34 | 27–35 |
+| [10–17 January 2019](2019-01-17-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Politico | 29 | 28–32 | 28–33 | 28–33 | 27–35 |
 
 ### Probability Mass Function
 
@@ -85,14 +85,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 25 | 3% | 81% |  |
 | 26 | 4% | 78% |  |
 | 27 | 8% | 74% |  |
-| 28 | 16% | 67% |  |
-| 29 | 11% | 51% | Median |
-| 30 | 9% | 39% |  |
-| 31 | 3% | 31% |  |
-| 32 | 2% | 28% |  |
-| 33 | 0.7% | 26% |  |
+| 28 | 17% | 67% | Median |
+| 29 | 11% | 50% |  |
+| 30 | 7% | 39% |  |
+| 31 | 3% | 32% |  |
+| 32 | 2% | 29% |  |
+| 33 | 1.4% | 27% |  |
 | 34 | 0.4% | 26% |  |
-| 35 | 1.2% | 25% |  |
+| 35 | 1.1% | 25% |  |
 | 36 | 5% | 24% | Majority |
 | 37 | 6% | 19% |  |
 | 38 | 13% | 14% |  |

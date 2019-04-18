@@ -64,14 +64,14 @@ Last result: **19** seats (General Election of 22 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 10–31 | 10–32 | 10–32 | 9–32 |
+| N/A | [Poll Average](average.html) | 17 | 10–31 | 10–31 | 10–32 | 9–32 |
 | [16–17 April 2019](2019-04-17-YouGov.html) | YouGov | 10 | 9–13 | 9–13 | 9–13 | 9–13 |
 | [9–12 April 2019](2019-04-12-Opinium.html) | Opinium <br> The Observer | 14 | 12–15 | 11–15 | 11–16 | 10–16 |
 | [10–11 April 2019](2019-04-11-YouGov.html) | YouGov | 11 | 10–13 | 9–14 | 9–14 | 9–16 |
 | [5–8 April 2019](2019-04-08-HanburyStrategy.html) | Hanbury Strategy | 20 | 19–20 | 19–21 | 18–21 | 17–22 |
 | [28–30 March 2019](2019-03-30-Opinium.html) | Opinium <br> The Observer | 19 | 18–21 | 18–22 | 17–22 | 16–23 |
 | [12–15 March 2019](2019-03-15-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [10–17 January 2019](2019-01-17-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Politico | 30 | 28–32 | 27–32 | 27–32 | 26–33 |
+| [10–17 January 2019](2019-01-17-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Politico | 30 | 27–32 | 27–32 | 27–32 | 26–33 |
 
 ### Probability Mass Function
 
@@ -100,11 +100,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 25 | 0% | 25% |  |
 | 26 | 0.1% | 25% |  |
 | 27 | 2% | 25% |  |
-| 28 | 3% | 23% |  |
+| 28 | 3% | 22% |  |
 | 29 | 3% | 20% |  |
 | 30 | 5% | 17% |  |
-| 31 | 6% | 12% |  |
-| 32 | 6% | 6% |  |
+| 31 | 7% | 12% |  |
+| 32 | 4% | 5% |  |
 | 33 | 0.3% | 0.4% |  |
 | 34 | 0.1% | 0.1% |  |
 | 35 | 0% | 0% |  |
