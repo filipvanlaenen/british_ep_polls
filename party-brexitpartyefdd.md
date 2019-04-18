@@ -11,7 +11,8 @@ Last result: **0.0%** (General Election of 22 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12.0% | 9.8–15.6% | 9.4–16.0% | 9.2–16.4% | 8.7–17.0% |
-| [9–12 April 2019](2019-04-12-Opinium.html) | Opinium | 12.0% | 11.1–13.0% | 10.9–13.3% | 10.7–13.5% | 10.2–14.0% |
+| [16–17 April 2019](2019-04-17-YouGov.html) | YouGov | 26.7% | 25.4–28.1% | 25.1–28.5% | 24.8–28.8% | 24.2–29.5% |
+| [9–12 April 2019](2019-04-12-Opinium.html) | Opinium <br> The Observer | 0.0% | 11.1–13.0% | 10.9–13.3% | 10.7–13.5% | 10.2–14.0% |
 | [10–11 April 2019](2019-04-11-YouGov.html) | YouGov | 15.1% | 14.1–16.3% | 13.8–16.6% | 13.6–16.9% | 13.1–17.4% |
 | [5–8 April 2019](2019-04-08-HanburyStrategy.html) | Hanbury Strategy | 10.1% | 9.3–11.0% | 9.1–11.3% | 8.9–11.5% | 8.5–12.0% |
 | [28–30 March 2019](2019-03-30-Opinium.html) | Opinium <br> The Observer | 0.0% | N/A | N/A | N/A | N/A |
@@ -54,10 +55,11 @@ Last result: **0** seats (General Election of 22 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 6–13 | 6–14 | 6–15 | 5–15 |
-| [9–12 April 2019](2019-04-12-Opinium.html) | Opinium | 8 | 7–9 | 7–10 | 7–11 | 7–11 |
+| N/A | [Poll Average](average.html) | 8 | 6–13 | 6–14 | 6–15 | 6–15 |
+| [16–17 April 2019](2019-04-17-YouGov.html) | YouGov | 24 | 23–24 | 21–24 | 21–29 | 21–29 |
+| [9–12 April 2019](2019-04-12-Opinium.html) | Opinium <br> The Observer | 8 | 7–9 | 7–10 | 7–11 | 7–11 |
 | [10–11 April 2019](2019-04-11-YouGov.html) | YouGov | 13 | 9–15 | 9–15 | 8–15 | 8–16 |
-| [5–8 April 2019](2019-04-08-HanburyStrategy.html) | Hanbury Strategy | 6 | 6–7 | 6–7 | 5–7 | 4–7 |
+| [5–8 April 2019](2019-04-08-HanburyStrategy.html) | Hanbury Strategy | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [28–30 March 2019](2019-03-30-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [12–15 March 2019](2019-03-15-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [10–17 January 2019](2019-01-17-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Politico |  |  |  |  |  |
@@ -74,10 +76,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0.1% | 100% |  |
-| 4 | 0% | 99.9% |  |
-| 5 | 1.1% | 99.8% |  |
-| 6 | 16% | 98.7% |  |
-| 7 | 32% | 83% |  |
+| 4 | 0.1% | 99.9% |  |
+| 5 | 0.3% | 99.9% |  |
+| 6 | 21% | 99.5% |  |
+| 7 | 27% | 78% |  |
 | 8 | 14% | 51% | Median |
 | 9 | 4% | 37% |  |
 | 10 | 2% | 32% |  |

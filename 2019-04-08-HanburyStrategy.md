@@ -30,11 +30,11 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#labour-party-(s&d)">Labour Party (S&D)</a> | 20 | 37 | 36–38 |35–38 |34–39 |32–39 |
-| <a href="#conservative-party-(ecr)">Conservative Party (ECR)</a> | 19 | 20 | 19–20 |18–21 |18–22 |18–22 |
-| <a href="#brexit-party-(efdd)">Brexit Party (EFDD)</a> | 0 | 6 | 6–7 |6–7 |5–7 |4–7 |
-| <a href="#liberal-democrats-(alde)">Liberal Democrats (ALDE)</a> | 1 | 2 | 2–3 |2–3 |2–4 |2–4 |
-| <a href="#uk-independence-party-(eapn)">UK Independence Party (EAPN)</a> | 24 | 2 | 1–2 |1–2 |1–2 |1–4 |
+| <a href="#labour-party-(s&d)">Labour Party (S&D)</a> | 20 | 38 | 36–38 |36–38 |35–39 |34–39 |
+| <a href="#conservative-party-(ecr)">Conservative Party (ECR)</a> | 19 | 20 | 19–20 |19–21 |18–21 |17–22 |
+| <a href="#brexit-party-(efdd)">Brexit Party (EFDD)</a> | 0 | 6 | 6–7 |6–7 |6–7 |5–7 |
+| <a href="#liberal-democrats-(alde)">Liberal Democrats (ALDE)</a> | 1 | 2 | 2 |2–3 |2–3 |2–4 |
+| <a href="#uk-independence-party-(eapn)">UK Independence Party (EAPN)</a> | 24 | 1 | 1–2 |1–2 |1–2 |1–3 |
 | <a href="#scottish-national-party-(greens/efa)">Scottish National Party (Greens/EFA)</a> | 2 | 3 | 3 |3 |2–3 |2–3 |
 | <a href="#green-party-(greens/efa)">Green Party (Greens/EFA)</a> | 3 | 0 | 0 |0 |0 |0 |
 | <a href="#change-uk-(epp)">Change UK (EPP)</a> | 0 | 0 | 0 |0 |0 |0 |
@@ -60,15 +60,15 @@
 | 29 | 0% | 100% |  |
 | 30 | 0% | 100% |  |
 | 31 | 0% | 100% |  |
-| 32 | 0.5% | 100% |  |
-| 33 | 1.2% | 99.5% |  |
-| 34 | 0.8% | 98% |  |
-| 35 | 3% | 97% |  |
-| 36 | 26% | 94% | Majority |
-| 37 | 27% | 68% | Median |
-| 38 | 37% | 41% |  |
-| 39 | 3% | 4% |  |
-| 40 | 0.2% | 0.3% |  |
+| 32 | 0.1% | 100% |  |
+| 33 | 0.4% | 99.9% |  |
+| 34 | 0.7% | 99.5% |  |
+| 35 | 3% | 98.8% |  |
+| 36 | 19% | 96% | Majority |
+| 37 | 23% | 77% |  |
+| 38 | 52% | 54% | Median |
+| 39 | 2% | 3% |  |
+| 40 | 0.3% | 0.3% |  |
 | 41 | 0% | 0% |  |
 
 ### Conservative Party (ECR)
@@ -79,14 +79,13 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 16 | 0.1% | 100% |  |
-| 17 | 0.4% | 99.9% |  |
-| 18 | 7% | 99.6% |  |
-| 19 | 18% | 92% | Last Result |
-| 20 | 67% | 74% | Median |
-| 21 | 4% | 6% |  |
-| 22 | 2% | 3% |  |
-| 23 | 0.4% | 0.4% |  |
+| 17 | 0.5% | 100% |  |
+| 18 | 3% | 99.4% |  |
+| 19 | 12% | 96% | Last Result |
+| 20 | 77% | 84% | Median |
+| 21 | 5% | 7% |  |
+| 22 | 1.3% | 2% |  |
+| 23 | 0.2% | 0.2% |  |
 | 24 | 0% | 0% |  |
 
 ### Brexit Party (EFDD)
@@ -100,12 +99,12 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.4% | 100% |  |
-| 4 | 0.1% | 99.6% |  |
-| 5 | 3% | 99.4% |  |
-| 6 | 48% | 96% | Median |
-| 7 | 47% | 48% |  |
-| 8 | 0.4% | 0.4% |  |
+| 3 | 0.2% | 100% |  |
+| 4 | 0.2% | 99.8% |  |
+| 5 | 1.0% | 99.6% |  |
+| 6 | 64% | 98.6% | Median |
+| 7 | 34% | 34% |  |
+| 8 | 0.3% | 0.3% |  |
 | 9 | 0% | 0% |  |
 
 ### Liberal Democrats (ALDE)
@@ -116,10 +115,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.1% | 100% | Last Result |
-| 2 | 86% | 99.9% | Median |
-| 3 | 11% | 14% |  |
-| 4 | 3% | 3% |  |
+| 1 | 0% | 100% | Last Result |
+| 2 | 93% | 99.9% | Median |
+| 3 | 4% | 7% |  |
+| 4 | 2% | 2% |  |
 | 5 | 0% | 0% |  |
 
 ### UK Independence Party (EAPN)
@@ -130,12 +129,12 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.3% | 100% |  |
-| 1 | 38% | 99.7% |  |
-| 2 | 61% | 62% | Median |
-| 3 | 0.4% | 2% |  |
-| 4 | 1.1% | 1.2% |  |
-| 5 | 0% | 0.1% |  |
+| 0 | 0.1% | 100% |  |
+| 1 | 57% | 99.9% | Median |
+| 2 | 42% | 43% |  |
+| 3 | 0.2% | 0.7% |  |
+| 4 | 0.4% | 0.5% |  |
+| 5 | 0% | 0% |  |
 | 6 | 0% | 0% |  |
 | 7 | 0% | 0% |  |
 | 8 | 0% | 0% |  |
@@ -164,9 +163,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 5% | 100% | Last Result |
-| 3 | 95% | 95% | Median |
-| 4 | 0.2% | 0.2% |  |
+| 2 | 3% | 100% | Last Result |
+| 3 | 97% | 97% | Median |
+| 4 | 0.3% | 0.3% |  |
 | 5 | 0% | 0% |  |
 
 ### Green Party (Greens/EFA)
@@ -200,8 +199,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.6% | 100% | Median |
-| 1 | 1.4% | 1.4% | Last Result |
+| 0 | 99.0% | 100% | Median |
+| 1 | 1.0% | 1.0% | Last Result |
 | 2 | 0% | 0% |  |
 
 
@@ -213,12 +212,12 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Labour Party (S&D) | 20 | 37 | 94% | 36–38 | 35–38 | 34–39 | 32–39 |
-| Conservative Party (ECR) | 19 | 20 | 0% | 19–20 | 18–21 | 18–22 | 18–22 |
-| Brexit Party (EFDD) | 0 | 6 | 0% | 6–7 | 6–7 | 5–7 | 4–7 |
-| Liberal Democrats (ALDE) | 1 | 2 | 0% | 2–3 | 2–3 | 2–4 | 2–4 |
+| Labour Party (S&D) | 20 | 38 | 96% | 36–38 | 36–38 | 35–39 | 34–39 |
+| Conservative Party (ECR) | 19 | 20 | 0% | 19–20 | 19–21 | 18–21 | 17–22 |
+| Brexit Party (EFDD) | 0 | 6 | 0% | 6–7 | 6–7 | 6–7 | 5–7 |
 | Green Party (Greens/EFA) – Scottish National Party (Greens/EFA) – Plaid Cymru (Greens/EFA) | 6 | 3 | 0% | 3 | 3 | 2–3 | 2–4 |
-| UK Independence Party (EAPN) | 24 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–4 |
+| Liberal Democrats (ALDE) | 1 | 2 | 0% | 2 | 2–3 | 2–3 | 2–4 |
+| UK Independence Party (EAPN) | 24 | 1 | 0% | 1–2 | 1–2 | 1–2 | 1–3 |
 | Change UK (EPP) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Labour Party (S&D)
@@ -239,15 +238,15 @@
 | 29 | 0% | 100% |  |
 | 30 | 0% | 100% |  |
 | 31 | 0% | 100% |  |
-| 32 | 0.5% | 100% |  |
-| 33 | 1.2% | 99.5% |  |
-| 34 | 0.8% | 98% |  |
-| 35 | 3% | 97% |  |
-| 36 | 26% | 94% | Majority |
-| 37 | 27% | 68% | Median |
-| 38 | 37% | 41% |  |
-| 39 | 3% | 4% |  |
-| 40 | 0.2% | 0.3% |  |
+| 32 | 0.1% | 100% |  |
+| 33 | 0.4% | 99.9% |  |
+| 34 | 0.7% | 99.5% |  |
+| 35 | 3% | 98.8% |  |
+| 36 | 19% | 96% | Majority |
+| 37 | 23% | 77% |  |
+| 38 | 52% | 54% | Median |
+| 39 | 2% | 3% |  |
+| 40 | 0.3% | 0.3% |  |
 | 41 | 0% | 0% |  |
 
 ### Conservative Party (ECR)
@@ -256,14 +255,13 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 16 | 0.1% | 100% |  |
-| 17 | 0.4% | 99.9% |  |
-| 18 | 7% | 99.6% |  |
-| 19 | 18% | 92% | Last Result |
-| 20 | 67% | 74% | Median |
-| 21 | 4% | 6% |  |
-| 22 | 2% | 3% |  |
-| 23 | 0.4% | 0.4% |  |
+| 17 | 0.5% | 100% |  |
+| 18 | 3% | 99.4% |  |
+| 19 | 12% | 96% | Last Result |
+| 20 | 77% | 84% | Median |
+| 21 | 5% | 7% |  |
+| 22 | 1.3% | 2% |  |
+| 23 | 0.2% | 0.2% |  |
 | 24 | 0% | 0% |  |
 
 ### Brexit Party (EFDD)
@@ -275,25 +273,13 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.4% | 100% |  |
-| 4 | 0.1% | 99.6% |  |
-| 5 | 3% | 99.4% |  |
-| 6 | 48% | 96% | Median |
-| 7 | 47% | 48% |  |
-| 8 | 0.4% | 0.4% |  |
+| 3 | 0.2% | 100% |  |
+| 4 | 0.2% | 99.8% |  |
+| 5 | 1.0% | 99.6% |  |
+| 6 | 64% | 98.6% | Median |
+| 7 | 34% | 34% |  |
+| 8 | 0.3% | 0.3% |  |
 | 9 | 0% | 0% |  |
-
-### Liberal Democrats (ALDE)
-
-![Graph with seats probability mass function not yet produced](2019-04-08-HanburyStrategy-coalitions-seats-pmf-libdem.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.1% | 100% | Last Result |
-| 2 | 86% | 99.9% | Median |
-| 3 | 11% | 14% |  |
-| 4 | 3% | 3% |  |
-| 5 | 0% | 0% |  |
 
 ### Green Party (Greens/EFA) – Scottish National Party (Greens/EFA) – Plaid Cymru (Greens/EFA)
 
@@ -301,11 +287,23 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 5% | 100% |  |
-| 3 | 94% | 95% | Median |
-| 4 | 2% | 2% |  |
+| 2 | 3% | 100% |  |
+| 3 | 96% | 97% | Median |
+| 4 | 1.2% | 1.2% |  |
 | 5 | 0% | 0% |  |
 | 6 | 0% | 0% | Last Result |
+
+### Liberal Democrats (ALDE)
+
+![Graph with seats probability mass function not yet produced](2019-04-08-HanburyStrategy-coalitions-seats-pmf-libdem.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 1 | 0% | 100% | Last Result |
+| 2 | 93% | 99.9% | Median |
+| 3 | 4% | 7% |  |
+| 4 | 2% | 2% |  |
+| 5 | 0% | 0% |  |
 
 ### UK Independence Party (EAPN)
 
@@ -313,12 +311,12 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.3% | 100% |  |
-| 1 | 38% | 99.7% |  |
-| 2 | 61% | 62% | Median |
-| 3 | 0.4% | 2% |  |
-| 4 | 1.1% | 1.2% |  |
-| 5 | 0% | 0.1% |  |
+| 0 | 0.1% | 100% |  |
+| 1 | 57% | 99.9% | Median |
+| 2 | 42% | 43% |  |
+| 3 | 0.2% | 0.7% |  |
+| 4 | 0.4% | 0.5% |  |
+| 5 | 0% | 0% |  |
 | 6 | 0% | 0% |  |
 | 7 | 0% | 0% |  |
 | 8 | 0% | 0% |  |
@@ -359,6 +357,6 @@
 ### Calculations
 
 + **Sample size:** 2000
-+ **Simulations done:** 262,144
-+ **Error estimate:** 2.01%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.16%
 
