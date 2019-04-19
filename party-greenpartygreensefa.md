@@ -49,7 +49,7 @@ Last result: **3** seats (General Election of 22 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–6 |
 | [16–17 April 2019](2019-04-17-YouGov.html) | YouGov <br> The Times | 6 | 4–6 | 4–7 | 3–7 | 3–7 |
-| [15–16 April 2019](2019-04-16-YouGov.html) | YouGov <br> People’s Vote | 6 | 5–7 | 4–7 | 4–7 | 4–7 |
+| [15–16 April 2019](2019-04-16-YouGov.html) | YouGov <br> People’s Vote | 6 | 4–7 | 4–7 | 4–7 | 3–7 |
 | [16 April 2019](2019-04-16-ComRes.html) | ComRes <br> Brexit Express | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [9–12 April 2019](2019-04-12-Opinium.html) | Opinium <br> The Observer | 1 | 0–1 | 0–1 | 0–2 | 0–3 |
 | [10–11 April 2019](2019-04-11-YouGov.html) | YouGov <br> The Times | 3 | 2–4 | 1–5 | 1–6 | 1–6 |
