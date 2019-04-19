@@ -64,7 +64,7 @@ Last result: **24** seats (General Election of 22 May 2014)
 | [16–17 April 2019](2019-04-17-YouGov.html) | YouGov <br> The Times | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [15–16 April 2019](2019-04-16-YouGov.html) | YouGov <br> People’s Vote | 1 | 1–3 | 1–3 | 1–3 | 0–3 |
 | [16 April 2019](2019-04-16-ComRes.html) | ComRes <br> Brexit Express | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [9–12 April 2019](2019-04-12-Opinium.html) | Opinium <br> The Observer | 9 | 8–11 | 7–11 | 7–12 | 7–12 |
+| [9–12 April 2019](2019-04-12-Opinium.html) | Opinium <br> The Observer | 9 | 8–11 | 7–11 | 7–12 | 7–13 |
 | [10–11 April 2019](2019-04-11-YouGov.html) | YouGov <br> The Times | 10 | 8–13 | 8–13 | 8–14 | 8–15 |
 | [5–8 April 2019](2019-04-08-HanburyStrategy.html) | Hanbury Strategy <br> Open Europe | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [28–30 March 2019](2019-03-30-Opinium.html) | Opinium <br> The Observer | 15 | 12–16 | 11–16 | 11–17 | 10–17 |
@@ -85,15 +85,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 3% | 70% |  |
 | 5 | 3% | 67% |  |
 | 6 | 9% | 64% |  |
-| 7 | 6% | 55% | Median |
-| 8 | 15% | 49% |  |
-| 9 | 8% | 33% |  |
-| 10 | 10% | 26% |  |
-| 11 | 8% | 16% |  |
+| 7 | 7% | 55% | Median |
+| 8 | 17% | 48% |  |
+| 9 | 7% | 31% |  |
+| 10 | 7% | 24% |  |
+| 11 | 9% | 17% |  |
 | 12 | 4% | 8% |  |
-| 13 | 3% | 4% |  |
+| 13 | 4% | 4% |  |
 | 14 | 0.3% | 0.6% |  |
-| 15 | 0.4% | 0.4% |  |
+| 15 | 0.3% | 0.4% |  |
 | 16 | 0% | 0% |  |
 | 17 | 0% | 0% |  |
 | 18 | 0% | 0% |  |

@@ -48,10 +48,10 @@ Last result: **3** seats (General Election of 22 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–6 |
-| [16–17 April 2019](2019-04-17-YouGov.html) | YouGov <br> The Times | 6 | 3–7 | 3–7 | 3–7 | 3–7 |
+| [16–17 April 2019](2019-04-17-YouGov.html) | YouGov <br> The Times | 6 | 4–6 | 4–7 | 3–7 | 3–7 |
 | [15–16 April 2019](2019-04-16-YouGov.html) | YouGov <br> People’s Vote | 6 | 5–7 | 4–7 | 4–7 | 4–7 |
 | [16 April 2019](2019-04-16-ComRes.html) | ComRes <br> Brexit Express | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
-| [9–12 April 2019](2019-04-12-Opinium.html) | Opinium <br> The Observer | 1 | 0–1 | 0–1 | 0–3 | 0–3 |
+| [9–12 April 2019](2019-04-12-Opinium.html) | Opinium <br> The Observer | 1 | 0–1 | 0–1 | 0–2 | 0–3 |
 | [10–11 April 2019](2019-04-11-YouGov.html) | YouGov <br> The Times | 3 | 2–4 | 1–5 | 1–6 | 1–6 |
 | [5–8 April 2019](2019-04-08-HanburyStrategy.html) | Hanbury Strategy <br> Open Europe | 0 | 0 | 0 | 0 | 0 |
 | [28–30 March 2019](2019-03-30-Opinium.html) | Opinium <br> The Observer | 2 | 1–3 | 1–4 | 1–4 | 1–4 |
@@ -66,10 +66,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 57% | 100% | Median |
-| 1 | 19% | 43% |  |
-| 2 | 4% | 24% |  |
-| 3 | 9% | 20% | Last Result |
+| 0 | 58% | 100% | Median |
+| 1 | 18% | 42% |  |
+| 2 | 5% | 24% |  |
+| 3 | 9% | 19% | Last Result |
 | 4 | 8% | 11% |  |
 | 5 | 0.9% | 2% |  |
 | 6 | 1.2% | 1.2% |  |

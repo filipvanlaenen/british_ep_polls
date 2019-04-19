@@ -47,7 +47,7 @@ Last result: **2** seats (General Election of 22 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–5 | 2–5 | 2–5 | 1–5 |
-| [16–17 April 2019](2019-04-17-YouGov.html) | YouGov <br> The Times | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [16–17 April 2019](2019-04-17-YouGov.html) | YouGov <br> The Times | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [15–16 April 2019](2019-04-16-YouGov.html) | YouGov <br> People’s Vote | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | [16 April 2019](2019-04-16-ComRes.html) | ComRes <br> Brexit Express | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [9–12 April 2019](2019-04-12-Opinium.html) | Opinium <br> The Observer | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -68,8 +68,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0.7% | 100% |  |
 | 2 | 18% | 99.3% | Last Result |
 | 3 | 32% | 82% | Median |
-| 4 | 29% | 50% |  |
-| 5 | 20% | 20% |  |
+| 4 | 28% | 50% |  |
+| 5 | 21% | 21% |  |
 | 6 | 0% | 0% |  |
 
 
