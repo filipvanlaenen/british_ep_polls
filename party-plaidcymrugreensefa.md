@@ -11,6 +11,7 @@ Last result: **0.7%** (General Election of 22 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.9% | 0.3–1.3% | 0.2–1.5% | 0.2–1.6% | 0.1–1.9% |
+| [23–25 April 2019](2019-04-25-Opinium.html) | Opinium <br> The Observer | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [16–17 April 2019](2019-04-17-YouGov.html) | YouGov <br> The Times | 1.1% | 0.9–1.5% | 0.8–1.7% | 0.7–1.8% | 0.6–2.0% |
 | [15–16 April 2019](2019-04-16-YouGov.html) | YouGov <br> People’s Vote | 1.0% | 0.7–1.3% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
 | [16 April 2019](2019-04-16-ComRes.html) | ComRes <br> Brexit Express | 0.3% | 0.2–0.6% | 0.1–0.7% | 0.1–0.8% | 0.1–1.0% |
@@ -42,6 +43,7 @@ Last result: **1** seats (General Election of 22 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [23–25 April 2019](2019-04-25-Opinium.html) | Opinium <br> The Observer | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [16–17 April 2019](2019-04-17-YouGov.html) | YouGov <br> The Times | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15–16 April 2019](2019-04-16-YouGov.html) | YouGov <br> People’s Vote | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [16 April 2019](2019-04-16-ComRes.html) | ComRes <br> Brexit Express | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
