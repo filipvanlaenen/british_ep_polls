@@ -13,6 +13,7 @@ Last result: **6.6%** (General Election of 22 May 2014)
 | N/A | [Poll Average](average.html) | 8.4% | 7.3–10.2% | 7.0–10.6% | 6.8–10.9% | 6.3–11.5% |
 | [17–25 April 2019](2019-04-25-Survation.html) | Survation | 7.9% | 7.2–8.7% | 7.0–9.0% | 6.8–9.2% | 6.5–9.6% |
 | [23–25 April 2019](2019-04-25-Opinium.html) | Opinium | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
+| [23–24 April 2019](2019-04-24-YouGov.html) | YouGov | 7.0% | 6.5–7.5% | 6.4–7.6% | 6.3–7.7% | 6.1–8.0% |
 | [16–17 April 2019](2019-04-17-YouGov.html) | YouGov <br> The Times | 9.0% | 8.2–9.9% | 7.9–10.2% | 7.7–10.4% | 7.4–10.9% |
 | [15–16 April 2019](2019-04-16-YouGov.html) | YouGov <br> People’s Vote | 8.9% | 8.1–9.8% | 7.9–10.1% | 7.7–10.3% | 7.3–10.7% |
 | [16 April 2019](2019-04-16-ComRes.html) | ComRes <br> Brexit Express | 9.0% | 7.9–10.2% | 7.6–10.5% | 7.4–10.8% | 6.9–11.4% |
@@ -49,8 +50,9 @@ Last result: **1** seats (General Election of 22 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–5 | 2–6 | 1–6 | 1–7 |
-| [17–25 April 2019](2019-04-25-Survation.html) | Survation | 2 | 2–3 | 2–4 | 2–4 | 1–5 |
-| [23–25 April 2019](2019-04-25-Opinium.html) | Opinium | 2 | 1–2 | 1–3 | 1–4 | 0–4 |
+| [17–25 April 2019](2019-04-25-Survation.html) | Survation | 2 | 2–3 | 2–3 | 2–4 | 1–5 |
+| [23–25 April 2019](2019-04-25-Opinium.html) | Opinium | 2 | 1–2 | 1–2 | 1–4 | 0–4 |
+| [23–24 April 2019](2019-04-24-YouGov.html) | YouGov |  |  |  |  |  |
 | [16–17 April 2019](2019-04-17-YouGov.html) | YouGov <br> The Times | 3 | 2–5 | 2–5 | 2–6 | 2–7 |
 | [15–16 April 2019](2019-04-16-YouGov.html) | YouGov <br> People’s Vote | 3 | 2–5 | 2–6 | 2–7 | 2–7 |
 | [16 April 2019](2019-04-16-ComRes.html) | ComRes <br> Brexit Express | 3 | 3–4 | 2–5 | 2–5 | 2–7 |
