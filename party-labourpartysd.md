@@ -11,7 +11,8 @@ Last result: **24.4%** (General Election of 22 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 32.3% | 24.0–38.9% | 23.4–39.4% | 23.0–39.9% | 22.3–40.7% |
-| [23–25 April 2019](2019-04-25-Opinium.html) | Opinium <br> The Observer | 28.0% | 26.3–29.9% | 25.8–30.4% | 25.4–30.9% | 24.5–31.8% |
+| [17–25 April 2019](2019-04-25-Survation.html) | Survation | 26.7% | 25.5–28.0% | 25.1–28.4% | 24.8–28.7% | 24.2–29.3% |
+| [23–25 April 2019](2019-04-25-Opinium.html) | Opinium | 28.0% | 26.3–29.9% | 25.8–30.4% | 25.4–30.9% | 24.5–31.8% |
 | [16–17 April 2019](2019-04-17-YouGov.html) | YouGov <br> The Times | 21.9% | 20.7–23.2% | 20.4–23.6% | 20.1–23.9% | 19.5–24.6% |
 | [15–16 April 2019](2019-04-16-YouGov.html) | YouGov <br> People’s Vote | 21.8% | 20.6–23.0% | 20.2–23.4% | 20.0–23.7% | 19.4–24.3% |
 | [16 April 2019](2019-04-16-ComRes.html) | ComRes <br> Brexit Express | 32.8% | 31.0–34.7% | 30.5–35.2% | 30.0–35.7% | 29.2–36.6% |
@@ -62,7 +63,8 @@ Last result: **20** seats (General Election of 22 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 28 | 22–38 | 21–38 | 19–38 | 19–39 |
-| [23–25 April 2019](2019-04-25-Opinium.html) | Opinium <br> The Observer | 23 | 23–26 | 23–26 | 23–26 | 23–27 |
+| [17–25 April 2019](2019-04-25-Survation.html) | Survation | 27 | 24–28 | 24–28 | 23–28 | 22–29 |
+| [23–25 April 2019](2019-04-25-Opinium.html) | Opinium | 27 | 25–28 | 24–28 | 23–28 | 22–28 |
 | [16–17 April 2019](2019-04-17-YouGov.html) | YouGov <br> The Times | 19 | 19–21 | 18–21 | 18–22 | 17–23 |
 | [15–16 April 2019](2019-04-16-YouGov.html) | YouGov <br> People’s Vote | 19 | 18–21 | 17–22 | 16–22 | 16–23 |
 | [16 April 2019](2019-04-16-ComRes.html) | ComRes <br> Brexit Express | 30 | 27–34 | 27–34 | 27–35 | 27–36 |
