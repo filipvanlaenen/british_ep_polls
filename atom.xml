@@ -6,7 +6,23 @@
   </author>
   <id>https://filipvanlaenen.github.io/british_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2019-04-19T18:45:24.567049+02:00</updated>
+  <updated>2019-04-28T15:36:33.270523+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party (ECR): 14.3–17.5%, 9–14 seats</li><li>Labour Party (S&amp;D): 24.8–28.7%, 23–28 seats</li><li>Liberal Democrats (ALDE): 6.8–9.2%, 2–4 seats</li><li>Scottish National Party (Greens/EFA): 2.3–3.8%, 2–3 seats</li><li>Plaid Cymru (Greens/EFA): 0.6–1.6%, 1–2 seats</li><li>UK Independence Party (EAPN): 5.9–8.2%, 0–3 seats</li><li>Green Party (Greens/EFA): 3.2–4.9%, 0 seats</li><li>Brexit Party (EFDD): 24.8–28.7%, 22–27 seats</li><li>Change UK (EPP): 3.2–4.9%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_ep_polls/2019-04-25-Survation.html</id>
+    <link href="https://filipvanlaenen.github.io/british_ep_polls/2019-04-25-Survation.html"/>
+    <title>Opinion Poll by Survation, 17–25 April 2019</title>
+    <updated>2019-04-28T15:05:59.118476+02:00</updated>
+    <dc:date>2019-04-28T15:05:59.118476+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party (ECR): 12.0–16.2%, 8–11 seats</li><li>Labour Party (S&amp;D): 25.4–30.9%, 23–28 seats</li><li>Liberal Democrats (ALDE): 5.6–8.8%, 1–4 seats</li><li>Scottish National Party (Greens/EFA): 3.8–6.5%, 3–5 seats</li><li>Plaid Cymru (Greens/EFA): 0.5–1.8%, 0–2 seats</li><li>UK Independence Party (EAPN): 2.1–4.3%, 0 seats</li><li>Green Party (Greens/EFA): 4.7–7.6%, 0–3 seats</li><li>Brexit Party (EFDD): 25.4–30.9%, 22–28 seats</li><li>Change UK (EPP): 5.6–8.8%, 0–3 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_ep_polls/2019-04-25-Opinium.html</id>
+    <link href="https://filipvanlaenen.github.io/british_ep_polls/2019-04-25-Opinium.html"/>
+    <title>Opinion Poll by Opinium, 23–25 April 2019</title>
+    <updated>2019-04-28T15:36:33.270523+02:00</updated>
+    <dc:date>2019-04-28T15:36:33.270523+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party (ECR): 15.3–18.8%, 10–15 seats</li><li>Labour Party (S&amp;D): 20.1–23.9%, 18–22 seats</li><li>Liberal Democrats (ALDE): 7.7–10.4%, 2–6 seats</li><li>Scottish National Party (Greens/EFA): 3.1–4.9%, 3–4 seats</li><li>Plaid Cymru (Greens/EFA): 0.7–1.8%, 1–2 seats</li><li>UK Independence Party (EAPN): 5.0–7.2%, 0–1 seats</li><li>Green Party (Greens/EFA): 8.7–11.5%, 3–7 seats</li><li>Brexit Party (EFDD): 21.0–25.0%, 18–22 seats</li><li>Change UK (EPP): 6.8–9.3%, 2–5 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/british_ep_polls/2019-04-17-YouGov.html</id>
@@ -63,5 +79,5 @@
     <updated>2019-04-18T09:17:35.516868+02:00</updated>
     <dc:date>2019-04-18T09:17:35.516868+02:00</dc:date>
   </entry>
-  <dc:date>2019-04-19T18:45:24.567049+02:00</dc:date>
+  <dc:date>2019-04-28T15:36:33.270523+02:00</dc:date>
 </feed>
