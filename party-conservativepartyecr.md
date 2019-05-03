@@ -21,7 +21,7 @@ Last result: **23.1%** (General Election of 22 May 2014)
 | [10–11 April 2019](2019-04-11-YouGov.html) | YouGov <br> The Times | 16.2% | 15.1–17.3% | 14.8–17.6% | 14.6–17.9% | 14.1–18.5% |
 | [5–8 April 2019](2019-04-08-HanburyStrategy.html) | Hanbury Strategy <br> Open Europe | 23.2% | 22.0–24.4% | 21.6–24.8% | 21.4–25.1% | 20.8–25.7% |
 | [28–30 March 2019](2019-03-30-Opinium.html) | Opinium <br> The Observer | 24.0% | 22.8–25.3% | 22.5–25.6% | 22.2–25.9% | 21.6–26.5% |
-| [12–15 March 2019](2019-03-15-Opinium.html) | Opinium <br> The Observer | 27.7% | N/A | N/A | N/A | N/A |
+| [12–15 March 2019](2019-03-15-Opinium.html) | Opinium <br> The Observer | 27.7% | 26.5–29.1% | 26.1–29.4% | 25.8–29.8% | 25.2–30.4% |
 | [10–17 January 2019](2019-01-17-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Politico | 35.9% | 34.0–37.9% | 33.5–38.4% | 33.0–38.9% | 32.1–39.9% |
 
 ### Probability Mass Function
@@ -80,7 +80,7 @@ Last result: **19** seats (General Election of 22 May 2014)
 | [10–11 April 2019](2019-04-11-YouGov.html) | YouGov <br> The Times | 11 | 10–13 | 9–14 | 9–14 | 9–16 |
 | [5–8 April 2019](2019-04-08-HanburyStrategy.html) | Hanbury Strategy <br> Open Europe | 20 | 19–20 | 19–21 | 18–21 | 17–22 |
 | [28–30 March 2019](2019-03-30-Opinium.html) | Opinium <br> The Observer | 19 | 18–21 | 18–22 | 17–22 | 16–23 |
-| [12–15 March 2019](2019-03-15-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [12–15 March 2019](2019-03-15-Opinium.html) | Opinium <br> The Observer | 24 | 23–25 | 22–25 | 21–25 | 20–26 |
 | [10–17 January 2019](2019-01-17-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Politico | 30 | 27–32 | 27–32 | 27–32 | 26–33 |
 
 ### Probability Mass Function
