@@ -15,7 +15,7 @@ The table below lists all polls registered and analyzed so far.
 | [10–11 April 2019](2019-04-11-YouGov.html) | YouGov <br> The Times | 13–16% <br> 8–14 | 22–26% <br> 19–27 | 15–18% <br> 9–14 | 7–9% <br> 1–6 | 7–9% <br> 2–5 | 4–6% <br> 4–5 | 1–2% <br> 1–2 | 14–17% <br> 8–15 | 6–8% <br> 0–4 |
 | [5–8 April 2019](2019-04-08-HanburyStrategy.html) | Hanbury Strategy <br> Open Europe | 6–8% <br> 1–2 | 36–40% <br> 35–39 | 21–25% <br> 18–21 | 3–5% <br> 0 | 7–9% <br> 2–3 | 3–5% <br> 2–3 | 0–1% <br> 0 | 9–12% <br> 6–7 | 3–5% <br> 0 |
 | [28–30 March 2019](2019-03-30-Opinium.html) | Opinium <br> The Observer | 16–20% <br> 11–17 | 28–32% <br> 25–27 | 22–26% <br> 17–22 | 7–9% <br> 1–4 | 9–11% <br> 2–6 | 3–5% <br> 3 | 1–2% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
-| [12–15 March 2019](2019-03-15-Opinium.html) | Opinium <br> The Observer | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [12–15 March 2019](2019-03-15-Opinium.html) | Opinium <br> The Observer | 15–19% <br> 9–14 | 27–31% <br> 23–27 | 26–30% <br> 21–25 | 5–7% <br> 0–1 | 10–12% <br> 3–8 | 3–5% <br> 3 | 1–2% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
 | [10–17 January 2019](2019-01-17-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Politico | 8–12% <br> 2–7 | 34–40% <br> 28–33 | 33–39% <br> 27–32 | 4–6% <br> 0 | 6–10% <br> 1–2 | 2–4% <br> 1–3 | 1–2% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
 | 22 May 2014 | General Election | 26.6% <br> 24 | 24.4% <br> 20 | 23.1% <br> 19 | 6.9% <br> 3 | 6.6% <br> 1 | 2.4% <br> 2 | 0.7% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 |
 
