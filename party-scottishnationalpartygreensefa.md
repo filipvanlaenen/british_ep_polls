@@ -11,6 +11,7 @@ Last result: **2.4%** (General Election of 22 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.6% | 2.9–6.2% | 2.6–6.5% | 2.4–6.7% | 2.1–7.2% |
+| [29–30 April 2019](2019-04-30-YouGov.html) | YouGov | 3.1% | 2.6–3.7% | 2.4–3.9% | 2.3–4.0% | 2.1–4.3% |
 | [17–25 April 2019](2019-04-25-Survation.html) | Survation | 3.0% | 2.5–3.5% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
 | [23–25 April 2019](2019-04-25-Opinium.html) | Opinium | 5.0% | 4.2–6.0% | 4.0–6.2% | 3.8–6.5% | 3.5–7.0% |
 | [23–24 April 2019](2019-04-24-YouGov.html) | YouGov | 3.9% | 3.6–4.3% | 3.5–4.3% | 3.4–4.4% | 3.2–4.6% |
@@ -50,6 +51,7 @@ Last result: **2** seats (General Election of 22 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–5 | 2–5 | 2–5 | 1–5 |
+| [29–30 April 2019](2019-04-30-YouGov.html) | YouGov | 4 | 3–4 | 2–4 | 2–4 | 2–4 |
 | [17–25 April 2019](2019-04-25-Survation.html) | Survation | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [23–25 April 2019](2019-04-25-Opinium.html) | Opinium | 4 | 4 | 4–5 | 3–5 | 3–5 |
 | [23–24 April 2019](2019-04-24-YouGov.html) | YouGov | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
