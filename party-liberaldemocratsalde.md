@@ -10,7 +10,7 @@ Last result: **6.6%** (General Election of 22 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.4% | 7.3–10.2% | 7.0–10.6% | 6.8–10.9% | 6.3–11.5% |
+| N/A | [Poll Average](average.html) | 8.3% | 6.9–10.1% | 6.5–10.5% | 6.2–10.9% | 5.6–11.5% |
 | [29–30 April 2019](2019-04-30-YouGov.html) | YouGov | 9.9% | 9.0–10.9% | 8.7–11.2% | 8.5–11.4% | 8.1–11.9% |
 | [17–25 April 2019](2019-04-25-Survation.html) | Survation | 7.9% | 7.2–8.7% | 7.0–9.0% | 6.8–9.2% | 6.5–9.6% |
 | [23–25 April 2019](2019-04-25-Opinium.html) | Opinium | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
@@ -31,13 +31,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 1.0% | 100% |  |
-| 6.5–7.5% | 15% | 99.0% | Last Result |
-| 7.5–8.5% | 40% | 84% | Median |
-| 8.5–9.5% | 22% | 43% |  |
-| 9.5–10.5% | 15% | 21% |  |
-| 10.5–11.5% | 5% | 6% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 0.4% | 100% |  |
+| 5.5–6.5% | 5% | 99.6% |  |
+| 6.5–7.5% | 19% | 95% | Last Result |
+| 7.5–8.5% | 34% | 76% | Median |
+| 8.5–9.5% | 22% | 42% |  |
+| 9.5–10.5% | 15% | 19% |  |
+| 10.5–11.5% | 5% | 5% |  |
 | 11.5–12.5% | 0.4% | 0.4% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
@@ -50,7 +51,7 @@ Last result: **1** seats (General Election of 22 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–5 | 2–6 | 1–6 | 1–7 |
+| N/A | [Poll Average](average.html) | 2 | 2–4 | 2–5 | 2–6 | 1–8 |
 | [29–30 April 2019](2019-04-30-YouGov.html) | YouGov | 4 | 2–6 | 2–7 | 2–8 | 2–8 |
 | [17–25 April 2019](2019-04-25-Survation.html) | Survation | 2 | 2–3 | 2–3 | 2–4 | 1–5 |
 | [23–25 April 2019](2019-04-25-Opinium.html) | Opinium | 2 | 1–2 | 1–2 | 1–4 | 0–4 |
@@ -73,15 +74,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.3% | 100% |  |
-| 1 | 3% | 99.7% | Last Result |
-| 2 | 64% | 97% | Median |
-| 3 | 3% | 32% |  |
-| 4 | 4% | 29% |  |
-| 5 | 20% | 25% |  |
-| 6 | 5% | 6% |  |
-| 7 | 0.4% | 0.6% |  |
-| 8 | 0.1% | 0.2% |  |
-| 9 | 0% | 0% |  |
+| 0 | 0.4% | 100% |  |
+| 1 | 2% | 99.6% | Last Result |
+| 2 | 54% | 98% | Median |
+| 3 | 23% | 44% |  |
+| 4 | 12% | 22% |  |
+| 5 | 5% | 9% |  |
+| 6 | 4% | 5% |  |
+| 7 | 0.7% | 1.5% |  |
+| 8 | 0.6% | 0.7% |  |
+| 9 | 0.1% | 0.1% |  |
+| 10 | 0% | 0% |  |
 
 
