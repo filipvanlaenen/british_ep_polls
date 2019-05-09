@@ -62,7 +62,7 @@ Last result: **19** seats (General Election of 22 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 8–20 | 8–20 | 8–20 | 8–21 |
 | [29–30 April 2019](2019-04-30-YouGov.html) | YouGov | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
-| [23–26 April 2019](2019-04-26-YouGov.html) | YouGov <br> Hope Not Hate |  |  |  |  |  |
+| [23–26 April 2019](2019-04-26-YouGov.html) | YouGov <br> Hope Not Hate | 8 | 8–9 | 8–9 | 8–9 | 8–9 |
 | [17–25 April 2019](2019-04-25-Survation.html) | Survation | 11 | 10–13 | 10–13 | 9–14 | 9–15 |
 | [23–25 April 2019](2019-04-25-Opinium.html) | Opinium <br> The Observer | 9 | 8–11 | 8–11 | 8–11 | 8–12 |
 | [23–24 April 2019](2019-04-24-YouGov.html) | YouGov | 8 | 8–9 | 8–9 | 8–9 | 8–10 |
