@@ -53,7 +53,7 @@ Last result: **2** seats (General Election of 22 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
-| [3–7 May 2019](2019-05-07-Opinium.html) | Opinium | 4 | 4 | 4 | 3–4 | 3–4 |
+| [3–7 May 2019](2019-05-07-Opinium.html) | Opinium | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [1–7 May 2019](2019-05-07-ComRes.html) | ComRes | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [29–30 April 2019](2019-04-30-YouGov.html) | YouGov | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [23–26 April 2019](2019-04-26-YouGov.html) | YouGov <br> Hope Not Hate | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
