@@ -12,8 +12,8 @@ Last result: **6.6%** (General Election of 22 May 2014)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8.3% | 6.9–10.1% | 6.5–10.5% | 6.2–10.9% | 5.6–11.5% |
 | [3–7 May 2019](2019-05-07-Opinium.html) | Opinium | 12.1% | 11.2–13.1% | 11.0–13.4% | 10.7–13.6% | 10.3–14.1% |
-| [1–7 May 2019](2019-05-07-ComRes.html) | ComRes | 11.0% | 10.4–11.7% | 10.2–11.9% | 10.1–12.0% | 9.8–12.3% |
-| [29–30 April 2019](2019-04-30-YouGov.html) | YouGov | 9.9% | 9.0–10.9% | 8.7–11.2% | 8.5–11.4% | 8.1–11.9% |
+| [1–7 May 2019](2019-05-07-ComRes.html) | ComRes <br> Remain United | 11.0% | 10.4–11.7% | 10.2–11.9% | 10.1–12.0% | 9.8–12.3% |
+| [29–30 April 2019](2019-04-30-YouGov.html) | YouGov <br> The Times | 9.9% | 9.0–10.9% | 8.7–11.2% | 8.5–11.4% | 8.1–11.9% |
 | [23–26 April 2019](2019-04-26-YouGov.html) | YouGov <br> Hope Not Hate | 6.9% | 6.5–7.4% | 6.4–7.5% | 6.3–7.7% | 6.1–7.9% |
 | [17–25 April 2019](2019-04-25-Survation.html) | Survation | 7.9% | 7.2–8.7% | 7.0–9.0% | 6.8–9.2% | 6.5–9.6% |
 | [23–25 April 2019](2019-04-25-Opinium.html) | Opinium <br> The Observer | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
@@ -55,9 +55,9 @@ Last result: **1** seats (General Election of 22 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–4 | 2–5 | 2–6 | 1–8 |
-| [3–7 May 2019](2019-05-07-Opinium.html) | Opinium | 9 | 6–9 | 6–9 | 5–9 | 5–10 |
-| [1–7 May 2019](2019-05-07-ComRes.html) | ComRes | 6 | 4–8 | 4–9 | 4–9 | 4–9 |
-| [29–30 April 2019](2019-04-30-YouGov.html) | YouGov | 4 | 2–6 | 2–7 | 2–8 | 2–8 |
+| [3–7 May 2019](2019-05-07-Opinium.html) | Opinium | 8 | 6–9 | 6–9 | 5–9 | 5–10 |
+| [1–7 May 2019](2019-05-07-ComRes.html) | ComRes <br> Remain United | 6 | 4–8 | 4–9 | 4–9 | 4–9 |
+| [29–30 April 2019](2019-04-30-YouGov.html) | YouGov <br> The Times | 4 | 2–6 | 2–7 | 2–8 | 2–8 |
 | [23–26 April 2019](2019-04-26-YouGov.html) | YouGov <br> Hope Not Hate | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [17–25 April 2019](2019-04-25-Survation.html) | Survation | 2 | 2–3 | 2–3 | 2–4 | 1–5 |
 | [23–25 April 2019](2019-04-25-Opinium.html) | Opinium <br> The Observer | 2 | 1–2 | 1–2 | 1–4 | 0–4 |
