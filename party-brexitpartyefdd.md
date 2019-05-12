@@ -80,7 +80,7 @@ Last result: **0** seats (General Election of 22 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 24 | 6–28 | 6–30 | 6–31 | 6–32 |
-| [3–7 May 2019](2019-05-07-Opinium.html) | Opinium | 25 | 24–26 | 23–27 | 23–28 | 22–28 |
+| [3–7 May 2019](2019-05-07-Opinium.html) | Opinium | 25 | 24–27 | 24–28 | 23–28 | 23–28 |
 | [1–7 May 2019](2019-05-07-ComRes.html) | ComRes <br> Remain United | 25 | 23–26 | 23–26 | 23–27 | 23–28 |
 | [29–30 April 2019](2019-04-30-YouGov.html) | YouGov <br> The Times | 28 | 26–31 | 25–31 | 24–32 | 23–32 |
 | [23–26 April 2019](2019-04-26-YouGov.html) | YouGov <br> Hope Not Hate | 26 | 24–28 | 24–29 | 23–30 | 22–30 |
