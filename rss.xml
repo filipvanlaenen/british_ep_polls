@@ -8,9 +8,69 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/british_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 16 May 2019 21:03:21 +0200</pubDate>
+    <pubDate>Fri, 17 May 2019 11:27:24 +0200</pubDate>
     <item>
-      <title>Opinion Poll by Opinium, 8–10 May 2019 – Voting Intentions</title>
+      <title>Opinion Poll by YouGov, 12–16 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_ep_polls/2019-05-16-YouGov.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party (ECR): 3–4 seats&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 11–12 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats (ALDE): 11–12 seats&lt;/li&gt;&lt;li&gt;UK Independence Party (EAPN): 0 seats&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 5–7 seats&lt;/li&gt;&lt;li&gt;Brexit Party (EFDD): 33–35 seats&lt;/li&gt;&lt;li&gt;Change UK (EPP): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-05-16-YouGov-seats.png"
+        length="143853"
+        type="image/png"/>
+      <pubDate>Fri, 17 May 2019 10:10:10 +0200</pubDate>
+      <dc:date>2019-05-17T10:10:10.866621+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov, 12–16 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_ep_polls/2019-05-16-YouGov.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-05-16-YouGov-coalitions-seats.png"
+        length="110356"
+        type="image/png"/>
+      <pubDate>Fri, 17 May 2019 10:10:10 +0200</pubDate>
+      <dc:date>2019-05-17T10:10:10.866621+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov, 12–16 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_ep_polls/2019-05-16-YouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party (ECR): 8.4–9.7%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 14.2–15.9%&lt;/li&gt;&lt;li&gt;Liberal Democrats (ALDE): 15.2–16.9%&lt;/li&gt;&lt;li&gt;UK Independence Party (EAPN): 2.6–3.4%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 9.3–10.7%&lt;/li&gt;&lt;li&gt;Brexit Party (EFDD): 33.9–36.1%&lt;/li&gt;&lt;li&gt;Change UK (EPP): 4.5–5.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-05-16-YouGov.png"
+        length="164931"
+        type="image/png"/>
+      <pubDate>Fri, 17 May 2019 10:10:10 +0200</pubDate>
+      <dc:date>2019-05-17T10:10:10.866621+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ComRes, 10–12 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_ep_polls/2019-05-12-ComRes.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party (ECR): 9–11 seats&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 21–25 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats (ALDE): 8–10 seats&lt;/li&gt;&lt;li&gt;Scottish National Party (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;UK Independence Party (EAPN): 0 seats&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 0–3 seats&lt;/li&gt;&lt;li&gt;Brexit Party (EFDD): 21–27 seats&lt;/li&gt;&lt;li&gt;Change UK (EPP): 0–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-05-12-ComRes-seats.png"
+        length="188946"
+        type="image/png"/>
+      <pubDate>Fri, 17 May 2019 11:19:53 +0200</pubDate>
+      <dc:date>2019-05-17T11:19:53.756039+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ComRes, 10–12 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_ep_polls/2019-05-12-ComRes.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-05-12-ComRes-coalitions-seats.png"
+        length="148927"
+        type="image/png"/>
+      <pubDate>Fri, 17 May 2019 11:19:53 +0200</pubDate>
+      <dc:date>2019-05-17T11:19:53.756039+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ComRes, 10–12 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_ep_polls/2019-05-12-ComRes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party (ECR): 13.4–16.6%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 23.1–26.9%&lt;/li&gt;&lt;li&gt;Liberal Democrats (ALDE): 11.6–14.5%&lt;/li&gt;&lt;li&gt;Scottish National Party (Greens/EFA): 2.3–3.9%&lt;/li&gt;&lt;li&gt;Plaid Cymru (Greens/EFA): 0.1–0.6%&lt;/li&gt;&lt;li&gt;UK Independence Party (EAPN): 2.3–3.9%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 6.0–8.2%&lt;/li&gt;&lt;li&gt;Brexit Party (EFDD): 25.0–28.9%&lt;/li&gt;&lt;li&gt;Change UK (EPP): 5.0–7.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-05-12-ComRes.png"
+        length="264123"
+        type="image/png"/>
+      <pubDate>Fri, 17 May 2019 11:19:53 +0200</pubDate>
+      <dc:date>2019-05-17T11:19:53.756039+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinium for The Observer, 8–10 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_ep_polls/2019-05-10-Opinium.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party (ECR): 9.7–12.4%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 19.3–22.8%&lt;/li&gt;&lt;li&gt;Liberal Democrats (ALDE): 10.6–13.5%&lt;/li&gt;&lt;li&gt;Scottish National Party (Greens/EFA): 3.2–5.0%&lt;/li&gt;&lt;li&gt;Plaid Cymru (Greens/EFA): 0.6–1.5%&lt;/li&gt;&lt;li&gt;UK Independence Party (EAPN): 3.2–5.0%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 6.9–9.3%&lt;/li&gt;&lt;li&gt;Brexit Party (EFDD): 31.9–36.1%&lt;/li&gt;&lt;li&gt;Change UK (EPP): 2.3–3.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-05-10-Opinium.png"
@@ -18,6 +78,16 @@
         type="image/png"/>
       <pubDate>Wed, 15 May 2019 06:48:43 +0200</pubDate>
       <dc:date>2019-05-15T06:48:43.54442+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by BMG Research, 7–10 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_ep_polls/2019-05-10-BMGResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party (ECR): 10.5–13.7%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 20.0–24.1%&lt;/li&gt;&lt;li&gt;Liberal Democrats (ALDE): 17.1–21.1%&lt;/li&gt;&lt;li&gt;Scottish National Party (Greens/EFA): 2.3–4.1%&lt;/li&gt;&lt;li&gt;Plaid Cymru (Greens/EFA): 0.5–1.5%&lt;/li&gt;&lt;li&gt;UK Independence Party (EAPN): 2.2–4.0%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 8.6–11.6%&lt;/li&gt;&lt;li&gt;Brexit Party (EFDD): 23.9–28.3%&lt;/li&gt;&lt;li&gt;Change UK (EPP): 2.2–4.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-05-10-BMGResearch.png"
+        length="275663"
+        type="image/png"/>
+      <pubDate>Fri, 17 May 2019 11:27:24 +0200</pubDate>
+      <dc:date>2019-05-17T11:27:24.610116+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 8–9 May 2019 – Voting Intentions</title>
@@ -58,6 +128,16 @@
         type="image/png"/>
       <pubDate>Thu, 16 May 2019 21:03:21 +0200</pubDate>
       <dc:date>2019-05-16T21:03:21.45047+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinium, 3–7 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_ep_polls/2019-05-07-Opinium.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party (ECR): 12.4–15.4%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 23.9–27.7%&lt;/li&gt;&lt;li&gt;Liberal Democrats (ALDE): 10.5–13.4%&lt;/li&gt;&lt;li&gt;Scottish National Party (Greens/EFA): 4.1–6.0%&lt;/li&gt;&lt;li&gt;Plaid Cymru (Greens/EFA): 1.5–2.7%&lt;/li&gt;&lt;li&gt;UK Independence Party (EAPN): 3.2–4.9%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 5.0–7.1%&lt;/li&gt;&lt;li&gt;Brexit Party (EFDD): 26.7–30.7%&lt;/li&gt;&lt;li&gt;Change UK (EPP): 1.5–2.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-05-07-Opinium.png"
+        length="264659"
+        type="image/png"/>
+      <pubDate>Fri, 17 May 2019 08:46:47 +0200</pubDate>
+      <dc:date>2019-05-17T08:46:47.122953+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 29–30 April 2019 – Seat Projections for the Parties</title>
@@ -439,6 +519,6 @@
       <pubDate>Thu, 18 Apr 2019 09:17:35 +0200</pubDate>
       <dc:date>2019-04-18T09:17:35.516868+02:00</dc:date>
     </item>
-    <dc:date>2019-05-16T21:03:21.45047+02:00</dc:date>
+    <dc:date>2019-05-17T11:27:24.610116+02:00</dc:date>
   </channel>
 </rss>
