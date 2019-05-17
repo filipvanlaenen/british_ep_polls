@@ -11,10 +11,14 @@ Last result: **24.4%** (General Election of 22 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 28.3% | 20.8–38.3% | 20.1–39.0% | 19.7–39.6% | 18.9–40.5% |
-| [8–10 May 2019](2019-05-10-Opinium.html) | Opinium | 21.0% | 19.9–22.2% | 19.6–22.6% | 19.3–22.8% | 18.7–23.4% |
+| [12–16 May 2019](2019-05-16-YouGov.html) | YouGov | 15.0% | 14.5–15.6% | 14.3–15.7% | 14.2–15.9% | 13.9–16.1% |
+| [10–12 May 2019](2019-05-12-ComRes.html) | ComRes | 25.0% | 23.7–26.2% | 23.4–26.6% | 23.1–26.9% | 22.5–27.5% |
+| [8–10 May 2019](2019-05-10-Opinium.html) | Opinium <br> The Observer | 21.0% | 19.9–22.2% | 19.6–22.6% | 19.3–22.8% | 18.7–23.4% |
+| [7–10 May 2019](2019-05-10-BMGResearch.html) | BMG Research | 22.0% | 20.7–23.4% | 20.3–23.8% | 20.0–24.1% | 19.4–24.8% |
 | [8–9 May 2019](2019-05-09-YouGov.html) | YouGov <br> The Times | 15.8% | 14.9–16.9% | 14.6–17.2% | 14.4–17.4% | 13.9–17.9% |
+| [8–9 May 2019](2019-05-09-Survation.html) | Survation <br> Good Morning Britain | 24.0% | N/A | N/A | N/A | N/A |
 | [9 May 2019](2019-05-09-ComRes.html) | ComRes <br> Brexit Express | 24.9% | 23.7–26.2% | 23.4–26.6% | 23.1–26.9% | 22.5–27.5% |
-| [3–7 May 2019](2019-05-07-Opinium.html) | Opinium | 25.8% | 24.5–27.1% | 24.1–27.4% | 23.9–27.8% | 23.3–28.3% |
+| [3–7 May 2019](2019-05-07-Opinium.html) | Opinium | 25.8% | 24.5–27.0% | 24.2–27.4% | 23.9–27.7% | 23.3–28.3% |
 | [1–7 May 2019](2019-05-07-ComRes.html) | ComRes <br> Remain United | 26.0% | N/A | N/A | N/A | N/A |
 | [29–30 April 2019](2019-04-30-YouGov.html) | YouGov <br> The Times | 20.8% | 19.5–22.1% | 19.2–22.5% | 18.9–22.8% | 18.3–23.5% |
 | [23–26 April 2019](2019-04-26-YouGov.html) | YouGov <br> Hope Not Hate | 21.8% | 21.1–22.5% | 20.9–22.7% | 20.7–22.9% | 20.4–23.3% |
@@ -74,10 +78,14 @@ Last result: **20** seats (General Election of 22 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 27 | 17–38 | 16–38 | 15–38 | 14–39 |
-| [8–10 May 2019](2019-05-10-Opinium.html) | Opinium | 17 | 16–17 | 16–17 | 16–18 | 15–18 |
+| [12–16 May 2019](2019-05-16-YouGov.html) | YouGov | 11 | 11–12 | 11–12 | 11–12 | 11–13 |
+| [10–12 May 2019](2019-05-12-ComRes.html) | ComRes | 22 | 22–24 | 21–25 | 21–25 | 20–26 |
+| [8–10 May 2019](2019-05-10-Opinium.html) | Opinium <br> The Observer | 17 | 16–17 | 16–17 | 16–18 | 15–18 |
+| [7–10 May 2019](2019-05-10-BMGResearch.html) | BMG Research | 18 | 16–19 | 16–21 | 15–21 | 15–21 |
 | [8–9 May 2019](2019-05-09-YouGov.html) | YouGov <br> The Times | 13 | 11–13 | 11–13 | 11–14 | 11–14 |
+| [8–9 May 2019](2019-05-09-Survation.html) | Survation <br> Good Morning Britain |  |  |  |  |  |
 | [9 May 2019](2019-05-09-ComRes.html) | ComRes <br> Brexit Express | 22 | 21–24 | 21–25 | 20–26 | 20–26 |
-| [3–7 May 2019](2019-05-07-Opinium.html) | Opinium |  |  |  |  |  |
+| [3–7 May 2019](2019-05-07-Opinium.html) | Opinium | 22 | 21–24 | 21–24 | 20–25 | 19–26 |
 | [1–7 May 2019](2019-05-07-ComRes.html) | ComRes <br> Remain United |  |  |  |  |  |
 | [29–30 April 2019](2019-04-30-YouGov.html) | YouGov <br> The Times | 17 | 15–19 | 14–19 | 14–19 | 13–21 |
 | [23–26 April 2019](2019-04-26-YouGov.html) | YouGov <br> Hope Not Hate | 19 | 18–20 | 17–20 | 17–21 | 16–21 |

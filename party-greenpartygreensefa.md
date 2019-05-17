@@ -11,8 +11,12 @@ Last result: **6.9%** (General Election of 22 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5.0% | 3.7–8.9% | 3.5–9.4% | 3.4–9.8% | 3.1–10.4% |
-| [8–10 May 2019](2019-05-10-Opinium.html) | Opinium | 8.0% | 7.3–8.8% | 7.0–9.1% | 6.9–9.3% | 6.5–9.7% |
+| [12–16 May 2019](2019-05-16-YouGov.html) | YouGov | 10.0% | 9.6–10.5% | 9.4–10.6% | 9.3–10.7% | 9.1–10.9% |
+| [10–12 May 2019](2019-05-12-ComRes.html) | ComRes | 7.0% | 6.3–7.8% | 6.1–8.0% | 6.0–8.2% | 5.7–8.6% |
+| [8–10 May 2019](2019-05-10-Opinium.html) | Opinium <br> The Observer | 8.0% | 7.3–8.8% | 7.0–9.1% | 6.9–9.3% | 6.5–9.7% |
+| [7–10 May 2019](2019-05-10-BMGResearch.html) | BMG Research | 10.0% | 9.1–11.1% | 8.8–11.3% | 8.6–11.6% | 8.2–12.1% |
 | [8–9 May 2019](2019-05-09-YouGov.html) | YouGov <br> The Times | 10.9% | 10.1–11.8% | 9.8–12.0% | 9.7–12.3% | 9.3–12.7% |
+| [8–9 May 2019](2019-05-09-Survation.html) | Survation <br> Good Morning Britain | 6.0% | N/A | N/A | N/A | N/A |
 | [9 May 2019](2019-05-09-ComRes.html) | ComRes <br> Brexit Express | 8.0% | 7.2–8.8% | 7.0–9.0% | 6.9–9.2% | 6.5–9.6% |
 | [3–7 May 2019](2019-05-07-Opinium.html) | Opinium | 6.0% | 5.3–6.7% | 5.1–6.9% | 5.0–7.1% | 4.7–7.5% |
 | [1–7 May 2019](2019-05-07-ComRes.html) | ComRes <br> Remain United | 6.0% | N/A | N/A | N/A | N/A |
@@ -59,10 +63,14 @@ Last result: **3** seats (General Election of 22 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–6 |
-| [8–10 May 2019](2019-05-10-Opinium.html) | Opinium | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| [12–16 May 2019](2019-05-16-YouGov.html) | YouGov | 7 | 5–7 | 5–7 | 5–7 | 5–7 |
+| [10–12 May 2019](2019-05-12-ComRes.html) | ComRes | 1 | 1–3 | 0–3 | 0–3 | 0–4 |
+| [8–10 May 2019](2019-05-10-Opinium.html) | Opinium <br> The Observer | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| [7–10 May 2019](2019-05-10-BMGResearch.html) | BMG Research | 6 | 3–7 | 3–7 | 3–7 | 2–7 |
 | [8–9 May 2019](2019-05-09-YouGov.html) | YouGov <br> The Times | 6 | 6–7 | 5–7 | 5–7 | 4–7 |
+| [8–9 May 2019](2019-05-09-Survation.html) | Survation <br> Good Morning Britain |  |  |  |  |  |
 | [9 May 2019](2019-05-09-ComRes.html) | ComRes <br> Brexit Express | 3 | 1–4 | 1–4 | 1–4 | 1–4 |
-| [3–7 May 2019](2019-05-07-Opinium.html) | Opinium |  |  |  |  |  |
+| [3–7 May 2019](2019-05-07-Opinium.html) | Opinium | 1 | 0–1 | 0–1 | 0–1 | 0–3 |
 | [1–7 May 2019](2019-05-07-ComRes.html) | ComRes <br> Remain United |  |  |  |  |  |
 | [29–30 April 2019](2019-04-30-YouGov.html) | YouGov <br> The Times | 4 | 2–4 | 1–5 | 1–6 | 1–7 |
 | [23–26 April 2019](2019-04-26-YouGov.html) | YouGov <br> Hope Not Hate | 4 | 4–7 | 4–7 | 4–7 | 4–7 |
