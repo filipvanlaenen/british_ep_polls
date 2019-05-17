@@ -14,7 +14,7 @@ Last result: **23.1%** (General Election of 22 May 2014)
 | [8–10 May 2019](2019-05-10-Opinium.html) | Opinium | 11.0% | 10.1–11.9% | 9.9–12.2% | 9.7–12.4% | 9.3–12.9% |
 | [8–9 May 2019](2019-05-09-YouGov.html) | YouGov <br> The Times | 9.9% | 9.1–10.8% | 8.9–11.0% | 8.7–11.2% | 8.4–11.6% |
 | [9 May 2019](2019-05-09-ComRes.html) | ComRes <br> Brexit Express | 13.0% | 12.1–14.0% | 11.8–14.3% | 11.6–14.5% | 11.2–15.0% |
-| [3–7 May 2019](2019-05-07-Opinium.html) | Opinium | 13.8% | N/A | N/A | N/A | N/A |
+| [3–7 May 2019](2019-05-07-Opinium.html) | Opinium | 13.8% | 12.9–14.9% | 12.6–15.2% | 12.4–15.5% | 11.9–16.0% |
 | [1–7 May 2019](2019-05-07-ComRes.html) | ComRes <br> Remain United | 14.0% | N/A | N/A | N/A | N/A |
 | [29–30 April 2019](2019-04-30-YouGov.html) | YouGov <br> The Times | 12.9% | 11.9–14.0% | 11.6–14.3% | 11.3–14.6% | 10.9–15.2% |
 | [23–26 April 2019](2019-04-26-YouGov.html) | YouGov <br> Hope Not Hate | 12.9% | 12.3–13.5% | 12.1–13.7% | 12.0–13.8% | 11.7–14.1% |
@@ -68,7 +68,7 @@ Last result: **19** seats (General Election of 22 May 2014)
 | N/A | [Poll Average](average.html) | 11 | 8–20 | 8–20 | 8–20 | 8–21 |
 | [8–10 May 2019](2019-05-10-Opinium.html) | Opinium | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [8–9 May 2019](2019-05-09-YouGov.html) | YouGov <br> The Times | 5 | 3–6 | 3–7 | 3–7 | 2–7 |
-| [9 May 2019](2019-05-09-ComRes.html) | ComRes <br> Brexit Express | 9 | 8–9 | 8–9 | 8–10 | 7–11 |
+| [9 May 2019](2019-05-09-ComRes.html) | ComRes <br> Brexit Express | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
 | [3–7 May 2019](2019-05-07-Opinium.html) | Opinium |  |  |  |  |  |
 | [1–7 May 2019](2019-05-07-ComRes.html) | ComRes <br> Remain United |  |  |  |  |  |
 | [29–30 April 2019](2019-04-30-YouGov.html) | YouGov <br> The Times | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
