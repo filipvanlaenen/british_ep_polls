@@ -73,7 +73,7 @@ Last result: **19** seats (General Election of 22 May 2014)
 | [12–16 May 2019](2019-05-16-YouGov.html) | YouGov | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [10–12 May 2019](2019-05-12-ComRes.html) | ComRes | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | [8–10 May 2019](2019-05-10-Opinium.html) | Opinium <br> The Observer | 8 | 6–8 | 6–8 | 5–8 | 4–9 |
-| [7–10 May 2019](2019-05-10-BMGResearch.html) | BMG Research | 8 | 7–9 | 5–9 | 5–9 | 4–9 |
+| [7–10 May 2019](2019-05-10-BMGResearch.html) | BMG Research | 8 | 7–9 | 7–9 | 6–9 | 4–9 |
 | [8–9 May 2019](2019-05-09-YouGov.html) | YouGov <br> The Times | 5 | 3–6 | 3–7 | 3–7 | 2–7 |
 | [8–9 May 2019](2019-05-09-Survation.html) | Survation <br> Good Morning Britain |  |  |  |  |  |
 | [9 May 2019](2019-05-09-ComRes.html) | ComRes <br> Brexit Express | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
