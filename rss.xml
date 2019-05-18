@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/british_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 18 May 2019 12:34:26 +0200</pubDate>
+    <pubDate>Sat, 18 May 2019 19:28:33 +0200</pubDate>
     <item>
       <title>Opinion Poll by YouGov, 12–16 May 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_ep_polls/2019-05-16-YouGov.html#seats</link>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-05-13-HanburyStrategy.png"
         length="263185"
         type="image/png"/>
-      <pubDate>Sat, 18 May 2019 12:34:26 +0200</pubDate>
-      <dc:date>2019-05-18T12:34:26.919285+02:00</dc:date>
+      <pubDate>Sat, 18 May 2019 19:28:33 +0200</pubDate>
+      <dc:date>2019-05-18T19:28:33.152663+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ComRes, 10–12 May 2019 – Seat Projections for the Parties</title>
@@ -569,6 +569,6 @@
       <pubDate>Thu, 18 Apr 2019 09:17:35 +0200</pubDate>
       <dc:date>2019-04-18T09:17:35.516868+02:00</dc:date>
     </item>
-    <dc:date>2019-05-18T12:34:26.919285+02:00</dc:date>
+    <dc:date>2019-05-18T19:28:33.152663+02:00</dc:date>
   </channel>
 </rss>
