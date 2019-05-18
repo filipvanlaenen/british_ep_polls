@@ -89,7 +89,7 @@ Last result: **0** seats (General Election of 22 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 25 | 14–29 | 13–30 | 11–31 | 10–32 |
 | [12–16 May 2019](2019-05-16-YouGov.html) | YouGov | 33 | 33–35 | 33–35 | 33–35 | 32–35 |
-| [9–13 May 2019](2019-05-13-HanburyStrategy.html) | Hanbury Strategy | 26 | 26 | 26–29 | 26–29 | 26–31 |
+| [9–13 May 2019](2019-05-13-HanburyStrategy.html) | Hanbury Strategy | 27 | 26–29 | 25–29 | 25–31 | 24–31 |
 | [10–12 May 2019](2019-05-12-ComRes.html) | ComRes | 25 | 22–26 | 22–26 | 21–27 | 21–28 |
 | [8–10 May 2019](2019-05-10-Opinium.html) | Opinium <br> The Observer | 32 | 31–33 | 30–34 | 30–34 | 29–35 |
 | [7–10 May 2019](2019-05-10-BMGResearch.html) | BMG Research | 22 | 20–24 | 20–24 | 20–25 | 19–27 |
