@@ -10,7 +10,7 @@ Last result: **2.4%** (General Election of 22 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.8% | 2.8–5.1% | 2.6–5.5% | 2.5–5.9% | 2.2–6.5% |
+| N/A | [Poll Average](average.html) | 3.6% | 2.7–5.3% | 2.6–5.6% | 2.4–6.0% | 2.2–6.6% |
 | [12–16 May 2019](2019-05-16-YouGov.html) | YouGov | 0.0% | N/A | N/A | N/A | N/A |
 | [9–13 May 2019](2019-05-13-HanburyStrategy.html) | Hanbury Strategy | 4.0% | 3.4–4.6% | 3.3–4.8% | 3.2–4.9% | 2.9–5.2% |
 | [10–12 May 2019](2019-05-12-ComRes.html) | ComRes | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% |
@@ -43,12 +43,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 4% | 100% | Last Result |
-| 2.5–3.5% | 38% | 96% |  |
-| 3.5–4.5% | 36% | 58% | Median |
-| 4.5–5.5% | 17% | 22% |  |
-| 5.5–6.5% | 5% | 5% |  |
-| 6.5–7.5% | 0.4% | 0.4% |  |
+| 1.5–2.5% | 5% | 100% | Last Result |
+| 2.5–3.5% | 45% | 95% |  |
+| 3.5–4.5% | 26% | 51% | Median |
+| 4.5–5.5% | 18% | 24% |  |
+| 5.5–6.5% | 6% | 6% |  |
+| 6.5–7.5% | 0.5% | 0.5% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -60,7 +60,7 @@ Last result: **2** seats (General Election of 22 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
+| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | [12–16 May 2019](2019-05-16-YouGov.html) | YouGov |  |  |  |  |  |
 | [9–13 May 2019](2019-05-13-HanburyStrategy.html) | Hanbury Strategy | 3 | 3 | 3 | 3–4 | 3–4 |
 | [10–12 May 2019](2019-05-12-ComRes.html) | ComRes | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -94,9 +94,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 9% | 100% | Last Result |
-| 3 | 60% | 91% | Median |
-| 4 | 29% | 31% |  |
+| 2 | 10% | 100% | Last Result |
+| 3 | 51% | 90% | Median |
+| 4 | 36% | 39% |  |
 | 5 | 2% | 2% |  |
 | 6 | 0% | 0% |  |
 
