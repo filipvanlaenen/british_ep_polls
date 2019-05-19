@@ -11,6 +11,7 @@ Last result: **26.6%** (General Election of 22 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.5% | 2.9–7.1% | 2.7–7.5% | 2.4–7.7% | 2.1–8.2% |
+| [17 May 2019](2019-05-17-Survation.html) | Survation <br> Daily Mail | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.2–4.4% | 1.9–4.8% |
 | [12–16 May 2019](2019-05-16-YouGov.html) | YouGov | 3.0% | 2.8–3.3% | 2.7–3.4% | 2.6–3.4% | 2.5–3.6% |
 | [9–13 May 2019](2019-05-13-HanburyStrategy.html) | Hanbury Strategy | 3.0% | 2.5–3.5% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
 | [10–12 May 2019](2019-05-12-ComRes.html) | ComRes | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% |
@@ -80,6 +81,7 @@ Last result: **24** seats (General Election of 22 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–2 | 0–2 | 0–3 |
+| [17 May 2019](2019-05-17-Survation.html) | Survation <br> Daily Mail | 0 | 0 | 0 | 0 | 0 |
 | [12–16 May 2019](2019-05-16-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |
 | [9–13 May 2019](2019-05-13-HanburyStrategy.html) | Hanbury Strategy | 0 | 0 | 0 | 0 | 0 |
 | [10–12 May 2019](2019-05-12-ComRes.html) | ComRes | 0 | 0 | 0 | 0 | 0 |

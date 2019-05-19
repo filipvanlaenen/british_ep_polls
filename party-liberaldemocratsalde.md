@@ -11,6 +11,7 @@ Last result: **6.6%** (General Election of 22 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8.4% | 6.8–10.3% | 6.4–10.6% | 6.1–11.0% | 5.6–11.6% |
+| [17 May 2019](2019-05-17-Survation.html) | Survation <br> Daily Mail | 12.4% | 11.1–13.8% | 10.8–14.2% | 10.5–14.6% | 9.9–15.3% |
 | [12–16 May 2019](2019-05-16-YouGov.html) | YouGov | 16.0% | 15.5–16.6% | 15.3–16.7% | 15.2–16.9% | 14.9–17.1% |
 | [9–13 May 2019](2019-05-13-HanburyStrategy.html) | Hanbury Strategy | 13.8% | 12.8–14.8% | 12.6–15.1% | 12.3–15.4% | 11.9–15.9% |
 | [10–12 May 2019](2019-05-12-ComRes.html) | ComRes | 13.0% | 12.1–14.0% | 11.8–14.3% | 11.6–14.5% | 11.1–15.0% |
@@ -63,9 +64,10 @@ Last result: **1** seats (General Election of 22 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–5 | 2–6 | 1–6 | 0–8 |
-| [12–16 May 2019](2019-05-16-YouGov.html) | YouGov | 12 | 12 | 11–12 | 11–12 | 11–12 |
-| [9–13 May 2019](2019-05-13-HanburyStrategy.html) | Hanbury Strategy | 9 | 9 | 8–9 | 8–10 | 8–11 |
-| [10–12 May 2019](2019-05-12-ComRes.html) | ComRes | 9 | 8–10 | 8–10 | 8–10 | 6–10 |
+| [17 May 2019](2019-05-17-Survation.html) | Survation <br> Daily Mail | 9 | 9 | 5–9 | 5–9 | 5–9 |
+| [12–16 May 2019](2019-05-16-YouGov.html) | YouGov | 12 | 12 | 12 | 11–12 | 11–12 |
+| [9–13 May 2019](2019-05-13-HanburyStrategy.html) | Hanbury Strategy | 9 | 9 | 9 | 9 | 7–9 |
+| [10–12 May 2019](2019-05-12-ComRes.html) | ComRes | 9 | 9 | 9 | 9 | 9–11 |
 | [8–10 May 2019](2019-05-10-Opinium.html) | Opinium <br> The Observer | 7 | 6–9 | 5–9 | 5–9 | 5–10 |
 | [7–10 May 2019](2019-05-10-BMGResearch.html) | BMG Research | 14 | 12–16 | 11–16 | 11–16 | 11–18 |
 | [8–9 May 2019](2019-05-09-YouGov.html) | YouGov <br> The Times | 11 | 9–12 | 9–12 | 9–12 | 9–12 |
