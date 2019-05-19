@@ -10,14 +10,14 @@
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Brexit Party (EFDD) | 0.0% | 26.0% | 24.6–27.5% |24.2–27.9% |23.9–28.3% |23.2–29.0% |
+| Brexit Party (BREXIT) | 0.0% | 26.0% | 24.6–27.5% |24.2–27.9% |23.9–28.3% |23.2–29.0% |
 | Labour Party (S&D) | 24.4% | 22.0% | 20.7–23.4% |20.3–23.8% |20.0–24.1% |19.4–24.8% |
 | Liberal Democrats (ALDE) | 6.6% | 19.0% | 17.8–20.3% |17.4–20.7% |17.1–21.1% |16.6–21.7% |
 | Conservative Party (ECR) | 23.1% | 12.0% | 11.0–13.1% |10.7–13.5% |10.5–13.7% |10.0–14.3% |
 | Green Party (Greens/EFA) | 6.9% | 10.0% | 9.1–11.1% |8.8–11.3% |8.6–11.6% |8.2–12.1% |
 | Scottish National Party (Greens/EFA) | 2.4% | 3.1% | 2.6–3.8% |2.5–3.9% |2.3–4.1% |2.1–4.5% |
 | UK Independence Party (EAPN) | 26.6% | 3.0% | 2.5–3.6% |2.4–3.8% |2.2–4.0% |2.0–4.3% |
-| Change UK (EPP) | 0.0% | 3.0% | 2.5–3.6% |2.4–3.8% |2.2–4.0% |2.0–4.3% |
+| Change UK (ALDE) | 0.0% | 3.0% | 2.5–3.6% |2.4–3.8% |2.2–4.0% |2.0–4.3% |
 | Plaid Cymru (Greens/EFA) | 0.7% | 0.9% | 0.7–1.3% |0.6–1.4% |0.5–1.5% |0.4–1.7% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
@@ -30,21 +30,21 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#brexit-party-(efdd)">Brexit Party (EFDD)</a> | 0 | 22 | 20–24 |20–24 |20–25 |19–27 |
+| <a href="#brexit-party-(brexit)">Brexit Party (BREXIT)</a> | 0 | 22 | 20–24 |20–24 |20–25 |19–27 |
 | <a href="#labour-party-(s&d)">Labour Party (S&D)</a> | 20 | 17 | 16–19 |16–19 |15–20 |15–21 |
 | <a href="#liberal-democrats-(alde)">Liberal Democrats (ALDE)</a> | 1 | 14 | 12–16 |11–16 |11–16 |11–18 |
 | <a href="#conservative-party-(ecr)">Conservative Party (ECR)</a> | 19 | 8 | 7–9 |7–9 |6–9 |4–9 |
 | <a href="#green-party-(greens/efa)">Green Party (Greens/EFA)</a> | 3 | 5 | 3–7 |3–7 |3–7 |2–7 |
 | <a href="#scottish-national-party-(greens/efa)">Scottish National Party (Greens/EFA)</a> | 2 | 3 | 2–4 |2–4 |2–4 |2–4 |
 | <a href="#uk-independence-party-(eapn)">UK Independence Party (EAPN)</a> | 24 | 0 | 0 |0 |0 |0 |
-| <a href="#change-uk-(epp)">Change UK (EPP)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#change-uk-(alde)">Change UK (ALDE)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#plaid-cymru-(greens/efa)">Plaid Cymru (Greens/EFA)</a> | 1 | 1 | 1–2 |1–2 |0–2 |0–2 |
 
-### Brexit Party (EFDD)
+### Brexit Party (BREXIT)
 
-*For a full overview of the results for this party, see the [Brexit Party (EFDD)](party-brexitpartyefdd.html) page.*
+*For a full overview of the results for this party, see the [Brexit Party (BREXIT)](party-brexitpartybrexit.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-05-10-BMGResearch-seats-pmf-brexitpartyefdd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-05-10-BMGResearch-seats-pmf-brexitpartybrexit.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -216,11 +216,11 @@
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% | Last Result |
 
-### Change UK (EPP)
+### Change UK (ALDE)
 
-*For a full overview of the results for this party, see the [Change UK (EPP)](party-changeukepp.html) page.*
+*For a full overview of the results for this party, see the [Change UK (ALDE)](party-changeukalde.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-05-10-BMGResearch-seats-pmf-changeukepp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-05-10-BMGResearch-seats-pmf-changeukalde.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -248,15 +248,14 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Brexit Party (EFDD) | 0 | 22 | 0% | 20–24 | 20–24 | 20–25 | 19–27 |
+| Brexit Party (BREXIT) | 0 | 22 | 0% | 20–24 | 20–24 | 20–25 | 19–27 |
 | Labour Party (S&D) | 20 | 17 | 0% | 16–19 | 16–19 | 15–20 | 15–21 |
-| Liberal Democrats (ALDE) | 1 | 14 | 0% | 12–16 | 11–16 | 11–16 | 11–18 |
+| Liberal Democrats (ALDE) – Change UK (ALDE) | 1 | 14 | 0% | 12–16 | 11–16 | 11–16 | 11–18 |
 | Green Party (Greens/EFA) – Scottish National Party (Greens/EFA) – Plaid Cymru (Greens/EFA) | 6 | 9 | 0% | 7–11 | 7–12 | 6–12 | 6–12 |
 | Conservative Party (ECR) | 19 | 8 | 0% | 7–9 | 7–9 | 6–9 | 4–9 |
-| Change UK (EPP) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | UK Independence Party (EAPN) | 24 | 0 | 0% | 0 | 0 | 0 | 0 |
 
-### Brexit Party (EFDD)
+### Brexit Party (BREXIT)
 
 ![Graph with seats probability mass function not yet produced](2019-05-10-BMGResearch-coalitions-seats-pmf-brexit.png "Seats Probability Mass Function")
 
@@ -310,9 +309,9 @@
 | 24 | 0.1% | 0.1% |  |
 | 25 | 0% | 0% |  |
 
-### Liberal Democrats (ALDE)
+### Liberal Democrats (ALDE) – Change UK (ALDE)
 
-![Graph with seats probability mass function not yet produced](2019-05-10-BMGResearch-coalitions-seats-pmf-libdem.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-05-10-BMGResearch-coalitions-seats-pmf-libdem–chuk.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -375,14 +374,6 @@
 | 17 | 0% | 0% |  |
 | 18 | 0% | 0% |  |
 | 19 | 0% | 0% | Last Result |
-
-### Change UK (EPP)
-
-![Graph with seats probability mass function not yet produced](2019-05-10-BMGResearch-coalitions-seats-pmf-chuk.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
 
 ### UK Independence Party (EAPN)
 
