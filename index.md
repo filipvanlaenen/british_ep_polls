@@ -24,8 +24,8 @@ Only polls for which at least the sample size has been published are included in
 + **LIBDEM:** Liberal Democrats (ALDE)
 + **SNP:** Scottish National Party (Greens/EFA)
 + **PC:** Plaid Cymru (Greens/EFA)
-+ **BREXIT:** Brexit Party (EFDD)
-+ **ChUK:** Change UK (EPP)
++ **BREXIT:** Brexit Party (BREXIT)
++ **ChUK:** Change UK (ALDE)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
