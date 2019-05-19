@@ -76,11 +76,11 @@ Last result: **20** seats (General Election of 22 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 27 | 17–30 | 15–31 | 15–34 | 14–36 |
-| [17 May 2019](2019-05-17-Survation.html) | Survation <br> Daily Mail | 21 | 18–23 | 18–24 | 18–24 | 18–24 |
-| [12–16 May 2019](2019-05-16-YouGov.html) | YouGov | 12 | 11–12 | 11–12 | 11–12 | 11–12 |
-| [9–13 May 2019](2019-05-13-HanburyStrategy.html) | Hanbury Strategy | 22 | 22 | 22 | 19–22 | 18–22 |
-| [10–12 May 2019](2019-05-12-ComRes.html) | ComRes | 22 | 22 | 22 | 22 | 22 |
-| [8–10 May 2019](2019-05-10-Opinium.html) | Opinium <br> The Observer | 17 | 16–17 | 16–18 | 15–18 | 14–19 |
+| [17 May 2019](2019-05-17-Survation.html) | Survation <br> Daily Mail | 21 | 18–23 | 18–24 | 18–25 | 18–26 |
+| [12–16 May 2019](2019-05-16-YouGov.html) | YouGov | 11 | 11–12 | 11–12 | 11–12 | 11–13 |
+| [9–13 May 2019](2019-05-13-HanburyStrategy.html) | Hanbury Strategy | 22 | 20–23 | 19–23 | 19–24 | 18–24 |
+| [10–12 May 2019](2019-05-12-ComRes.html) | ComRes | 22 | 22–24 | 21–25 | 21–25 | 20–26 |
+| [8–10 May 2019](2019-05-10-Opinium.html) | Opinium <br> The Observer | 17 | 16–17 | 16–17 | 16–18 | 15–19 |
 | [7–10 May 2019](2019-05-10-BMGResearch.html) | BMG Research | 17 | 16–19 | 16–19 | 15–20 | 15–21 |
 | [8–9 May 2019](2019-05-09-YouGov.html) | YouGov <br> The Times | 13 | 11–13 | 11–13 | 11–14 | 11–14 |
 | [8–9 May 2019](2019-05-09-Survation.html) | Survation <br> Good Morning Britain | 21 | 18–23 | 18–24 | 17–25 | 17–26 |
