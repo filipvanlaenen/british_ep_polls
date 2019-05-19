@@ -17,7 +17,7 @@ Last result: **2.4%** (General Election of 22 May 2014)
 | [8–10 May 2019](2019-05-10-Opinium.html) | Opinium <br> The Observer | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
 | [7–10 May 2019](2019-05-10-BMGResearch.html) | BMG Research | 3.1% | 2.6–3.8% | 2.5–3.9% | 2.3–4.1% | 2.1–4.5% |
 | [8–9 May 2019](2019-05-09-YouGov.html) | YouGov <br> The Times | 3.0% | 2.6–3.5% | 2.4–3.7% | 2.3–3.8% | 2.2–4.1% |
-| [8–9 May 2019](2019-05-09-Survation.html) | Survation <br> Good Morning Britain | 4.0% | N/A | N/A | N/A | N/A |
+| [8–9 May 2019](2019-05-09-Survation.html) | Survation <br> Good Morning Britain | 4.0% | 3.4–4.8% | 3.2–5.0% | 3.0–5.2% | 2.8–5.6% |
 | [9 May 2019](2019-05-09-ComRes.html) | ComRes <br> Brexit Express | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
 | [3–7 May 2019](2019-05-07-Opinium.html) | Opinium | 5.0% | 4.4–5.6% | 4.2–5.8% | 4.1–6.0% | 3.8–6.3% |
 | [1–7 May 2019](2019-05-07-ComRes.html) | ComRes <br> Remain United | 3.0% | N/A | N/A | N/A | N/A |
@@ -67,7 +67,7 @@ Last result: **2** seats (General Election of 22 May 2014)
 | [8–10 May 2019](2019-05-10-Opinium.html) | Opinium <br> The Observer | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [7–10 May 2019](2019-05-10-BMGResearch.html) | BMG Research | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [8–9 May 2019](2019-05-09-YouGov.html) | YouGov <br> The Times | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [8–9 May 2019](2019-05-09-Survation.html) | Survation <br> Good Morning Britain |  |  |  |  |  |
+| [8–9 May 2019](2019-05-09-Survation.html) | Survation <br> Good Morning Britain | 4 | 3–4 | 3–4 | 3–5 | 2–5 |
 | [9 May 2019](2019-05-09-ComRes.html) | ComRes <br> Brexit Express | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [3–7 May 2019](2019-05-07-Opinium.html) | Opinium | 4 | 4 | 3–5 | 3–5 | 3–5 |
 | [1–7 May 2019](2019-05-07-ComRes.html) | ComRes <br> Remain United |  |  |  |  |  |
