@@ -21,7 +21,7 @@ Last result: **24.4%** (General Election of 22 May 2014)
 | [8–9 May 2019](2019-05-09-Survation.html) | Survation <br> Good Morning Britain | 24.0% | 22.5–25.6% | 22.1–26.0% | 21.8–26.4% | 21.1–27.2% |
 | [9 May 2019](2019-05-09-ComRes.html) | ComRes <br> Brexit Express | 24.9% | 23.7–26.2% | 23.4–26.6% | 23.1–26.9% | 22.5–27.5% |
 | [3–7 May 2019](2019-05-07-Opinium.html) | Opinium | 25.8% | 24.5–27.0% | 24.2–27.4% | 23.9–27.7% | 23.3–28.3% |
-| [1–7 May 2019](2019-05-07-ComRes.html) | ComRes <br> Remain United | 26.0% | N/A | N/A | N/A | N/A |
+| [1–7 May 2019](2019-05-07-ComRes.html) | ComRes <br> Remain United | 26.0% | 25.1–26.9% | 24.9–27.2% | 24.7–27.4% | 24.3–27.8% |
 | [29–30 April 2019](2019-04-30-YouGov.html) | YouGov <br> The Times | 20.8% | 19.5–22.1% | 19.2–22.5% | 18.9–22.8% | 18.3–23.5% |
 | [23–26 April 2019](2019-04-26-YouGov.html) | YouGov <br> Hope Not Hate | 21.8% | 21.1–22.5% | 20.9–22.7% | 20.7–22.9% | 20.4–23.3% |
 | [17–25 April 2019](2019-04-25-Survation.html) | Survation | 26.7% | 25.5–28.0% | 25.1–28.4% | 24.8–28.7% | 24.2–29.3% |
@@ -83,10 +83,10 @@ Last result: **20** seats (General Election of 22 May 2014)
 | [8–10 May 2019](2019-05-10-Opinium.html) | Opinium <br> The Observer | 17 | 16–17 | 16–18 | 15–18 | 14–19 |
 | [7–10 May 2019](2019-05-10-BMGResearch.html) | BMG Research | 17 | 16–19 | 16–19 | 15–20 | 15–21 |
 | [8–9 May 2019](2019-05-09-YouGov.html) | YouGov <br> The Times | 13 | 11–13 | 11–13 | 11–14 | 11–14 |
-| [8–9 May 2019](2019-05-09-Survation.html) | Survation <br> Good Morning Britain | 21 | 18–23 | 18–24 | 17–25 | 17–26 |
+| [8–9 May 2019](2019-05-09-Survation.html) | Survation <br> Good Morning Britain | 20 | 19–23 | 18–24 | 18–25 | 17–26 |
 | [9 May 2019](2019-05-09-ComRes.html) | ComRes <br> Brexit Express | 22 | 21–24 | 21–25 | 20–26 | 20–26 |
 | [3–7 May 2019](2019-05-07-Opinium.html) | Opinium | 22 | 21–24 | 21–24 | 20–25 | 19–26 |
-| [1–7 May 2019](2019-05-07-ComRes.html) | ComRes <br> Remain United |  |  |  |  |  |
+| [1–7 May 2019](2019-05-07-ComRes.html) | ComRes <br> Remain United | 22 | 22–23 | 21–23 | 21–23 | 21–24 |
 | [29–30 April 2019](2019-04-30-YouGov.html) | YouGov <br> The Times | 17 | 15–19 | 14–19 | 14–19 | 13–21 |
 | [23–26 April 2019](2019-04-26-YouGov.html) | YouGov <br> Hope Not Hate | 19 | 18–20 | 17–20 | 17–21 | 16–21 |
 | [17–25 April 2019](2019-04-25-Survation.html) | Survation | 27 | 25–28 | 24–28 | 23–28 | 22–29 |

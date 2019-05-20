@@ -21,7 +21,7 @@ Last result: **0.0%** (General Election of 22 May 2014)
 | [8–9 May 2019](2019-05-09-Survation.html) | Survation <br> Good Morning Britain | 4.0% | 3.4–4.8% | 3.2–5.0% | 3.0–5.2% | 2.8–5.6% |
 | [9 May 2019](2019-05-09-ComRes.html) | ComRes <br> Brexit Express | 6.0% | 5.4–6.7% | 5.2–6.9% | 5.0–7.1% | 4.8–7.5% |
 | [3–7 May 2019](2019-05-07-Opinium.html) | Opinium | 2.0% | 1.6–2.5% | 1.6–2.6% | 1.5–2.7% | 1.3–3.0% |
-| [1–7 May 2019](2019-05-07-ComRes.html) | ComRes <br> Remain United | 8.0% | N/A | N/A | N/A | N/A |
+| [1–7 May 2019](2019-05-07-ComRes.html) | ComRes <br> Remain United | 8.0% | 7.5–8.6% | 7.3–8.7% | 7.2–8.9% | 7.0–9.2% |
 | [29–30 April 2019](2019-04-30-YouGov.html) | YouGov <br> The Times | 8.9% | 8.0–9.9% | 7.8–10.2% | 7.6–10.4% | 7.2–10.9% |
 | [23–26 April 2019](2019-04-26-YouGov.html) | YouGov <br> Hope Not Hate | 9.9% | 9.4–10.5% | 9.3–10.6% | 9.1–10.7% | 8.9–11.0% |
 | [17–25 April 2019](2019-04-25-Survation.html) | Survation | 4.0% | 3.4–4.6% | 3.3–4.8% | 3.2–4.9% | 3.0–5.2% |
@@ -78,7 +78,7 @@ Last result: **0** seats (General Election of 22 May 2014)
 | [8–9 May 2019](2019-05-09-Survation.html) | Survation <br> Good Morning Britain | 0 | 0 | 0 | 0 | 0 |
 | [9 May 2019](2019-05-09-ComRes.html) | ComRes <br> Brexit Express | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [3–7 May 2019](2019-05-07-Opinium.html) | Opinium | 0 | 0 | 0 | 0 | 0 |
-| [1–7 May 2019](2019-05-07-ComRes.html) | ComRes <br> Remain United |  |  |  |  |  |
+| [1–7 May 2019](2019-05-07-ComRes.html) | ComRes <br> Remain United | 3 | 3 | 3 | 3–4 | 3–5 |
 | [29–30 April 2019](2019-04-30-YouGov.html) | YouGov <br> The Times | 4 | 2–5 | 2–5 | 2–6 | 2–7 |
 | [23–26 April 2019](2019-04-26-YouGov.html) | YouGov <br> Hope Not Hate | 5 | 5–7 | 4–7 | 4–8 | 4–8 |
 | [17–25 April 2019](2019-04-25-Survation.html) | Survation | 0 | 0 | 0 | 0 | 0 |
