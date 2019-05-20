@@ -74,7 +74,7 @@ Last result: **1** seats (General Election of 22 May 2014)
 | [8–9 May 2019](2019-05-09-Survation.html) | Survation <br> Good Morning Britain | 6 | 5–9 | 5–9 | 4–9 | 4–9 |
 | [9 May 2019](2019-05-09-ComRes.html) | ComRes <br> Brexit Express | 9 | 9–10 | 9–10 | 9–10 | 8–11 |
 | [3–7 May 2019](2019-05-07-Opinium.html) | Opinium | 7 | 5–9 | 5–9 | 5–9 | 4–10 |
-| [1–7 May 2019](2019-05-07-ComRes.html) | ComRes <br> Remain United | 7 | 5–7 | 4–7 | 4–7 | 4–7 |
+| [1–7 May 2019](2019-05-07-ComRes.html) | ComRes <br> Remain United | 6 | 5–7 | 5–8 | 4–8 | 4–9 |
 | [29–30 April 2019](2019-04-30-YouGov.html) | YouGov <br> The Times | 4 | 2–6 | 2–7 | 2–8 | 2–8 |
 | [23–26 April 2019](2019-04-26-YouGov.html) | YouGov <br> Hope Not Hate | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [17–25 April 2019](2019-04-25-Survation.html) | Survation | 2 | 2–3 | 2–3 | 2–4 | 1–5 |
