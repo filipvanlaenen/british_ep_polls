@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/british_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 20 May 2019 17:47:26 +0200</pubDate>
+    <pubDate>Mon, 20 May 2019 22:43:06 +0200</pubDate>
     <item>
       <title>Opinion Poll by Survation for Daily Mail, 17 May 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_ep_polls/2019-05-17-Survation.html#seats</link>
@@ -256,8 +256,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-05-07-ComRes.png"
         length="246021"
         type="image/png"/>
-      <pubDate>Mon, 20 May 2019 17:47:26 +0200</pubDate>
-      <dc:date>2019-05-20T17:47:26.391703+02:00</dc:date>
+      <pubDate>Mon, 20 May 2019 22:43:06 +0200</pubDate>
+      <dc:date>2019-05-20T22:43:06.739844+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 29–30 April 2019 – Seat Projections for the Parties</title>
@@ -639,6 +639,6 @@
       <pubDate>Thu, 18 Apr 2019 09:17:35 +0200</pubDate>
       <dc:date>2019-04-18T09:17:35.516868+02:00</dc:date>
     </item>
-    <dc:date>2019-05-20T17:47:26.391703+02:00</dc:date>
+    <dc:date>2019-05-20T22:43:06.739844+02:00</dc:date>
   </channel>
 </rss>
