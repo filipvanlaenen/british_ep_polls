@@ -20,7 +20,7 @@ Last result: **2.4%** (General Election of 22 May 2014)
 | [8–9 May 2019](2019-05-09-YouGov.html) | YouGov <br> The Times | 3.0% | 2.6–3.5% | 2.4–3.7% | 2.3–3.8% | 2.2–4.1% |
 | [8–9 May 2019](2019-05-09-Survation.html) | Survation <br> Good Morning Britain | 4.0% | 3.4–4.8% | 3.2–5.0% | 3.0–5.2% | 2.8–5.6% |
 | [9 May 2019](2019-05-09-ComRes.html) | ComRes <br> Brexit Express | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
-| [3–7 May 2019](2019-05-07-Opinium.html) | Opinium | 5.0% | 4.4–5.6% | 4.2–5.8% | 4.1–6.0% | 3.8–6.3% |
+| [3–7 May 2019](2019-05-07-Opinium.html) | Opinium | 5.0% | 4.3–5.7% | 4.2–5.9% | 4.1–6.0% | 3.8–6.4% |
 | [1–7 May 2019](2019-05-07-ComRes.html) | ComRes <br> Remain United | 3.0% | 2.7–3.4% | 2.6–3.5% | 2.5–3.6% | 2.4–3.8% |
 | [29–30 April 2019](2019-04-30-YouGov.html) | YouGov <br> The Times | 3.1% | 2.6–3.7% | 2.4–3.9% | 2.3–4.0% | 2.1–4.3% |
 | [23–26 April 2019](2019-04-26-YouGov.html) | YouGov <br> Hope Not Hate | 3.8% | 3.5–4.2% | 3.4–4.3% | 3.4–4.4% | 3.2–4.6% |
