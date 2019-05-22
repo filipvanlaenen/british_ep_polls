@@ -11,7 +11,7 @@ Last result: **6.9%** (General Election of 22 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5.5% | 3.8–9.1% | 3.6–9.5% | 3.4–9.9% | 3.1–10.4% |
-| [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best For Britain | 11.0% | N/A | N/A | N/A | N/A |
+| [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best For Britain | 11.0% | 10.6–11.5% | 10.4–11.7% | 10.3–11.7% | 10.2–11.9% |
 | [17 May 2019](2019-05-17-Survation.html) | Survation <br> Daily Mail | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
 | [12–16 May 2019](2019-05-16-YouGov.html) | YouGov <br> The Times | 10.0% | 9.6–10.5% | 9.4–10.6% | 9.3–10.7% | 9.1–10.9% |
 | [14–16 May 2019](2019-05-16-Opinium.html) | Opinium <br> The Observer | 6.0% | N/A | N/A | N/A | N/A |
