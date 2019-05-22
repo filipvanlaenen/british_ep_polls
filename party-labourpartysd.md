@@ -11,11 +11,11 @@ Last result: **24.4%** (General Election of 22 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 27.3% | 20.6–33.2% | 20.0–34.0% | 19.5–34.7% | 18.8–35.8% |
-| [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best For Britain | 15.0% | 14.4–15.5% | 14.4–15.6% | 14.3–15.8% | 14.0–16.0% |
+| [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best For Britain | 15.0% | 14.5–15.5% | 14.4–15.6% | 14.3–15.7% | 14.1–16.0% |
 | [17 May 2019](2019-05-17-Survation.html) | Survation <br> Daily Mail | 24.7% | 23.0–26.5% | 22.5–27.0% | 22.1–27.5% | 21.3–28.4% |
 | [12–16 May 2019](2019-05-16-YouGov.html) | YouGov <br> The Times | 15.0% | 14.5–15.6% | 14.3–15.7% | 14.2–15.9% | 13.9–16.1% |
-| [14–16 May 2019](2019-05-16-Opinium.html) | Opinium <br> The Observer | 20.0% | N/A | N/A | N/A | N/A |
-| [15–16 May 2019](2019-05-16-ComRes.html) | ComRes <br> Sunday Express and Mirror | 23.2% | N/A | N/A | N/A | N/A |
+| [14–16 May 2019](2019-05-16-Opinium.html) | Opinium <br> The Observer | 20.0% | 18.9–21.2% | 18.6–21.5% | 18.3–21.8% | 17.8–22.4% |
+| [15–16 May 2019](2019-05-16-ComRes.html) | ComRes <br> Sunday Express and Mirror | 23.2% | 22.1–24.5% | 21.7–24.8% | 21.4–25.1% | 20.9–25.7% |
 | [9–13 May 2019](2019-05-13-HanburyStrategy.html) | Hanbury Strategy | 24.6% | 23.4–25.9% | 23.1–26.3% | 22.8–26.6% | 22.2–27.2% |
 | [10–12 May 2019](2019-05-12-ComRes.html) | ComRes <br> Daily Telegraph | 25.0% | 23.7–26.2% | 23.4–26.6% | 23.1–26.9% | 22.5–27.5% |
 | [8–10 May 2019](2019-05-10-Opinium.html) | Opinium <br> The Observer | 21.0% | 19.9–22.2% | 19.6–22.6% | 19.3–22.8% | 18.7–23.4% |
@@ -79,11 +79,11 @@ Last result: **20** seats (General Election of 22 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 27 | 17–30 | 15–31 | 15–34 | 14–36 |
-| [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best For Britain |  |  |  |  |  |
+| [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best For Britain | 11 | 11–12 | 11–12 | 11–12 | 11–12 |
 | [17 May 2019](2019-05-17-Survation.html) | Survation <br> Daily Mail | 21 | 18–23 | 18–24 | 18–25 | 18–26 |
 | [12–16 May 2019](2019-05-16-YouGov.html) | YouGov <br> The Times | 11 | 11–12 | 11–12 | 11–12 | 11–13 |
-| [14–16 May 2019](2019-05-16-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
-| [15–16 May 2019](2019-05-16-ComRes.html) | ComRes <br> Sunday Express and Mirror |  |  |  |  |  |
+| [14–16 May 2019](2019-05-16-Opinium.html) | Opinium <br> The Observer | 16 | 14–18 | 14–18 | 14–19 | 13–19 |
+| [15–16 May 2019](2019-05-16-ComRes.html) | ComRes <br> Sunday Express and Mirror | 19 | 16–21 | 16–22 | 16–23 | 16–24 |
 | [9–13 May 2019](2019-05-13-HanburyStrategy.html) | Hanbury Strategy | 22 | 20–23 | 19–23 | 19–24 | 18–24 |
 | [10–12 May 2019](2019-05-12-ComRes.html) | ComRes <br> Daily Telegraph | 22 | 22–24 | 21–25 | 21–25 | 20–26 |
 | [8–10 May 2019](2019-05-10-Opinium.html) | Opinium <br> The Observer | 17 | 16–17 | 16–18 | 15–18 | 14–19 |
