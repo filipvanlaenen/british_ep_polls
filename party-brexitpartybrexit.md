@@ -10,16 +10,16 @@ Last result: **0.0%** (General Election of 22 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 33.0% | 29.0–36.9% | 28.5–37.3% | 28.1–37.7% | 27.4–38.3% |
+| N/A | [Poll Average](average.html) | 32.3% | 27.8–37.3% | 26.8–38.3% | 26.3–39.2% | 25.4–40.6% |
 | [20–22 May 2019](2019-05-22-BMGResearch.html) | BMG Research <br> The Independent | 34.7% | 33.2–36.2% | 32.7–36.7% | 32.4–37.0% | 31.7–37.8% |
 | [19–21 May 2019](2019-05-21-YouGov.html) | YouGov <br> The Times | 36.6% | 35.7–37.7% | 35.4–37.9% | 35.1–38.2% | 34.7–38.7% |
-| [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 30.0% | N/A | N/A | N/A | N/A |
-| [18–21 May 2019](2019-05-21-NumberCruncherPolitics.html) | Number Cruncher Politics | 32.3% | N/A | N/A | N/A | N/A |
-| [14–21 May 2019](2019-05-21-Kantar.html) | Kantar | 26.9% | N/A | N/A | N/A | N/A |
-| [17–20 May 2019](2019-05-20-Opinium.html) | Opinium <br> The Times | 38.0% | N/A | N/A | N/A | N/A |
+| [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 30.0% | 28.7–31.3% | 28.4–31.7% | 28.0–32.0% | 27.4–32.7% |
+| [18–21 May 2019](2019-05-21-NumberCruncherPolitics.html) | Number Cruncher Politics | 32.3% | 30.5–34.3% | 30.0–34.8% | 29.5–35.3% | 28.6–36.2% |
+| [14–21 May 2019](2019-05-21-Kantar.html) | Kantar | 26.9% | 25.8–28.2% | 25.5–28.5% | 25.2–28.8% | 24.6–29.4% |
+| [17–20 May 2019](2019-05-20-Opinium.html) | Opinium <br> The Times | 38.0% | 36.1–40.0% | 35.5–40.5% | 35.1–41.0% | 34.2–42.0% |
 | [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best For Britain | 34.0% | 33.4–34.6% | 33.2–34.8% | 33.0–35.0% | 32.7–35.3% |
 | [17 May 2019](2019-05-17-Survation.html) | Survation <br> Daily Mail | 30.9% | 29.1–32.8% | 28.5–33.4% | 28.1–33.8% | 27.3–34.8% |
-| [13–17 May 2019](2019-05-17-ComRes.html) | ComRes <br> Electoral Calculus | 33.0% | N/A | N/A | N/A | N/A |
+| [13–17 May 2019](2019-05-17-ComRes.html) | ComRes <br> Electoral Calculus | 33.0% | 32.1–34.0% | 31.8–34.2% | 31.6–34.5% | 31.1–34.9% |
 | [12–16 May 2019](2019-05-16-YouGov.html) | YouGov <br> The Times | 35.0% | 34.3–35.7% | 34.1–35.9% | 33.9–36.1% | 33.5–36.5% |
 | [14–16 May 2019](2019-05-16-Opinium.html) | Opinium <br> The Observer | 34.0% | 32.6–35.4% | 32.3–35.8% | 31.9–36.1% | 31.3–36.8% |
 | [15–16 May 2019](2019-05-16-ComRes.html) | ComRes <br> Sunday Express and Mirror | 31.3% | 30.0–32.6% | 29.6–33.0% | 29.3–33.4% | 28.7–34.0% |
@@ -78,22 +78,25 @@ The following table shows the probability mass function per percentage block of 
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0% | 100% |  |
 | 23.5–24.5% | 0% | 100% |  |
-| 24.5–25.5% | 0% | 100% |  |
-| 25.5–26.5% | 0.1% | 100% |  |
-| 26.5–27.5% | 0.7% | 99.9% |  |
-| 27.5–28.5% | 4% | 99.2% |  |
-| 28.5–29.5% | 12% | 95% |  |
-| 29.5–30.5% | 14% | 83% |  |
-| 30.5–31.5% | 10% | 69% |  |
-| 31.5–32.5% | 6% | 59% |  |
-| 32.5–33.5% | 6% | 53% | Median |
-| 33.5–34.5% | 8% | 47% |  |
-| 34.5–35.5% | 10% | 39% |  |
-| 35.5–36.5% | 14% | 29% |  |
-| 36.5–37.5% | 12% | 15% |  |
-| 37.5–38.5% | 3% | 3% |  |
-| 38.5–39.5% | 0.2% | 0.2% |  |
-| 39.5–40.5% | 0% | 0% |  |
+| 24.5–25.5% | 0.6% | 100% |  |
+| 25.5–26.5% | 3% | 99.3% |  |
+| 26.5–27.5% | 5% | 96% |  |
+| 27.5–28.5% | 5% | 91% |  |
+| 28.5–29.5% | 9% | 86% |  |
+| 29.5–30.5% | 11% | 78% |  |
+| 30.5–31.5% | 10% | 66% |  |
+| 31.5–32.5% | 9% | 57% | Median |
+| 32.5–33.5% | 11% | 48% |  |
+| 33.5–34.5% | 7% | 36% |  |
+| 34.5–35.5% | 6% | 29% |  |
+| 35.5–36.5% | 8% | 24% |  |
+| 36.5–37.5% | 8% | 16% |  |
+| 37.5–38.5% | 4% | 8% |  |
+| 38.5–39.5% | 2% | 4% |  |
+| 39.5–40.5% | 1.2% | 2% |  |
+| 40.5–41.5% | 0.4% | 0.5% |  |
+| 41.5–42.5% | 0.1% | 0.1% |  |
+| 42.5–43.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -104,13 +107,13 @@ Last result: **0** seats (General Election of 22 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31 | 27–35 | 26–35 | 25–35 | 24–37 |
+| N/A | [Poll Average](average.html) | 30 | 25–35 | 22–35 | 22–36 | 22–36 |
 | [20–22 May 2019](2019-05-22-BMGResearch.html) | BMG Research <br> The Independent | 33 | 30–33 | 30–33 | 30–33 | 28–33 |
 | [19–21 May 2019](2019-05-21-YouGov.html) | YouGov <br> The Times | 35 | 33–35 | 33–36 | 33–36 | 33–37 |
-| [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times |  |  |  |  |  |
-| [18–21 May 2019](2019-05-21-NumberCruncherPolitics.html) | Number Cruncher Politics |  |  |  |  |  |
-| [14–21 May 2019](2019-05-21-Kantar.html) | Kantar |  |  |  |  |  |
-| [17–20 May 2019](2019-05-20-Opinium.html) | Opinium <br> The Times |  |  |  |  |  |
+| [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 26 | 25–28 | 25–28 | 25–28 | 25–31 |
+| [18–21 May 2019](2019-05-21-NumberCruncherPolitics.html) | Number Cruncher Politics | 28 | 28–33 | 28–33 | 28–33 | 28–33 |
+| [14–21 May 2019](2019-05-21-Kantar.html) | Kantar | 25 | 22–30 | 22–30 | 22–30 | 22–30 |
+| [17–20 May 2019](2019-05-20-Opinium.html) | Opinium <br> The Times | 33 | 33–36 | 33–36 | 33–36 | 30–36 |
 | [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best For Britain | 33 | 33 | 32–33 | 32–33 | 32–33 |
 | [17 May 2019](2019-05-17-Survation.html) | Survation <br> Daily Mail | 29 | 26–31 | 25–31 | 25–32 | 24–32 |
 | [13–17 May 2019](2019-05-17-ComRes.html) | ComRes <br> Electoral Calculus |  |  |  |  |  |
@@ -171,22 +174,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
 | 21 | 0% | 100% |  |
-| 22 | 0% | 100% |  |
-| 23 | 0.2% | 100% |  |
-| 24 | 0.8% | 99.8% |  |
-| 25 | 2% | 99.0% |  |
-| 26 | 4% | 97% |  |
-| 27 | 16% | 92% |  |
-| 28 | 8% | 76% |  |
-| 29 | 12% | 68% |  |
-| 30 | 5% | 57% |  |
-| 31 | 3% | 51% | Median |
-| 32 | 2% | 48% |  |
-| 33 | 24% | 46% |  |
-| 34 | 3% | 22% |  |
-| 35 | 18% | 20% |  |
-| 36 | 1.5% | 2% | Majority |
-| 37 | 0.5% | 0.5% |  |
+| 22 | 6% | 100% |  |
+| 23 | 0.1% | 94% |  |
+| 24 | 0.5% | 94% |  |
+| 25 | 4% | 94% |  |
+| 26 | 11% | 90% |  |
+| 27 | 8% | 79% |  |
+| 28 | 14% | 71% |  |
+| 29 | 6% | 57% |  |
+| 30 | 9% | 50% | Median |
+| 31 | 2% | 42% |  |
+| 32 | 1.0% | 39% |  |
+| 33 | 22% | 38% |  |
+| 34 | 1.4% | 16% |  |
+| 35 | 10% | 15% |  |
+| 36 | 5% | 5% | Majority |
+| 37 | 0.3% | 0.3% |  |
 | 38 | 0% | 0% |  |
 
 
