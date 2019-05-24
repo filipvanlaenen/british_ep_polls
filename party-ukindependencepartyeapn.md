@@ -19,7 +19,7 @@ Last result: **26.6%** (General Election of 22 May 2014)
 | [17–20 May 2019](2019-05-20-Opinium.html) | Opinium <br> The Times | 2.0% | 1.5–2.6% | 1.4–2.8% | 1.3–3.0% | 1.1–3.4% |
 | [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best For Britain | 3.0% | 2.8–3.2% | 2.7–3.3% | 2.7–3.4% | 2.6–3.5% |
 | [17 May 2019](2019-05-17-Survation.html) | Survation <br> Daily Mail | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.2–4.4% | 1.9–4.8% |
-| [13–17 May 2019](2019-05-17-ComRes.html) | ComRes <br> Electoral Calculus | 3.1% | 2.7–3.5% | 2.7–3.6% | 2.6–3.7% | 2.5–3.9% |
+| [13–17 May 2019](2019-05-17-ComRes.html) | ComRes <br> Electoral Calculus | 3.1% | 2.8–3.5% | 2.7–3.6% | 2.6–3.7% | 2.5–3.9% |
 | [12–16 May 2019](2019-05-16-YouGov.html) | YouGov <br> The Times | 3.0% | 2.8–3.3% | 2.7–3.4% | 2.6–3.4% | 2.5–3.6% |
 | [14–16 May 2019](2019-05-16-Opinium.html) | Opinium <br> The Observer | 2.0% | 1.6–2.5% | 1.5–2.6% | 1.5–2.7% | 1.3–2.9% |
 | [15–16 May 2019](2019-05-16-ComRes.html) | ComRes <br> Sunday Express and Mirror | 2.0% | 1.7–2.5% | 1.6–2.6% | 1.5–2.7% | 1.3–3.0% |
@@ -100,7 +100,7 @@ Last result: **24** seats (General Election of 22 May 2014)
 | [17–20 May 2019](2019-05-20-Opinium.html) | Opinium <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best For Britain | 0 | 0 | 0 | 0 | 0 |
 | [17 May 2019](2019-05-17-Survation.html) | Survation <br> Daily Mail | 0 | 0 | 0 | 0 | 0 |
-| [13–17 May 2019](2019-05-17-ComRes.html) | ComRes <br> Electoral Calculus |  |  |  |  |  |
+| [13–17 May 2019](2019-05-17-ComRes.html) | ComRes <br> Electoral Calculus | 0 | 0 | 0 | 0 | 0 |
 | [12–16 May 2019](2019-05-16-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [14–16 May 2019](2019-05-16-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0 |
 | [15–16 May 2019](2019-05-16-ComRes.html) | ComRes <br> Sunday Express and Mirror | 0 | 0 | 0 | 0 | 0 |

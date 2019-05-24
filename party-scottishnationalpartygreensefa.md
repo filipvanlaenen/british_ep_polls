@@ -19,7 +19,7 @@ Last result: **2.4%** (General Election of 22 May 2014)
 | [17–20 May 2019](2019-05-20-Opinium.html) | Opinium <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
 | [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best For Britain | 3.0% | 2.8–3.2% | 2.7–3.3% | 2.7–3.4% | 2.6–3.5% |
 | [17 May 2019](2019-05-17-Survation.html) | Survation <br> Daily Mail | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
-| [13–17 May 2019](2019-05-17-ComRes.html) | ComRes <br> Electoral Calculus | 3.1% | 2.7–3.5% | 2.7–3.6% | 2.6–3.7% | 2.5–3.9% |
+| [13–17 May 2019](2019-05-17-ComRes.html) | ComRes <br> Electoral Calculus | 3.1% | 2.8–3.5% | 2.7–3.6% | 2.6–3.7% | 2.5–3.9% |
 | [12–16 May 2019](2019-05-16-YouGov.html) | YouGov <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
 | [14–16 May 2019](2019-05-16-Opinium.html) | Opinium <br> The Observer | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–4.9% | 3.0–5.2% |
 | [15–16 May 2019](2019-05-16-ComRes.html) | ComRes <br> Sunday Express and Mirror | 3.0% | 2.6–3.6% | 2.5–3.7% | 2.4–3.9% | 2.2–4.2% |
@@ -70,16 +70,16 @@ Last result: **2** seats (General Election of 22 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [20–22 May 2019](2019-05-22-BMGResearch.html) | BMG Research <br> The Independent | 3 | 3 | 2–3 | 2–3 | 2–3 |
-| [19–21 May 2019](2019-05-21-YouGov.html) | YouGov <br> The Times | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 4 | 4 | 3–4 | 3–4 | 3–4 |
-| [18–21 May 2019](2019-05-21-NumberCruncherPolitics.html) | Number Cruncher Politics | 3 | 3 | 3 | 3 | 3–4 |
-| [14–21 May 2019](2019-05-21-Kantar.html) | Kantar | 3 | 3 | 3–4 | 3–4 | 2–4 |
+| [19–21 May 2019](2019-05-21-YouGov.html) | YouGov <br> The Times | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [18–21 May 2019](2019-05-21-NumberCruncherPolitics.html) | Number Cruncher Politics | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| [14–21 May 2019](2019-05-21-Kantar.html) | Kantar | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [17–20 May 2019](2019-05-20-Opinium.html) | Opinium <br> The Times |  |  |  |  |  |
 | [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best For Britain | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [17 May 2019](2019-05-17-Survation.html) | Survation <br> Daily Mail | 4 | 3–4 | 3–4 | 2–5 | 2–5 |
-| [13–17 May 2019](2019-05-17-ComRes.html) | ComRes <br> Electoral Calculus |  |  |  |  |  |
+| [13–17 May 2019](2019-05-17-ComRes.html) | ComRes <br> Electoral Calculus | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [12–16 May 2019](2019-05-16-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [14–16 May 2019](2019-05-16-Opinium.html) | Opinium <br> The Observer | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [15–16 May 2019](2019-05-16-ComRes.html) | ComRes <br> Sunday Express and Mirror | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -115,9 +115,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 9% | 100% | Last Result |
-| 3 | 68% | 91% | Median |
-| 4 | 23% | 24% |  |
+| 2 | 11% | 100% | Last Result |
+| 3 | 75% | 89% | Median |
+| 4 | 13% | 14% |  |
 | 5 | 0.4% | 0.4% |  |
 | 6 | 0% | 0% |  |
 
