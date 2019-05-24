@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/british_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 24 May 2019 20:23:33 +0200</pubDate>
+    <pubDate>Sat, 25 May 2019 00:33:40 +0200</pubDate>
     <item>
       <title>Opinion Poll by BMG Research for The Independent, 20–22 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_ep_polls/2019-05-22-BMGResearch.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-05-22-BMGResearch.png"
         length="245749"
         type="image/png"/>
-      <pubDate>Thu, 23 May 2019 22:53:41 +0200</pubDate>
-      <dc:date>2019-05-23T22:53:41.600922+02:00</dc:date>
+      <pubDate>Fri, 24 May 2019 23:57:28 +0200</pubDate>
+      <dc:date>2019-05-24T23:57:28.688252+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 19–21 May 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-05-21-YouGov.png"
         length="243754"
         type="image/png"/>
-      <pubDate>Fri, 24 May 2019 06:47:01 +0200</pubDate>
-      <dc:date>2019-05-24T06:47:01.44575+02:00</dc:date>
+      <pubDate>Sat, 25 May 2019 00:15:48 +0200</pubDate>
+      <dc:date>2019-05-25T00:15:48.788531+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Panelbase for The Sunday Times, 14–21 May 2019 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-05-21-Panelbase.png"
         length="243423"
         type="image/png"/>
-      <pubDate>Fri, 24 May 2019 19:19:26 +0200</pubDate>
-      <dc:date>2019-05-24T19:19:26.648552+02:00</dc:date>
+      <pubDate>Sat, 25 May 2019 00:33:40 +0200</pubDate>
+      <dc:date>2019-05-25T00:33:40.524306+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Number Cruncher Politics, 18–21 May 2019 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-05-21-NumberCruncherPolitics.png"
         length="282349"
         type="image/png"/>
-      <pubDate>Fri, 24 May 2019 19:24:50 +0200</pubDate>
-      <dc:date>2019-05-24T19:24:50.589664+02:00</dc:date>
+      <pubDate>Fri, 24 May 2019 22:22:12 +0200</pubDate>
+      <dc:date>2019-05-24T22:22:12.913242+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar, 14–21 May 2019 – Voting Intentions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-05-21-Kantar.png"
         length="262505"
         type="image/png"/>
-      <pubDate>Fri, 24 May 2019 19:35:37 +0200</pubDate>
-      <dc:date>2019-05-24T19:35:37.886978+02:00</dc:date>
+      <pubDate>Fri, 24 May 2019 22:30:21 +0200</pubDate>
+      <dc:date>2019-05-24T22:30:21.030839+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinium for The Times, 17–20 May 2019 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-05-20-Opinium.png"
         length="191382"
         type="image/png"/>
-      <pubDate>Fri, 24 May 2019 20:23:33 +0200</pubDate>
-      <dc:date>2019-05-24T20:23:33.235497+02:00</dc:date>
+      <pubDate>Fri, 24 May 2019 23:14:32 +0200</pubDate>
+      <dc:date>2019-05-24T23:14:32.780346+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for Best For Britain, 8–17 May 2019 – Seat Projections for the Parties</title>
@@ -128,6 +128,16 @@
         type="image/png"/>
       <pubDate>Sun, 19 May 2019 14:16:12 +0200</pubDate>
       <dc:date>2019-05-19T14:16:12.563788+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ComRes for Electoral Calculus, 13–17 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_ep_polls/2019-05-17-ComRes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party (ECR): 8.4–10.2%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 21.4–24.0%&lt;/li&gt;&lt;li&gt;Liberal Democrats (ALDE): 13.4–15.5%&lt;/li&gt;&lt;li&gt;Scottish National Party (Greens/EFA): 2.6–3.7%&lt;/li&gt;&lt;li&gt;Plaid Cymru (Greens/EFA): 0.8–1.4%&lt;/li&gt;&lt;li&gt;UK Independence Party (EAPN): 2.6–3.7%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 6.5–8.0%&lt;/li&gt;&lt;li&gt;Brexit Party (BREXIT): 31.6–34.4%&lt;/li&gt;&lt;li&gt;Change UK (ALDE): 4.5–5.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-05-17-ComRes.png"
+        length="247734"
+        type="image/png"/>
+      <pubDate>Fri, 24 May 2019 22:39:04 +0200</pubDate>
+      <dc:date>2019-05-24T22:39:04.209198+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 12–16 May 2019 – Seat Projections for the Parties</title>
@@ -809,6 +819,6 @@
       <pubDate>Thu, 18 Apr 2019 09:17:35 +0200</pubDate>
       <dc:date>2019-04-18T09:17:35.516868+02:00</dc:date>
     </item>
-    <dc:date>2019-05-24T20:23:33.235497+02:00</dc:date>
+    <dc:date>2019-05-25T00:33:40.524306+02:00</dc:date>
   </channel>
 </rss>
