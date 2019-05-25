@@ -109,7 +109,7 @@ Last result: **0** seats (General Election of 22 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 31 | 25–35 | 24–36 | 23–37 | 23–38 |
-| [20–22 May 2019](2019-05-22-IpsosMORI.html) | Ipsos MORI | 34 | 31–35 | 30–35 | 29–35 | 28–37 |
+| [20–22 May 2019](2019-05-22-IpsosMORI.html) | Ipsos MORI | 34 | 31–35 | 30–35 | 29–35 | 29–37 |
 | [20–22 May 2019](2019-05-22-BMGResearch.html) | BMG Research <br> The Independent | 33 | 31–34 | 30–34 | 29–34 | 28–34 |
 | [19–21 May 2019](2019-05-21-YouGov.html) | YouGov <br> The Times | 35 | 34–36 | 34–37 | 33–37 | 33–37 |
 | [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 27 | 26–28 | 25–29 | 25–30 | 24–31 |
@@ -185,11 +185,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 28 | 6% | 73% |  |
 | 29 | 8% | 66% |  |
 | 30 | 5% | 59% |  |
-| 31 | 6% | 54% | Median |
+| 31 | 6% | 53% | Median |
 | 32 | 10% | 48% |  |
 | 33 | 11% | 38% |  |
-| 34 | 6% | 27% |  |
-| 35 | 13% | 21% |  |
+| 34 | 6% | 26% |  |
+| 35 | 13% | 20% |  |
 | 36 | 4% | 7% | Majority |
 | 37 | 2% | 3% |  |
 | 38 | 0.6% | 0.8% |  |
