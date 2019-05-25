@@ -83,15 +83,15 @@ Last result: **20** seats (General Election of 22 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18 | 11–22 | 10–23 | 9–23 | 8–24 |
-| [20–22 May 2019](2019-05-22-BMGResearch.html) | BMG Research <br> The Independent | 13 | 12–16 | 12–16 | 12–16 | 12–17 |
-| [19–21 May 2019](2019-05-21-YouGov.html) | YouGov <br> The Times | 11 | 9–11 | 8–11 | 8–12 | 7–12 |
-| [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 21 | 20–23 | 20–23 | 19–24 | 18–25 |
+| [20–22 May 2019](2019-05-22-BMGResearch.html) | BMG Research <br> The Independent | 14 | 12–15 | 12–16 | 12–16 | 12–17 |
+| [19–21 May 2019](2019-05-21-YouGov.html) | YouGov <br> The Times | 10 | 9–11 | 9–12 | 8–12 | 7–12 |
+| [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 21 | 20–23 | 20–23 | 19–24 | 18–24 |
 | [18–21 May 2019](2019-05-21-NumberCruncherPolitics.html) | Number Cruncher Politics | 15 | 13–16 | 13–16 | 12–17 | 12–18 |
-| [14–21 May 2019](2019-05-21-Kantar.html) | Kantar | 22 | 21–22 | 20–22 | 20–23 | 20–24 |
-| [17–20 May 2019](2019-05-20-Opinium.html) | Opinium <br> The Times | 13 | 12–15 | 12–15 | 12–16 | 11–17 |
+| [14–21 May 2019](2019-05-21-Kantar.html) | Kantar | 21 | 20–22 | 20–23 | 20–23 | 19–24 |
+| [17–20 May 2019](2019-05-20-Opinium.html) | Opinium <br> The Times | 13 | 12–15 | 12–15 | 12–15 | 11–17 |
 | [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best For Britain | 11 | 11–12 | 11–12 | 11–12 | 11–12 |
 | [17 May 2019](2019-05-17-Survation.html) | Survation <br> Daily Mail | 21 | 18–23 | 18–24 | 18–25 | 18–26 |
-| [13–17 May 2019](2019-05-17-ComRes.html) | ComRes <br> Electoral Calculus | 18 | 17–19 | 17–20 | 16–20 | 16–21 |
+| [13–17 May 2019](2019-05-17-ComRes.html) | ComRes <br> Electoral Calculus | 18 | 17–20 | 17–20 | 17–22 | 16–22 |
 | [12–16 May 2019](2019-05-16-YouGov.html) | YouGov <br> The Times | 11 | 11–12 | 11–12 | 11–12 | 11–13 |
 | [14–16 May 2019](2019-05-16-Opinium.html) | Opinium <br> The Observer | 16 | 14–18 | 14–18 | 14–19 | 13–19 |
 | [15–16 May 2019](2019-05-16-ComRes.html) | ComRes <br> Sunday Express and Mirror | 19 | 16–21 | 16–22 | 16–23 | 16–24 |
@@ -128,24 +128,24 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 0.1% | 100% |  |
-| 8 | 0.5% | 99.8% |  |
-| 9 | 2% | 99.4% |  |
+| 8 | 0.4% | 99.9% |  |
+| 9 | 2% | 99.5% |  |
 | 10 | 3% | 97% |  |
-| 11 | 6% | 95% |  |
-| 12 | 6% | 89% |  |
-| 13 | 11% | 83% |  |
-| 14 | 6% | 73% |  |
-| 15 | 7% | 67% |  |
+| 11 | 5% | 94% |  |
+| 12 | 5% | 89% |  |
+| 13 | 10% | 84% |  |
+| 14 | 8% | 74% |  |
+| 15 | 6% | 66% |  |
 | 16 | 4% | 60% |  |
-| 17 | 3% | 56% |  |
-| 18 | 8% | 52% | Median |
-| 19 | 4% | 45% |  |
-| 20 | 6% | 40% | Last Result |
+| 17 | 2% | 56% |  |
+| 18 | 6% | 54% | Median |
+| 19 | 7% | 47% |  |
+| 20 | 7% | 41% | Last Result |
 | 21 | 12% | 34% |  |
-| 22 | 15% | 22% |  |
+| 22 | 14% | 22% |  |
 | 23 | 6% | 8% |  |
 | 24 | 1.1% | 2% |  |
-| 25 | 0.3% | 0.5% |  |
+| 25 | 0.3% | 0.4% |  |
 | 26 | 0.1% | 0.2% |  |
 | 27 | 0% | 0% |  |
 
