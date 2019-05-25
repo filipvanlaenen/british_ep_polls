@@ -85,7 +85,7 @@ Last result: **3** seats (General Election of 22 May 2014)
 | [17–20 May 2019](2019-05-20-Opinium.html) | Opinium <br> The Times | 2 | 0–2 | 0–3 | 0–4 | 0–4 |
 | [8–17 May 2019](2019-05-17-YouGov.html) | YouGov <br> Best For Britain | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [17 May 2019](2019-05-17-Survation.html) | Survation <br> Daily Mail | 0 | 0 | 0 | 0 | 0–1 |
-| [13–17 May 2019](2019-05-17-ComRes.html) | ComRes <br> Electoral Calculus | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
+| [13–17 May 2019](2019-05-17-ComRes.html) | ComRes <br> Electoral Calculus | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [12–16 May 2019](2019-05-16-YouGov.html) | YouGov <br> The Times | 7 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [14–16 May 2019](2019-05-16-Opinium.html) | Opinium <br> The Observer | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [15–16 May 2019](2019-05-16-ComRes.html) | ComRes <br> Sunday Express and Mirror | 4 | 2–5 | 2–5 | 2–5 | 2–5 |
@@ -122,8 +122,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 26% | 100% |  |
-| 1 | 26% | 74% | Median |
-| 2 | 26% | 48% |  |
+| 1 | 25% | 74% | Median |
+| 2 | 27% | 49% |  |
 | 3 | 6% | 22% | Last Result |
 | 4 | 5% | 16% |  |
 | 5 | 0.2% | 11% |  |
