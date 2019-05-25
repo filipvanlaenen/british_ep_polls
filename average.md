@@ -294,7 +294,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#labour-party-(s&d)">Labour Party (S&D)</a> | 20 | 17 | 11–22 |10–23 | 9–23 | 9–24 |
 | <a href="#conservative-party-(ecr)">Conservative Party (ECR)</a> | 19 | 8 | 1–9 |1–9 | 1–10 | 1–11 |
 | <a href="#green-party-(greens/efa)">Green Party (Greens/EFA)</a> | 3 | 2 | 0–6 |0–7 | 0–7 | 0–8 |
-| <a href="#liberal-democrats-(alde)">Liberal Democrats (ALDE)</a> | 1 | 10 | 9–13 |8–14 | 7–15 | 5–17 |
+| <a href="#liberal-democrats-(alde)">Liberal Democrats (ALDE)</a> | 1 | 10 | 9–13 |8–14 | 7–15 | 5–18 |
 | <a href="#scottish-national-party-(greens/efa)">Scottish National Party (Greens/EFA)</a> | 2 | 3 | 2–4 |2–4 | 2–4 | 2–4 |
 | <a href="#plaid-cymru-(greens/efa)">Plaid Cymru (Greens/EFA)</a> | 1 | 1 | 0–1 |0–1 | 0–2 | 0–2 |
 | <a href="#brexit-party-(brexit)">Brexit Party (BREXIT)</a> | 0 | 31 | 25–35 |24–36 | 23–37 | 23–38 |
@@ -345,11 +345,11 @@ Only polls for which at least the sample size has been published are included in
 | 7 | 0.1% | 100% |  |
 | 8 | 0.4% | 99.9% |  |
 | 9 | 2% | 99.5% |  |
-| 10 | 4% | 97% |  |
-| 11 | 8% | 94% |  |
-| 12 | 9% | 86% |  |
-| 13 | 9% | 77% |  |
-| 14 | 8% | 67% |  |
+| 10 | 3% | 97% |  |
+| 11 | 9% | 94% |  |
+| 12 | 9% | 85% |  |
+| 13 | 9% | 76% |  |
+| 14 | 7% | 67% |  |
 | 15 | 5% | 60% |  |
 | 16 | 4% | 54% |  |
 | 17 | 3% | 50% | Median |
@@ -372,10 +372,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 11% | 100% |  |
-| 2 | 1.0% | 89% |  |
-| 3 | 4% | 88% |  |
-| 4 | 11% | 85% |  |
+| 1 | 10% | 100% |  |
+| 2 | 1.3% | 90% |  |
+| 3 | 5% | 88% |  |
+| 4 | 10% | 84% |  |
 | 5 | 3% | 73% |  |
 | 6 | 9% | 71% |  |
 | 7 | 6% | 61% |  |
@@ -403,10 +403,10 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 24% | 100% |  |
 | 1 | 22% | 76% |  |
 | 2 | 25% | 54% | Median |
-| 3 | 9% | 29% | Last Result |
-| 4 | 5% | 20% |  |
-| 5 | 0.6% | 15% |  |
-| 6 | 7% | 14% |  |
+| 3 | 8% | 29% | Last Result |
+| 4 | 6% | 22% |  |
+| 5 | 0.6% | 16% |  |
+| 6 | 7% | 15% |  |
 | 7 | 6% | 8% |  |
 | 8 | 1.0% | 1.5% |  |
 | 9 | 0.4% | 0.5% |  |
@@ -433,14 +433,15 @@ Only polls for which at least the sample size has been published are included in
 | 10 | 20% | 66% | Median |
 | 11 | 19% | 46% |  |
 | 12 | 12% | 27% |  |
-| 13 | 7% | 16% |  |
-| 14 | 4% | 8% |  |
-| 15 | 3% | 4% |  |
-| 16 | 0.5% | 1.3% |  |
-| 17 | 0.4% | 0.8% |  |
-| 18 | 0.2% | 0.5% |  |
-| 19 | 0.2% | 0.3% |  |
-| 20 | 0% | 0% |  |
+| 13 | 8% | 15% |  |
+| 14 | 3% | 8% |  |
+| 15 | 3% | 5% |  |
+| 16 | 0.4% | 1.5% |  |
+| 17 | 0.3% | 1.1% |  |
+| 18 | 0.4% | 0.8% |  |
+| 19 | 0.3% | 0.4% |  |
+| 20 | 0.1% | 0.1% |  |
+| 21 | 0% | 0% |  |
 
 ### Scottish National Party (Greens/EFA)
 
@@ -450,8 +451,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 14% | 100% | Last Result |
-| 3 | 71% | 86% | Median |
+| 2 | 15% | 100% | Last Result |
+| 3 | 71% | 85% | Median |
 | 4 | 14% | 15% |  |
 | 5 | 0.3% | 0.3% |  |
 | 6 | 0% | 0% |  |
@@ -508,11 +509,11 @@ Only polls for which at least the sample size has been published are included in
 | 28 | 6% | 73% |  |
 | 29 | 8% | 66% |  |
 | 30 | 5% | 59% |  |
-| 31 | 6% | 54% | Median |
+| 31 | 6% | 53% | Median |
 | 32 | 10% | 48% |  |
 | 33 | 11% | 38% |  |
-| 34 | 6% | 27% |  |
-| 35 | 13% | 21% |  |
+| 34 | 6% | 26% |  |
+| 35 | 13% | 20% |  |
 | 36 | 4% | 7% | Majority |
 | 37 | 2% | 3% |  |
 | 38 | 0.6% | 0.8% |  |
@@ -542,7 +543,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Brexit Party (BREXIT) | 0 | 31 | 7% | 25–35 | 24–36 | 23–37 | 23–38 |
 | Labour Party (S&D) | 20 | 17 | 0% | 11–22 | 10–23 | 9–23 | 9–24 |
-| Liberal Democrats (ALDE) – Change UK (ALDE) | 1 | 10 | 0% | 9–13 | 8–14 | 7–15 | 5–17 |
+| Liberal Democrats (ALDE) – Change UK (ALDE) | 1 | 10 | 0% | 9–13 | 8–14 | 7–15 | 5–18 |
 | Green Party (Greens/EFA) – Scottish National Party (Greens/EFA) – Plaid Cymru (Greens/EFA) | 6 | 5 | 0% | 3–10 | 3–10 | 2–10 | 2–12 |
 | Conservative Party (ECR) | 19 | 8 | 0% | 1–9 | 1–9 | 1–10 | 1–11 |
 | UK Independence Party (EAPN) | 24 | 0 | 0% | 0 | 0 | 0 | 0 |
@@ -584,11 +585,11 @@ Only polls for which at least the sample size has been published are included in
 | 28 | 6% | 73% |  |
 | 29 | 8% | 66% |  |
 | 30 | 5% | 59% |  |
-| 31 | 6% | 54% | Median |
+| 31 | 6% | 53% | Median |
 | 32 | 10% | 48% |  |
 | 33 | 11% | 38% |  |
-| 34 | 6% | 27% |  |
-| 35 | 13% | 21% |  |
+| 34 | 6% | 26% |  |
+| 35 | 13% | 20% |  |
 | 36 | 4% | 7% | Majority |
 | 37 | 2% | 3% |  |
 | 38 | 0.6% | 0.8% |  |
@@ -604,11 +605,11 @@ Only polls for which at least the sample size has been published are included in
 | 7 | 0.1% | 100% |  |
 | 8 | 0.4% | 99.9% |  |
 | 9 | 2% | 99.5% |  |
-| 10 | 4% | 97% |  |
-| 11 | 8% | 94% |  |
-| 12 | 9% | 86% |  |
-| 13 | 9% | 77% |  |
-| 14 | 8% | 67% |  |
+| 10 | 3% | 97% |  |
+| 11 | 9% | 94% |  |
+| 12 | 9% | 85% |  |
+| 13 | 9% | 76% |  |
+| 14 | 7% | 67% |  |
 | 15 | 5% | 60% |  |
 | 16 | 4% | 54% |  |
 | 17 | 3% | 50% | Median |
@@ -641,14 +642,15 @@ Only polls for which at least the sample size has been published are included in
 | 10 | 22% | 68% | Median |
 | 11 | 19% | 47% |  |
 | 12 | 12% | 28% |  |
-| 13 | 7% | 16% |  |
-| 14 | 4% | 8% |  |
-| 15 | 3% | 4% |  |
-| 16 | 0.5% | 1.3% |  |
-| 17 | 0.4% | 0.8% |  |
-| 18 | 0.2% | 0.5% |  |
-| 19 | 0.2% | 0.3% |  |
-| 20 | 0% | 0% |  |
+| 13 | 8% | 15% |  |
+| 14 | 3% | 8% |  |
+| 15 | 3% | 5% |  |
+| 16 | 0.4% | 1.5% |  |
+| 17 | 0.3% | 1.1% |  |
+| 18 | 0.4% | 0.8% |  |
+| 19 | 0.3% | 0.4% |  |
+| 20 | 0.1% | 0.1% |  |
+| 21 | 0% | 0% |  |
 
 ### Green Party (Greens/EFA) – Scottish National Party (Greens/EFA) – Plaid Cymru (Greens/EFA)
 
@@ -660,11 +662,11 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 8% | 97% |  |
 | 4 | 25% | 89% |  |
 | 5 | 19% | 65% |  |
-| 6 | 22% | 46% | Last Result, Median |
-| 7 | 8% | 24% |  |
-| 8 | 2% | 16% |  |
-| 9 | 4% | 15% |  |
-| 10 | 8% | 10% |  |
+| 6 | 21% | 46% | Last Result, Median |
+| 7 | 9% | 25% |  |
+| 8 | 1.3% | 17% |  |
+| 9 | 5% | 15% |  |
+| 10 | 8% | 11% |  |
 | 11 | 2% | 2% |  |
 | 12 | 0.4% | 0.6% |  |
 | 13 | 0.2% | 0.2% |  |
@@ -676,10 +678,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 11% | 100% |  |
-| 2 | 1.0% | 89% |  |
-| 3 | 4% | 88% |  |
-| 4 | 11% | 85% |  |
+| 1 | 10% | 100% |  |
+| 2 | 1.3% | 90% |  |
+| 3 | 5% | 88% |  |
+| 4 | 10% | 84% |  |
 | 5 | 3% | 73% |  |
 | 6 | 9% | 71% |  |
 | 7 | 6% | 61% |  |
@@ -732,6 +734,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 10
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 9,568,256
++ **Lowest number of simulations done in a poll included in this average:** 524,288
++ **Total number of simulations done in the polls included in this average:** 9,961,472
 + **Error estimate:** 2.04%
