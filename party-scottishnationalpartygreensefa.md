@@ -10,7 +10,8 @@ Last result: **2.4%** (General Election of 22 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.4% | 2.8–4.5% | 2.6–4.7% | 2.5–5.0% | 2.3–5.5% |
+| N/A | [Poll Average](average.html) | 3.4% | 2.7–4.4% | 2.6–4.7% | 2.4–4.9% | 2.2–5.5% |
+| [20–22 May 2019](2019-05-22-IpsosMORI.html) | Ipsos MORI | 2.9% | 2.5–3.6% | 2.3–3.8% | 2.2–3.9% | 2.0–4.3% |
 | [20–22 May 2019](2019-05-22-BMGResearch.html) | BMG Research <br> The Independent | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.3–4.0% | 2.1–4.3% |
 | [19–21 May 2019](2019-05-21-YouGov.html) | YouGov <br> The Times | 3.0% | 2.7–3.4% | 2.6–3.5% | 2.5–3.6% | 2.3–3.8% |
 | [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–4.9% | 3.0–5.2% |
@@ -54,10 +55,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 3% | 100% | Last Result |
-| 2.5–3.5% | 52% | 97% | Median |
-| 3.5–4.5% | 37% | 45% |  |
-| 4.5–5.5% | 8% | 8% |  |
+| 1.5–2.5% | 4% | 100% | Last Result |
+| 2.5–3.5% | 54% | 96% | Median |
+| 3.5–4.5% | 34% | 41% |  |
+| 4.5–5.5% | 7% | 7% |  |
 | 5.5–6.5% | 0.4% | 0.4% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
@@ -71,6 +72,7 @@ Last result: **2** seats (General Election of 22 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [20–22 May 2019](2019-05-22-IpsosMORI.html) | Ipsos MORI | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [20–22 May 2019](2019-05-22-BMGResearch.html) | BMG Research <br> The Independent | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [19–21 May 2019](2019-05-21-YouGov.html) | YouGov <br> The Times | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -115,10 +117,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 13% | 100% | Last Result |
-| 3 | 70% | 87% | Median |
-| 4 | 16% | 17% |  |
-| 5 | 0.4% | 0.4% |  |
+| 2 | 14% | 100% | Last Result |
+| 3 | 71% | 86% | Median |
+| 4 | 14% | 15% |  |
+| 5 | 0.3% | 0.3% |  |
 | 6 | 0% | 0% |  |
 
 
