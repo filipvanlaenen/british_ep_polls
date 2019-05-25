@@ -5,7 +5,8 @@ The table below lists the most recent polls (less than 60 days old) registered a
 | Period     | Polling firm/Commissioner(s) | UKIP | LAB | CON | GREEN | LIBDEM | SNP | PC | BREXIT | ChUK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 22 May 2014 | General Election | 26.6% <br> 24 | 24.4% <br> 20 | 23.1% <br> 19 | 6.9% <br> 3 | 6.6% <br> 1 | 2.4% <br> 2 | 0.7% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 2–4% <br> 0 | 12–26% <br> 9–23 | 7–16% <br> 1–10 | 4–12% <br> 0–7 | 12–19% <br> 7–15 | 2–5% <br> 2–4 | 0–2% <br> 0–2 | 26–39% <br> 23–37 | 2–6% <br> 0–1 |
+| N/A | [Poll Average](average.html) | 2–4% <br> 0 | 12–26% <br> 9–23 | 7–16% <br> 1–10 | 4–12% <br> 0–7 | 12–20% <br> 7–15 | 2–5% <br> 2–4 | 0–2% <br> 0–2 | 26–39% <br> 23–37 | 2–6% <br> 0 |
+| [20–22 May 2019](2019-05-22-IpsosMORI.html) | Ipsos MORI | 2–4% <br> 0 | 13–17% <br> 10–14 | 8–10% <br> 1–5 | 8–11% <br> 3–7 | 18–22% <br> 12–19 | 2–4% <br> 2–3 | 0–1% <br> 0–1 | 32–37% <br> 29–35 | 2–4% <br> 0 |
 | [20–22 May 2019](2019-05-22-BMGResearch.html) | BMG Research <br> The Independent | 1–3% <br> 0 | 16–20% <br> 12–16 | 10–14% <br> 6–9 | 7–9% <br> 1–3 | 15–19% <br> 9–12 | 2–4% <br> 2–3 | 1–2% <br> 1–2 | 32–37% <br> 29–34 | 3–5% <br> 0 |
 | [19–21 May 2019](2019-05-21-YouGov.html) | YouGov <br> The Times | 2–4% <br> 0 | 12–14% <br> 8–12 | 6–8% <br> 1 | 11–13% <br> 6–9 | 18–20% <br> 12–15 | 2–4% <br> 2–3 | 1% <br> 1–2 | 35–38% <br> 33–37 | 3–5% <br> 0 |
 | [14–21 May 2019](2019-05-21-Panelbase.html) | Panelbase <br> The Sunday Times | 2–4% <br> 0 | 23–27% <br> 19–24 | 11–13% <br> 6–8 | 6–8% <br> 0–2 | 14–17% <br> 9–11 | 3–5% <br> 3–4 | N/A <br> N/A | 28–32% <br> 25–30 | 2–4% <br> 0 |
