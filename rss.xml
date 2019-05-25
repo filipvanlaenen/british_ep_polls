@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/british_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 25 May 2019 05:10:16 +0200</pubDate>
+    <pubDate>Sat, 25 May 2019 14:53:16 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos MORI, 20–22 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_ep_polls/2019-05-22-IpsosMORI.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party (ECR): 7.6–10.5%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 13.1–16.7%&lt;/li&gt;&lt;li&gt;Liberal Democrats (ALDE): 17.8–21.9%&lt;/li&gt;&lt;li&gt;Scottish National Party (Greens/EFA): 2.2–3.9%&lt;/li&gt;&lt;li&gt;Plaid Cymru (Greens/EFA): 0.1–0.7%&lt;/li&gt;&lt;li&gt;UK Independence Party (EAPN): 2.2–3.9%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 8.5–11.5%&lt;/li&gt;&lt;li&gt;Brexit Party (BREXIT): 32.2–37.0%&lt;/li&gt;&lt;li&gt;Change UK (ALDE): 2.2–3.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-05-22-IpsosMORI.png"
+        length="260618"
+        type="image/png"/>
+      <pubDate>Sat, 25 May 2019 14:53:16 +0200</pubDate>
+      <dc:date>2019-05-25T14:53:16.339838+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by BMG Research for The Independent, 20–22 May 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_ep_polls/2019-05-22-BMGResearch.html#seats</link>
@@ -959,6 +969,6 @@
       <pubDate>Thu, 18 Apr 2019 09:17:35 +0200</pubDate>
       <dc:date>2019-04-18T09:17:35.516868+02:00</dc:date>
     </item>
-    <dc:date>2019-05-25T05:10:16.628577+02:00</dc:date>
+    <dc:date>2019-05-25T14:53:16.339838+02:00</dc:date>
   </channel>
 </rss>
