@@ -4,13 +4,14 @@
 
 ## Voting Intentions
 
-Last result: **6.9%** (General Election of 23 May 2019)
+Last result: **11.8%** (General Election of 23 May 2019)
 
 ### Confidence Intervals
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.4% | 4.9–9.2% | 4.7–9.6% | 4.4–10.0% | 4.1–10.6% |
+| N/A | [Poll Average](average.html) | 7.6% | 5.0–9.3% | 4.7–9.6% | 4.4–10.0% | 4.1–10.6% |
+| [3–5 July 2019](2019-07-05-Opinium.html) | Opinium <br> The Observer | 7.9% | 7.2–8.7% | 7.0–9.0% | 6.8–9.2% | 6.5–9.6% |
 | [2–3 July 2019](2019-07-03-YouGov.html) | YouGov <br> The Times | 9.0% | 8.1–10.0% | 7.9–10.2% | 7.7–10.5% | 7.3–11.0% |
 | [24–25 June 2019](2019-06-25-YouGov.html) | YouGov <br> The Times | 10.0% | N/A | N/A | N/A | N/A |
 | [21–25 June 2019](2019-06-25-IpsosMORI.html) | Ipsos MORI | 8.1% | 7.1–9.3% | 6.9–9.7% | 6.6–10.0% | 6.2–10.6% |
@@ -33,25 +34,26 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 4% | 100% |  |
-| 4.5–5.5% | 21% | 96% |  |
-| 5.5–6.5% | 29% | 75% | Median |
-| 6.5–7.5% | 11% | 46% | Last Result |
-| 7.5–8.5% | 14% | 36% |  |
-| 8.5–9.5% | 16% | 22% |  |
+| 4.5–5.5% | 18% | 96% |  |
+| 5.5–6.5% | 16% | 79% |  |
+| 6.5–7.5% | 12% | 62% |  |
+| 7.5–8.5% | 26% | 50% | Median |
+| 8.5–9.5% | 19% | 25% |  |
 | 9.5–10.5% | 5% | 6% |  |
 | 10.5–11.5% | 0.5% | 0.5% |  |
-| 11.5–12.5% | 0% | 0% |  |
+| 11.5–12.5% | 0% | 0% | Last Result |
 
 
 ## Seats
 
-Last result: **3** seats (General Election of 23 May 2019)
+Last result: **7** seats (General Election of 23 May 2019)
 
 ### Confidence Intervals
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–3 | 0–4 | 0–5 | 0–6 |
+| N/A | [Poll Average](average.html) | 2 | 0–3 | 0–4 | 0–5 | 0–6 |
+| [3–5 July 2019](2019-07-05-Opinium.html) | Opinium <br> The Observer | 3 | 3 | 3 | 3 | 1–3 |
 | [2–3 July 2019](2019-07-03-YouGov.html) | YouGov <br> The Times | 2 | 2–5 | 2–6 | 0–6 | 0–6 |
 | [24–25 June 2019](2019-06-25-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [21–25 June 2019](2019-06-25-IpsosMORI.html) | Ipsos MORI | 2 | 1–4 | 1–5 | 0–6 | 0–7 |
@@ -74,14 +76,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 50% | 100% |  |
-| 1 | 13% | 50% | Median |
-| 2 | 23% | 37% |  |
-| 3 | 8% | 13% | Last Result |
+| 0 | 36% | 100% |  |
+| 1 | 10% | 64% |  |
+| 2 | 22% | 55% | Median |
+| 3 | 27% | 33% |  |
 | 4 | 0.7% | 6% |  |
 | 5 | 3% | 5% |  |
 | 6 | 2% | 2% |  |
-| 7 | 0.2% | 0.2% |  |
+| 7 | 0.2% | 0.2% | Last Result |
 | 8 | 0% | 0% |  |
 
 

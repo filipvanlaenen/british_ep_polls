@@ -4,13 +4,14 @@
 
 ## Voting Intentions
 
-Last result: **23.1%** (General Election of 23 May 2019)
+Last result: **8.8%** (General Election of 23 May 2019)
 
 ### Confidence Intervals
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23.9% | 20.2–26.8% | 19.6–27.5% | 19.1–28.1% | 18.4–29.1% |
+| N/A | [Poll Average](average.html) | 24.0% | 22.2–26.8% | 21.7–27.5% | 21.4–28.1% | 20.8–29.1% |
+| [3–5 July 2019](2019-07-05-Opinium.html) | Opinium <br> The Observer | 22.8% | 21.6–24.0% | 21.3–24.3% | 21.0–24.6% | 20.4–25.2% |
 | [2–3 July 2019](2019-07-03-YouGov.html) | YouGov <br> The Times | 23.9% | 22.5–25.3% | 22.2–25.7% | 21.8–26.0% | 21.2–26.7% |
 | [24–25 June 2019](2019-06-25-YouGov.html) | YouGov <br> The Times | 22.0% | N/A | N/A | N/A | N/A |
 | [21–25 June 2019](2019-06-25-IpsosMORI.html) | Ipsos MORI | 26.4% | 24.7–28.2% | 24.2–28.7% | 23.8–29.1% | 23.0–30.0% |
@@ -31,14 +32,22 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
+| 8.5–9.5% | 0% | 100% | Last Result |
+| 9.5–10.5% | 0% | 100% |  |
+| 10.5–11.5% | 0% | 100% |  |
+| 11.5–12.5% | 0% | 100% |  |
+| 12.5–13.5% | 0% | 100% |  |
+| 13.5–14.5% | 0% | 100% |  |
+| 14.5–15.5% | 0% | 100% |  |
+| 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 0.7% | 100% |  |
-| 18.5–19.5% | 4% | 99.2% |  |
-| 19.5–20.5% | 7% | 95% |  |
-| 20.5–21.5% | 6% | 88% |  |
-| 21.5–22.5% | 9% | 82% |  |
-| 22.5–23.5% | 17% | 73% | Last Result |
-| 23.5–24.5% | 18% | 57% | Median |
+| 17.5–18.5% | 0% | 100% |  |
+| 18.5–19.5% | 0% | 100% |  |
+| 19.5–20.5% | 0.2% | 100% |  |
+| 20.5–21.5% | 3% | 99.7% |  |
+| 21.5–22.5% | 14% | 97% |  |
+| 22.5–23.5% | 23% | 83% |  |
+| 23.5–24.5% | 21% | 60% | Median |
 | 24.5–25.5% | 14% | 39% |  |
 | 25.5–26.5% | 12% | 25% |  |
 | 26.5–27.5% | 8% | 13% |  |
@@ -50,13 +59,14 @@ The following table shows the probability mass function per percentage block of 
 
 ## Seats
 
-Last result: **19** seats (General Election of 23 May 2019)
+Last result: **4** seats (General Election of 23 May 2019)
 
 ### Confidence Intervals
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 15–22 | 15–23 | 15–24 | 13–24 |
+| N/A | [Poll Average](average.html) | 19 | 16–22 | 16–23 | 16–24 | 15–24 |
+| [3–5 July 2019](2019-07-05-Opinium.html) | Opinium <br> The Observer | 19 | 19 | 19 | 19 | 15–19 |
 | [2–3 July 2019](2019-07-03-YouGov.html) | YouGov <br> The Times | 20 | 19–21 | 18–21 | 17–21 | 13–21 |
 | [24–25 June 2019](2019-06-25-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [21–25 June 2019](2019-06-25-IpsosMORI.html) | Ipsos MORI | 23 | 20–24 | 19–24 | 19–24 | 16–24 |
@@ -79,14 +89,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 0.3% | 100% |  |
-| 13 | 1.2% | 99.6% |  |
-| 14 | 0.5% | 98% |  |
-| 15 | 12% | 98% |  |
-| 16 | 20% | 86% |  |
-| 17 | 10% | 67% |  |
-| 18 | 6% | 57% |  |
-| 19 | 8% | 51% | Last Result, Median |
+| 4 | 0% | 100% | Last Result |
+| 5 | 0% | 100% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0% | 100% |  |
+| 10 | 0% | 100% |  |
+| 11 | 0% | 100% |  |
+| 12 | 0% | 100% |  |
+| 13 | 0.1% | 100% |  |
+| 14 | 0.2% | 99.8% |  |
+| 15 | 1.4% | 99.7% |  |
+| 16 | 16% | 98% |  |
+| 17 | 9% | 83% |  |
+| 18 | 6% | 73% |  |
+| 19 | 24% | 68% | Median |
 | 20 | 18% | 43% |  |
 | 21 | 10% | 25% |  |
 | 22 | 7% | 15% |  |
