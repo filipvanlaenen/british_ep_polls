@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>All Registered Polls for the European Parliament</title>
+    <link>https://filipvanlaenen.github.io/british_ep_polls</link>
+    <description>All Registered Polls for the European Parliament</description>
+    <pubDate>Sun, 07 Jul 2019 11:27:55 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 2–3 July 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_ep_polls/2019-07-03-YouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party (ECR): 21.8–26.0%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 16.1–19.8%&lt;/li&gt;&lt;li&gt;Liberal Democrats (RE): 18.0–21.9%&lt;/li&gt;&lt;li&gt;Scottish National Party (Greens/EFA): 3.1–5.1%&lt;/li&gt;&lt;li&gt;Plaid Cymru (Greens/EFA): 0.6–1.6%&lt;/li&gt;&lt;li&gt;UK Independence Party (ID): 0.1–0.6%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 7.7–10.5%&lt;/li&gt;&lt;li&gt;Brexit Party (NI): 20.9–25.0%&lt;/li&gt;&lt;li&gt;Change UK (RE): 0.1–0.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-07-03-YouGov.png"
+        length="274448"
+        type="image/png"/>
+      <pubDate>Sun, 07 Jul 2019 11:27:55 +0200</pubDate>
+      <dc:date>2019-07-07T11:27:55.536772+02:00</dc:date>
+    </item>
+    <dc:date>2019-07-07T11:27:55.536772+02:00</dc:date>
+  </channel>
+</rss>
