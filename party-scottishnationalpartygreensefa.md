@@ -13,12 +13,12 @@ Last result: **3.5%** (General Election of 23 May 2019)
 | N/A | [Poll Average](average.html) | 3.7% | 2.8–5.1% | 2.6–5.4% | 2.5–5.6% | 2.2–6.0% |
 | [3–5 July 2019](2019-07-05-Opinium.html) | Opinium <br> The Observer | 4.9% | 4.4–5.6% | 4.2–5.8% | 4.1–6.0% | 3.8–6.3% |
 | [2–3 July 2019](2019-07-03-YouGov.html) | YouGov <br> The Times | 4.0% | 3.4–4.7% | 3.3–4.9% | 3.1–5.1% | 2.9–5.4% |
-| [24–25 June 2019](2019-06-25-YouGov.html) | YouGov <br> The Times | 4.0% | N/A | N/A | N/A | N/A |
+| [24–25 June 2019](2019-06-25-YouGov.html) | YouGov <br> The Times | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–4.9% | 3.0–5.2% |
 | [21–25 June 2019](2019-06-25-IpsosMORI.html) | Ipsos MORI | 4.0% | 3.3–4.9% | 3.2–5.2% | 3.0–5.4% | 2.7–5.9% |
 | [19–20 June 2019](2019-06-20-Survation.html) | Survation <br> Daily Mail on Sunday | 3.0% | 2.5–3.5% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
 | [19–20 June 2019](2019-06-20-Opinium.html) | Opinium <br> The Observer | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–4.9% | 3.0–5.2% |
-| [13–14 June 2019](2019-06-14-YouGov.html) | YouGov <br> The Sunday Times | 3.0% | N/A | N/A | N/A | N/A |
-| [9–10 June 2019](2019-06-10-YouGov.html) | YouGov <br> The Times | 4.1% | N/A | N/A | N/A | N/A |
+| [13–14 June 2019](2019-06-14-YouGov.html) | YouGov <br> The Sunday Times | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.3–3.9% | 2.1–4.2% |
+| [9–10 June 2019](2019-06-10-YouGov.html) | YouGov <br> The Times | 4.1% | 3.5–4.7% | 3.3–4.9% | 3.2–5.1% | 3.0–5.5% |
 | [7–9 June 2019](2019-06-09-ComRes.html) | ComRes <br> Daily Telegraph | 3.0% | 2.5–3.5% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
 | [4–7 June 2019](2019-06-07-BMGResearch.html) | BMG Research <br> The Independent | 0.0% | N/A | N/A | N/A | N/A |
 | [4–6 June 2019](2019-06-06-YouGov.html) | YouGov <br> The Times | 5.0% | N/A | N/A | N/A | N/A |
@@ -49,15 +49,15 @@ Last result: **3** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [3–5 July 2019](2019-07-05-Opinium.html) | Opinium <br> The Observer | 3 | 3 | 3 | 3 | 3–4 |
+| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| [3–5 July 2019](2019-07-05-Opinium.html) | Opinium <br> The Observer | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | [2–3 July 2019](2019-07-03-YouGov.html) | YouGov <br> The Times | 3 | 3 | 3 | 3 | 2–3 |
-| [24–25 June 2019](2019-06-25-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [24–25 June 2019](2019-06-25-YouGov.html) | YouGov <br> The Times | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [21–25 June 2019](2019-06-25-IpsosMORI.html) | Ipsos MORI | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [19–20 June 2019](2019-06-20-Survation.html) | Survation <br> Daily Mail on Sunday | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [19–20 June 2019](2019-06-20-Opinium.html) | Opinium <br> The Observer | 3 | 3 | 3 | 3–4 | 2–4 |
-| [13–14 June 2019](2019-06-14-YouGov.html) | YouGov <br> The Sunday Times |  |  |  |  |  |
-| [9–10 June 2019](2019-06-10-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [13–14 June 2019](2019-06-14-YouGov.html) | YouGov <br> The Sunday Times | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [9–10 June 2019](2019-06-10-YouGov.html) | YouGov <br> The Times | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | [7–9 June 2019](2019-06-09-ComRes.html) | ComRes <br> Daily Telegraph | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [4–7 June 2019](2019-06-07-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
 | [4–6 June 2019](2019-06-06-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
@@ -74,8 +74,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 46% | 100% |  |
-| 3 | 54% | 54% | Last Result, Median |
-| 4 | 0.3% | 0.3% |  |
+| 3 | 53% | 54% | Last Result, Median |
+| 4 | 1.2% | 1.2% |  |
 | 5 | 0% | 0% |  |
 
 
