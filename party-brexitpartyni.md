@@ -23,8 +23,8 @@ Last result: **30.5%** (General Election of 23 May 2019)
 | [4–7 June 2019](2019-06-07-BMGResearch.html) | BMG Research <br> The Independent | 18.0% | 16.8–19.3% | 16.5–19.7% | 16.2–20.0% | 15.6–20.7% |
 | [4–6 June 2019](2019-06-06-YouGov.html) | YouGov <br> The Times | 25.9% | 24.5–27.3% | 24.1–27.8% | 23.8–28.1% | 23.2–28.8% |
 | [28–30 May 2019](2019-05-30-Opinium.html) | Opinium <br> The Observer | 26.0% | 24.8–27.3% | 24.4–27.6% | 24.1–28.0% | 23.5–28.6% |
-| [29–30 May 2019](2019-05-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 23.5% | N/A | N/A | N/A | N/A |
-| [28–29 May 2019](2019-05-29-YouGov.html) | YouGov <br> The Times | 22.0% | N/A | N/A | N/A | N/A |
+| [29–30 May 2019](2019-05-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 23.5% | 22.4–24.6% | 22.1–25.0% | 21.9–25.3% | 21.4–25.8% |
+| [28–29 May 2019](2019-05-29-YouGov.html) | YouGov <br> The Times | 22.0% | 20.6–23.5% | 20.2–23.9% | 19.8–24.3% | 19.3–24.7% |
 
 ### Probability Mass Function
 
@@ -71,14 +71,14 @@ Last result: **29** seats (General Election of 23 May 2019)
 | [24–25 June 2019](2019-06-25-YouGov.html) | YouGov <br> The Times | 18 | 16–18 | 16–18 | 16–18 | 15–18 |
 | [21–25 June 2019](2019-06-25-IpsosMORI.html) | Ipsos MORI | 7 | 7–8 | 7–8 | 7–8 | 6–10 |
 | [19–20 June 2019](2019-06-20-Survation.html) | Survation <br> Daily Mail on Sunday | 17 | 15–17 | 14–17 | 14–18 | 11–18 |
-| [19–20 June 2019](2019-06-20-Opinium.html) | Opinium <br> The Observer | 18 | 18–20 | 18–20 | 17–21 | 17–21 |
+| [19–20 June 2019](2019-06-20-Opinium.html) | Opinium <br> The Observer | 19 | 18–20 | 17–20 | 17–21 | 17–22 |
 | [13–14 June 2019](2019-06-14-YouGov.html) | YouGov <br> The Sunday Times | 18 | 18–19 | 18–19 | 18–20 | 17–22 |
 | [9–10 June 2019](2019-06-10-YouGov.html) | YouGov <br> The Times | 20 | 19–22 | 18–23 | 18–24 | 18–25 |
 | [7–9 June 2019](2019-06-09-ComRes.html) | ComRes <br> Daily Telegraph | 18 | 17–19 | 17–19 | 17–19 | 16–20 |
 | [4–7 June 2019](2019-06-07-BMGResearch.html) | BMG Research <br> The Independent | 11 | 10–13 | 10–13 | 10–14 | 9–15 |
 | [4–6 June 2019](2019-06-06-YouGov.html) | YouGov <br> The Times | 21 | 18–24 | 18–25 | 18–26 | 18–26 |
 | [28–30 May 2019](2019-05-30-Opinium.html) | Opinium <br> The Observer | 23 | 22–25 | 20–25 | 19–25 | 18–25 |
-| [29–30 May 2019](2019-05-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday |  |  |  |  |  |
+| [29–30 May 2019](2019-05-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 20 | 19–21 | 19–21 | 18–21 | 18–23 |
 | [28–29 May 2019](2019-05-29-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 
 ### Probability Mass Function
