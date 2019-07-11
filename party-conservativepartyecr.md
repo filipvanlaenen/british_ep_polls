@@ -65,12 +65,12 @@ Last result: **4** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 16–23 | 16–24 | 15–24 | 14–24 |
+| N/A | [Poll Average](average.html) | 19 | 16–23 | 16–23 | 15–24 | 14–24 |
 | [3–5 July 2019](2019-07-05-Opinium.html) | Opinium <br> The Observer | 17 | 15–21 | 15–21 | 15–21 | 14–21 |
-| [2–3 July 2019](2019-07-03-YouGov.html) | YouGov <br> The Times | 20 | 19–21 | 18–21 | 17–21 | 13–21 |
+| [2–3 July 2019](2019-07-03-YouGov.html) | YouGov <br> The Times | 19 | 18–20 | 16–21 | 14–21 | 14–21 |
 | [24–25 June 2019](2019-06-25-YouGov.html) | YouGov <br> The Times | 17 | 14–19 | 14–19 | 13–20 | 12–20 |
-| [21–25 June 2019](2019-06-25-IpsosMORI.html) | Ipsos MORI | 23 | 21–24 | 20–24 | 20–24 | 17–24 |
-| [19–20 June 2019](2019-06-20-Survation.html) | Survation <br> Daily Mail on Sunday | 18 | 16–21 | 16–22 | 16–22 | 15–23 |
+| [21–25 June 2019](2019-06-25-IpsosMORI.html) | Ipsos MORI | 23 | 21–24 | 20–24 | 18–24 | 16–24 |
+| [19–20 June 2019](2019-06-20-Survation.html) | Survation <br> Daily Mail on Sunday | 18 | 17–20 | 16–20 | 15–22 | 15–22 |
 | [19–20 June 2019](2019-06-20-Opinium.html) | Opinium <br> The Observer | 15 | 13–16 | 12–16 | 11–16 | 11–17 |
 | [13–14 June 2019](2019-06-14-YouGov.html) | YouGov <br> The Sunday Times | 15 | 14–18 | 13–19 | 13–19 | 12–19 |
 | [9–10 June 2019](2019-06-10-YouGov.html) | YouGov <br> The Times | 10 | 10–12 | 10–12 | 10–13 | 10–13 |
@@ -98,18 +98,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0.2% | 100% |  |
-| 14 | 0.5% | 99.8% |  |
-| 15 | 3% | 99.3% |  |
+| 13 | 0.1% | 100% |  |
+| 14 | 0.8% | 99.9% |  |
+| 15 | 3% | 99.1% |  |
 | 16 | 18% | 96% |  |
-| 17 | 15% | 79% |  |
-| 18 | 7% | 64% |  |
-| 19 | 8% | 56% | Median |
-| 20 | 18% | 49% |  |
-| 21 | 13% | 30% |  |
-| 22 | 4% | 17% |  |
-| 23 | 7% | 13% |  |
-| 24 | 7% | 7% |  |
+| 17 | 13% | 78% |  |
+| 18 | 11% | 65% |  |
+| 19 | 14% | 54% | Median |
+| 20 | 13% | 41% |  |
+| 21 | 11% | 27% |  |
+| 22 | 5% | 16% |  |
+| 23 | 6% | 11% |  |
+| 24 | 5% | 5% |  |
 | 25 | 0% | 0% |  |
 
 

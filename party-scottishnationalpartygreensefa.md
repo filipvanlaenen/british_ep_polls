@@ -51,9 +51,9 @@ Last result: **3** seats (General Election of 23 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [3–5 July 2019](2019-07-05-Opinium.html) | Opinium <br> The Observer | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [2–3 July 2019](2019-07-03-YouGov.html) | YouGov <br> The Times | 3 | 3 | 3 | 3 | 2–3 |
+| [2–3 July 2019](2019-07-03-YouGov.html) | YouGov <br> The Times | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | [24–25 June 2019](2019-06-25-YouGov.html) | YouGov <br> The Times | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
-| [21–25 June 2019](2019-06-25-IpsosMORI.html) | Ipsos MORI | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [21–25 June 2019](2019-06-25-IpsosMORI.html) | Ipsos MORI | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [19–20 June 2019](2019-06-20-Survation.html) | Survation <br> Daily Mail on Sunday | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [19–20 June 2019](2019-06-20-Opinium.html) | Opinium <br> The Observer | 3 | 3 | 3–4 | 2–4 | 2–4 |
 | [13–14 June 2019](2019-06-14-YouGov.html) | YouGov <br> The Sunday Times | 2 | 2 | 2–3 | 2–3 | 1–3 |
@@ -73,9 +73,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 44% | 100% |  |
-| 3 | 53% | 56% | Last Result, Median |
-| 4 | 3% | 3% |  |
+| 2 | 46% | 100% |  |
+| 3 | 50% | 54% | Last Result, Median |
+| 4 | 4% | 4% |  |
 | 5 | 0% | 0% |  |
 
 
