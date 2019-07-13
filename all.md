@@ -5,11 +5,11 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | BREXIT | LIBDEM | LAB | GREEN | CON | SNP | PC | ChUK | UKIP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 23 May 2019 | General Election | 30.5% <br> 29 | 19.6% <br> 16 | 13.7% <br> 10 | 11.8% <br> 7 | 8.8% <br> 4 | 3.5% <br> 3 | 1.0% <br> 1 | 3.3% <br> 0 | 3.2% <br> 0 |
-| [10–11 July 2019](2019-07-11-Survation.html) | Survation | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [9–10 July 2019](2019-07-10-YouGov.html) | YouGov <br> The Times | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [5–7 July 2019](2019-07-07-ComRes.html) | ComRes <br> Daily Telegraph | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [10–11 July 2019](2019-07-11-Survation.html) | Survation | 17–22% <br> 11–18 | 16–21% <br> 10–14 | 26–32% <br> 19–27 | 2–4% <br> 0 | 20–25% <br> 12–20 | 3–5% <br> 2–4 | 1–2% <br> 0–2 | N/A <br> N/A | N/A <br> N/A |
+| [9–10 July 2019](2019-07-10-YouGov.html) | YouGov <br> The Times | 19–23% <br> 16–18 | 17–21% <br> 10–14 | 18–22% <br> 13–16 | 8–10% <br> 2–6 | 22–26% <br> 16–20 | 4–6% <br> 3–4 | 1–2% <br> 1 | 0–1% <br> 0 | 0–1% <br> 0 |
+| [5–7 July 2019](2019-07-07-ComRes.html) | ComRes <br> Daily Telegraph | 18–21% <br> 12–17 | 15–18% <br> 8–13 | 26–30% <br> 20–25 | 4–6% <br> 0 | 24–27% <br> 17–23 | 2–4% <br> 2–3 | 0–1% <br> 0 | 0–1% <br> 0 | 1–2% <br> 0 |
 | [3–5 July 2019](2019-07-05-Opinium.html) | Opinium <br> The Observer | 20–24% <br> 17–19 | 13–16% <br> 8–11 | 23–27% <br> 16–21 | 7–9% <br> 1–4 | 21–25% <br> 15–21 | 4–6% <br> 3–4 | 1–2% <br> 1 | 1–2% <br> 0 | 1–2% <br> 0 |
-| [2–5 July 2019](2019-07-05-BMGResearch.html) | BMG Research <br> The Independent | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [2–5 July 2019](2019-07-05-BMGResearch.html) | BMG Research <br> The Independent | 12–16% <br> 7–10 | 16–20% <br> 10–14 | 25–30% <br> 20–24 | 5–7% <br> 0–2 | 26–31% <br> 22–25 | 1–3% <br> 1–2 | 1–2% <br> 0–1 | 1–2% <br> 0 | 1–3% <br> 0 |
 | [2–3 July 2019](2019-07-03-YouGov.html) | YouGov <br> The Times | 21–25% <br> 16–18 | 18–22% <br> 11–16 | 16–20% <br> 10–16 | 8–10% <br> 1–6 | 22–26% <br> 14–21 | 3–5% <br> 2–3 | 1–2% <br> 0–1 | 0–1% <br> 0 | 0–1% <br> 0 |
 | [24–25 June 2019](2019-06-25-YouGov.html) | YouGov <br> The Times | 20–24% <br> 16–18 | 17–21% <br> 10–15 | 18–22% <br> 14–16 | 9–11% <br> 2–6 | 20–24% <br> 13–20 | 3–5% <br> 2–3 | 1–2% <br> 1–2 | 0–1% <br> 0 | 1–2% <br> 0 |
 | [21–25 June 2019](2019-06-25-IpsosMORI.html) | Ipsos MORI | 10–14% <br> 6–9 | 20–25% <br> 12–21 | 22–27% <br> 15–22 | 7–10% <br> 1–5 | 24–29% <br> 18–24 | 3–5% <br> 2–3 | 1–2% <br> 0–2 | 0–1% <br> 0 | 1–2% <br> 0 |
