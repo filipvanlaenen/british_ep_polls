@@ -70,12 +70,12 @@ Last result: **4** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 16–24 | 15–24 | 14–24 | 12–25 |
-| [10–11 July 2019](2019-07-11-Survation.html) | Survation | 16 | 14–18 | 13–19 | 12–20 | 11–21 |
-| [9–10 July 2019](2019-07-10-YouGov.html) | YouGov <br> The Times | 19 | 19–20 | 17–20 | 16–20 | 14–20 |
-| [5–7 July 2019](2019-07-07-ComRes.html) | ComRes <br> Daily Telegraph | 20 | 19–22 | 18–23 | 17–23 | 16–24 |
+| N/A | [Poll Average](average.html) | 20 | 16–24 | 15–24 | 14–25 | 12–25 |
+| [10–11 July 2019](2019-07-11-Survation.html) | Survation | 16 | 13–18 | 13–19 | 12–20 | 11–21 |
+| [9–10 July 2019](2019-07-10-YouGov.html) | YouGov <br> The Times | 20 | 18–20 | 17–20 | 16–20 | 15–21 |
+| [5–7 July 2019](2019-07-07-ComRes.html) | ComRes <br> Daily Telegraph | 20 | 18–23 | 17–23 | 16–23 | 16–24 |
 | [3–5 July 2019](2019-07-05-Opinium.html) | Opinium <br> The Observer | 17 | 15–21 | 15–21 | 15–21 | 14–21 |
-| [2–5 July 2019](2019-07-05-BMGResearch.html) | BMG Research <br> The Independent | 24 | 23–24 | 23–25 | 22–25 | 21–26 |
+| [2–5 July 2019](2019-07-05-BMGResearch.html) | BMG Research <br> The Independent | 24 | 23–25 | 22–25 | 22–25 | 21–26 |
 | [2–3 July 2019](2019-07-03-YouGov.html) | YouGov <br> The Times | 19 | 18–20 | 16–21 | 14–21 | 14–21 |
 | [24–25 June 2019](2019-06-25-YouGov.html) | YouGov <br> The Times | 17 | 14–19 | 14–19 | 13–20 | 12–20 |
 | [21–25 June 2019](2019-06-25-IpsosMORI.html) | Ipsos MORI | 23 | 21–24 | 20–24 | 18–24 | 16–24 |
@@ -105,22 +105,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 0.2% | 100% |  |
-| 12 | 0.4% | 99.8% |  |
-| 13 | 0.5% | 99.4% |  |
-| 14 | 2% | 98.9% |  |
-| 15 | 6% | 97% |  |
-| 16 | 8% | 91% |  |
+| 11 | 0.1% | 100% |  |
+| 12 | 0.4% | 99.9% |  |
+| 13 | 1.3% | 99.5% |  |
+| 14 | 2% | 98% |  |
+| 15 | 6% | 96% |  |
+| 16 | 7% | 90% |  |
 | 17 | 9% | 83% |  |
-| 18 | 4% | 74% |  |
-| 19 | 14% | 70% |  |
-| 20 | 15% | 56% | Median |
-| 21 | 6% | 40% |  |
-| 22 | 7% | 35% |  |
-| 23 | 13% | 28% |  |
-| 24 | 14% | 16% |  |
-| 25 | 2% | 2% |  |
-| 26 | 0% | 0.1% |  |
+| 18 | 7% | 75% |  |
+| 19 | 7% | 68% |  |
+| 20 | 18% | 61% | Median |
+| 21 | 8% | 43% |  |
+| 22 | 6% | 35% |  |
+| 23 | 13% | 29% |  |
+| 24 | 13% | 16% |  |
+| 25 | 3% | 3% |  |
+| 26 | 0.2% | 0.2% |  |
 | 27 | 0% | 0% |  |
 
 

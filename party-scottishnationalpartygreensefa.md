@@ -56,11 +56,11 @@ Last result: **3** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–4 | 1–4 | 1–4 | 1–4 |
-| [10–11 July 2019](2019-07-11-Survation.html) | Survation | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
+| [10–11 July 2019](2019-07-11-Survation.html) | Survation | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [9–10 July 2019](2019-07-10-YouGov.html) | YouGov <br> The Times | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [5–7 July 2019](2019-07-07-ComRes.html) | ComRes <br> Daily Telegraph | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [5–7 July 2019](2019-07-07-ComRes.html) | ComRes <br> Daily Telegraph | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [3–5 July 2019](2019-07-05-Opinium.html) | Opinium <br> The Observer | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [2–5 July 2019](2019-07-05-BMGResearch.html) | BMG Research <br> The Independent | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [2–5 July 2019](2019-07-05-BMGResearch.html) | BMG Research <br> The Independent | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [2–3 July 2019](2019-07-03-YouGov.html) | YouGov <br> The Times | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | [24–25 June 2019](2019-06-25-YouGov.html) | YouGov <br> The Times | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [21–25 June 2019](2019-06-25-IpsosMORI.html) | Ipsos MORI | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -83,10 +83,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 7% | 100% |  |
-| 2 | 28% | 93% |  |
-| 3 | 50% | 65% | Last Result, Median |
-| 4 | 15% | 15% |  |
+| 1 | 9% | 100% |  |
+| 2 | 30% | 91% |  |
+| 3 | 48% | 60% | Last Result, Median |
+| 4 | 12% | 12% |  |
 | 5 | 0% | 0% |  |
 
 
