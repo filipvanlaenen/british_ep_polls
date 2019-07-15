@@ -28,7 +28,7 @@ Last result: **13.7%** (General Election of 23 May 2019)
 | [4–6 June 2019](2019-06-06-YouGov.html) | YouGov <br> The Times | 19.9% | 18.6–21.2% | 18.3–21.6% | 18.0–21.9% | 17.4–22.6% |
 | [28–30 May 2019](2019-05-30-Opinium.html) | Opinium <br> The Observer | 22.0% | 20.8–23.2% | 20.5–23.6% | 20.2–23.9% | 19.7–24.5% |
 | [29–30 May 2019](2019-05-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 25.5% | 24.4–26.6% | 24.1–27.0% | 23.8–27.3% | 23.3–27.8% |
-| [28–29 May 2019](2019-05-29-YouGov.html) | YouGov <br> The Times | 18.9% | 17.7–20.6% | 17.3–20.6% | 16.9–21.0% | 16.5–21.8% |
+| [28–29 May 2019](2019-05-29-YouGov.html) | YouGov <br> The Times | 18.9% | 17.8–20.2% | 17.5–20.5% | 17.2–20.9% | 16.6–21.5% |
 
 ### Probability Mass Function
 
@@ -85,7 +85,7 @@ Last result: **10** seats (General Election of 23 May 2019)
 | [4–6 June 2019](2019-06-06-YouGov.html) | YouGov <br> The Times | 16 | 15–16 | 14–17 | 14–17 | 13–18 |
 | [28–30 May 2019](2019-05-30-Opinium.html) | Opinium <br> The Observer | 17 | 16–17 | 15–18 | 15–18 | 15–20 |
 | [29–30 May 2019](2019-05-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 20 | 20–22 | 20–22 | 20–24 | 19–24 |
-| [28–29 May 2019](2019-05-29-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [28–29 May 2019](2019-05-29-YouGov.html) | YouGov <br> The Times | 16 | 15–16 | 15–16 | 14–16 | 12–16 |
 
 ### Probability Mass Function
 
