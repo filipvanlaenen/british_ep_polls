@@ -10,7 +10,8 @@ Last result: **19.6%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.2% | 14.5–22.1% | 14.1–23.1% | 13.8–23.7% | 13.2–24.9% |
+| N/A | [Poll Average](average.html) | 18.4% | 14.5–22.1% | 14.1–23.1% | 13.8–23.7% | 13.2–24.9% |
+| [16–17 July 2019](2019-07-17-YouGov.html) | YouGov <br> The Times | 20.1% | 18.9–21.4% | 18.6–21.8% | 18.3–22.1% | 17.8–22.7% |
 | [10–11 July 2019](2019-07-11-Survation.html) | Survation | 18.8% | 17.3–20.4% | 16.8–20.9% | 16.5–21.3% | 15.8–22.1% |
 | [10–11 July 2019](2019-07-11-ComRes.html) | ComRes <br> The Express | 15.0% | 14.0–16.2% | 13.7–16.5% | 13.4–16.8% | 13.0–17.3% |
 | [9–10 July 2019](2019-07-10-YouGov.html) | YouGov <br> The Times | 18.9% | 17.7–20.2% | 17.4–20.5% | 17.1–20.9% | 16.5–21.5% |
@@ -42,13 +43,13 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 9% | 98.7% |  |
 | 14.5–15.5% | 15% | 90% |  |
 | 15.5–16.5% | 8% | 75% |  |
-| 16.5–17.5% | 8% | 66% |  |
-| 17.5–18.5% | 16% | 59% | Median |
-| 18.5–19.5% | 16% | 43% |  |
-| 19.5–20.5% | 9% | 27% | Last Result |
-| 20.5–21.5% | 5% | 18% |  |
-| 21.5–22.5% | 5% | 13% |  |
-| 22.5–23.5% | 4% | 7% |  |
+| 16.5–17.5% | 7% | 66% |  |
+| 17.5–18.5% | 12% | 60% | Median |
+| 18.5–19.5% | 14% | 48% |  |
+| 19.5–20.5% | 12% | 35% | Last Result |
+| 20.5–21.5% | 9% | 23% |  |
+| 21.5–22.5% | 6% | 14% |  |
+| 22.5–23.5% | 4% | 8% |  |
 | 23.5–24.5% | 2% | 3% |  |
 | 24.5–25.5% | 0.7% | 0.8% |  |
 | 25.5–26.5% | 0.1% | 0.1% |  |
@@ -63,7 +64,8 @@ Last result: **16** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 8–16 | 8–18 | 8–19 | 6–21 |
+| N/A | [Poll Average](average.html) | 13 | 8–16 | 8–18 | 8–19 | 6–21 |
+| [16–17 July 2019](2019-07-17-YouGov.html) | YouGov <br> The Times | 14 | 13–14 | 13–16 | 13–16 | 13–16 |
 | [10–11 July 2019](2019-07-11-Survation.html) | Survation | 13 | 11–14 | 11–14 | 10–14 | 9–15 |
 | [10–11 July 2019](2019-07-11-ComRes.html) | ComRes <br> The Express | 8 | 8–11 | 6–12 | 6–12 | 6–13 |
 | [9–10 July 2019](2019-07-10-YouGov.html) | YouGov <br> The Times | 12 | 10–13 | 10–14 | 10–15 | 10–15 |
@@ -96,13 +98,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0.5% | 98.8% |  |
 | 8 | 17% | 98% |  |
 | 9 | 5% | 81% |  |
-| 10 | 7% | 76% |  |
-| 11 | 11% | 68% |  |
-| 12 | 13% | 57% | Median |
-| 13 | 14% | 44% |  |
-| 14 | 15% | 30% |  |
-| 15 | 3% | 15% |  |
-| 16 | 4% | 12% | Last Result |
+| 10 | 6% | 76% |  |
+| 11 | 7% | 70% |  |
+| 12 | 8% | 64% |  |
+| 13 | 16% | 56% | Median |
+| 14 | 24% | 40% |  |
+| 15 | 3% | 16% |  |
+| 16 | 5% | 13% | Last Result |
 | 17 | 2% | 8% |  |
 | 18 | 3% | 6% |  |
 | 19 | 2% | 4% |  |
