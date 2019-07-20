@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/british_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 20 Jul 2019 11:45:38 +0200</pubDate>
+    <pubDate>Sat, 20 Jul 2019 16:17:35 +0200</pubDate>
     <item>
       <title>Opinion Poll by YouGov for The Times, 16–17 July 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_ep_polls/2019-07-17-YouGov.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-07-17-YouGov.png"
         length="262165"
         type="image/png"/>
-      <pubDate>Sat, 20 Jul 2019 11:45:38 +0200</pubDate>
-      <dc:date>2019-07-20T11:45:38.952931+02:00</dc:date>
+      <pubDate>Sat, 20 Jul 2019 16:17:35 +0200</pubDate>
+      <dc:date>2019-07-20T16:17:35.642506+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Survation, 10–11 July 2019 – Seat Projections for the Parties</title>
@@ -469,6 +469,6 @@
       <pubDate>Mon, 15 Jul 2019 06:55:30 +0200</pubDate>
       <dc:date>2019-07-15T06:55:30.774946+02:00</dc:date>
     </item>
-    <dc:date>2019-07-20T11:45:38.952931+02:00</dc:date>
+    <dc:date>2019-07-20T16:17:35.642506+02:00</dc:date>
   </channel>
 </rss>
