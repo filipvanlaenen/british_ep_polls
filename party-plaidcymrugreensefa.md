@@ -53,7 +53,7 @@ Last result: **1** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
-| [16–17 July 2019](2019-07-17-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 0–1 |
+| [16–17 July 2019](2019-07-17-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 0–1 | 0–2 |
 | [10–11 July 2019](2019-07-11-Survation.html) | Survation | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [10–11 July 2019](2019-07-11-ComRes.html) | ComRes <br> The Express | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [9–10 July 2019](2019-07-10-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 0–2 |
