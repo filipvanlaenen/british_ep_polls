@@ -6,6 +6,7 @@ The table below lists all polls registered and analyzed so far.
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 23 May 2019 | General Election | 30.5% <br> 29 | 19.6% <br> 16 | 13.7% <br> 10 | 11.8% <br> 7 | 8.8% <br> 4 | 3.5% <br> 3 | 1.0% <br> 1 | 3.3% <br> 0 | 3.2% <br> 0 |
 | [16–17 July 2019](2019-07-17-YouGov.html) | YouGov <br> The Times | 17–21% <br> 13–17 | 18–22% <br> 12–15 | 19–23% <br> 15–16 | 7–9% <br> 1–3 | 23–27% <br> 19–21 | 3–5% <br> 2–3 | 1–2% <br> 0–1 | 0–1% <br> 0 | 0–1% <br> 0 |
+| [15–16 July 2019](2019-07-16-ComRes.html) | ComRes | 17–20% <br> 11–17 | 15–18% <br> 9–13 | 26–30% <br> 20–25 | 4–6% <br> 0 | 23–27% <br> 17–22 | 3–5% <br> 2–3 | 0–1% <br> 0 | 1–2% <br> 0 | 1–2% <br> 0 |
 | [10–11 July 2019](2019-07-11-Survation.html) | Survation | 17–22% <br> 11–17 | 16–21% <br> 10–14 | 26–32% <br> 19–27 | 2–4% <br> 0 | 20–25% <br> 12–20 | 3–5% <br> 2–3 | 1–2% <br> 0–2 | N/A <br> N/A | N/A <br> N/A |
 | [10–11 July 2019](2019-07-11-ComRes.html) | ComRes <br> The Express | 18–22% <br> 13–18 | 13–17% <br> 6–12 | 26–30% <br> 18–26 | 4–6% <br> 0 | 22–26% <br> 16–23 | 2–4% <br> 2–3 | 1–2% <br> 0–1 | 1–2% <br> 0 | 1–2% <br> 0 |
 | [9–10 July 2019](2019-07-10-YouGov.html) | YouGov <br> The Times | 19–23% <br> 15–18 | 17–21% <br> 10–15 | 18–22% <br> 14–16 | 8–10% <br> 2–5 | 22–26% <br> 16–20 | 4–6% <br> 3–4 | 1–2% <br> 1 | 0–1% <br> 0 | 0–1% <br> 0 |
@@ -19,12 +20,12 @@ The table below lists all polls registered and analyzed so far.
 | [19–20 June 2019](2019-06-20-Opinium.html) | Opinium <br> The Observer | 21–25% <br> 17–21 | 14–18% <br> 9–13 | 24–28% <br> 20–24 | 5–7% <br> 0–2 | 18–22% <br> 11–16 | 3–5% <br> 2–4 | 1–2% <br> 0–2 | 1–2% <br> 0 | 1–3% <br> 0 |
 | [13–14 June 2019](2019-06-14-YouGov.html) | YouGov <br> The Sunday Times | 22–26% <br> 18–20 | 17–21% <br> 10–17 | 19–23% <br> 16–18 | 8–11% <br> 2–5 | 19–23% <br> 13–19 | 2–4% <br> 2–3 | 1–2% <br> 0–2 | 0–1% <br> 0 | 0–1% <br> 0 |
 | [9–10 June 2019](2019-06-10-YouGov.html) | YouGov <br> The Times | 24–28% <br> 18–24 | 20–24% <br> 16–18 | 17–21% <br> 13–16 | 7–9% <br> 1–4 | 15–19% <br> 10–13 | 3–5% <br> 2–4 | 1–2% <br> 0–2 | 1–2% <br> 0 | 0–1% <br> 0 |
-| [7–9 June 2019](2019-06-09-ComRes.html) | ComRes <br> Daily Telegraph | 20–24% <br> 17–19 | 15–19% <br> 9–14 | 25–29% <br> 18–22 | 4–6% <br> 0 | 21–25% <br> 15–19 | 2–4% <br> 2–3 | 1–2% <br> 1 | 1–2% <br> 0 | 1–2% <br> 0 |
+| [7–9 June 2019](2019-06-09-ComRes.html) | ComRes <br> Daily Telegraph | 20–24% <br> 17–20 | 15–19% <br> 9–14 | 25–29% <br> 18–23 | 4–6% <br> 0 | 21–25% <br> 15–21 | 2–4% <br> 2–3 | 1–2% <br> 1 | 1–2% <br> 0 | 1–2% <br> 0 |
 | [4–7 June 2019](2019-06-07-BMGResearch.html) | BMG Research <br> The Independent | 16–20% <br> 10–14 | 15–19% <br> 8–13 | 25–29% <br> 17–23 | N/A <br> N/A | 24–28% <br> 16–22 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 |
-| [4–6 June 2019](2019-06-06-YouGov.html) | YouGov <br> The Times | 24–28% <br> 18–26 | 18–22% <br> 10–18 | 18–22% <br> 14–17 | 8–10% <br> 2–5 | 16–20% <br> 10–14 | 4–6% <br> 3–4 | 0–1% <br> 0–1 | 0–1% <br> 0 | N/A <br> N/A |
-| [28–30 May 2019](2019-05-30-Opinium.html) | Opinium <br> The Observer | 24–28% <br> 19–25 | 14–18% <br> 9–12 | 20–24% <br> 15–18 | 10–12% <br> 4–7 | 15–19% <br> 10–14 | 3–5% <br> 2–4 | 1–2% <br> 1–2 | 1–2% <br> 0 | 1–2% <br> 0 |
+| [4–6 June 2019](2019-06-06-YouGov.html) | YouGov <br> The Times | 24–28% <br> 18–25 | 18–22% <br> 11–18 | 18–22% <br> 14–17 | 8–10% <br> 2–6 | 16–20% <br> 10–13 | 4–6% <br> 3–4 | 0–1% <br> 0 | 0–1% <br> 0 | N/A <br> N/A |
+| [28–30 May 2019](2019-05-30-Opinium.html) | Opinium <br> The Observer | 24–28% <br> 18–25 | 14–18% <br> 9–12 | 20–24% <br> 15–19 | 10–12% <br> 5–7 | 15–19% <br> 10–14 | 3–5% <br> 3–4 | 1–2% <br> 1–2 | 1–2% <br> 0 | 1–2% <br> 0 |
 | [29–30 May 2019](2019-05-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 22–25% <br> 18–21 | 14–17% <br> 9–12 | 24–27% <br> 20–24 | 4–6% <br> 0 | 18–21% <br> 12–16 | 3–5% <br> 3–4 | 1% <br> 1 | 3–5% <br> 0 | 1% <br> 0 |
-| [28–29 May 2019](2019-05-29-YouGov.html) | YouGov <br> The Times | 20–24% <br> 18 | 22–26% <br> 17–20 | 17–21% <br> 14–16 | 7–9% <br> 1–3 | 17–21% <br> 11–13 | 4–6% <br> 3–4 | 1–2% <br> 1–2 | 1–2% <br> 0 | 1–2% <br> 0 |
+| [28–29 May 2019](2019-05-29-YouGov.html) | YouGov <br> The Times | 20–24% <br> 17–18 | 22–26% <br> 17–20 | 17–21% <br> 14–16 | 7–9% <br> 1–3 | 17–21% <br> 11–13 | 4–6% <br> 3–4 | 1–2% <br> 1–2 | 1–2% <br> 0 | 1–2% <br> 0 |
 | 23 May 2019 | General Election | 30.5% <br> 29 | 19.6% <br> 16 | 13.7% <br> 10 | 11.8% <br> 7 | 8.8% <br> 4 | 3.5% <br> 3 | 1.0% <br> 1 | 3.3% <br> 0 | 3.2% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
