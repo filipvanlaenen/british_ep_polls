@@ -66,9 +66,9 @@ Last result: **7** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
+| N/A | [Poll Average](average.html) | 0 | 0–2 | 0–2 | 0–2 | 0–4 |
 | [25–27 July 2019](2019-07-27-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0 | 0 | 0 | 0 | 0 |
-| [25–26 July 2019](2019-07-26-YouGov.html) | YouGov <br> The Sunday Times | 2 | 2 | 2–4 | 1–4 | 0–4 |
+| [25–26 July 2019](2019-07-26-YouGov.html) | YouGov <br> The Sunday Times | 2 | 2–3 | 1–4 | 0–4 | 0–4 |
 | [24–26 July 2019](2019-07-26-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0–2 |
 | [24–25 July 2019](2019-07-25-ComRes.html) | ComRes <br> Sunday Express | 0 | 0 | 0 | 0 | 0 |
 | [23–24 July 2019](2019-07-24-YouGov.html) | YouGov <br> The Times | 2 | 2–6 | 2–6 | 2–6 | 2–6 |
@@ -104,9 +104,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 78% | 100% | Median |
 | 1 | 3% | 22% |  |
-| 2 | 19% | 19% |  |
-| 3 | 0.5% | 0.8% |  |
-| 4 | 0.2% | 0.3% |  |
+| 2 | 17% | 19% |  |
+| 3 | 1.1% | 2% |  |
+| 4 | 1.0% | 1.1% |  |
 | 5 | 0% | 0% |  |
 | 6 | 0% | 0% |  |
 | 7 | 0% | 0% | Last Result |

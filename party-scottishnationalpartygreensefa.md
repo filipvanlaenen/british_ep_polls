@@ -67,7 +67,7 @@ Last result: **3** seats (General Election of 23 May 2019)
 | [25–27 July 2019](2019-07-27-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [25–26 July 2019](2019-07-26-YouGov.html) | YouGov <br> The Sunday Times | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [24–26 July 2019](2019-07-26-Opinium.html) | Opinium <br> The Observer | 3 | 3 | 3 | 3 | 3 |
-| [24–25 July 2019](2019-07-25-ComRes.html) | ComRes <br> Sunday Express | 2 | 2 | 2 | 2 | 1–3 |
+| [24–25 July 2019](2019-07-25-ComRes.html) | ComRes <br> Sunday Express | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [23–24 July 2019](2019-07-24-YouGov.html) | YouGov <br> The Times | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [16–17 July 2019](2019-07-17-YouGov.html) | YouGov <br> The Times | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [15–16 July 2019](2019-07-16-ComRes.html) | ComRes | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -88,7 +88,7 @@ Last result: **3** seats (General Election of 23 May 2019)
 | [4–7 June 2019](2019-06-07-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
 | [4–6 June 2019](2019-06-06-YouGov.html) | YouGov <br> The Times | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [28–30 May 2019](2019-05-30-Opinium.html) | Opinium <br> The Observer | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
-| [29–30 May 2019](2019-05-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 3 | 3 | 3–4 | 3–4 | 2–4 |
+| [29–30 May 2019](2019-05-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [28–29 May 2019](2019-05-29-YouGov.html) | YouGov <br> The Times | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 
 ### Probability Mass Function
@@ -100,8 +100,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 10% | 100% |  |
-| 2 | 33% | 90% |  |
-| 3 | 55% | 58% | Last Result, Median |
+| 2 | 32% | 90% |  |
+| 3 | 55% | 59% | Last Result, Median |
 | 4 | 3% | 3% |  |
 | 5 | 0% | 0% |  |
 

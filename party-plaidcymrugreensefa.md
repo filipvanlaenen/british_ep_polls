@@ -60,9 +60,9 @@ Last result: **1** seats (General Election of 23 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | [25–27 July 2019](2019-07-27-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 1 | 1 | 1 | 0–2 | 0–2 |
-| [25–26 July 2019](2019-07-26-YouGov.html) | YouGov <br> The Sunday Times | 1 | 1 | 1–2 | 1–2 | 0–2 |
-| [24–26 July 2019](2019-07-26-Opinium.html) | Opinium <br> The Observer | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
-| [24–25 July 2019](2019-07-25-ComRes.html) | ComRes <br> Sunday Express | 1 | 1 | 1 | 1 | 0–1 |
+| [25–26 July 2019](2019-07-26-YouGov.html) | YouGov <br> The Sunday Times | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| [24–26 July 2019](2019-07-26-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| [24–25 July 2019](2019-07-25-ComRes.html) | ComRes <br> Sunday Express | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [23–24 July 2019](2019-07-24-YouGov.html) | YouGov <br> The Times | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [16–17 July 2019](2019-07-17-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 0–1 | 0–2 |
 | [15–16 July 2019](2019-07-16-ComRes.html) | ComRes | 0 | 0 | 0 | 0 | 0 |
@@ -83,7 +83,7 @@ Last result: **1** seats (General Election of 23 May 2019)
 | [4–7 June 2019](2019-06-07-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
 | [4–6 June 2019](2019-06-06-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0–1 |
 | [28–30 May 2019](2019-05-30-Opinium.html) | Opinium <br> The Observer | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [29–30 May 2019](2019-05-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 1 | 1 | 1 | 1 | 0–2 |
+| [29–30 May 2019](2019-05-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 1 | 1 | 1 | 0–2 | 0–2 |
 | [28–29 May 2019](2019-05-29-YouGov.html) | YouGov <br> The Times | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 
 ### Probability Mass Function
@@ -94,8 +94,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 9% | 100% |  |
-| 1 | 86% | 91% | Last Result, Median |
+| 0 | 10% | 100% |  |
+| 1 | 86% | 90% | Last Result, Median |
 | 2 | 4% | 4% |  |
 | 3 | 0% | 0% |  |
 

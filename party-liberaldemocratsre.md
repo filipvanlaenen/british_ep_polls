@@ -68,9 +68,9 @@ Last result: **16** seats (General Election of 23 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 10–15 | 9–17 | 9–18 | 7–18 |
 | [25–27 July 2019](2019-07-27-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 13 | 12–14 | 12–14 | 11–14 | 10–15 |
-| [25–26 July 2019](2019-07-26-YouGov.html) | YouGov <br> The Sunday Times | 15 | 13–18 | 13–18 | 12–18 | 11–18 |
+| [25–26 July 2019](2019-07-26-YouGov.html) | YouGov <br> The Sunday Times | 15 | 13–18 | 12–18 | 12–18 | 11–18 |
 | [24–26 July 2019](2019-07-26-Opinium.html) | Opinium <br> The Observer | 9 | 9–13 | 9–13 | 7–13 | 7–13 |
-| [24–25 July 2019](2019-07-25-ComRes.html) | ComRes <br> Sunday Express | 14 | 14 | 13–14 | 12–14 | 11–14 |
+| [24–25 July 2019](2019-07-25-ComRes.html) | ComRes <br> Sunday Express | 14 | 13–14 | 13–14 | 12–14 | 11–14 |
 | [23–24 July 2019](2019-07-24-YouGov.html) | YouGov <br> The Times | 16 | 15–18 | 14–19 | 14–19 | 14–20 |
 | [16–17 July 2019](2019-07-17-YouGov.html) | YouGov <br> The Times | 14 | 12–15 | 12–15 | 12–15 | 11–17 |
 | [15–16 July 2019](2019-07-16-ComRes.html) | ComRes | 12 | 9–13 | 8–13 | 8–13 | 8–14 |
@@ -91,7 +91,7 @@ Last result: **16** seats (General Election of 23 May 2019)
 | [4–7 June 2019](2019-06-07-BMGResearch.html) | BMG Research <br> The Independent | 10 | 8–11 | 8–12 | 8–13 | 7–13 |
 | [4–6 June 2019](2019-06-06-YouGov.html) | YouGov <br> The Times | 16 | 13–18 | 11–18 | 11–18 | 10–18 |
 | [28–30 May 2019](2019-05-30-Opinium.html) | Opinium <br> The Observer | 10 | 9–10 | 9–12 | 9–12 | 8–13 |
-| [29–30 May 2019](2019-05-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 10 | 9–11 | 9–12 | 9–12 | 9–13 |
+| [29–30 May 2019](2019-05-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 10 | 9–13 | 9–13 | 9–13 | 8–14 |
 | [28–29 May 2019](2019-05-29-YouGov.html) | YouGov <br> The Times | 18 | 17–19 | 17–19 | 17–20 | 17–20 |
 
 ### Probability Mass Function
@@ -103,17 +103,17 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 0.1% | 100% |  |
-| 7 | 0.6% | 99.9% |  |
-| 8 | 0.2% | 99.4% |  |
-| 9 | 8% | 99.1% |  |
-| 10 | 4% | 91% |  |
-| 11 | 6% | 88% |  |
-| 12 | 10% | 82% |  |
-| 13 | 25% | 71% | Median |
-| 14 | 32% | 46% |  |
-| 15 | 6% | 15% |  |
-| 16 | 3% | 8% | Last Result |
-| 17 | 1.0% | 5% |  |
+| 7 | 0.5% | 99.9% |  |
+| 8 | 0.2% | 99.5% |  |
+| 9 | 8% | 99.3% |  |
+| 10 | 5% | 91% |  |
+| 11 | 6% | 87% |  |
+| 12 | 10% | 81% |  |
+| 13 | 28% | 71% | Median |
+| 14 | 30% | 43% |  |
+| 15 | 5% | 13% |  |
+| 16 | 2% | 8% | Last Result |
+| 17 | 1.4% | 6% |  |
 | 18 | 4% | 4% |  |
 | 19 | 0% | 0% |  |
 

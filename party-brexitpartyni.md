@@ -80,7 +80,7 @@ Last result: **29** seats (General Election of 23 May 2019)
 | [25–27 July 2019](2019-07-27-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
 | [25–26 July 2019](2019-07-26-YouGov.html) | YouGov <br> The Sunday Times | 7 | 7–9 | 7–10 | 7–10 | 7–10 |
 | [24–26 July 2019](2019-07-26-Opinium.html) | Opinium <br> The Observer | 10 | 8–11 | 8–12 | 8–12 | 8–12 |
-| [24–25 July 2019](2019-07-25-ComRes.html) | ComRes <br> Sunday Express | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
+| [24–25 July 2019](2019-07-25-ComRes.html) | ComRes <br> Sunday Express | 10 | 9–11 | 8–11 | 8–12 | 8–12 |
 | [23–24 July 2019](2019-07-24-YouGov.html) | YouGov <br> The Times | 12 | 10–14 | 10–14 | 9–15 | 8–16 |
 | [16–17 July 2019](2019-07-17-YouGov.html) | YouGov <br> The Times | 15 | 14–16 | 13–16 | 13–17 | 12–17 |
 | [15–16 July 2019](2019-07-16-ComRes.html) | ComRes | 14 | 12–16 | 12–17 | 11–17 | 11–17 |
@@ -98,10 +98,10 @@ Last result: **29** seats (General Election of 23 May 2019)
 | [13–14 June 2019](2019-06-14-YouGov.html) | YouGov <br> The Sunday Times | 18 | 18–19 | 18–19 | 18–20 | 17–22 |
 | [9–10 June 2019](2019-06-10-YouGov.html) | YouGov <br> The Times | 20 | 19–22 | 18–23 | 18–24 | 18–25 |
 | [7–9 June 2019](2019-06-09-ComRes.html) | ComRes <br> Daily Telegraph | 17 | 17–19 | 17–19 | 17–20 | 16–21 |
-| [4–7 June 2019](2019-06-07-BMGResearch.html) | BMG Research <br> The Independent | 11 | 10–13 | 10–13 | 10–14 | 9–15 |
+| [4–7 June 2019](2019-06-07-BMGResearch.html) | BMG Research <br> The Independent | 11 | 10–13 | 10–14 | 10–14 | 9–15 |
 | [4–6 June 2019](2019-06-06-YouGov.html) | YouGov <br> The Times | 21 | 18–23 | 18–24 | 18–25 | 18–26 |
 | [28–30 May 2019](2019-05-30-Opinium.html) | Opinium <br> The Observer | 23 | 20–25 | 19–25 | 18–25 | 18–25 |
-| [29–30 May 2019](2019-05-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 20 | 19–21 | 19–21 | 18–21 | 18–23 |
+| [29–30 May 2019](2019-05-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 20 | 18–21 | 18–21 | 18–22 | 17–22 |
 | [28–29 May 2019](2019-05-29-YouGov.html) | YouGov <br> The Times | 18 | 18 | 17–18 | 17–18 | 16–18 |
 
 ### Probability Mass Function
@@ -112,12 +112,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 14% | 100% |  |
-| 8 | 19% | 86% |  |
-| 9 | 15% | 67% |  |
-| 10 | 29% | 53% | Median |
-| 11 | 6% | 23% |  |
-| 12 | 3% | 17% |  |
+| 7 | 13% | 100% |  |
+| 8 | 18% | 87% |  |
+| 9 | 18% | 69% |  |
+| 10 | 27% | 51% | Median |
+| 11 | 6% | 24% |  |
+| 12 | 3% | 18% |  |
 | 13 | 2% | 14% |  |
 | 14 | 2% | 13% |  |
 | 15 | 1.2% | 11% |  |
