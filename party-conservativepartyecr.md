@@ -82,9 +82,9 @@ Last result: **4** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 24 | 16–25 | 15–26 | 14–26 | 12–27 |
-| [25–27 July 2019](2019-07-27-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 24 | 24–25 | 24–25 | 23–26 | 23–27 |
-| [25–26 July 2019](2019-07-26-YouGov.html) | YouGov <br> The Sunday Times | 24 | 24–26 | 24–26 | 24–26 | 24–27 |
-| [24–26 July 2019](2019-07-26-Opinium.html) | Opinium <br> The Observer | 24 | 23–25 | 23–26 | 22–26 | 22–27 |
+| [25–27 July 2019](2019-07-27-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 24 | 24–25 | 23–26 | 23–26 | 23–27 |
+| [25–26 July 2019](2019-07-26-YouGov.html) | YouGov <br> The Sunday Times | 24 | 24–26 | 24–27 | 24–27 | 23–28 |
+| [24–26 July 2019](2019-07-26-Opinium.html) | Opinium <br> The Observer | 24 | 23–26 | 23–26 | 22–26 | 22–27 |
 | [24–25 July 2019](2019-07-25-ComRes.html) | ComRes <br> Sunday Express | 23 | 22–24 | 21–24 | 21–24 | 21–25 |
 | [23–24 July 2019](2019-07-24-YouGov.html) | YouGov <br> The Times | 20 | 19–21 | 18–22 | 18–23 | 17–23 |
 | [16–17 July 2019](2019-07-17-YouGov.html) | YouGov <br> The Times | 20 | 19–20 | 19–21 | 19–21 | 17–22 |
@@ -136,12 +136,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 20 | 0.2% | 84% |  |
 | 21 | 2% | 84% |  |
 | 22 | 2% | 82% |  |
-| 23 | 21% | 80% |  |
-| 24 | 37% | 59% | Median |
-| 25 | 13% | 22% |  |
-| 26 | 9% | 9% |  |
-| 27 | 0.5% | 0.6% |  |
-| 28 | 0.1% | 0.1% |  |
+| 23 | 21% | 79% |  |
+| 24 | 40% | 59% | Median |
+| 25 | 10% | 18% |  |
+| 26 | 8% | 9% |  |
+| 27 | 0.7% | 0.8% |  |
+| 28 | 0.1% | 0.2% |  |
 | 29 | 0% | 0% |  |
 
 

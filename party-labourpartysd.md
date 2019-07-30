@@ -75,10 +75,10 @@ Last result: **10** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 16–24 | 15–25 | 15–26 | 15–27 |
-| [25–27 July 2019](2019-07-27-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 20 | 19–21 | 19–21 | 19–21 | 19–22 |
-| [25–26 July 2019](2019-07-26-YouGov.html) | YouGov <br> The Sunday Times | 16 | 15–17 | 15–18 | 15–18 | 15–18 |
-| [24–26 July 2019](2019-07-26-Opinium.html) | Opinium <br> The Observer | 21 | 20–25 | 20–26 | 19–27 | 19–27 |
+| N/A | [Poll Average](average.html) | 20 | 16–24 | 15–25 | 15–25 | 15–27 |
+| [25–27 July 2019](2019-07-27-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 20 | 19–21 | 19–22 | 19–22 | 18–22 |
+| [25–26 July 2019](2019-07-26-YouGov.html) | YouGov <br> The Sunday Times | 15 | 15–17 | 15–18 | 15–18 | 15–19 |
+| [24–26 July 2019](2019-07-26-Opinium.html) | Opinium <br> The Observer | 23 | 19–25 | 19–25 | 19–26 | 19–27 |
 | [24–25 July 2019](2019-07-25-ComRes.html) | ComRes <br> Sunday Express | 20 | 19–21 | 19–22 | 19–23 | 19–24 |
 | [23–24 July 2019](2019-07-24-YouGov.html) | YouGov <br> The Times | 15 | 14–16 | 14–16 | 13–16 | 12–16 |
 | [16–17 July 2019](2019-07-17-YouGov.html) | YouGov <br> The Times | 16 | 15–16 | 15–16 | 15–16 | 15–18 |
@@ -117,18 +117,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 8% | 100% |  |
-| 16 | 7% | 92% |  |
-| 17 | 0.8% | 85% |  |
-| 18 | 1.2% | 84% |  |
-| 19 | 9% | 83% |  |
-| 20 | 32% | 75% | Median |
-| 21 | 15% | 43% |  |
-| 22 | 10% | 27% |  |
-| 23 | 6% | 17% |  |
-| 24 | 5% | 11% |  |
-| 25 | 3% | 6% |  |
-| 26 | 2% | 3% |  |
-| 27 | 1.2% | 1.3% |  |
+| 16 | 5% | 92% |  |
+| 17 | 3% | 87% |  |
+| 18 | 1.0% | 84% |  |
+| 19 | 13% | 83% |  |
+| 20 | 23% | 71% | Median |
+| 21 | 16% | 47% |  |
+| 22 | 10% | 31% |  |
+| 23 | 8% | 20% |  |
+| 24 | 6% | 12% |  |
+| 25 | 4% | 7% |  |
+| 26 | 1.2% | 2% |  |
+| 27 | 1.0% | 1.1% |  |
 | 28 | 0.1% | 0.1% |  |
 | 29 | 0% | 0% |  |
 
