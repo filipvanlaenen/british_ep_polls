@@ -81,7 +81,7 @@ Last result: **1** seats (General Election of 23 May 2019)
 | [9–10 June 2019](2019-06-10-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | [7–9 June 2019](2019-06-09-ComRes.html) | ComRes <br> Daily Telegraph | 1 | 1 | 1 | 1 | 0–2 |
 | [4–7 June 2019](2019-06-07-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
-| [4–6 June 2019](2019-06-06-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0–1 |
+| [4–6 June 2019](2019-06-06-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0–1 | 0–1 |
 | [28–30 May 2019](2019-05-30-Opinium.html) | Opinium <br> The Observer | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [29–30 May 2019](2019-05-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 1 | 1 | 1 | 0–2 | 0–2 |
 | [28–29 May 2019](2019-05-29-YouGov.html) | YouGov <br> The Times | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
