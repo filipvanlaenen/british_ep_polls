@@ -77,9 +77,9 @@ Last result: **10** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 18–24 | 16–25 | 16–25 | 15–27 |
-| [29–30 July 2019](2019-07-30-YouGov.html) | YouGov <br> The Times | 18 | 16–19 | 16–21 | 15–21 | 15–21 |
-| [26–30 July 2019](2019-07-30-IpsosMORI.html) | Ipsos MORI | 21 | 16–21 | 15–21 | 15–21 | 15–21 |
+| N/A | [Poll Average](average.html) | 20 | 17–24 | 16–25 | 15–25 | 15–27 |
+| [29–30 July 2019](2019-07-30-YouGov.html) | YouGov <br> The Times | 18 | 15–21 | 15–21 | 15–21 | 15–22 |
+| [26–30 July 2019](2019-07-30-IpsosMORI.html) | Ipsos MORI | 18 | 16–21 | 15–21 | 15–21 | 15–22 |
 | [25–27 July 2019](2019-07-27-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 20 | 19–21 | 19–22 | 19–22 | 18–22 |
 | [25–26 July 2019](2019-07-26-YouGov.html) | YouGov <br> The Sunday Times | 15 | 15–17 | 15–18 | 15–18 | 15–19 |
 | [24–26 July 2019](2019-07-26-Opinium.html) | Opinium <br> The Observer | 23 | 20–25 | 19–25 | 19–26 | 19–27 |
@@ -120,13 +120,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 1.5% | 100% |  |
-| 16 | 5% | 98.5% |  |
-| 17 | 2% | 93% |  |
-| 18 | 8% | 92% |  |
-| 19 | 14% | 84% |  |
-| 20 | 20% | 70% |  |
-| 21 | 24% | 51% | Median |
+| 15 | 3% | 100% |  |
+| 16 | 4% | 97% |  |
+| 17 | 5% | 93% |  |
+| 18 | 8% | 88% |  |
+| 19 | 14% | 80% |  |
+| 20 | 20% | 66% | Median |
+| 21 | 19% | 46% |  |
 | 22 | 9% | 27% |  |
 | 23 | 8% | 18% |  |
 | 24 | 5% | 10% |  |
