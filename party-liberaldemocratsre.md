@@ -10,7 +10,9 @@ Last result: **19.6%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.5% | 15.8–20.3% | 15.2–20.8% | 14.9–21.2% | 14.2–21.9% |
+| N/A | [Poll Average](average.html) | 18.6% | 16.0–20.3% | 15.4–20.7% | 14.9–21.1% | 14.2–21.9% |
+| [29–30 July 2019](2019-07-30-YouGov.html) | YouGov <br> The Times | 19.7% | 18.7–20.9% | 18.4–21.2% | 18.1–21.5% | 17.6–22.1% |
+| [26–30 July 2019](2019-07-30-IpsosMORI.html) | Ipsos MORI | 19.2% | 17.6–20.8% | 17.2–21.3% | 16.8–21.7% | 16.1–22.5% |
 | [25–27 July 2019](2019-07-27-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 18.0% | 16.9–19.1% | 16.6–19.5% | 16.4–19.7% | 15.9–20.3% |
 | [25–26 July 2019](2019-07-26-YouGov.html) | YouGov <br> The Sunday Times | 19.9% | 18.7–21.2% | 18.4–21.6% | 18.1–21.9% | 17.5–22.5% |
 | [24–26 July 2019](2019-07-26-Opinium.html) | Opinium <br> The Observer | 15.7% | 14.6–16.7% | 14.4–17.1% | 14.1–17.3% | 13.7–17.8% |
@@ -44,16 +46,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 12.5–13.5% | 0.1% | 100% |  |
-| 13.5–14.5% | 1.3% | 99.9% |  |
-| 14.5–15.5% | 6% | 98.7% |  |
-| 15.5–16.5% | 9% | 93% |  |
-| 16.5–17.5% | 12% | 84% |  |
-| 17.5–18.5% | 23% | 71% | Median |
-| 18.5–19.5% | 25% | 48% |  |
-| 19.5–20.5% | 16% | 23% | Last Result |
+| 12.5–13.5% | 0% | 100% |  |
+| 13.5–14.5% | 1.1% | 100% |  |
+| 14.5–15.5% | 5% | 98.9% |  |
+| 15.5–16.5% | 8% | 94% |  |
+| 16.5–17.5% | 12% | 86% |  |
+| 17.5–18.5% | 23% | 74% |  |
+| 18.5–19.5% | 27% | 51% | Median |
+| 19.5–20.5% | 17% | 24% | Last Result |
 | 20.5–21.5% | 6% | 7% |  |
-| 21.5–22.5% | 1.1% | 1.2% |  |
+| 21.5–22.5% | 1.0% | 1.1% |  |
 | 22.5–23.5% | 0.1% | 0.1% |  |
 | 23.5–24.5% | 0% | 0% |  |
 
@@ -66,7 +68,9 @@ Last result: **16** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 10–15 | 9–17 | 9–18 | 7–18 |
+| N/A | [Poll Average](average.html) | 13 | 10–15 | 9–15 | 9–15 | 8–16 |
+| [29–30 July 2019](2019-07-30-YouGov.html) | YouGov <br> The Times | 15 | 14–15 | 13–15 | 13–16 | 12–17 |
+| [26–30 July 2019](2019-07-30-IpsosMORI.html) | Ipsos MORI | 12 | 12–15 | 10–15 | 10–16 | 10–18 |
 | [25–27 July 2019](2019-07-27-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 13 | 12–14 | 12–14 | 11–14 | 10–15 |
 | [25–26 July 2019](2019-07-26-YouGov.html) | YouGov <br> The Sunday Times | 15 | 13–18 | 12–18 | 12–18 | 11–18 |
 | [24–26 July 2019](2019-07-26-Opinium.html) | Opinium <br> The Observer | 9 | 9–13 | 9–13 | 7–13 | 7–13 |
@@ -103,18 +107,18 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 0.1% | 100% |  |
-| 7 | 0.5% | 99.9% |  |
-| 8 | 0.2% | 99.5% |  |
-| 9 | 8% | 99.3% |  |
-| 10 | 5% | 91% |  |
-| 11 | 6% | 87% |  |
-| 12 | 10% | 81% |  |
-| 13 | 28% | 71% | Median |
-| 14 | 30% | 43% |  |
-| 15 | 5% | 13% |  |
-| 16 | 2% | 8% | Last Result |
-| 17 | 1.4% | 6% |  |
-| 18 | 4% | 4% |  |
+| 7 | 0.4% | 99.9% |  |
+| 8 | 0.2% | 99.6% |  |
+| 9 | 7% | 99.4% |  |
+| 10 | 5% | 92% |  |
+| 11 | 5% | 87% |  |
+| 12 | 17% | 83% |  |
+| 13 | 25% | 66% | Median |
+| 14 | 26% | 41% |  |
+| 15 | 14% | 15% |  |
+| 16 | 0.5% | 1.0% | Last Result |
+| 17 | 0.2% | 0.4% |  |
+| 18 | 0.2% | 0.3% |  |
 | 19 | 0% | 0% |  |
 
 
