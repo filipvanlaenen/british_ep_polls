@@ -10,9 +10,10 @@ Last result: **8.8%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.4% | 23.5–33.5% | 22.3–34.1% | 21.5–34.7% | 20.4–35.6% |
+| N/A | [Poll Average](average.html) | 29.6% | 23.5–33.5% | 22.3–34.1% | 21.5–34.7% | 20.4–35.6% |
 | [29–30 July 2019](2019-07-30-YouGov.html) | YouGov <br> The Times | 33.3% | 31.9–34.6% | 31.6–35.0% | 31.2–35.3% | 30.6–36.0% |
 | [26–30 July 2019](2019-07-30-IpsosMORI.html) | Ipsos MORI | 32.6% | 30.7–34.5% | 30.2–35.1% | 29.7–35.5% | 28.9–36.5% |
+| [26–28 July 2019](2019-07-28-ComRes.html) | ComRes <br> Britain Elects | 29.0% | 27.3–30.9% | 26.8–31.4% | 26.4–31.8% | 25.5–32.7% |
 | [25–27 July 2019](2019-07-27-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 30.0% | 28.7–31.3% | 28.3–31.7% | 28.0–32.0% | 27.4–32.7% |
 | [25–26 July 2019](2019-07-26-YouGov.html) | YouGov <br> The Sunday Times | 30.8% | 29.4–32.3% | 29.0–32.7% | 28.7–33.1% | 28.0–33.8% |
 | [24–26 July 2019](2019-07-26-Opinium.html) | Opinium <br> The Observer | 29.4% | 28.1–30.7% | 27.7–31.1% | 27.4–31.4% | 26.8–32.0% |
@@ -64,11 +65,11 @@ The following table shows the probability mass function per percentage block of 
 | 23.5–24.5% | 3% | 90% |  |
 | 24.5–25.5% | 1.2% | 87% |  |
 | 25.5–26.5% | 2% | 86% |  |
-| 26.5–27.5% | 7% | 84% |  |
-| 27.5–28.5% | 14% | 77% |  |
-| 28.5–29.5% | 17% | 64% | Median |
-| 29.5–30.5% | 13% | 47% |  |
-| 30.5–31.5% | 8% | 34% |  |
+| 26.5–27.5% | 5% | 84% |  |
+| 27.5–28.5% | 11% | 79% |  |
+| 28.5–29.5% | 17% | 68% |  |
+| 29.5–30.5% | 15% | 51% | Median |
+| 30.5–31.5% | 10% | 36% |  |
 | 31.5–32.5% | 8% | 26% |  |
 | 32.5–33.5% | 9% | 18% |  |
 | 33.5–34.5% | 6% | 9% |  |
@@ -86,9 +87,10 @@ Last result: **4** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24 | 17–27 | 15–29 | 14–29 | 13–30 |
-| [29–30 July 2019](2019-07-30-YouGov.html) | YouGov <br> The Times | 27 | 26–29 | 25–30 | 25–30 | 24–32 |
+| N/A | [Poll Average](average.html) | 24 | 17–27 | 15–29 | 14–29 | 13–31 |
+| [29–30 July 2019](2019-07-30-YouGov.html) | YouGov <br> The Times | 28 | 26–29 | 25–30 | 25–30 | 24–32 |
 | [26–30 July 2019](2019-07-30-IpsosMORI.html) | Ipsos MORI | 25 | 24–29 | 24–30 | 24–30 | 24–31 |
+| [26–28 July 2019](2019-07-28-ComRes.html) | ComRes <br> Britain Elects | 23 | 22–25 | 22–26 | 22–26 | 20–27 |
 | [25–27 July 2019](2019-07-27-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 24 | 24–25 | 23–26 | 23–26 | 23–27 |
 | [25–26 July 2019](2019-07-26-YouGov.html) | YouGov <br> The Sunday Times | 24 | 24–26 | 24–27 | 24–27 | 23–28 |
 | [24–26 July 2019](2019-07-26-Opinium.html) | Opinium <br> The Observer | 24 | 23–26 | 23–27 | 22–27 | 22–27 |
@@ -139,19 +141,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 3% | 93% |  |
 | 17 | 2% | 91% |  |
 | 18 | 2% | 89% |  |
-| 19 | 1.0% | 87% |  |
-| 20 | 0.3% | 86% |  |
-| 21 | 0.8% | 86% |  |
-| 22 | 3% | 85% |  |
-| 23 | 17% | 82% |  |
-| 24 | 31% | 65% | Median |
-| 25 | 14% | 34% |  |
-| 26 | 4% | 21% |  |
-| 27 | 7% | 16% |  |
-| 28 | 2% | 9% |  |
+| 19 | 0.9% | 87% |  |
+| 20 | 0.2% | 86% |  |
+| 21 | 0.6% | 86% |  |
+| 22 | 6% | 85% |  |
+| 23 | 11% | 80% |  |
+| 24 | 31% | 69% | Median |
+| 25 | 17% | 38% |  |
+| 26 | 6% | 22% |  |
+| 27 | 6% | 16% |  |
+| 28 | 3% | 10% |  |
 | 29 | 5% | 7% |  |
-| 30 | 1.1% | 2% |  |
-| 31 | 0.3% | 0.4% |  |
+| 30 | 2% | 2% |  |
+| 31 | 0.4% | 0.5% |  |
 | 32 | 0.1% | 0.1% |  |
 | 33 | 0% | 0% |  |
 
