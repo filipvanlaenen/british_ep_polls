@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/british_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2019-08-02T16:04:11.455548+02:00</updated>
+  <updated>2019-08-02T16:47:55.381025+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party (ECR): 31.2–35.3%, 25–30 seats</li><li>Labour Party (S&amp;D): 21.1–24.7%, 15–21 seats</li><li>Liberal Democrats (RE): 18.1–21.5%, 12–16 seats</li><li>Scottish National Party (Greens/EFA): 4.3–6.2%, 3–4 seats</li><li>Plaid Cymru (Greens/EFA): 0.7–1.6%, 1–2 seats</li><li>UK Independence Party (ID): 0.7–1.6%, 0 seats</li><li>Green Party (Greens/EFA): 5.3–7.4%, 0–2 seats</li><li>Brexit Party (NI): 8.2–10.7%, 3–7 seats</li><li>Change UK (RE): 0.1–0.6%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_ep_polls/2019-07-30-YouGov.html</id>
+    <link href="https://filipvanlaenen.github.io/british_ep_polls/2019-07-30-YouGov.html"/>
+    <title>Opinion Poll by YouGov for The Times, 29–30 July 2019</title>
+    <updated>2019-08-02T16:47:55.381025+02:00</updated>
+    <dc:date>2019-08-02T16:47:55.381025+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party (ECR): 29.7–35.5%, 24–30 seats</li><li>Labour Party (S&amp;D): 20.4–25.7%, 15–21 seats</li><li>Liberal Democrats (RE): 16.8–21.7%, 10–16 seats</li><li>Scottish National Party (Greens/EFA): 2.8–5.3%, 2–3 seats</li><li>Plaid Cymru (Greens/EFA): 0.5–1.8%, 0–2 seats</li><li>UK Independence Party (ID): 0.5–1.8%, 0 seats</li><li>Green Party (Greens/EFA): 6.2–9.5%, 0–3 seats</li><li>Brexit Party (NI): 9.7–13.6%, 6–9 seats</li><li>Change UK (RE): 0.1–0.7%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/british_ep_polls/2019-07-30-IpsosMORI.html</id>
@@ -223,5 +231,5 @@
     <updated>2019-07-22T21:27:08.139393+02:00</updated>
     <dc:date>2019-07-22T21:27:08.139393+02:00</dc:date>
   </entry>
-  <dc:date>2019-08-02T16:04:11.455548+02:00</dc:date>
+  <dc:date>2019-08-02T16:47:55.381025+02:00</dc:date>
 </feed>
