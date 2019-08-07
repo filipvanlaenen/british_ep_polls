@@ -85,7 +85,7 @@ Last result: **29** seats (General Election of 23 May 2019)
 | N/A | [Poll Average](average.html) | 8 | 6–14 | 6–17 | 4–17 | 4–17 |
 | [29–30 July 2019](2019-07-30-YouGov.html) | YouGov <br> The Times | 6 | 4–6 | 4–6 | 3–7 | 1–7 |
 | [26–30 July 2019](2019-07-30-IpsosMORI.html) | Ipsos MORI | 7 | 6–9 | 6–9 | 6–9 | 4–10 |
-| [26–28 July 2019](2019-07-28-ComRes.html) | ComRes <br> Britain Elects | 8 | 8–11 | 8–12 | 8–12 | 7–13 |
+| [26–28 July 2019](2019-07-28-ComRes.html) | ComRes <br> Britain Elects | 8 | 8–11 | 8–12 | 8–12 | 7–12 |
 | [25–27 July 2019](2019-07-27-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
 | [25–26 July 2019](2019-07-26-YouGov.html) | YouGov <br> The Sunday Times | 7 | 7–9 | 7–10 | 7–10 | 7–10 |
 | [24–26 July 2019](2019-07-26-Opinium.html) | Opinium <br> The Observer | 10 | 8–11 | 8–12 | 8–12 | 8–12 |
