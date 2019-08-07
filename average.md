@@ -12,7 +12,7 @@ The table below lists the polls on which the average is based. They are the most
 | N/A | Poll Average | 9–21% <br> 4–17 | 15–21% <br> 7–16 | 21–32% <br> 15–27 | 3–8% <br> 0–2 | 22–35% <br> 14–29 | 2–6% <br> 1–4 | 1–2% <br> 0–2 | 0–2% <br> 0 | 1–2% <br> 0 |
 | [29–30 July 2019](2019-07-30-YouGov.html) | YouGov <br> The Times | 8–11% <br> 3–7 | 18–22% <br> 12–16 | 21–25% <br> 15–21 | 5–7% <br> 0–2 | 31–35% <br> 25–30 | 4–6% <br> 3–4 | 1–2% <br> 1–2 | 0–1% <br> 0 | 1–2% <br> 0 |
 | [26–30 July 2019](2019-07-30-IpsosMORI.html) | Ipsos MORI | 10–14% <br> 6–9 | 17–22% <br> 10–16 | 20–26% <br> 15–21 | 6–9% <br> 0–3 | 30–36% <br> 24–30 | 3–5% <br> 2–3 | 1–2% <br> 0–2 | 0–1% <br> 0 | 1–2% <br> 0 |
-| [26–28 July 2019](2019-07-28-ComRes.html) | ComRes <br> Britain Elects | 13–17% <br> 8–12 | 14–18% <br> 7–13 | 27–33% <br> 20–27 | 4–6% <br> 0–1 | 26–32% <br> 22–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [26–28 July 2019](2019-07-28-ComRes.html) | ComRes <br> Britain Elects | 13–17% <br> 8–12 | 14–18% <br> 7–13 | 27–33% <br> 20–27 | 4–6% <br> 0–1 | 26–32% <br> 21–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [25–27 July 2019](2019-07-27-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 13–16% <br> 8–10 | 16–20% <br> 11–14 | 23–27% <br> 19–22 | 3–5% <br> 0 | 28–32% <br> 23–26 | 3–5% <br> 2–3 | 1–2% <br> 0–2 | 1–3% <br> 0 | 1–2% <br> 0 |
 | [24–26 July 2019](2019-07-26-Opinium.html) | Opinium <br> The Observer | 13–16% <br> 8–12 | 14–17% <br> 7–13 | 25–29% <br> 19–26 | 4–6% <br> 0 | 27–31% <br> 22–27 | 4–6% <br> 3 | 1–2% <br> 0–2 | 0–1% <br> 0 | 1–2% <br> 0 |
 | [10–11 July 2019](2019-07-11-Survation.html) | Survation | 17–22% <br> 11–17 | 16–21% <br> 10–14 | 26–32% <br> 19–27 | 2–4% <br> 0 | 20–25% <br> 12–20 | 3–5% <br> 2–3 | 1–2% <br> 0–2 | N/A <br> N/A | N/A <br> N/A |
@@ -310,10 +310,10 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 0.3% | 100% |  |
 | 7 | 2% | 99.7% |  |
 | 8 | 2% | 97% |  |
-| 9 | 12% | 95% |  |
+| 9 | 11% | 96% |  |
 | 10 | 7% | 84% |  |
-| 11 | 7% | 77% |  |
-| 12 | 12% | 69% |  |
+| 11 | 8% | 78% |  |
+| 12 | 12% | 70% |  |
 | 13 | 24% | 58% | Median |
 | 14 | 18% | 34% |  |
 | 15 | 13% | 16% |  |
@@ -393,11 +393,11 @@ Only polls for which at least the sample size has been published are included in
 | 18 | 2% | 89% |  |
 | 19 | 0.9% | 87% |  |
 | 20 | 0.2% | 86% |  |
-| 21 | 0.6% | 86% |  |
+| 21 | 0.7% | 86% |  |
 | 22 | 6% | 85% |  |
-| 23 | 11% | 80% |  |
-| 24 | 31% | 69% | Median |
-| 25 | 17% | 38% |  |
+| 23 | 11% | 79% |  |
+| 24 | 30% | 68% | Median |
+| 25 | 16% | 38% |  |
 | 26 | 6% | 22% |  |
 | 27 | 6% | 16% |  |
 | 28 | 3% | 10% |  |
@@ -493,11 +493,11 @@ Only polls for which at least the sample size has been published are included in
 | 18 | 2% | 89% |  |
 | 19 | 0.9% | 87% |  |
 | 20 | 0.2% | 86% |  |
-| 21 | 0.6% | 86% |  |
+| 21 | 0.7% | 86% |  |
 | 22 | 6% | 85% |  |
-| 23 | 11% | 80% |  |
-| 24 | 31% | 69% | Median |
-| 25 | 17% | 38% |  |
+| 23 | 11% | 79% |  |
+| 24 | 30% | 68% | Median |
+| 25 | 16% | 38% |  |
 | 26 | 6% | 22% |  |
 | 27 | 6% | 16% |  |
 | 28 | 3% | 10% |  |
@@ -579,10 +579,10 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 0.3% | 100% |  |
 | 7 | 2% | 99.7% |  |
 | 8 | 2% | 97% |  |
-| 9 | 12% | 95% |  |
+| 9 | 11% | 96% |  |
 | 10 | 7% | 84% |  |
-| 11 | 7% | 77% |  |
-| 12 | 12% | 69% |  |
+| 11 | 8% | 78% |  |
+| 12 | 12% | 70% |  |
 | 13 | 24% | 58% | Median |
 | 14 | 18% | 34% |  |
 | 15 | 13% | 16% |  |
@@ -600,9 +600,9 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 2% | 100% |  |
 | 2 | 6% | 98% |  |
 | 3 | 20% | 93% |  |
-| 4 | 50% | 72% | Median |
+| 4 | 51% | 73% | Median |
 | 5 | 11% | 22% |  |
-| 6 | 8% | 11% |  |
+| 6 | 8% | 12% |  |
 | 7 | 3% | 3% |  |
 | 8 | 0.2% | 0.3% |  |
 | 9 | 0.1% | 0.1% |  |
@@ -621,6 +621,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 7
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 6,422,528
++ **Lowest number of simulations done in a poll included in this average:** 524,288
++ **Total number of simulations done in the polls included in this average:** 6,815,744
 + **Error estimate:** 2.03%
