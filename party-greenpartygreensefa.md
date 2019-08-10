@@ -11,6 +11,7 @@ Last result: **11.8%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5.3% | 3.3–7.4% | 2.8–8.0% | 2.6–8.5% | 2.2–9.3% |
+| [5–6 August 2019](2019-08-06-YouGov.html) | YouGov <br> The Times | 6.9% | 6.2–7.8% | 6.0–8.1% | 5.8–8.3% | 5.5–8.7% |
 | [29–30 July 2019](2019-07-30-YouGov.html) | YouGov <br> The Times | 6.2% | 5.6–7.0% | 5.4–7.2% | 5.3–7.4% | 5.0–7.7% |
 | [26–30 July 2019](2019-07-30-IpsosMORI.html) | Ipsos MORI | 7.6% | 6.7–8.8% | 6.4–9.2% | 6.2–9.5% | 5.7–10.1% |
 | [26–28 July 2019](2019-07-28-ComRes.html) | ComRes <br> Britain Elects | 5.0% | 4.2–6.0% | 4.0–6.2% | 3.8–6.5% | 3.5–7.0% |
@@ -70,9 +71,10 @@ Last result: **7** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
+| [5–6 August 2019](2019-08-06-YouGov.html) | YouGov <br> The Times | 2 | 2 | 2 | 2 | 0–2 |
 | [29–30 July 2019](2019-07-30-YouGov.html) | YouGov <br> The Times | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [26–30 July 2019](2019-07-30-IpsosMORI.html) | Ipsos MORI | 2 | 1–3 | 0–3 | 0–3 | 0–5 |
-| [26–28 July 2019](2019-07-28-ComRes.html) | ComRes <br> Britain Elects | 0 | 0 | 0 | 0–1 | 0–2 |
+| [26–28 July 2019](2019-07-28-ComRes.html) | ComRes <br> Britain Elects | 0 | 0 | 0–1 | 0–1 | 0–2 |
 | [25–27 July 2019](2019-07-27-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0 | 0 | 0 | 0 | 0 |
 | [25–26 July 2019](2019-07-26-YouGov.html) | YouGov <br> The Sunday Times | 2 | 2–3 | 1–4 | 0–4 | 0–4 |
 | [24–26 July 2019](2019-07-26-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0–2 |

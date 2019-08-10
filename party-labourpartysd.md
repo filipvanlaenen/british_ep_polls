@@ -11,6 +11,7 @@ Last result: **13.7%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 26.6% | 22.5–30.0% | 21.9–30.9% | 21.4–31.5% | 20.6–32.7% |
+| [5–6 August 2019](2019-08-06-YouGov.html) | YouGov <br> The Times | 21.8% | 20.5–23.2% | 20.2–23.5% | 19.9–23.9% | 19.3–24.5% |
 | [29–30 July 2019](2019-07-30-YouGov.html) | YouGov <br> The Times | 22.8% | 21.7–24.1% | 21.4–24.4% | 21.1–24.7% | 20.5–25.3% |
 | [26–30 July 2019](2019-07-30-IpsosMORI.html) | Ipsos MORI | 22.9% | 21.3–24.7% | 20.8–25.2% | 20.4–25.7% | 19.7–26.5% |
 | [26–28 July 2019](2019-07-28-ComRes.html) | ComRes <br> Britain Elects | 30.0% | 28.2–31.8% | 27.7–32.3% | 27.3–32.8% | 26.5–33.7% |
@@ -80,6 +81,7 @@ Last result: **10** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21 | 17–25 | 16–26 | 15–27 | 15–27 |
+| [5–6 August 2019](2019-08-06-YouGov.html) | YouGov <br> The Times | 15 | 15 | 15 | 15 | 15–16 |
 | [29–30 July 2019](2019-07-30-YouGov.html) | YouGov <br> The Times | 18 | 15–20 | 15–21 | 15–21 | 15–22 |
 | [26–30 July 2019](2019-07-30-IpsosMORI.html) | Ipsos MORI | 18 | 16–21 | 15–21 | 15–21 | 15–22 |
 | [26–28 July 2019](2019-07-28-ComRes.html) | ComRes <br> Britain Elects | 25 | 22–27 | 21–27 | 20–27 | 19–27 |
