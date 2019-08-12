@@ -11,7 +11,7 @@ Last result: **8.8%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 29.6% | 23.5–33.5% | 22.3–34.1% | 21.5–34.7% | 20.4–35.6% |
-| [1–10 August 2019](2019-08-10-Opinium.html) | Opinium <br> Britain Elects | 30.9% | N/A | N/A | N/A | N/A |
+| [1–10 August 2019](2019-08-10-Opinium.html) | Opinium <br> Britain Elects | 30.9% | 29.1–32.8% | 28.6–33.3% | 28.2–33.8% | 27.4–34.7% |
 | [5–6 August 2019](2019-08-06-YouGov.html) | YouGov <br> The Times | 30.8% | 29.3–32.3% | 28.9–32.7% | 28.6–33.1% | 27.9–33.8% |
 | [29–30 July 2019](2019-07-30-YouGov.html) | YouGov <br> The Times | 33.3% | 31.9–34.6% | 31.6–35.0% | 31.2–35.3% | 30.6–36.0% |
 | [26–30 July 2019](2019-07-30-IpsosMORI.html) | Ipsos MORI | 32.6% | 30.7–34.5% | 30.2–35.1% | 29.7–35.5% | 28.9–36.5% |
@@ -90,7 +90,7 @@ Last result: **4** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 24 | 17–27 | 15–29 | 14–29 | 13–31 |
-| [1–10 August 2019](2019-08-10-Opinium.html) | Opinium <br> Britain Elects |  |  |  |  |  |
+| [1–10 August 2019](2019-08-10-Opinium.html) | Opinium <br> Britain Elects | 24 | 24 | 24–25 | 24–29 | 24–29 |
 | [5–6 August 2019](2019-08-06-YouGov.html) | YouGov <br> The Times | 24 | 24 | 24 | 24 | 24–25 |
 | [29–30 July 2019](2019-07-30-YouGov.html) | YouGov <br> The Times | 28 | 26–29 | 25–30 | 25–30 | 24–32 |
 | [26–30 July 2019](2019-07-30-IpsosMORI.html) | Ipsos MORI | 25 | 24–29 | 24–30 | 24–30 | 24–31 |
