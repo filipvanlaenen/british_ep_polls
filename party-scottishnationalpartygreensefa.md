@@ -11,6 +11,8 @@ Last result: **3.5%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.2% | 2.2–5.4% | 1.9–5.6% | 1.7–5.8% | 1.5–6.2% |
+| [6–11 August 2019](2019-08-11-Survation.html) | Survation | 4.0% | N/A | N/A | N/A | N/A |
+| [9–11 August 2019](2019-08-11-ComRes.html) | ComRes <br> Daily Telegraph | 3.0% | N/A | N/A | N/A | N/A |
 | [1–10 August 2019](2019-08-10-Opinium.html) | Opinium <br> Britain Elects | 4.0% | 3.3–4.8% | 3.1–5.1% | 2.9–5.3% | 2.7–5.8% |
 | [5–6 August 2019](2019-08-06-YouGov.html) | YouGov <br> The Times | 4.0% | 3.4–4.7% | 3.3–4.9% | 3.1–5.1% | 2.9–5.4% |
 | [29–30 July 2019](2019-07-30-YouGov.html) | YouGov <br> The Times | 5.2% | 4.6–5.9% | 4.4–6.1% | 4.3–6.2% | 4.0–6.6% |
@@ -69,6 +71,8 @@ Last result: **3** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 1–3 | 1–4 | 1–4 |
+| [6–11 August 2019](2019-08-11-Survation.html) | Survation |  |  |  |  |  |
+| [9–11 August 2019](2019-08-11-ComRes.html) | ComRes <br> Daily Telegraph |  |  |  |  |  |
 | [1–10 August 2019](2019-08-10-Opinium.html) | Opinium <br> Britain Elects | 3 | 3 | 3 | 3 | 2–3 |
 | [5–6 August 2019](2019-08-06-YouGov.html) | YouGov <br> The Times | 3 | 3 | 3 | 3 | 3 |
 | [29–30 July 2019](2019-07-30-YouGov.html) | YouGov <br> The Times | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
