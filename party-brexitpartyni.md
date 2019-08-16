@@ -11,8 +11,8 @@ Last result: **30.5%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14.1% | 9.7–19.2% | 9.1–20.3% | 8.8–21.0% | 8.3–22.1% |
-| [6–11 August 2019](2019-08-11-Survation.html) | Survation | 15.1% | N/A | N/A | N/A | N/A |
-| [9–11 August 2019](2019-08-11-ComRes.html) | ComRes <br> Daily Telegraph | 15.9% | N/A | N/A | N/A | N/A |
+| [6–11 August 2019](2019-08-11-Survation.html) | Survation | 15.1% | 14.1–16.2% | 13.8–16.5% | 13.6–16.7% | 13.2–17.2% |
+| [9–11 August 2019](2019-08-11-ComRes.html) | ComRes <br> Daily Telegraph | 15.9% | 14.9–17.0% | 14.6–17.3% | 14.4–17.6% | 13.9–18.1% |
 | [1–10 August 2019](2019-08-10-Opinium.html) | Opinium <br> Britain Elects | 15.9% | 14.6–17.5% | 14.2–17.9% | 13.8–18.3% | 13.2–19.0% |
 | [5–6 August 2019](2019-08-06-YouGov.html) | YouGov <br> The Times | 13.9% | 12.8–15.0% | 12.5–15.4% | 12.3–15.7% | 11.8–16.2% |
 | [29–30 July 2019](2019-07-30-YouGov.html) | YouGov <br> The Times | 9.3% | 8.6–10.2% | 8.3–10.5% | 8.2–10.7% | 7.8–11.1% |
@@ -87,8 +87,8 @@ Last result: **29** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 6–14 | 6–17 | 4–17 | 4–17 |
-| [6–11 August 2019](2019-08-11-Survation.html) | Survation |  |  |  |  |  |
-| [9–11 August 2019](2019-08-11-ComRes.html) | ComRes <br> Daily Telegraph |  |  |  |  |  |
+| [6–11 August 2019](2019-08-11-Survation.html) | Survation | 10 | 10 | 10 | 10 | 10 |
+| [9–11 August 2019](2019-08-11-ComRes.html) | ComRes <br> Daily Telegraph | 10 | 10–11 | 10–16 | 10–16 | 10–16 |
 | [1–10 August 2019](2019-08-10-Opinium.html) | Opinium <br> Britain Elects | 13 | 13 | 10–13 | 8–13 | 8–13 |
 | [5–6 August 2019](2019-08-06-YouGov.html) | YouGov <br> The Times | 8 | 8 | 8 | 8 | 8–9 |
 | [29–30 July 2019](2019-07-30-YouGov.html) | YouGov <br> The Times | 6 | 4–6 | 4–6 | 3–7 | 1–7 |
