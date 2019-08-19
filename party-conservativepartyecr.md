@@ -92,9 +92,9 @@ Last result: **4** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 24 | 17–27 | 15–29 | 14–29 | 13–31 |
-| [6–11 August 2019](2019-08-11-Survation.html) | Survation | 24 | 24 | 24 | 24 | 24 |
+| [6–11 August 2019](2019-08-11-Survation.html) | Survation | 24 | 23–24 | 23–24 | 23–24 | 22–24 |
 | [9–11 August 2019](2019-08-11-ComRes.html) | ComRes <br> Daily Telegraph | 26 | 24–27 | 24–27 | 24–28 | 23–29 |
-| [1–10 August 2019](2019-08-10-Opinium.html) | Opinium <br> Britain Elects | 26 | 24–28 | 24–28 | 23–29 | 23–30 |
+| [1–10 August 2019](2019-08-10-Opinium.html) | Opinium <br> Britain Elects | 25 | 23–28 | 23–29 | 23–29 | 23–30 |
 | [5–6 August 2019](2019-08-06-YouGov.html) | YouGov <br> The Times | 24 | 24–25 | 24–26 | 23–26 | 23–29 |
 | [29–30 July 2019](2019-07-30-YouGov.html) | YouGov <br> The Times | 28 | 26–29 | 25–30 | 25–30 | 24–32 |
 | [26–30 July 2019](2019-07-30-IpsosMORI.html) | Ipsos MORI | 25 | 24–29 | 24–30 | 24–30 | 24–31 |
