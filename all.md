@@ -6,9 +6,9 @@ The table below lists all polls registered and analyzed so far.
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 23 May 2019 | General Election | 30.5% <br> 29 | 19.6% <br> 16 | 13.7% <br> 10 | 11.8% <br> 7 | 8.8% <br> 4 | 3.5% <br> 3 | 1.0% <br> 1 | 3.3% <br> 0 | 3.2% <br> 0 |
 | [6–11 August 2019](2019-08-11-Survation.html) | Survation | 14–17% <br> 10 | 19–23% <br> 14–15 | 22–26% <br> 19 | 2–4% <br> 0 | 26–30% <br> 24 | 3–5% <br> 2–3 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A |
-| [9–11 August 2019](2019-08-11-ComRes.html) | ComRes <br> Daily Telegraph | 14–18% <br> 10–16 | 14–18% <br> 7–11 | 25–29% <br> 18–25 | 3–5% <br> 0 | 29–33% <br> 24–29 | 2–4% <br> 2–3 | 0–1% <br> 0–1 | 0–1% <br> 0 | 1–2% <br> 0 |
-| [1–10 August 2019](2019-08-10-Opinium.html) | Opinium <br> Britain Elects | 14–18% <br> 8–13 | 11–15% <br> 6–8 | 25–31% <br> 21–24 | 4–6% <br> 0 | 28–34% <br> 24–29 | 3–5% <br> 3 | 1–2% <br> 1–2 | 0–1% <br> 0 | 1–2% <br> 0 |
-| [5–6 August 2019](2019-08-06-YouGov.html) | YouGov <br> The Times | 12–16% <br> 8 | 19–23% <br> 18 | 20–24% <br> 15 | 6–8% <br> 2 | 29–33% <br> 24 | 3–5% <br> 3 | 0–1% <br> 0 | 0–1% <br> 0 | 0–1% <br> 0 |
+| [9–11 August 2019](2019-08-11-ComRes.html) | ComRes <br> Daily Telegraph | 14–18% <br> 9–12 | 14–18% <br> 9–13 | 25–29% <br> 20–24 | 3–5% <br> 0 | 29–33% <br> 24–28 | 2–4% <br> 2–3 | 0–1% <br> 0 | 0–1% <br> 0 | 1–2% <br> 0 |
+| [1–10 August 2019](2019-08-10-Opinium.html) | Opinium <br> Britain Elects | 14–18% <br> 8–14 | 11–15% <br> 5–9 | 25–31% <br> 20–27 | 4–6% <br> 0–2 | 28–34% <br> 23–29 | 3–5% <br> 2–3 | 1–2% <br> 0–1 | 0–1% <br> 0 | 1–2% <br> 0 |
+| [5–6 August 2019](2019-08-06-YouGov.html) | YouGov <br> The Times | 12–16% <br> 8–10 | 19–23% <br> 13–18 | 20–24% <br> 15–20 | 6–8% <br> 0–2 | 29–33% <br> 23–26 | 3–5% <br> 2–3 | 0–1% <br> 0 | 0–1% <br> 0 | 0–1% <br> 0 |
 | [29–30 July 2019](2019-07-30-YouGov.html) | YouGov <br> The Times | 8–11% <br> 3–7 | 18–22% <br> 12–16 | 21–25% <br> 15–21 | 5–7% <br> 0–2 | 31–35% <br> 25–30 | 4–6% <br> 3–4 | 1–2% <br> 1–2 | 0–1% <br> 0 | 1–2% <br> 0 |
 | [26–30 July 2019](2019-07-30-IpsosMORI.html) | Ipsos MORI | 10–14% <br> 6–9 | 17–22% <br> 10–16 | 20–26% <br> 15–21 | 6–9% <br> 0–3 | 30–36% <br> 24–30 | 3–5% <br> 2–3 | 1–2% <br> 0–2 | 0–1% <br> 0 | 1–2% <br> 0 |
 | [26–28 July 2019](2019-07-28-ComRes.html) | ComRes <br> Britain Elects | 13–17% <br> 8–12 | 14–18% <br> 7–13 | 27–33% <br> 20–27 | 4–6% <br> 0–1 | 26–32% <br> 21–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
