@@ -88,9 +88,9 @@ Last result: **29** seats (General Election of 23 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 6–14 | 6–17 | 4–17 | 4–17 |
 | [6–11 August 2019](2019-08-11-Survation.html) | Survation | 10 | 10 | 10 | 10 | 10 |
-| [9–11 August 2019](2019-08-11-ComRes.html) | ComRes <br> Daily Telegraph | 10 | 10–11 | 10–16 | 10–16 | 10–16 |
-| [1–10 August 2019](2019-08-10-Opinium.html) | Opinium <br> Britain Elects | 13 | 13 | 10–13 | 8–13 | 8–13 |
-| [5–6 August 2019](2019-08-06-YouGov.html) | YouGov <br> The Times | 8 | 8 | 8 | 8 | 8–9 |
+| [9–11 August 2019](2019-08-11-ComRes.html) | ComRes <br> Daily Telegraph | 11 | 10–12 | 9–12 | 9–12 | 9–13 |
+| [1–10 August 2019](2019-08-10-Opinium.html) | Opinium <br> Britain Elects | 11 | 8–13 | 8–14 | 8–14 | 8–16 |
+| [5–6 August 2019](2019-08-06-YouGov.html) | YouGov <br> The Times | 10 | 8–10 | 8–10 | 8–10 | 7–11 |
 | [29–30 July 2019](2019-07-30-YouGov.html) | YouGov <br> The Times | 6 | 4–6 | 4–6 | 3–7 | 1–7 |
 | [26–30 July 2019](2019-07-30-IpsosMORI.html) | Ipsos MORI | 7 | 6–9 | 6–9 | 6–9 | 4–10 |
 | [26–28 July 2019](2019-07-28-ComRes.html) | ComRes <br> Britain Elects | 8 | 8–11 | 8–12 | 8–12 | 7–12 |
