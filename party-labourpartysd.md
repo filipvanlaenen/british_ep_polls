@@ -10,14 +10,14 @@ Last result: **13.7%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.6% | 22.5–30.0% | 21.9–30.9% | 21.4–31.5% | 20.6–32.7% |
+| N/A | [Poll Average](average.html) | 26.6% | 22.5–29.6% | 21.9–30.2% | 21.4–30.7% | 20.6–31.7% |
 | [6–11 August 2019](2019-08-11-Survation.html) | Survation | 24.2% | 23.0–25.4% | 22.6–25.8% | 22.3–26.1% | 21.8–26.7% |
 | [9–11 August 2019](2019-08-11-ComRes.html) | ComRes <br> Daily Telegraph | 26.9% | 25.6–28.2% | 25.3–28.5% | 25.0–28.8% | 24.4–29.5% |
-| [1–10 August 2019](2019-08-10-Opinium.html) | Opinium <br> Britain Elects | 27.9% | 26.2–29.7% | 25.7–30.2% | 25.3–30.7% | 24.5–31.6% |
+| [8–9 August 2019](2019-08-09-Opinium.html) | Opinium <br> The Observer | 28.2% | 26.9–29.5% | 26.5–29.9% | 26.2–30.2% | 25.6–30.8% |
 | [5–6 August 2019](2019-08-06-YouGov.html) | YouGov <br> The Times | 21.8% | 20.5–23.2% | 20.2–23.5% | 19.9–23.9% | 19.3–24.5% |
 | [29–30 July 2019](2019-07-30-YouGov.html) | YouGov <br> The Times | 22.8% | 21.7–24.1% | 21.4–24.4% | 21.1–24.7% | 20.5–25.3% |
 | [26–30 July 2019](2019-07-30-IpsosMORI.html) | Ipsos MORI | 22.9% | 21.3–24.7% | 20.8–25.2% | 20.4–25.7% | 19.7–26.5% |
-| [26–28 July 2019](2019-07-28-ComRes.html) | ComRes <br> Britain Elects | 30.0% | 28.2–31.8% | 27.7–32.3% | 27.3–32.8% | 26.5–33.7% |
+| [26–28 July 2019](2019-07-28-ComRes.html) | ComRes <br> Britain Elects | 29.3% | 28.1–30.7% | 27.7–31.0% | 27.4–31.4% | 26.8–32.0% |
 | [25–27 July 2019](2019-07-27-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 25.0% | 23.8–26.3% | 23.4–26.6% | 23.1–26.9% | 22.6–27.6% |
 | [25–26 July 2019](2019-07-26-YouGov.html) | YouGov <br> The Sunday Times | 20.9% | 19.7–22.2% | 19.3–22.6% | 19.0–22.9% | 18.5–23.6% |
 | [24–26 July 2019](2019-07-26-Opinium.html) | Opinium <br> The Observer | 27.4% | 26.1–28.7% | 25.8–29.1% | 25.5–29.4% | 24.9–30.0% |
@@ -65,14 +65,13 @@ The following table shows the probability mass function per percentage block of 
 | 24.5–25.5% | 9% | 69% |  |
 | 25.5–26.5% | 10% | 60% |  |
 | 26.5–27.5% | 13% | 50% | Median |
-| 27.5–28.5% | 13% | 37% |  |
-| 28.5–29.5% | 10% | 24% |  |
-| 29.5–30.5% | 7% | 14% |  |
-| 30.5–31.5% | 4% | 7% |  |
-| 31.5–32.5% | 2% | 2% |  |
-| 32.5–33.5% | 0.5% | 0.6% |  |
-| 33.5–34.5% | 0.1% | 0.1% |  |
-| 34.5–35.5% | 0% | 0% |  |
+| 27.5–28.5% | 14% | 37% |  |
+| 28.5–29.5% | 12% | 23% |  |
+| 29.5–30.5% | 7% | 11% |  |
+| 30.5–31.5% | 3% | 3% |  |
+| 31.5–32.5% | 0.6% | 0.6% |  |
+| 32.5–33.5% | 0.1% | 0.1% |  |
+| 33.5–34.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -83,14 +82,14 @@ Last result: **10** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 17–25 | 16–26 | 15–27 | 15–27 |
+| N/A | [Poll Average](average.html) | 21 | 17–24 | 16–26 | 15–26 | 15–27 |
 | [6–11 August 2019](2019-08-11-Survation.html) | Survation | 19 | 18–20 | 17–21 | 17–21 | 16–21 |
-| [9–11 August 2019](2019-08-11-ComRes.html) | ComRes <br> Daily Telegraph | 21 | 20–23 | 20–24 | 20–24 | 20–25 |
-| [1–10 August 2019](2019-08-10-Opinium.html) | Opinium <br> Britain Elects | 24 | 20–27 | 20–27 | 19–27 | 19–27 |
+| [9–11 August 2019](2019-08-11-ComRes.html) | ComRes <br> Daily Telegraph | 20 | 20–23 | 20–24 | 20–24 | 20–25 |
+| [8–9 August 2019](2019-08-09-Opinium.html) | Opinium <br> The Observer | 23 | 20–25 | 20–27 | 20–27 | 20–27 |
 | [5–6 August 2019](2019-08-06-YouGov.html) | YouGov <br> The Times | 18 | 15–19 | 15–19 | 15–20 | 15–21 |
 | [29–30 July 2019](2019-07-30-YouGov.html) | YouGov <br> The Times | 18 | 15–20 | 15–21 | 15–21 | 15–22 |
 | [26–30 July 2019](2019-07-30-IpsosMORI.html) | Ipsos MORI | 18 | 16–21 | 15–21 | 15–21 | 15–22 |
-| [26–28 July 2019](2019-07-28-ComRes.html) | ComRes <br> Britain Elects | 25 | 22–27 | 21–27 | 20–27 | 19–27 |
+| [26–28 July 2019](2019-07-28-ComRes.html) | ComRes <br> Britain Elects | 24 | 22–26 | 22–27 | 22–27 | 21–27 |
 | [25–27 July 2019](2019-07-27-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 20 | 19–21 | 19–22 | 19–22 | 18–22 |
 | [25–26 July 2019](2019-07-26-YouGov.html) | YouGov <br> The Sunday Times | 15 | 15–17 | 15–18 | 15–18 | 15–19 |
 | [24–26 July 2019](2019-07-26-Opinium.html) | Opinium <br> The Observer | 23 | 20–25 | 19–25 | 19–26 | 19–27 |
@@ -137,13 +136,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 7% | 87% |  |
 | 19 | 12% | 80% |  |
 | 20 | 13% | 68% |  |
-| 21 | 17% | 55% | Median |
-| 22 | 9% | 38% |  |
+| 21 | 16% | 55% | Median |
+| 22 | 10% | 39% |  |
 | 23 | 9% | 29% |  |
-| 24 | 7% | 20% |  |
-| 25 | 6% | 13% |  |
-| 26 | 3% | 7% |  |
-| 27 | 4% | 4% |  |
+| 24 | 10% | 20% |  |
+| 25 | 5% | 10% |  |
+| 26 | 3% | 5% |  |
+| 27 | 2% | 2% |  |
 | 28 | 0.1% | 0.1% |  |
 | 29 | 0% | 0% |  |
 
