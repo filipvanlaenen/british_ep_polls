@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/british_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 21 Aug 2019 18:20:25 +0200</pubDate>
+    <pubDate>Fri, 23 Aug 2019 20:35:24 +0200</pubDate>
     <item>
       <title>Opinion Poll by Survation, 6–11 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_ep_polls/2019-08-11-Survation.html</link>
@@ -60,14 +60,34 @@
       <dc:date>2019-08-21T18:15:35.300286+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by YouGov for The Times, 5–6 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_ep_polls/2019-08-06-YouGov.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party (ECR): 24–27 seats&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 15–19 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats (RE): 13–18 seats&lt;/li&gt;&lt;li&gt;Scottish National Party (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;UK Independence Party (ID): 0 seats&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 0–2 seats&lt;/li&gt;&lt;li&gt;Brexit Party (NI): 8–10 seats&lt;/li&gt;&lt;li&gt;Change UK (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-08-06-YouGov-seats.png"
+        length="183363"
+        type="image/png"/>
+      <pubDate>Fri, 23 Aug 2019 20:35:24 +0200</pubDate>
+      <dc:date>2019-08-23T20:35:24.509372+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 5–6 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_ep_polls/2019-08-06-YouGov.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-08-06-YouGov-coalitions-seats.png"
+        length="149273"
+        type="image/png"/>
+      <pubDate>Fri, 23 Aug 2019 20:35:24 +0200</pubDate>
+      <dc:date>2019-08-23T20:35:24.509372+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by YouGov for The Times, 5–6 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_ep_polls/2019-08-06-YouGov.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party (ECR): 28.6–33.1%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 19.9–23.9%&lt;/li&gt;&lt;li&gt;Liberal Democrats (RE): 18.9–22.9%&lt;/li&gt;&lt;li&gt;Scottish National Party (Greens/EFA): 3.1–5.1%&lt;/li&gt;&lt;li&gt;Plaid Cymru (Greens/EFA): 0.1–0.6%&lt;/li&gt;&lt;li&gt;UK Independence Party (ID): 0.1–0.6%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 5.8–8.3%&lt;/li&gt;&lt;li&gt;Brexit Party (NI): 12.3–15.7%&lt;/li&gt;&lt;li&gt;Change UK (RE): 0.1–0.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-08-06-YouGov.png"
         length="262301"
         type="image/png"/>
-      <pubDate>Mon, 19 Aug 2019 08:26:54 +0200</pubDate>
-      <dc:date>2019-08-19T08:26:54.615129+02:00</dc:date>
+      <pubDate>Fri, 23 Aug 2019 20:35:24 +0200</pubDate>
+      <dc:date>2019-08-23T20:35:24.509372+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 29–30 July 2019 – Seat Projections for the Parties</title>
@@ -136,8 +156,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-07-28-ComRes.png"
         length="259855"
         type="image/png"/>
-      <pubDate>Wed, 21 Aug 2019 18:20:25 +0200</pubDate>
-      <dc:date>2019-08-21T18:20:25.671804+02:00</dc:date>
+      <pubDate>Fri, 23 Aug 2019 20:26:50 +0200</pubDate>
+      <dc:date>2019-08-23T20:26:50.558226+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Deltapoll for The Mail on Sunday, 25–27 July 2019 – Seat Projections for the Parties</title>
@@ -919,6 +939,6 @@
       <pubDate>Mon, 22 Jul 2019 21:27:08 +0200</pubDate>
       <dc:date>2019-07-22T21:27:08.139393+02:00</dc:date>
     </item>
-    <dc:date>2019-08-21T18:20:25.671804+02:00</dc:date>
+    <dc:date>2019-08-23T20:35:24.509372+02:00</dc:date>
   </channel>
 </rss>
