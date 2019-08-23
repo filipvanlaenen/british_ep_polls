@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/british_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2019-08-20T22:12:09.400375+02:00</updated>
+  <updated>2019-08-23T20:35:24.509372+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party (ECR): 28.8–32.9%, 24–28 seats</li><li>Labour Party (S&amp;D): 25.0–28.8%, 20–24 seats</li><li>Liberal Democrats (RE): 14.4–17.6%, 8–13 seats</li><li>Scottish National Party (Greens/EFA): 2.3–3.8%, 2–3 seats</li><li>Plaid Cymru (Greens/EFA): 0.1–0.6%, 0 seats</li><li>UK Independence Party (ID): 0.6–1.5%, 0 seats</li><li>Green Party (Greens/EFA): 3.2–4.9%, 0 seats</li><li>Brexit Party (NI): 14.4–17.6%, 9–12 seats</li><li>Change UK (RE): 0.1–0.6%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/british_ep_polls/2019-08-11-ComRes.html</id>
@@ -14,6 +14,14 @@
     <title>Opinion Poll by ComRes for Daily Telegraph, 9–11 August 2019</title>
     <updated>2019-08-20T22:12:09.400375+02:00</updated>
     <dc:date>2019-08-20T22:12:09.400375+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party (ECR): 28.6–33.1%, 24–27 seats</li><li>Labour Party (S&amp;D): 19.9–23.9%, 15–19 seats</li><li>Liberal Democrats (RE): 18.9–22.9%, 13–18 seats</li><li>Scottish National Party (Greens/EFA): 3.1–5.1%, 2–3 seats</li><li>Plaid Cymru (Greens/EFA): 0.1–0.6%, 0–1 seats</li><li>UK Independence Party (ID): 0.1–0.6%, 0 seats</li><li>Green Party (Greens/EFA): 5.8–8.3%, 0–2 seats</li><li>Brexit Party (NI): 12.3–15.7%, 8–10 seats</li><li>Change UK (RE): 0.1–0.6%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_ep_polls/2019-08-06-YouGov.html</id>
+    <link href="https://filipvanlaenen.github.io/british_ep_polls/2019-08-06-YouGov.html"/>
+    <title>Opinion Poll by YouGov for The Times, 5–6 August 2019</title>
+    <updated>2019-08-23T20:35:24.509372+02:00</updated>
+    <dc:date>2019-08-23T20:35:24.509372+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party (ECR): 31.2–35.3%, 25–30 seats</li><li>Labour Party (S&amp;D): 21.1–24.7%, 15–21 seats</li><li>Liberal Democrats (RE): 18.1–21.5%, 12–16 seats</li><li>Scottish National Party (Greens/EFA): 4.3–6.2%, 3–4 seats</li><li>Plaid Cymru (Greens/EFA): 0.7–1.6%, 1–2 seats</li><li>UK Independence Party (ID): 0.7–1.6%, 0 seats</li><li>Green Party (Greens/EFA): 5.3–7.4%, 0–2 seats</li><li>Brexit Party (NI): 8.2–10.7%, 3–7 seats</li><li>Change UK (RE): 0.1–0.6%, 0 seats</li></ul></div></content>
@@ -239,5 +247,5 @@
     <updated>2019-07-22T21:27:08.139393+02:00</updated>
     <dc:date>2019-07-22T21:27:08.139393+02:00</dc:date>
   </entry>
-  <dc:date>2019-08-20T22:12:09.400375+02:00</dc:date>
+  <dc:date>2019-08-23T20:35:24.509372+02:00</dc:date>
 </feed>
