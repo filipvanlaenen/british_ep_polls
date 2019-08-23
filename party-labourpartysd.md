@@ -82,14 +82,14 @@ Last result: **10** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 17–24 | 16–26 | 15–26 | 15–27 |
+| N/A | [Poll Average](average.html) | 21 | 17–25 | 16–26 | 15–27 | 15–27 |
 | [6–11 August 2019](2019-08-11-Survation.html) | Survation | 19 | 18–20 | 17–21 | 17–21 | 16–21 |
 | [9–11 August 2019](2019-08-11-ComRes.html) | ComRes <br> Daily Telegraph | 20 | 20–23 | 20–24 | 20–24 | 20–25 |
 | [8–9 August 2019](2019-08-09-Opinium.html) | Opinium <br> The Observer | 23 | 20–25 | 20–27 | 20–27 | 20–27 |
-| [5–6 August 2019](2019-08-06-YouGov.html) | YouGov <br> The Times | 18 | 15–19 | 15–19 | 15–20 | 15–21 |
+| [5–6 August 2019](2019-08-06-YouGov.html) | YouGov <br> The Times | 17 | 15–19 | 15–19 | 15–19 | 15–20 |
 | [29–30 July 2019](2019-07-30-YouGov.html) | YouGov <br> The Times | 18 | 15–20 | 15–21 | 15–21 | 15–22 |
 | [26–30 July 2019](2019-07-30-IpsosMORI.html) | Ipsos MORI | 18 | 16–21 | 15–21 | 15–21 | 15–22 |
-| [26–28 July 2019](2019-07-28-ComRes.html) | ComRes <br> Britain Elects | 24 | 22–26 | 22–27 | 22–27 | 21–27 |
+| [26–28 July 2019](2019-07-28-ComRes.html) | ComRes <br> Britain Elects | 25 | 22–27 | 22–27 | 21–27 | 20–27 |
 | [25–27 July 2019](2019-07-27-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 20 | 19–21 | 19–22 | 19–22 | 18–22 |
 | [25–26 July 2019](2019-07-26-YouGov.html) | YouGov <br> The Sunday Times | 15 | 15–17 | 15–18 | 15–18 | 15–19 |
 | [24–26 July 2019](2019-07-26-Opinium.html) | Opinium <br> The Observer | 23 | 20–25 | 19–25 | 19–26 | 19–27 |
@@ -137,12 +137,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 12% | 80% |  |
 | 20 | 13% | 68% |  |
 | 21 | 16% | 55% | Median |
-| 22 | 10% | 39% |  |
-| 23 | 9% | 29% |  |
-| 24 | 10% | 20% |  |
-| 25 | 5% | 10% |  |
-| 26 | 3% | 5% |  |
-| 27 | 2% | 2% |  |
+| 22 | 9% | 39% |  |
+| 23 | 9% | 30% |  |
+| 24 | 8% | 20% |  |
+| 25 | 6% | 13% |  |
+| 26 | 4% | 7% |  |
+| 27 | 3% | 3% |  |
 | 28 | 0.1% | 0.1% |  |
 | 29 | 0% | 0% |  |
 
