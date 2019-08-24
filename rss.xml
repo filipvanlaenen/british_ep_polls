@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/british_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 24 Aug 2019 16:17:53 +0200</pubDate>
+    <pubDate>Sat, 24 Aug 2019 17:23:45 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Survation, 6–11 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_ep_polls/2019-08-11-Survation.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party (ECR): 23–24 seats&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 17–21 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats (RE): 13–18 seats&lt;/li&gt;&lt;li&gt;Scottish National Party (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Brexit Party (NI): 9–10 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-08-11-Survation-seats.png"
+        length="150037"
+        type="image/png"/>
+      <pubDate>Sat, 24 Aug 2019 17:23:45 +0200</pubDate>
+      <dc:date>2019-08-24T17:23:45.107959+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Survation, 6–11 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_ep_polls/2019-08-11-Survation.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-08-11-Survation-coalitions-seats.png"
+        length="130812"
+        type="image/png"/>
+      <pubDate>Sat, 24 Aug 2019 17:23:45 +0200</pubDate>
+      <dc:date>2019-08-24T17:23:45.107959+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Survation, 6–11 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_ep_polls/2019-08-11-Survation.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-08-11-Survation.png"
         length="224411"
         type="image/png"/>
-      <pubDate>Mon, 19 Aug 2019 09:31:18 +0200</pubDate>
-      <dc:date>2019-08-19T09:31:18.781706+02:00</dc:date>
+      <pubDate>Sat, 24 Aug 2019 17:23:45 +0200</pubDate>
+      <dc:date>2019-08-24T17:23:45.107959+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ComRes for Daily Telegraph, 9–11 August 2019 – Seat Projections for the Parties</title>
@@ -979,6 +999,6 @@
       <pubDate>Mon, 22 Jul 2019 21:27:08 +0200</pubDate>
       <dc:date>2019-07-22T21:27:08.139393+02:00</dc:date>
     </item>
-    <dc:date>2019-08-24T16:17:53.409607+02:00</dc:date>
+    <dc:date>2019-08-24T17:23:45.107959+02:00</dc:date>
   </channel>
 </rss>
