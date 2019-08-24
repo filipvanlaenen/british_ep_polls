@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/british_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2019-08-24T16:17:53.409607+02:00</updated>
+  <updated>2019-08-24T17:23:45.107959+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party (ECR): 26.3–30.2%, 23–24 seats</li><li>Labour Party (S&amp;D): 22.3–26.1%, 17–21 seats</li><li>Liberal Democrats (RE): 19.4–23.0%, 13–18 seats</li><li>Scottish National Party (Greens/EFA): 3.2–5.0%, 2–3 seats</li><li>Plaid Cymru (Greens/EFA): 0.1–0.6%, 0 seats</li><li>Green Party (Greens/EFA): 2.4–3.9%, 0 seats</li><li>Brexit Party (NI): 13.6–16.7%, 9–10 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_ep_polls/2019-08-11-Survation.html</id>
+    <link href="https://filipvanlaenen.github.io/british_ep_polls/2019-08-11-Survation.html"/>
+    <title>Opinion Poll by Survation, 6–11 August 2019</title>
+    <updated>2019-08-24T17:23:45.107959+02:00</updated>
+    <dc:date>2019-08-24T17:23:45.107959+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party (ECR): 28.8–32.9%, 24–28 seats</li><li>Labour Party (S&amp;D): 25.0–28.8%, 20–24 seats</li><li>Liberal Democrats (RE): 14.4–17.6%, 8–13 seats</li><li>Scottish National Party (Greens/EFA): 2.3–3.8%, 2–3 seats</li><li>Plaid Cymru (Greens/EFA): 0.1–0.6%, 0 seats</li><li>UK Independence Party (ID): 0.6–1.5%, 0 seats</li><li>Green Party (Greens/EFA): 3.2–4.9%, 0 seats</li><li>Brexit Party (NI): 14.4–17.6%, 9–12 seats</li><li>Change UK (RE): 0.1–0.6%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/british_ep_polls/2019-08-11-ComRes.html</id>
@@ -263,5 +271,5 @@
     <updated>2019-07-22T21:27:08.139393+02:00</updated>
     <dc:date>2019-07-22T21:27:08.139393+02:00</dc:date>
   </entry>
-  <dc:date>2019-08-24T16:17:53.409607+02:00</dc:date>
+  <dc:date>2019-08-24T17:23:45.107959+02:00</dc:date>
 </feed>
