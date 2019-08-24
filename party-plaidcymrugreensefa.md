@@ -68,11 +68,11 @@ Last result: **1** seats (General Election of 23 May 2019)
 | N/A | [Poll Average](average.html) | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | [6–11 August 2019](2019-08-11-Survation.html) | Survation | 0 | 0 | 0 | 0 | 0 |
 | [9–11 August 2019](2019-08-11-ComRes.html) | ComRes <br> Daily Telegraph | 0 | 0 | 0 | 0 | 0 |
-| [8–9 August 2019](2019-08-09-Opinium.html) | Opinium <br> The Observer | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| [8–9 August 2019](2019-08-09-Opinium.html) | Opinium <br> The Observer | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [5–6 August 2019](2019-08-06-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0–1 | 0–1 |
 | [29–30 July 2019](2019-07-30-YouGov.html) | YouGov <br> The Times | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [26–30 July 2019](2019-07-30-IpsosMORI.html) | Ipsos MORI | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
-| [26–28 July 2019](2019-07-28-ComRes.html) | ComRes <br> Britain Elects | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [26–28 July 2019](2019-07-28-ComRes.html) | ComRes <br> Britain Elects | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [25–27 July 2019](2019-07-27-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 1 | 1 | 1 | 0–2 | 0–2 |
 | [25–26 July 2019](2019-07-26-YouGov.html) | YouGov <br> The Sunday Times | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | [24–26 July 2019](2019-07-26-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 0–1 | 0–2 | 0–2 |
@@ -109,7 +109,7 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 10% | 100% |  |
-| 1 | 82% | 90% | Last Result, Median |
+| 1 | 83% | 90% | Last Result, Median |
 | 2 | 8% | 8% |  |
 | 3 | 0% | 0% |  |
 
