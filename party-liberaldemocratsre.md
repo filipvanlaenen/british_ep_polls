@@ -11,6 +11,7 @@ Last result: **19.6%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18.1% | 15.4–20.2% | 14.9–20.7% | 14.6–21.1% | 14.0–21.9% |
+| [27–28 August 2019](2019-08-28-YouGov.html) | YouGov <br> The Times | 16.9% | 15.9–18.0% | 15.6–18.3% | 15.3–18.6% | 14.8–19.2% |
 | [22–23 August 2019](2019-08-23-YouGov.html) | YouGov <br> The Sunday Times | 19.3% | 18.2–20.4% | 17.9–20.8% | 17.6–21.0% | 17.1–21.6% |
 | [21–23 August 2019](2019-08-23-Opinium.html) | Opinium <br> The Observer | 14.8% | 13.8–15.9% | 13.5–16.2% | 13.3–16.4% | 12.9–17.0% |
 | [20–21 August 2019](2019-08-21-YouGov.html) | YouGov <br> The Times | 19.9% | 18.7–21.2% | 18.4–21.6% | 18.1–21.9% | 17.5–22.5% |
@@ -81,12 +82,13 @@ Last result: **16** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 9–15 | 9–15 | 8–16 | 7–17 |
+| [27–28 August 2019](2019-08-28-YouGov.html) | YouGov <br> The Times | 11 | 9–11 | 9–13 | 9–15 | 9–15 |
 | [22–23 August 2019](2019-08-23-YouGov.html) | YouGov <br> The Sunday Times | 14 | 12–14 | 11–15 | 11–16 | 10–17 |
-| [21–23 August 2019](2019-08-23-Opinium.html) | Opinium <br> The Observer | 9 | 9 | 9 | 9 | 8–9 |
-| [20–21 August 2019](2019-08-21-YouGov.html) | YouGov <br> The Times | 18 | 15–18 | 15–18 | 15–18 | 15–18 |
-| [15–19 August 2019](2019-08-19-KantarPublic.html) | Kantar Public | 8 | 8 | 8 | 6–8 | 6–13 |
-| [13–14 August 2019](2019-08-14-YouGov.html) | YouGov <br> The Times | 16 | 16 | 13–16 | 12–16 | 12–16 |
-| [7–12 August 2019](2019-08-12-BMGResearch.html) | BMG Research <br> The Independent | 12 | 12–13 | 12–13 | 12–13 | 11–14 |
+| [21–23 August 2019](2019-08-23-Opinium.html) | Opinium <br> The Observer | 9 | 8–10 | 8–10 | 6–10 | 6–11 |
+| [20–21 August 2019](2019-08-21-YouGov.html) | YouGov <br> The Times | 15 | 13–18 | 13–18 | 12–18 | 11–18 |
+| [15–19 August 2019](2019-08-19-KantarPublic.html) | Kantar Public | 8 | 6–8 | 6–9 | 6–10 | 6–11 |
+| [13–14 August 2019](2019-08-14-YouGov.html) | YouGov <br> The Times | 14 | 13–17 | 12–18 | 12–18 | 11–18 |
+| [7–12 August 2019](2019-08-12-BMGResearch.html) | BMG Research <br> The Independent | 14 | 12–16 | 12–16 | 11–16 | 11–16 |
 | [6–11 August 2019](2019-08-11-Survation.html) | Survation | 14 | 14–17 | 13–17 | 13–18 | 13–18 |
 | [9–11 August 2019](2019-08-11-ComRes.html) | ComRes <br> Daily Telegraph | 10 | 9–12 | 9–13 | 8–13 | 6–14 |
 | [8–9 August 2019](2019-08-09-Opinium.html) | Opinium <br> The Observer | 6 | 6–8 | 6–9 | 6–9 | 5–9 |
