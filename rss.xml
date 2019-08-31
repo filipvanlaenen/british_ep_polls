@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/british_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 30 Aug 2019 20:26:27 +0200</pubDate>
+    <pubDate>Sat, 31 Aug 2019 11:18:12 +0200</pubDate>
     <item>
       <title>Opinion Poll by YouGov for The Times, 27–28 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_ep_polls/2019-08-28-YouGov.html</link>
@@ -40,14 +40,54 @@
       <dc:date>2019-08-30T18:33:27.512856+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by YouGov for The Times, 20–21 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_ep_polls/2019-08-21-YouGov.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party (ECR): 24–29 seats&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 15–21 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats (RE): 12–18 seats&lt;/li&gt;&lt;li&gt;Scottish National Party (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;UK Independence Party (ID): 0 seats&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 0–3 seats&lt;/li&gt;&lt;li&gt;Brexit Party (NI): 6–9 seats&lt;/li&gt;&lt;li&gt;Change UK (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-08-21-YouGov-seats.png"
+        length="192982"
+        type="image/png"/>
+      <pubDate>Fri, 30 Aug 2019 21:05:09 +0200</pubDate>
+      <dc:date>2019-08-30T21:05:09.520308+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 20–21 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_ep_polls/2019-08-21-YouGov.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-08-21-YouGov-coalitions-seats.png"
+        length="154001"
+        type="image/png"/>
+      <pubDate>Fri, 30 Aug 2019 21:05:09 +0200</pubDate>
+      <dc:date>2019-08-30T21:05:09.520308+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by YouGov for The Times, 20–21 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_ep_polls/2019-08-21-YouGov.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party (ECR): 29.6–34.1%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 20.0–23.9%&lt;/li&gt;&lt;li&gt;Liberal Democrats (RE): 18.1–21.9%&lt;/li&gt;&lt;li&gt;Scottish National Party (Greens/EFA): 3.1–5.0%&lt;/li&gt;&lt;li&gt;Plaid Cymru (Greens/EFA): 0.6–1.6%&lt;/li&gt;&lt;li&gt;UK Independence Party (ID): 0.1–0.6%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 5.9–8.3%&lt;/li&gt;&lt;li&gt;Brexit Party (NI): 10.5–13.5%&lt;/li&gt;&lt;li&gt;Change UK (RE): 0.1–0.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-08-21-YouGov.png"
         length="257504"
         type="image/png"/>
-      <pubDate>Fri, 30 Aug 2019 20:26:27 +0200</pubDate>
-      <dc:date>2019-08-30T20:26:27.662924+02:00</dc:date>
+      <pubDate>Fri, 30 Aug 2019 21:05:09 +0200</pubDate>
+      <dc:date>2019-08-30T21:05:09.520308+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Public, 15–19 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_ep_polls/2019-08-19-KantarPublic.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party (ECR): 33–39 seats&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 20–26 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats (RE): 6–11 seats&lt;/li&gt;&lt;li&gt;Scottish National Party (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;UK Independence Party (ID): 0 seats&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Brexit Party (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Change UK (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-08-19-KantarPublic-seats.png"
+        length="174918"
+        type="image/png"/>
+      <pubDate>Sat, 31 Aug 2019 11:18:12 +0200</pubDate>
+      <dc:date>2019-08-31T11:18:12.052756+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Public, 15–19 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_ep_polls/2019-08-19-KantarPublic.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-08-19-KantarPublic-coalitions-seats.png"
+        length="134083"
+        type="image/png"/>
+      <pubDate>Sat, 31 Aug 2019 11:18:12 +0200</pubDate>
+      <dc:date>2019-08-31T11:18:12.052756+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Public, 15–19 August 2019 – Voting Intentions</title>
@@ -56,8 +96,28 @@
       <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-08-19-KantarPublic.png"
         length="252938"
         type="image/png"/>
-      <pubDate>Fri, 30 Aug 2019 19:14:25 +0200</pubDate>
-      <dc:date>2019-08-30T19:14:25.814346+02:00</dc:date>
+      <pubDate>Sat, 31 Aug 2019 11:18:12 +0200</pubDate>
+      <dc:date>2019-08-31T11:18:12.052756+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 13–14 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_ep_polls/2019-08-14-YouGov.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party (ECR): 23–27 seats&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 15–19 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats (RE): 12–18 seats&lt;/li&gt;&lt;li&gt;Scottish National Party (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru (Greens/EFA): 0–2 seats&lt;/li&gt;&lt;li&gt;UK Independence Party (ID): 0 seats&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 0–4 seats&lt;/li&gt;&lt;li&gt;Brexit Party (NI): 7–10 seats&lt;/li&gt;&lt;li&gt;Change UK (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-08-14-YouGov-seats.png"
+        length="196793"
+        type="image/png"/>
+      <pubDate>Sat, 31 Aug 2019 10:32:50 +0200</pubDate>
+      <dc:date>2019-08-31T10:32:50.638037+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 13–14 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_ep_polls/2019-08-14-YouGov.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-08-14-YouGov-coalitions-seats.png"
+        length="153919"
+        type="image/png"/>
+      <pubDate>Sat, 31 Aug 2019 10:32:50 +0200</pubDate>
+      <dc:date>2019-08-31T10:32:50.638037+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 13–14 August 2019 – Voting Intentions</title>
@@ -66,8 +126,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-08-14-YouGov.png"
         length="264894"
         type="image/png"/>
-      <pubDate>Fri, 30 Aug 2019 18:24:33 +0200</pubDate>
-      <dc:date>2019-08-30T18:24:33.910105+02:00</dc:date>
+      <pubDate>Sat, 31 Aug 2019 10:32:50 +0200</pubDate>
+      <dc:date>2019-08-31T10:32:50.638037+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by BMG Research for The Independent, 7–12 August 2019 – Voting Intentions</title>
@@ -1069,6 +1129,6 @@
       <pubDate>Mon, 22 Jul 2019 21:27:08 +0200</pubDate>
       <dc:date>2019-07-22T21:27:08.139393+02:00</dc:date>
     </item>
-    <dc:date>2019-08-30T20:26:27.662924+02:00</dc:date>
+    <dc:date>2019-08-31T11:18:12.052756+02:00</dc:date>
   </channel>
 </rss>
