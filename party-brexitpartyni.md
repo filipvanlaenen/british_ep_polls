@@ -95,7 +95,7 @@ Last result: **29** seats (General Election of 23 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 6–14 | 6–17 | 4–17 | 4–17 |
 | [27–28 August 2019](2019-08-28-YouGov.html) | YouGov <br> The Times | 9 | 7–10 | 7–10 | 7–10 | 7–10 |
-| [22–23 August 2019](2019-08-23-YouGov.html) | YouGov <br> The Sunday Times | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
+| [22–23 August 2019](2019-08-23-YouGov.html) | YouGov <br> The Sunday Times | 10 | 8–10 | 7–10 | 7–10 | 7–10 |
 | [21–23 August 2019](2019-08-23-Opinium.html) | Opinium <br> The Observer | 11 | 10–12 | 10–12 | 9–13 | 8–13 |
 | [20–21 August 2019](2019-08-21-YouGov.html) | YouGov <br> The Times | 7 | 7–8 | 7–9 | 6–9 | 6–10 |
 | [15–19 August 2019](2019-08-19-KantarPublic.html) | Kantar Public | 0 | 0 | 0 | 0–1 | 0–1 |
