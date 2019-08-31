@@ -81,13 +81,13 @@ Last result: **7** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
-| [27–28 August 2019](2019-08-28-YouGov.html) | YouGov <br> The Times | 2 | 2 | 2 | 2 | 0–5 |
+| [27–28 August 2019](2019-08-28-YouGov.html) | YouGov <br> The Times | 2 | 2 | 2–3 | 1–3 | 0–5 |
 | [22–23 August 2019](2019-08-23-YouGov.html) | YouGov <br> The Sunday Times | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | [21–23 August 2019](2019-08-23-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0 |
 | [20–21 August 2019](2019-08-21-YouGov.html) | YouGov <br> The Times | 2 | 0–2 | 0–2 | 0–3 | 0–3 |
 | [15–19 August 2019](2019-08-19-KantarPublic.html) | Kantar Public | 0 | 0 | 0 | 0 | 0 |
 | [13–14 August 2019](2019-08-14-YouGov.html) | YouGov <br> The Times | 2 | 1–3 | 1–4 | 0–4 | 0–4 |
-| [7–12 August 2019](2019-08-12-BMGResearch.html) | BMG Research <br> The Independent | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [7–12 August 2019](2019-08-12-BMGResearch.html) | BMG Research <br> The Independent | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [6–11 August 2019](2019-08-11-Survation.html) | Survation | 0 | 0 | 0 | 0 | 0 |
 | [9–11 August 2019](2019-08-11-ComRes.html) | ComRes <br> Daily Telegraph | 0 | 0 | 0 | 0 | 0 |
 | [8–9 August 2019](2019-08-09-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0–1 |
