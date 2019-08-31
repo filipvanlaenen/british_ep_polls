@@ -76,9 +76,9 @@ Last result: **1** seats (General Election of 23 May 2019)
 | [27–28 August 2019](2019-08-28-YouGov.html) | YouGov <br> The Times | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [22–23 August 2019](2019-08-23-YouGov.html) | YouGov <br> The Sunday Times | 1 | 1 | 1 | 1 | 0–2 |
 | [21–23 August 2019](2019-08-23-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 0–1 | 0–1 | 0–2 |
-| [20–21 August 2019](2019-08-21-YouGov.html) | YouGov <br> The Times | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| [20–21 August 2019](2019-08-21-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | [15–19 August 2019](2019-08-19-KantarPublic.html) | Kantar Public | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [13–14 August 2019](2019-08-14-YouGov.html) | YouGov <br> The Times | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| [13–14 August 2019](2019-08-14-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 0–2 | 0–2 |
 | [7–12 August 2019](2019-08-12-BMGResearch.html) | BMG Research <br> The Independent | 1 | 1 | 1 | 1–2 | 0–2 |
 | [6–11 August 2019](2019-08-11-Survation.html) | Survation | 0 | 0 | 0 | 0 | 0 |
 | [9–11 August 2019](2019-08-11-ComRes.html) | ComRes <br> Daily Telegraph | 0 | 0 | 0 | 0 | 0 |
