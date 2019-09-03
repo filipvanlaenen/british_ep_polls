@@ -11,6 +11,9 @@ Last result: **3.5%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.0% | 2.2–5.3% | 1.9–5.6% | 1.7–5.8% | 1.5–6.2% |
+| [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 3.9% | N/A | N/A | N/A | N/A |
+| [29–30 August 2019](2019-08-30-Survation.html) | Survation <br> Daily Mail | 3.9% | N/A | N/A | N/A | N/A |
+| [28–29 August 2019](2019-08-29-YouGov.html) | YouGov | 4.0% | N/A | N/A | N/A | N/A |
 | [27–28 August 2019](2019-08-28-YouGov.html) | YouGov <br> The Times | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–4.9% | 3.0–5.3% |
 | [22–23 August 2019](2019-08-23-YouGov.html) | YouGov <br> The Sunday Times | 4.1% | 3.6–4.7% | 3.4–4.9% | 3.3–5.0% | 3.0–5.3% |
 | [21–23 August 2019](2019-08-23-Opinium.html) | Opinium <br> The Observer | 4.9% | 4.4–5.6% | 4.2–5.8% | 4.1–6.0% | 3.8–6.3% |
@@ -78,6 +81,9 @@ Last result: **3** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 1–3 | 1–4 | 1–4 |
+| [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday |  |  |  |  |  |
+| [29–30 August 2019](2019-08-30-Survation.html) | Survation <br> Daily Mail |  |  |  |  |  |
+| [28–29 August 2019](2019-08-29-YouGov.html) | YouGov |  |  |  |  |  |
 | [27–28 August 2019](2019-08-28-YouGov.html) | YouGov <br> The Times | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [22–23 August 2019](2019-08-23-YouGov.html) | YouGov <br> The Sunday Times | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [21–23 August 2019](2019-08-23-Opinium.html) | Opinium <br> The Observer | 3 | 3 | 3 | 3 | 2–4 |
