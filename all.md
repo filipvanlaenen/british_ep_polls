@@ -5,8 +5,9 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | BREXIT | LIBDEM | LAB | GREEN | CON | SNP | PC | ChUK | UKIP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 23 May 2019 | General Election | 30.5% <br> 29 | 19.6% <br> 16 | 13.7% <br> 10 | 11.8% <br> 7 | 8.8% <br> 4 | 3.5% <br> 3 | 1.0% <br> 1 | 3.3% <br> 0 | 3.2% <br> 0 |
+| [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 9–13% <br> 5–8 | 14–18% <br> 8–12 | 23–27% <br> 16–22 | 6–8% <br> 0–2 | 33–37% <br> 25–32 | 3–5% <br> 2–3 | 1–2% <br> 0–2 | 0–1% <br> 0 | 1–2% <br> 0 |
 | [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 12–15% <br> 7–10 | 16–19% <br> 9–13 | 22–25% <br> 16–21 | 3–5% <br> 0 | 32–36% <br> 25–31 | 3–5% <br> 2–3 | 1–2% <br> 1–2 | 1–2% <br> 0 | 1–2% <br> 0 |
-| [29–30 August 2019](2019-08-30-Survation.html) | Survation <br> Daily Mail | 12–16% <br> 7–10 | 18–23% <br> 13–18 | 21–26% <br> 15–21 | 2–4% <br> 0 | 28–34% <br> 23–28 | 3–5% <br> 2–3 | 1–2% <br> 1–2 | 0–1% <br> 0 | N/A <br> N/A |
+| [29–30 August 2019](2019-08-30-Survation.html) | Survation <br> Daily Mail | 12–16% <br> 7–10 | 18–23% <br> 13–18 | 21–26% <br> 15–21 | 2–4% <br> 0 | 28–34% <br> 23–28 | 3–5% <br> 2–3 | 1–2% <br> 0–2 | 0–1% <br> 0 | N/A <br> N/A |
 | [28–29 August 2019](2019-08-29-YouGov.html) | YouGov | 10–13% <br> 6–9 | 19–23% <br> 14–18 | 20–24% <br> 15–19 | 6–8% <br> 0–2 | 30–35% <br> 24–29 | 3–5% <br> 2–3 | 1–2% <br> 0–2 | 0–1% <br> 0 | 0–1% <br> 0 |
 | [27–28 August 2019](2019-08-28-YouGov.html) | YouGov <br> The Times | 12–14% <br> 7–10 | 15–19% <br> 9–13 | 20–24% <br> 15–20 | 7–9% <br> 1–3 | 32–36% <br> 25–31 | 3–5% <br> 2–3 | 1–2% <br> 1–2 | 0–1% <br> 0 | 0–1% <br> 0 |
 | [22–23 August 2019](2019-08-23-YouGov.html) | YouGov <br> The Sunday Times | 13–16% <br> 7–10 | 18–21% <br> 11–16 | 18–21% <br> 15–16 | 6–8% <br> 0–2 | 31–36% <br> 25–29 | 3–5% <br> 2–3 | 1–2% <br> 0–2 | 0–1% <br> 0 | 0–1% <br> 0 |
