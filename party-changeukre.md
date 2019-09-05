@@ -11,6 +11,7 @@ Last result: **3.3%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.4% | 0.2–2.0% | 0.1–2.2% | 0.1–2.4% | 0.1–2.7% |
+| [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.6% | 0.1–0.8% |
 | [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 1.0% | 0.7–1.3% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
 | [29–30 August 2019](2019-08-30-Survation.html) | Survation <br> Daily Mail | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
 | [28–29 August 2019](2019-08-29-YouGov.html) | YouGov | 0.3% | 0.2–0.5% | 0.1–0.6% | 0.1–0.6% | 0.1–0.8% |
@@ -77,6 +78,7 @@ Last result: **0** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0 | 0 | 0 | 0 | 0 |
 | [29–30 August 2019](2019-08-30-Survation.html) | Survation <br> Daily Mail | 0 | 0 | 0 | 0 | 0 |
 | [28–29 August 2019](2019-08-29-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |
