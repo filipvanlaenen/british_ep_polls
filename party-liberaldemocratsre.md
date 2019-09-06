@@ -11,6 +11,7 @@ Last result: **19.6%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18.1% | 15.4–20.2% | 14.9–20.7% | 14.6–21.1% | 14.0–21.9% |
+| [3–4 September 2019](2019-09-04-HanburyStrategy.html) | Hanbury Strategy | 16.9% | N/A | N/A | N/A | N/A |
 | [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 15.9% | 14.8–17.1% | 14.5–17.5% | 14.2–17.8% | 13.7–18.4% |
 | [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 17.6% | 16.6–18.7% | 16.3–19.1% | 16.0–19.3% | 15.5–19.9% |
 | [29–30 August 2019](2019-08-30-Survation.html) | Survation <br> Daily Mail | 20.8% | 19.2–22.5% | 18.8–23.0% | 18.4–23.4% | 17.7–24.2% |
@@ -86,6 +87,7 @@ Last result: **16** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 9–15 | 9–15 | 8–16 | 7–17 |
+| [3–4 September 2019](2019-09-04-HanburyStrategy.html) | Hanbury Strategy |  |  |  |  |  |
 | [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 10 | 8–11 | 8–12 | 8–12 | 8–12 |
 | [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 11 | 10–13 | 9–13 | 9–13 | 9–14 |
 | [29–30 August 2019](2019-08-30-Survation.html) | Survation <br> Daily Mail | 15 | 13–17 | 13–18 | 13–18 | 12–19 |
