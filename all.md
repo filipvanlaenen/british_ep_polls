@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | BREXIT | LIBDEM | LAB | GREEN | CON | SNP | PC | ChUK | UKIP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 23 May 2019 | General Election | 30.5% <br> 29 | 19.6% <br> 16 | 13.7% <br> 10 | 11.8% <br> 7 | 8.8% <br> 4 | 3.5% <br> 3 | 1.0% <br> 1 | 3.3% <br> 0 | 3.2% <br> 0 |
-| [3–4 September 2019](2019-09-04-HanburyStrategy.html) | Hanbury Strategy | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [3–4 September 2019](2019-09-04-HanburyStrategy.html) | Hanbury Strategy | 12–16% <br> 7–10 | 15–19% <br> 8–13 | 23–29% <br> 20–22 | 2–4% <br> 0 | 30–36% <br> 23–28 | 3–5% <br> 2–3 | 1–2% <br> 1–2 | 0–1% <br> 0 | 0–1% <br> 0 |
 | [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 9–13% <br> 5–8 | 14–18% <br> 8–12 | 23–27% <br> 16–22 | 6–8% <br> 0–2 | 33–37% <br> 25–32 | 3–5% <br> 2–3 | 1–2% <br> 0–2 | 0–1% <br> 0 | 1–2% <br> 0 |
 | [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 12–15% <br> 7–10 | 16–19% <br> 9–13 | 22–25% <br> 16–21 | 3–5% <br> 0 | 32–36% <br> 25–31 | 3–5% <br> 2–3 | 1–2% <br> 1–2 | 1–2% <br> 0 | 1–2% <br> 0 |
 | [29–30 August 2019](2019-08-30-Survation.html) | Survation <br> Daily Mail | 12–16% <br> 7–10 | 18–23% <br> 13–18 | 21–26% <br> 15–21 | 2–4% <br> 0 | 28–34% <br> 23–28 | 3–5% <br> 2–3 | 1–2% <br> 0–2 | 0–1% <br> 0 | N/A <br> N/A |
