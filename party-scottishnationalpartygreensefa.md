@@ -11,7 +11,7 @@ Last result: **3.5%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.0% | 2.2–5.3% | 1.9–5.6% | 1.7–5.8% | 1.5–6.2% |
-| [3–4 September 2019](2019-09-04-HanburyStrategy.html) | Hanbury Strategy | 4.0% | N/A | N/A | N/A | N/A |
+| [3–4 September 2019](2019-09-04-HanburyStrategy.html) | Hanbury Strategy | 4.0% | 3.3–4.9% | 3.1–5.2% | 3.0–5.4% | 2.7–5.9% |
 | [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 4.0% | 3.4–4.7% | 3.2–4.9% | 3.1–5.0% | 2.9–5.4% |
 | [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 3.9% | 3.4–4.5% | 3.2–4.7% | 3.1–4.8% | 2.9–5.2% |
 | [29–30 August 2019](2019-08-30-Survation.html) | Survation <br> Daily Mail | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
@@ -83,7 +83,7 @@ Last result: **3** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 1–3 | 1–4 | 1–4 |
-| [3–4 September 2019](2019-09-04-HanburyStrategy.html) | Hanbury Strategy |  |  |  |  |  |
+| [3–4 September 2019](2019-09-04-HanburyStrategy.html) | Hanbury Strategy | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [29–30 August 2019](2019-08-30-Survation.html) | Survation <br> Daily Mail | 2 | 2–3 | 2–3 | 2–3 | 2–4 |

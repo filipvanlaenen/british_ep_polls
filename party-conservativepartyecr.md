@@ -11,7 +11,7 @@ Last result: **8.8%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 29.4% | 23.5–33.5% | 22.3–34.1% | 21.5–34.7% | 20.4–35.6% |
-| [3–4 September 2019](2019-09-04-HanburyStrategy.html) | Hanbury Strategy | 32.9% | N/A | N/A | N/A | N/A |
+| [3–4 September 2019](2019-09-04-HanburyStrategy.html) | Hanbury Strategy | 32.9% | 31.0–34.8% | 30.5–35.4% | 30.0–35.8% | 29.1–36.8% |
 | [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 34.8% | 33.3–36.4% | 32.9–36.8% | 32.6–37.2% | 31.9–37.9% |
 | [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 34.2% | 32.9–35.6% | 32.5–36.0% | 32.2–36.3% | 31.6–37.0% |
 | [29–30 August 2019](2019-08-30-Survation.html) | Survation <br> Daily Mail | 30.6% | 28.8–32.5% | 28.3–33.0% | 27.8–33.5% | 27.0–34.4% |
@@ -104,7 +104,7 @@ Last result: **4** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 24 | 17–27 | 15–29 | 14–29 | 13–31 |
-| [3–4 September 2019](2019-09-04-HanburyStrategy.html) | Hanbury Strategy |  |  |  |  |  |
+| [3–4 September 2019](2019-09-04-HanburyStrategy.html) | Hanbury Strategy | 25 | 23–26 | 23–26 | 23–28 | 23–32 |
 | [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 30 | 28–32 | 26–32 | 25–32 | 25–32 |
 | [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 28 | 26–30 | 25–30 | 25–31 | 24–31 |
 | [29–30 August 2019](2019-08-30-Survation.html) | Survation <br> Daily Mail | 24 | 24–25 | 24–27 | 23–28 | 23–29 |
