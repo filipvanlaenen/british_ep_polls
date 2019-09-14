@@ -116,7 +116,7 @@ Last result: **4** seats (General Election of 23 May 2019)
 | [5–6 September 2019](2019-09-06-Survation.html) | Survation | 24 | 22–24 | 22–25 | 21–26 | 21–27 |
 | [4–6 September 2019](2019-09-06-Opinium.html) | Opinium <br> The Observer | 29 | 26–29 | 26–30 | 25–30 | 25–30 |
 | [4–6 September 2019](2019-09-06-ComRes.html) | ComRes <br> Britain Elects | 25 | 24–26 | 24–26 | 23–26 | 23–27 |
-| [4–5 September 2019](2019-09-05-Survation.html) | Survation <br> Daily Mail | 24 | 23–24 | 23–24 | 23–25 | 23–26 |
+| [4–5 September 2019](2019-09-05-Survation.html) | Survation <br> Daily Mail | 24 | 23–25 | 22–25 | 21–26 | 21–27 |
 | [3–4 September 2019](2019-09-04-Panelbase.html) | Panelbase | 26 | 22–27 | 22–27 | 21–27 | 21–27 |
 | [3–4 September 2019](2019-09-04-HanburyStrategy.html) | Hanbury Strategy | 25 | 23–26 | 23–26 | 23–28 | 23–32 |
 | [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 30 | 28–32 | 26–32 | 25–32 | 25–32 |
