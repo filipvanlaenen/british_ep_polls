@@ -96,16 +96,16 @@ Last result: **3** seats (General Election of 23 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 1–3 | 1–4 | 1–4 |
 | [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 2 | 2 | 2 | 2 | 2–3 |
+| [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [9–10 September 2019](2019-09-10-YouGov.html) | YouGov <br> The Times | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [5–9 September 2019](2019-09-09-KantarPublic.html) | Kantar Public | 2 | 2 | 2 | 2–3 | 2–3 |
 | [6–8 September 2019](2019-09-08-ComRes.html) | ComRes <br> Daily Telegraph | 3 | 3 | 3 | 3 | 3 |
 | [5–7 September 2019](2019-09-07-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 3 | 3 | 3 | 3 | 3 |
 | [5–6 September 2019](2019-09-06-YouGov.html) | YouGov <br> The Sunday Times | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [5–6 September 2019](2019-09-06-Survation.html) | Survation <br> Daily Mail | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [5–6 September 2019](2019-09-06-Survation.html) | Survation <br> Daily Mail | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [5–6 September 2019](2019-09-06-Panelbase.html) | Panelbase | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [4–6 September 2019](2019-09-06-Opinium.html) | Opinium <br> The Observer | 3 | 3 | 3–4 | 2–4 | 2–4 |
-| [4–6 September 2019](2019-09-06-ComRes.html) | ComRes <br> Britain Elects | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [4–6 September 2019](2019-09-06-ComRes.html) | ComRes <br> Britain Elects | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | [3–6 September 2019](2019-09-06-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
 | [3–4 September 2019](2019-09-04-HanburyStrategy.html) | Hanbury Strategy | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 2 | 2–3 | 2–3 | 2–3 | 2–3 |

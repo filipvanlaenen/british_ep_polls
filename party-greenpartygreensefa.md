@@ -104,7 +104,7 @@ Last result: **7** seats (General Election of 23 May 2019)
 | [5–9 September 2019](2019-09-09-KantarPublic.html) | Kantar Public | 0 | 0 | 0 | 0 | 0 |
 | [6–8 September 2019](2019-09-08-ComRes.html) | ComRes <br> Daily Telegraph | 0 | 0 | 0 | 0 | 0 |
 | [5–7 September 2019](2019-09-07-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 0 | 0 | 0 | 0 | 0 |
-| [5–6 September 2019](2019-09-06-YouGov.html) | YouGov <br> The Sunday Times | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
+| [5–6 September 2019](2019-09-06-YouGov.html) | YouGov <br> The Sunday Times | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [5–6 September 2019](2019-09-06-Survation.html) | Survation <br> Daily Mail | 0 | 0 | 0 | 0 | 0 |
 | [5–6 September 2019](2019-09-06-Panelbase.html) | Panelbase | 0 | 0 | 0 | 0 | 0 |
 | [4–6 September 2019](2019-09-06-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0 |

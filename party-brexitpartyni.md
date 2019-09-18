@@ -112,18 +112,18 @@ Last result: **29** seats (General Election of 23 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 6–14 | 6–17 | 4–17 | 4–17 |
 | [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express | 8 | 7–8 | 7–9 | 7–9 | 6–10 |
-| [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 8 | 8 | 8 | 7–8 | 7–10 |
+| [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 9 | 7–10 | 6–10 | 6–10 | 6–10 |
 | [9–10 September 2019](2019-09-10-YouGov.html) | YouGov <br> The Times | 10 | 9–10 | 8–10 | 8–10 | 7–10 |
 | [5–9 September 2019](2019-09-09-KantarPublic.html) | Kantar Public | 0 | 0 | 0–1 | 0–6 | 0–6 |
 | [6–8 September 2019](2019-09-08-ComRes.html) | ComRes <br> Daily Telegraph | 8 | 8 | 8 | 8 | 8 |
 | [5–7 September 2019](2019-09-07-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 9 | 8–9 | 7–9 | 7–9 | 7–9 |
-| [5–6 September 2019](2019-09-06-YouGov.html) | YouGov <br> The Sunday Times | 7 | 6–7 | 6–7 | 6–7 | 6–9 |
-| [5–6 September 2019](2019-09-06-Survation.html) | Survation <br> Daily Mail | 10 | 9–16 | 9–16 | 8–16 | 8–17 |
+| [5–6 September 2019](2019-09-06-YouGov.html) | YouGov <br> The Sunday Times | 8 | 7–10 | 6–10 | 6–10 | 6–10 |
+| [5–6 September 2019](2019-09-06-Survation.html) | Survation <br> Daily Mail | 11 | 10–15 | 10–15 | 10–16 | 9–17 |
 | [5–6 September 2019](2019-09-06-Panelbase.html) | Panelbase | 9 | 9 | 7–9 | 7–9 | 6–12 |
 | [4–6 September 2019](2019-09-06-Opinium.html) | Opinium <br> The Observer | 8 | 6–9 | 6–10 | 6–10 | 6–10 |
-| [4–6 September 2019](2019-09-06-ComRes.html) | ComRes <br> Britain Elects | 8 | 8 | 8 | 7–9 | 7–9 |
-| [3–6 September 2019](2019-09-06-BMGResearch.html) | BMG Research <br> The Independent | 7 | 6–8 | 6–8 | 6–9 | 5–10 |
-| [3–4 September 2019](2019-09-04-HanburyStrategy.html) | Hanbury Strategy | 8 | 7–10 | 7–10 | 7–10 | 7–14 |
+| [4–6 September 2019](2019-09-06-ComRes.html) | ComRes <br> Britain Elects | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
+| [3–6 September 2019](2019-09-06-BMGResearch.html) | BMG Research <br> The Independent | 7 | 7–9 | 7–9 | 7–10 | 5–10 |
+| [3–4 September 2019](2019-09-04-HanburyStrategy.html) | Hanbury Strategy | 9 | 8–10 | 8–11 | 7–11 | 7–11 |
 | [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
 | [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 10 | 8–10 | 7–10 | 7–10 | 7–10 |
 | [29–30 August 2019](2019-08-30-Survation.html) | Survation <br> Daily Mail | 9 | 7–10 | 7–10 | 7–10 | 7–10 |
