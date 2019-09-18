@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/british_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 18 Sep 2019 12:53:19 +0200</pubDate>
+    <pubDate>Wed, 18 Sep 2019 15:45:59 +0200</pubDate>
     <item>
       <title>Opinion Poll by ComRes for Sunday Express, 12–15 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_ep_polls/2019-09-15-ComRes.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-09-13-Opinium.png"
         length="246310"
         type="image/png"/>
-      <pubDate>Tue, 17 Sep 2019 20:10:43 +0200</pubDate>
-      <dc:date>2019-09-17T20:10:43.954328+02:00</dc:date>
+      <pubDate>Wed, 18 Sep 2019 14:49:12 +0200</pubDate>
+      <dc:date>2019-09-18T14:49:12.346221+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 9–10 September 2019 – Voting Intentions</title>
@@ -76,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-09-06-YouGov.png"
         length="255492"
         type="image/png"/>
-      <pubDate>Wed, 18 Sep 2019 12:29:02 +0200</pubDate>
-      <dc:date>2019-09-18T12:29:02.763099+02:00</dc:date>
+      <pubDate>Wed, 18 Sep 2019 15:25:41 +0200</pubDate>
+      <dc:date>2019-09-18T15:25:41.213927+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Survation for Daily Mail, 5–6 September 2019 – Voting Intentions</title>
@@ -86,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-09-06-Survation.png"
         length="223058"
         type="image/png"/>
-      <pubDate>Wed, 18 Sep 2019 12:35:17 +0200</pubDate>
-      <dc:date>2019-09-18T12:35:17.671065+02:00</dc:date>
+      <pubDate>Wed, 18 Sep 2019 15:45:59 +0200</pubDate>
+      <dc:date>2019-09-18T15:45:59.63158+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Panelbase, 5–6 September 2019 – Voting Intentions</title>
@@ -116,8 +116,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-09-06-ComRes.png"
         length="239698"
         type="image/png"/>
-      <pubDate>Wed, 18 Sep 2019 12:49:41 +0200</pubDate>
-      <dc:date>2019-09-18T12:49:41.567618+02:00</dc:date>
+      <pubDate>Wed, 18 Sep 2019 14:11:51 +0200</pubDate>
+      <dc:date>2019-09-18T14:11:51.471391+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by BMG Research for The Independent, 3–6 September 2019 – Voting Intentions</title>
@@ -126,8 +126,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-09-06-BMGResearch.png"
         length="140791"
         type="image/png"/>
-      <pubDate>Wed, 18 Sep 2019 12:53:19 +0200</pubDate>
-      <dc:date>2019-09-18T12:53:19.676558+02:00</dc:date>
+      <pubDate>Wed, 18 Sep 2019 14:18:26 +0200</pubDate>
+      <dc:date>2019-09-18T14:18:26.178504+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Hanbury Strategy, 3–4 September 2019 – Voting Intentions</title>
@@ -136,8 +136,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-09-04-HanburyStrategy.png"
         length="266862"
         type="image/png"/>
-      <pubDate>Fri, 06 Sep 2019 21:01:58 +0200</pubDate>
-      <dc:date>2019-09-06T21:01:58.295028+02:00</dc:date>
+      <pubDate>Wed, 18 Sep 2019 15:33:02 +0200</pubDate>
+      <dc:date>2019-09-18T15:33:02.010335+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 2–3 September 2019 – Voting Intentions</title>
@@ -1439,6 +1439,6 @@
       <pubDate>Mon, 22 Jul 2019 21:27:08 +0200</pubDate>
       <dc:date>2019-07-22T21:27:08.139393+02:00</dc:date>
     </item>
-    <dc:date>2019-09-18T12:53:19.676558+02:00</dc:date>
+    <dc:date>2019-09-18T15:45:59.63158+02:00</dc:date>
   </channel>
 </rss>
