@@ -13,16 +13,16 @@ Last result: **8.8%** (General Election of 23 May 2019)
 | N/A | [Poll Average](average.html) | 29.4% | 23.5–33.5% | 22.3–34.1% | 21.5–34.7% | 20.4–35.6% |
 | [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express | 28.0% | 26.7–29.3% | 26.4–29.7% | 26.1–30.0% | 25.5–30.6% |
 | [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 37.0% | 35.6–38.4% | 35.3–38.8% | 34.9–39.2% | 34.3–39.8% |
-| [9–10 September 2019](2019-09-10-YouGov.html) | YouGov <br> The Times | 31.7% | N/A | N/A | N/A | N/A |
-| [5–9 September 2019](2019-09-09-KantarPublic.html) | Kantar Public | 38.0% | N/A | N/A | N/A | N/A |
-| [6–8 September 2019](2019-09-08-ComRes.html) | ComRes <br> Daily Telegraph | 29.9% | N/A | N/A | N/A | N/A |
-| [5–7 September 2019](2019-09-07-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 30.9% | N/A | N/A | N/A | N/A |
-| [5–6 September 2019](2019-09-06-YouGov.html) | YouGov <br> The Sunday Times | 34.8% | N/A | N/A | N/A | N/A |
-| [5–6 September 2019](2019-09-06-Survation.html) | Survation <br> Daily Mail | 29.0% | N/A | N/A | N/A | N/A |
-| [5–6 September 2019](2019-09-06-Panelbase.html) | Panelbase | 31.3% | N/A | N/A | N/A | N/A |
+| [9–10 September 2019](2019-09-10-YouGov.html) | YouGov <br> The Times | 31.7% | 30.3–33.2% | 29.9–33.7% | 29.6–34.0% | 28.9–34.7% |
+| [5–9 September 2019](2019-09-09-KantarPublic.html) | Kantar Public | 38.0% | 36.2–39.9% | 35.7–40.4% | 35.3–40.9% | 34.4–41.8% |
+| [6–8 September 2019](2019-09-08-ComRes.html) | ComRes <br> Daily Telegraph | 29.9% | 28.6–31.2% | 28.3–31.6% | 27.9–32.0% | 27.3–32.6% |
+| [5–7 September 2019](2019-09-07-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 30.9% | 29.6–32.3% | 29.3–32.7% | 29.0–33.0% | 28.4–33.6% |
+| [5–6 September 2019](2019-09-06-YouGov.html) | YouGov <br> The Sunday Times | 34.8% | 33.4–36.4% | 33.0–36.8% | 32.6–37.2% | 31.9–37.9% |
+| [5–6 September 2019](2019-09-06-Survation.html) | Survation <br> Daily Mail | 29.0% | 27.2–30.9% | 26.7–31.4% | 26.3–31.9% | 25.5–32.8% |
+| [5–6 September 2019](2019-09-06-Panelbase.html) | Panelbase | 31.3% | 29.5–33.2% | 28.9–33.7% | 28.5–34.2% | 27.6–35.1% |
 | [4–6 September 2019](2019-09-06-Opinium.html) | Opinium <br> The Observer | 34.8% | 33.5–36.2% | 33.1–36.6% | 32.8–37.0% | 32.1–37.6% |
-| [4–6 September 2019](2019-09-06-ComRes.html) | ComRes <br> Britain Elects | 31.0% | N/A | N/A | N/A | N/A |
-| [3–6 September 2019](2019-09-06-BMGResearch.html) | BMG Research <br> The Independent | 31.0% | N/A | N/A | N/A | N/A |
+| [4–6 September 2019](2019-09-06-ComRes.html) | ComRes <br> Britain Elects | 31.0% | 29.7–32.4% | 29.3–32.7% | 29.0–33.1% | 28.4–33.7% |
+| [3–6 September 2019](2019-09-06-BMGResearch.html) | BMG Research <br> The Independent | 31.0% | 29.5–32.6% | 29.1–33.0% | 28.7–33.4% | 28.0–34.1% |
 | [3–4 September 2019](2019-09-04-HanburyStrategy.html) | Hanbury Strategy | 32.9% | 31.0–34.8% | 30.5–35.4% | 30.0–35.8% | 29.1–36.8% |
 | [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 34.8% | 33.3–36.4% | 32.9–36.8% | 32.6–37.2% | 31.9–37.9% |
 | [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 34.2% | 32.9–35.6% | 32.5–36.0% | 32.2–36.3% | 31.6–37.0% |
@@ -118,16 +118,16 @@ Last result: **4** seats (General Election of 23 May 2019)
 | N/A | [Poll Average](average.html) | 24 | 17–27 | 15–29 | 14–29 | 13–31 |
 | [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express | 23 | 22–24 | 22–24 | 22–24 | 22–24 |
 | [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 31 | 31 | 31 | 30–31 | 30–31 |
-| [9–10 September 2019](2019-09-10-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [5–9 September 2019](2019-09-09-KantarPublic.html) | Kantar Public |  |  |  |  |  |
-| [6–8 September 2019](2019-09-08-ComRes.html) | ComRes <br> Daily Telegraph |  |  |  |  |  |
-| [5–7 September 2019](2019-09-07-Deltapoll.html) | Deltapoll <br> The Sun on Sunday |  |  |  |  |  |
-| [5–6 September 2019](2019-09-06-YouGov.html) | YouGov <br> The Sunday Times |  |  |  |  |  |
-| [5–6 September 2019](2019-09-06-Survation.html) | Survation <br> Daily Mail |  |  |  |  |  |
-| [5–6 September 2019](2019-09-06-Panelbase.html) | Panelbase |  |  |  |  |  |
+| [9–10 September 2019](2019-09-10-YouGov.html) | YouGov <br> The Times | 25 | 24–28 | 24–29 | 24–29 | 24–30 |
+| [5–9 September 2019](2019-09-09-KantarPublic.html) | Kantar Public | 34 | 34 | 34 | 26–36 | 26–36 |
+| [6–8 September 2019](2019-09-08-ComRes.html) | ComRes <br> Daily Telegraph | 24 | 24 | 24 | 24 | 24 |
+| [5–7 September 2019](2019-09-07-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 24 | 23–26 | 23–26 | 23–26 | 23–26 |
+| [5–6 September 2019](2019-09-06-YouGov.html) | YouGov <br> The Sunday Times | 27 | 27–31 | 27–31 | 27–31 | 27–31 |
+| [5–6 September 2019](2019-09-06-Survation.html) | Survation <br> Daily Mail | 24 | 21–24 | 21–25 | 21–25 | 20–28 |
+| [5–6 September 2019](2019-09-06-Panelbase.html) | Panelbase | 25 | 25 | 25–26 | 25–26 | 24–26 |
 | [4–6 September 2019](2019-09-06-Opinium.html) | Opinium <br> The Observer | 29 | 26–29 | 26–30 | 25–30 | 25–30 |
-| [4–6 September 2019](2019-09-06-ComRes.html) | ComRes <br> Britain Elects |  |  |  |  |  |
-| [3–6 September 2019](2019-09-06-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
+| [4–6 September 2019](2019-09-06-ComRes.html) | ComRes <br> Britain Elects | 25 | 24–25 | 24–25 | 24–25 | 23–25 |
+| [3–6 September 2019](2019-09-06-BMGResearch.html) | BMG Research <br> The Independent | 23 | 22–25 | 22–25 | 22–25 | 20–26 |
 | [3–4 September 2019](2019-09-04-HanburyStrategy.html) | Hanbury Strategy | 25 | 23–26 | 23–26 | 23–28 | 23–32 |
 | [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 30 | 28–32 | 26–32 | 25–32 | 25–32 |
 | [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 28 | 26–30 | 25–30 | 25–31 | 24–31 |
