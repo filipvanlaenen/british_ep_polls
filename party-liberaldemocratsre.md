@@ -107,7 +107,7 @@ Last result: **16** seats (General Election of 23 May 2019)
 | [5–7 September 2019](2019-09-07-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 11 | 9–13 | 9–13 | 9–13 | 8–13 |
 | [5–6 September 2019](2019-09-06-YouGov.html) | YouGov <br> The Sunday Times | 14 | 11–15 | 11–15 | 10–16 | 9–16 |
 | [5–6 September 2019](2019-09-06-Survation.html) | Survation <br> Daily Mail | 13 | 11–14 | 10–14 | 10–14 | 9–15 |
-| [5–6 September 2019](2019-09-06-Panelbase.html) | Panelbase | 13 | 12–13 | 12–13 | 11–14 | 9–15 |
+| [5–6 September 2019](2019-09-06-Panelbase.html) | Panelbase | 13 | 13–14 | 12–14 | 11–15 | 9–15 |
 | [4–6 September 2019](2019-09-06-Opinium.html) | Opinium <br> The Observer | 10 | 9–12 | 9–12 | 8–12 | 8–14 |
 | [4–6 September 2019](2019-09-06-ComRes.html) | ComRes <br> Britain Elects | 14 | 13–14 | 13–15 | 13–16 | 12–16 |
 | [3–6 September 2019](2019-09-06-BMGResearch.html) | BMG Research <br> The Independent | 11 | 10–13 | 9–13 | 9–15 | 8–16 |
