@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/british_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 18 Sep 2019 15:45:59 +0200</pubDate>
+    <pubDate>Fri, 20 Sep 2019 07:42:22 +0200</pubDate>
     <item>
       <title>Opinion Poll by ComRes for Sunday Express, 12–15 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_ep_polls/2019-09-15-ComRes.html</link>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-09-07-Deltapoll.png"
         length="241475"
         type="image/png"/>
-      <pubDate>Wed, 18 Sep 2019 11:54:06 +0200</pubDate>
-      <dc:date>2019-09-18T11:54:06.920735+02:00</dc:date>
+      <pubDate>Thu, 19 Sep 2019 08:08:19 +0200</pubDate>
+      <dc:date>2019-09-19T08:08:19.983501+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Sunday Times, 5–6 September 2019 – Voting Intentions</title>
@@ -96,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-09-06-Panelbase.png"
         length="267822"
         type="image/png"/>
-      <pubDate>Wed, 18 Sep 2019 12:42:20 +0200</pubDate>
-      <dc:date>2019-09-18T12:42:20.379259+02:00</dc:date>
+      <pubDate>Thu, 19 Sep 2019 07:42:18 +0200</pubDate>
+      <dc:date>2019-09-19T07:42:18.568797+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinium for The Observer, 4–6 September 2019 – Voting Intentions</title>
@@ -106,8 +106,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-09-06-Opinium.png"
         length="245652"
         type="image/png"/>
-      <pubDate>Fri, 13 Sep 2019 17:54:58 +0200</pubDate>
-      <dc:date>2019-09-13T17:54:58.874388+02:00</dc:date>
+      <pubDate>Fri, 20 Sep 2019 07:42:22 +0200</pubDate>
+      <dc:date>2019-09-20T07:42:22.294861+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ComRes for Britain Elects, 4–6 September 2019 – Voting Intentions</title>
@@ -1439,6 +1439,6 @@
       <pubDate>Mon, 22 Jul 2019 21:27:08 +0200</pubDate>
       <dc:date>2019-07-22T21:27:08.139393+02:00</dc:date>
     </item>
-    <dc:date>2019-09-18T15:45:59.63158+02:00</dc:date>
+    <dc:date>2019-09-20T07:42:22.294861+02:00</dc:date>
   </channel>
 </rss>
