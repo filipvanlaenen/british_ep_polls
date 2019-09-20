@@ -112,11 +112,11 @@ Last result: **10** seats (General Election of 23 May 2019)
 | [9–10 September 2019](2019-09-10-YouGov.html) | YouGov <br> The Times | 18 | 16–20 | 15–20 | 15–21 | 15–21 |
 | [5–9 September 2019](2019-09-09-KantarPublic.html) | Kantar Public | 18 | 18 | 18–19 | 18–20 | 18–20 |
 | [6–8 September 2019](2019-09-08-ComRes.html) | ComRes <br> Daily Telegraph | 24 | 24 | 24 | 24 | 24 |
-| [5–7 September 2019](2019-09-07-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 25 | 20–25 | 20–27 | 20–27 | 20–27 |
+| [5–7 September 2019](2019-09-07-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 22 | 21–24 | 20–25 | 20–25 | 20–26 |
 | [5–6 September 2019](2019-09-06-YouGov.html) | YouGov <br> The Sunday Times | 15 | 15–17 | 15–17 | 15–17 | 15–19 |
 | [5–6 September 2019](2019-09-06-Survation.html) | Survation <br> Daily Mail | 19 | 17–19 | 16–20 | 16–20 | 15–21 |
-| [5–6 September 2019](2019-09-06-Panelbase.html) | Panelbase | 21 | 21 | 21 | 21 | 19–24 |
-| [4–6 September 2019](2019-09-06-Opinium.html) | Opinium <br> The Observer | 21 | 18–22 | 16–22 | 16–22 | 16–23 |
+| [5–6 September 2019](2019-09-06-Panelbase.html) | Panelbase | 22 | 21–22 | 21–22 | 20–22 | 19–25 |
+| [4–6 September 2019](2019-09-06-Opinium.html) | Opinium <br> The Observer | 21 | 17–21 | 17–21 | 17–21 | 16–22 |
 | [4–6 September 2019](2019-09-06-ComRes.html) | ComRes <br> Britain Elects | 21 | 20–22 | 19–22 | 19–23 | 19–24 |
 | [3–6 September 2019](2019-09-06-BMGResearch.html) | BMG Research <br> The Independent | 19 | 18–20 | 17–21 | 17–21 | 16–23 |
 | [3–4 September 2019](2019-09-04-HanburyStrategy.html) | Hanbury Strategy | 20 | 19–22 | 19–23 | 17–23 | 17–23 |

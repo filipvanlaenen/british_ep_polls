@@ -31,13 +31,13 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#conservative-party-(ecr)">Conservative Party (ECR)</a> | 4 | 24 | 23–26 |23–26 |23–26 |23–26 |
-| <a href="#labour-party-(s&d)">Labour Party (S&D)</a> | 10 | 25 | 20–25 |20–27 |20–27 |20–27 |
-| <a href="#liberal-democrats-(re)">Liberal Democrats (RE)</a> | 16 | 9 | 9–11 |8–12 |8–12 |8–13 |
-| <a href="#brexit-party-(ni)">Brexit Party (NI)</a> | 29 | 9 | 8–9 |7–9 |7–9 |7–9 |
+| <a href="#conservative-party-(ecr)">Conservative Party (ECR)</a> | 4 | 24 | 23–27 |23–27 |22–27 |22–27 |
+| <a href="#labour-party-(s&d)">Labour Party (S&D)</a> | 10 | 22 | 21–24 |20–25 |20–25 |20–26 |
+| <a href="#liberal-democrats-(re)">Liberal Democrats (RE)</a> | 16 | 11 | 9–13 |9–13 |9–13 |8–13 |
+| <a href="#brexit-party-(ni)">Brexit Party (NI)</a> | 29 | 8 | 7–9 |7–9 |7–9 |6–10 |
 | <a href="#scottish-national-party-(greens/efa)">Scottish National Party (Greens/EFA)</a> | 3 | 3 | 3 |3 |3 |3 |
 | <a href="#green-party-(greens/efa)">Green Party (Greens/EFA)</a> | 7 | 0 | 0 |0 |0 |0 |
-| <a href="#plaid-cymru-(greens/efa)">Plaid Cymru (Greens/EFA)</a> | 1 | 0 | 0–2 |0–2 |0–2 |0–2 |
+| <a href="#plaid-cymru-(greens/efa)">Plaid Cymru (Greens/EFA)</a> | 1 | 1 | 1 |1 |0–2 |0–2 |
 | <a href="#uk-independence-party-(id)">UK Independence Party (ID)</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### Conservative Party (ECR)
@@ -66,13 +66,14 @@
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
 | 21 | 0% | 100% |  |
-| 22 | 0% | 100% |  |
-| 23 | 10% | 100% |  |
-| 24 | 71% | 89% | Median |
-| 25 | 4% | 18% |  |
-| 26 | 15% | 15% |  |
-| 27 | 0.1% | 0.1% |  |
-| 28 | 0% | 0% |  |
+| 22 | 3% | 100% |  |
+| 23 | 11% | 97% |  |
+| 24 | 44% | 86% | Median |
+| 25 | 11% | 42% |  |
+| 26 | 7% | 31% |  |
+| 27 | 24% | 24% |  |
+| 28 | 0.2% | 0.2% |  |
+| 29 | 0% | 0% |  |
 
 ### Labour Party (S&D)
 
@@ -91,15 +92,15 @@
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
-| 19 | 0.2% | 100% |  |
-| 20 | 11% | 99.8% |  |
-| 21 | 2% | 89% |  |
-| 22 | 0.1% | 86% |  |
-| 23 | 7% | 86% |  |
-| 24 | 7% | 79% |  |
-| 25 | 65% | 72% | Median |
-| 26 | 0.1% | 8% |  |
-| 27 | 8% | 8% |  |
+| 19 | 0.5% | 100% |  |
+| 20 | 8% | 99.5% |  |
+| 21 | 24% | 92% |  |
+| 22 | 19% | 68% | Median |
+| 23 | 24% | 50% |  |
+| 24 | 20% | 26% |  |
+| 25 | 5% | 6% |  |
+| 26 | 0.2% | 0.7% |  |
+| 27 | 0.4% | 0.4% |  |
 | 28 | 0% | 0% |  |
 
 ### Liberal Democrats (RE)
@@ -110,15 +111,16 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0.2% | 100% |  |
-| 8 | 8% | 99.8% |  |
-| 9 | 74% | 92% | Median |
-| 10 | 2% | 18% |  |
-| 11 | 10% | 16% |  |
-| 12 | 4% | 6% |  |
-| 13 | 2% | 2% |  |
-| 14 | 0% | 0.1% |  |
-| 15 | 0.1% | 0.1% |  |
+| 6 | 0.3% | 100% |  |
+| 7 | 0.2% | 99.7% |  |
+| 8 | 0.1% | 99.6% |  |
+| 9 | 24% | 99.5% |  |
+| 10 | 24% | 76% |  |
+| 11 | 14% | 52% | Median |
+| 12 | 7% | 38% |  |
+| 13 | 31% | 31% |  |
+| 14 | 0.1% | 0.1% |  |
+| 15 | 0% | 0% |  |
 | 16 | 0% | 0% | Last Result |
 
 ### Brexit Party (NI)
@@ -129,12 +131,12 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 0.1% | 100% |  |
-| 7 | 5% | 99.9% |  |
-| 8 | 26% | 94% |  |
-| 9 | 69% | 69% | Median |
-| 10 | 0% | 0% |  |
-| 11 | 0% | 0% |  |
+| 6 | 1.0% | 100% |  |
+| 7 | 26% | 99.0% |  |
+| 8 | 62% | 73% | Median |
+| 9 | 10% | 11% |  |
+| 10 | 0.6% | 0.7% |  |
+| 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |
 | 13 | 0% | 0% |  |
 | 14 | 0% | 0% |  |
@@ -162,8 +164,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 99.5% | 100% | Last Result, Median |
-| 4 | 0.5% | 0.5% |  |
+| 2 | 0.4% | 100% |  |
+| 3 | 99.6% | 99.6% | Last Result, Median |
+| 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
 ### Green Party (Greens/EFA)
@@ -191,9 +194,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 66% | 100% | Median |
-| 1 | 18% | 34% | Last Result |
-| 2 | 16% | 16% |  |
+| 0 | 5% | 100% |  |
+| 1 | 92% | 95% | Last Result, Median |
+| 2 | 3% | 3% |  |
 | 3 | 0% | 0% |  |
 
 ### UK Independence Party (ID)
@@ -215,37 +218,11 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Labour Party (S&D) | 10 | 25 | 0% | 20–25 | 20–27 | 20–27 | 20–27 |
-| Conservative Party (ECR) | 4 | 24 | 0% | 23–26 | 23–26 | 23–26 | 23–26 |
-| Brexit Party (NI) | 29 | 9 | 0% | 8–9 | 7–9 | 7–9 | 7–9 |
-| Scottish National Party (Greens/EFA) – Green Party (Greens/EFA) – Plaid Cymru (Greens/EFA) | 11 | 3 | 0% | 3–5 | 3–5 | 3–5 | 3–5 |
+| Conservative Party (ECR) | 4 | 24 | 0% | 23–27 | 23–27 | 22–27 | 22–27 |
+| Labour Party (S&D) | 10 | 22 | 0% | 21–24 | 20–25 | 20–25 | 20–26 |
+| Brexit Party (NI) | 29 | 8 | 0% | 7–9 | 7–9 | 7–9 | 6–10 |
+| Scottish National Party (Greens/EFA) – Green Party (Greens/EFA) – Plaid Cymru (Greens/EFA) | 11 | 4 | 0% | 4 | 3–4 | 3–5 | 3–5 |
 | UK Independence Party (ID) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
-
-### Labour Party (S&D)
-
-![Graph with seats probability mass function not yet produced](2019-09-07-Deltapoll-coalitions-seats-pmf-lab.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0% | 100% | Last Result |
-| 11 | 0% | 100% |  |
-| 12 | 0% | 100% |  |
-| 13 | 0% | 100% |  |
-| 14 | 0% | 100% |  |
-| 15 | 0% | 100% |  |
-| 16 | 0% | 100% |  |
-| 17 | 0% | 100% |  |
-| 18 | 0% | 100% |  |
-| 19 | 0.2% | 100% |  |
-| 20 | 11% | 99.8% |  |
-| 21 | 2% | 89% |  |
-| 22 | 0.1% | 86% |  |
-| 23 | 7% | 86% |  |
-| 24 | 7% | 79% |  |
-| 25 | 65% | 72% | Median |
-| 26 | 0.1% | 8% |  |
-| 27 | 8% | 8% |  |
-| 28 | 0% | 0% |  |
 
 ### Conservative Party (ECR)
 
@@ -271,12 +248,39 @@
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
 | 21 | 0% | 100% |  |
-| 22 | 0% | 100% |  |
-| 23 | 10% | 100% |  |
-| 24 | 71% | 89% | Median |
-| 25 | 4% | 18% |  |
-| 26 | 15% | 15% |  |
-| 27 | 0.1% | 0.1% |  |
+| 22 | 3% | 100% |  |
+| 23 | 11% | 97% |  |
+| 24 | 44% | 86% | Median |
+| 25 | 11% | 42% |  |
+| 26 | 7% | 31% |  |
+| 27 | 24% | 24% |  |
+| 28 | 0.2% | 0.2% |  |
+| 29 | 0% | 0% |  |
+
+### Labour Party (S&D)
+
+![Graph with seats probability mass function not yet produced](2019-09-07-Deltapoll-coalitions-seats-pmf-lab.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 10 | 0% | 100% | Last Result |
+| 11 | 0% | 100% |  |
+| 12 | 0% | 100% |  |
+| 13 | 0% | 100% |  |
+| 14 | 0% | 100% |  |
+| 15 | 0% | 100% |  |
+| 16 | 0% | 100% |  |
+| 17 | 0% | 100% |  |
+| 18 | 0% | 100% |  |
+| 19 | 0.5% | 100% |  |
+| 20 | 8% | 99.5% |  |
+| 21 | 24% | 92% |  |
+| 22 | 19% | 68% | Median |
+| 23 | 24% | 50% |  |
+| 24 | 20% | 26% |  |
+| 25 | 5% | 6% |  |
+| 26 | 0.2% | 0.7% |  |
+| 27 | 0.4% | 0.4% |  |
 | 28 | 0% | 0% |  |
 
 ### Brexit Party (NI)
@@ -285,12 +289,12 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 0.1% | 100% |  |
-| 7 | 5% | 99.9% |  |
-| 8 | 26% | 94% |  |
-| 9 | 69% | 69% | Median |
-| 10 | 0% | 0% |  |
-| 11 | 0% | 0% |  |
+| 6 | 1.0% | 100% |  |
+| 7 | 26% | 99.0% |  |
+| 8 | 62% | 73% | Median |
+| 9 | 10% | 11% |  |
+| 10 | 0.6% | 0.7% |  |
+| 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |
 | 13 | 0% | 0% |  |
 | 14 | 0% | 0% |  |
@@ -316,9 +320,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 65% | 100% | Median |
-| 4 | 18% | 35% |  |
-| 5 | 16% | 16% |  |
+| 3 | 5% | 100% |  |
+| 4 | 92% | 95% | Median |
+| 5 | 3% | 3% |  |
 | 6 | 0% | 0% |  |
 | 7 | 0% | 0% |  |
 | 8 | 0% | 0% |  |
@@ -346,6 +350,6 @@
 ### Calculations
 
 + **Sample size:** 2049
-+ **Simulations done:** 1,024
-+ **Error estimate:** 2.42%
++ **Simulations done:** 131,072
++ **Error estimate:** 1.37%
 
