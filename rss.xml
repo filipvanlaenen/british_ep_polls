@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/british_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 20 Sep 2019 07:42:22 +0200</pubDate>
+    <pubDate>Fri, 20 Sep 2019 15:27:50 +0200</pubDate>
     <item>
       <title>Opinion Poll by ComRes for Sunday Express, 12–15 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_ep_polls/2019-09-15-ComRes.html</link>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-09-09-KantarPublic.png"
         length="258744"
         type="image/png"/>
-      <pubDate>Wed, 18 Sep 2019 11:21:32 +0200</pubDate>
-      <dc:date>2019-09-18T11:21:32.892695+02:00</dc:date>
+      <pubDate>Fri, 20 Sep 2019 15:07:14 +0200</pubDate>
+      <dc:date>2019-09-20T15:07:14.826278+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ComRes for Daily Telegraph, 6–8 September 2019 – Voting Intentions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-09-08-ComRes.png"
         length="257668"
         type="image/png"/>
-      <pubDate>Wed, 18 Sep 2019 11:39:54 +0200</pubDate>
-      <dc:date>2019-09-18T11:39:54.446758+02:00</dc:date>
+      <pubDate>Fri, 20 Sep 2019 15:27:50 +0200</pubDate>
+      <dc:date>2019-09-20T15:27:50.259565+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Deltapoll for The Sun on Sunday, 5–7 September 2019 – Voting Intentions</title>
@@ -1439,6 +1439,6 @@
       <pubDate>Mon, 22 Jul 2019 21:27:08 +0200</pubDate>
       <dc:date>2019-07-22T21:27:08.139393+02:00</dc:date>
     </item>
-    <dc:date>2019-09-20T07:42:22.294861+02:00</dc:date>
+    <dc:date>2019-09-20T15:27:50.259565+02:00</dc:date>
   </channel>
 </rss>
