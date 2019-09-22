@@ -11,6 +11,8 @@ Last result: **11.8%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5.2% | 3.3–7.4% | 2.8–8.0% | 2.6–8.5% | 2.2–9.3% |
+| [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 3.9% | N/A | N/A | N/A | N/A |
+| [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 4.1% | N/A | N/A | N/A | N/A |
 | [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express | 5.0% | 4.4–5.7% | 4.3–5.9% | 4.1–6.1% | 3.9–6.4% |
 | [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 2.0% | 1.6–2.5% | 1.5–2.6% | 1.5–2.7% | 1.3–3.0% |
 | [9–10 September 2019](2019-09-10-YouGov.html) | YouGov <br> The Times | 6.9% | 6.2–7.8% | 6.0–8.0% | 5.8–8.2% | 5.5–8.7% |
@@ -98,6 +100,8 @@ Last result: **7** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
+| [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard |  |  |  |  |  |
 | [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express | 0 | 0 | 0 | 0 | 0 |
 | [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0 |
 | [9–10 September 2019](2019-09-10-YouGov.html) | YouGov <br> The Times | 2 | 0–2 | 0–2 | 0–3 | 0–3 |

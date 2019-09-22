@@ -11,6 +11,8 @@ Last result: **8.8%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 29.4% | 23.5–33.5% | 22.3–34.1% | 21.5–34.7% | 20.4–35.6% |
+| [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 31.3% | N/A | N/A | N/A | N/A |
+| [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 33.2% | N/A | N/A | N/A | N/A |
 | [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express | 28.0% | 26.7–29.3% | 26.4–29.7% | 26.1–30.0% | 25.5–30.6% |
 | [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 37.0% | 35.6–38.4% | 35.3–38.8% | 34.9–39.2% | 34.3–39.8% |
 | [9–10 September 2019](2019-09-10-YouGov.html) | YouGov <br> The Times | 31.7% | 30.3–33.2% | 29.9–33.7% | 29.6–34.0% | 28.9–34.7% |
@@ -116,6 +118,8 @@ Last result: **4** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 24 | 17–27 | 15–29 | 14–29 | 13–31 |
+| [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard |  |  |  |  |  |
 | [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express | 23 | 22–24 | 22–24 | 22–24 | 22–24 |
 | [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 31 | 29–32 | 28–33 | 27–33 | 27–33 |
 | [9–10 September 2019](2019-09-10-YouGov.html) | YouGov <br> The Times | 25 | 24–28 | 24–29 | 24–29 | 24–30 |
