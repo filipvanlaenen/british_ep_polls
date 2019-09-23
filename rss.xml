@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/british_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 20 Sep 2019 23:34:40 +0200</pubDate>
+    <pubDate>Mon, 23 Sep 2019 11:40:59 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 17–18 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_ep_polls/2019-09-18-YouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party (ECR): 29.1–33.6%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 18.6–22.6%&lt;/li&gt;&lt;li&gt;Liberal Democrats (RE): 20.5–24.6%&lt;/li&gt;&lt;li&gt;Scottish National Party (Greens/EFA): 3.1–5.0%&lt;/li&gt;&lt;li&gt;Plaid Cymru (Greens/EFA): 0.6–1.6%&lt;/li&gt;&lt;li&gt;UK Independence Party (ID): 0.6–1.6%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 3.1–5.0%&lt;/li&gt;&lt;li&gt;Brexit Party (NI): 12.1–15.5%&lt;/li&gt;&lt;li&gt;Change UK (RE): 0.1–0.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-09-18-YouGov.png"
+        length="261265"
+        type="image/png"/>
+      <pubDate>Mon, 23 Sep 2019 09:53:10 +0200</pubDate>
+      <dc:date>2019-09-23T09:53:10.892618+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos MORI for Evening Standard, 13–16 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_ep_polls/2019-09-16-IpsosMORI.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party (ECR): 30.3–36.2%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 21.6–26.9%&lt;/li&gt;&lt;li&gt;Liberal Democrats (RE): 20.7–25.9%&lt;/li&gt;&lt;li&gt;Scottish National Party (Greens/EFA): 2.3–4.5%&lt;/li&gt;&lt;li&gt;Plaid Cymru (Greens/EFA): 0.5–1.7%&lt;/li&gt;&lt;li&gt;UK Independence Party (ID): 0.1–0.9%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 3.0–5.5%&lt;/li&gt;&lt;li&gt;Brexit Party (NI): 8.3–12.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-09-16-IpsosMORI.png"
+        length="254987"
+        type="image/png"/>
+      <pubDate>Mon, 23 Sep 2019 11:40:59 +0200</pubDate>
+      <dc:date>2019-09-23T11:40:59.635604+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by ComRes for Sunday Express, 12–15 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_ep_polls/2019-09-15-ComRes.html</link>
@@ -1459,6 +1479,6 @@
       <pubDate>Mon, 22 Jul 2019 21:27:08 +0200</pubDate>
       <dc:date>2019-07-22T21:27:08.139393+02:00</dc:date>
     </item>
-    <dc:date>2019-09-20T23:34:40.565551+02:00</dc:date>
+    <dc:date>2019-09-23T11:40:59.635604+02:00</dc:date>
   </channel>
 </rss>
