@@ -11,8 +11,8 @@ Last result: **13.7%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 26.6% | 22.5–29.6% | 21.9–30.2% | 21.4–30.7% | 20.6–31.7% |
-| [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 20.5% | N/A | N/A | N/A | N/A |
-| [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 24.2% | N/A | N/A | N/A | N/A |
+| [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 20.5% | 19.3–21.9% | 18.9–22.2% | 18.6–22.6% | 18.0–23.2% |
+| [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 24.2% | 22.5–26.0% | 22.0–26.5% | 21.6–26.9% | 20.8–27.8% |
 | [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express | 27.0% | 25.7–28.3% | 25.4–28.6% | 25.1–28.9% | 24.5–29.6% |
 | [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 25.0% | 23.8–26.3% | 23.5–26.7% | 23.2–27.0% | 22.6–27.6% |
 | [9–10 September 2019](2019-09-10-YouGov.html) | YouGov <br> The Times | 22.9% | 21.6–24.2% | 21.2–24.6% | 20.9–24.9% | 20.3–25.6% |
@@ -109,8 +109,8 @@ Last result: **10** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21 | 17–25 | 16–26 | 15–27 | 15–27 |
-| [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard |  |  |  |  |  |
+| [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 15 | 15 | 15 | 15 | 15 |
+| [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 16 | 16 | 16–17 | 16–19 | 16–23 |
 | [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express | 22 | 20–23 | 20–24 | 19–24 | 19–25 |
 | [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 19 | 17–21 | 17–21 | 17–21 | 16–21 |
 | [9–10 September 2019](2019-09-10-YouGov.html) | YouGov <br> The Times | 18 | 16–20 | 15–20 | 15–21 | 15–21 |
