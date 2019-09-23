@@ -110,7 +110,7 @@ Last result: **10** seats (General Election of 23 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21 | 17–25 | 16–26 | 15–27 | 15–27 |
 | [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 15 | 15 | 15 | 15 | 15 |
-| [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 16 | 16 | 16–17 | 16–19 | 16–23 |
+| [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 18 | 16–20 | 16–20 | 15–21 | 15–22 |
 | [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express | 22 | 20–23 | 20–24 | 19–24 | 19–25 |
 | [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 19 | 17–21 | 17–21 | 17–21 | 16–21 |
 | [9–10 September 2019](2019-09-10-YouGov.html) | YouGov <br> The Times | 18 | 16–20 | 15–20 | 15–21 | 15–21 |
