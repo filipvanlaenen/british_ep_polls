@@ -11,10 +11,11 @@ Last result: **19.6%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18.1% | 15.4–20.2% | 14.9–20.7% | 14.6–21.1% | 14.0–21.9% |
+| [19–20 September 2019](2019-09-20-Opinium.html) | Opinium <br> The Observer | 17.1% | 16.0–18.2% | 15.7–18.5% | 15.5–18.8% | 15.0–19.3% |
 | [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 22.5% | 21.2–23.9% | 20.9–24.3% | 20.5–24.6% | 19.9–25.3% |
 | [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 23.2% | 21.5–24.9% | 21.0–25.4% | 20.7–25.9% | 19.9–26.7% |
 | [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express | 20.0% | 18.9–21.2% | 18.6–21.5% | 18.3–21.8% | 17.8–22.3% |
-| [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 16.0% | 15.0–17.1% | 14.7–17.4% | 14.4–17.7% | 14.0–18.2% |
+| [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 16.1% | 15.1–17.2% | 14.8–17.5% | 14.5–17.8% | 14.1–18.3% |
 | [9–10 September 2019](2019-09-10-YouGov.html) | YouGov <br> The Times | 18.9% | 17.7–20.1% | 17.3–20.5% | 17.0–20.8% | 16.5–21.4% |
 | [5–9 September 2019](2019-09-09-KantarPublic.html) | Kantar Public | 20.0% | 18.6–21.6% | 18.2–22.1% | 17.8–22.5% | 17.1–23.2% |
 | [6–8 September 2019](2019-09-08-ComRes.html) | ComRes <br> Daily Telegraph | 17.0% | 15.9–18.1% | 15.6–18.4% | 15.4–18.7% | 14.9–19.2% |
@@ -101,10 +102,11 @@ Last result: **16** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 9–15 | 9–15 | 8–16 | 7–17 |
+| [19–20 September 2019](2019-09-20-Opinium.html) | Opinium <br> The Observer | 9 | 9 | 9 | 9 | 9–10 |
 | [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 18 | 18 | 17–19 | 16–19 | 14–20 |
 | [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 18 | 15–19 | 14–19 | 14–19 | 13–21 |
 | [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express | 13 | 13–14 | 13–15 | 13–16 | 13–16 |
-| [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 8 | 8–10 | 8–11 | 8–11 | 8–11 |
+| [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 9 | 8–10 | 8–11 | 8–11 | 8–11 |
 | [9–10 September 2019](2019-09-10-YouGov.html) | YouGov <br> The Times | 13 | 11–15 | 11–15 | 10–16 | 10–18 |
 | [5–9 September 2019](2019-09-09-KantarPublic.html) | Kantar Public | 15 | 13–16 | 13–16 | 13–17 | 12–17 |
 | [6–8 September 2019](2019-09-08-ComRes.html) | ComRes <br> Daily Telegraph | 11 | 9–13 | 9–14 | 9–14 | 7–14 |
