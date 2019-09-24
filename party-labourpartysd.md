@@ -110,7 +110,7 @@ Last result: **10** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21 | 17–25 | 16–26 | 15–27 | 15–27 |
-| [19–20 September 2019](2019-09-20-Opinium.html) | Opinium <br> The Observer | 18 | 18 | 16–18 | 16–18 | 16–18 |
+| [19–20 September 2019](2019-09-20-Opinium.html) | Opinium <br> The Observer | 17 | 16–18 | 15–18 | 15–19 | 15–20 |
 | [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 15 | 15–16 | 15–16 | 15–16 | 15–18 |
 | [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 18 | 16–20 | 16–20 | 15–21 | 15–22 |
 | [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express | 22 | 20–23 | 20–24 | 19–24 | 19–25 |
