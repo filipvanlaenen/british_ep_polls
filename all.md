@@ -5,10 +5,11 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | BREXIT | LIBDEM | LAB | GREEN | CON | SNP | PC | ChUK | UKIP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 23 May 2019 | General Election | 30.5% <br> 29 | 19.6% <br> 16 | 13.7% <br> 10 | 11.8% <br> 7 | 8.8% <br> 4 | 3.5% <br> 3 | 1.0% <br> 1 | 3.3% <br> 0 | 3.2% <br> 0 |
+| [19–20 September 2019](2019-09-20-Opinium.html) | Opinium <br> The Observer | 11–14% <br> 7–9 | 15–19% <br> 9 | 20–24% <br> 16–18 | 3–5% <br> 0 | 35–39% <br> 32–33 | 3–5% <br> 2–3 | 1–2% <br> 1 | 0–1% <br> 0 | 1–3% <br> 0 |
 | [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 12–15% <br> 7–10 | 21–25% <br> 16–19 | 19–23% <br> 15–16 | 3–5% <br> 0 | 29–34% <br> 24–26 | 3–5% <br> 2–3 | 1–2% <br> 0–1 | 0–1% <br> 0 | 1–2% <br> 0 |
 | [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 8–12% <br> 2–7 | 21–26% <br> 14–19 | 22–27% <br> 15–21 | 3–5% <br> 0 | 30–36% <br> 24–30 | 2–4% <br> 1–3 | 0–2% <br> 0–2 | N/A <br> N/A | 0–1% <br> 0 |
 | [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express | 12–15% <br> 7–9 | 18–22% <br> 13–16 | 25–29% <br> 19–24 | 4–6% <br> 0 | 26–30% <br> 22–24 | 3–5% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 |
-| [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 12–15% <br> 7–10 | 14–18% <br> 8–11 | 23–27% <br> 17–21 | 1–3% <br> 0 | 35–39% <br> 27–33 | 3–5% <br> 2–3 | 1–2% <br> 1–2 | 0–1% <br> 0 | 1–2% <br> 0 |
+| [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 12–15% <br> 6–10 | 15–18% <br> 8–11 | 23–27% <br> 17–20 | 1–3% <br> 0 | 35–39% <br> 28–32 | 3–5% <br> 2–3 | 1–2% <br> 1–2 | 0–1% <br> 0 | 1–2% <br> 0 |
 | [9–10 September 2019](2019-09-10-YouGov.html) | YouGov <br> The Times | 12–16% <br> 8–10 | 17–21% <br> 10–16 | 21–25% <br> 15–21 | 6–8% <br> 0–3 | 30–34% <br> 24–29 | 3–5% <br> 2–3 | 0–1% <br> 0–1 | 0–1% <br> 0 | 0–1% <br> 0 |
 | [5–9 September 2019](2019-09-09-KantarPublic.html) | Kantar Public | 6–9% <br> 0–1 | 18–22% <br> 13–17 | 22–27% <br> 16–21 | 2–4% <br> 0 | 35–41% <br> 30–35 | 3–5% <br> 2–3 | 1–2% <br> 1–2 | 1–2% <br> 0 | 1–2% <br> 0 |
 | [6–8 September 2019](2019-09-08-ComRes.html) | ComRes <br> Daily Telegraph | 12–14% <br> 6–8 | 15–19% <br> 9–14 | 27–31% <br> 21–26 | 3–5% <br> 0 | 28–32% <br> 22–27 | 2–4% <br> 2–3 | 1–2% <br> 1 | 0–1% <br> 0 | 1–2% <br> 0 |
