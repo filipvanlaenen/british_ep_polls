@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/british_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 24 Sep 2019 09:01:23 +0200</pubDate>
+    <pubDate>Tue, 24 Sep 2019 20:12:15 +0200</pubDate>
     <item>
       <title>Opinion Poll by Opinium for The Observer, 19–20 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_ep_polls/2019-09-20-Opinium.html</link>
@@ -70,14 +70,34 @@
       <dc:date>2019-09-18T08:00:27.710135+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Kantar Public, 5–9 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_ep_polls/2019-09-09-KantarPublic.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party (ECR): 29–35 seats&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 16–23 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats (RE): 13–17 seats&lt;/li&gt;&lt;li&gt;Scottish National Party (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;UK Independence Party (ID): 0 seats&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Brexit Party (NI): 0–2 seats&lt;/li&gt;&lt;li&gt;Change UK (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-09-09-KantarPublic-seats.png"
+        length="179723"
+        type="image/png"/>
+      <pubDate>Tue, 24 Sep 2019 20:12:15 +0200</pubDate>
+      <dc:date>2019-09-24T20:12:15.852004+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Public, 5–9 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_ep_polls/2019-09-09-KantarPublic.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-09-09-KantarPublic-coalitions-seats.png"
+        length="142402"
+        type="image/png"/>
+      <pubDate>Tue, 24 Sep 2019 20:12:15 +0200</pubDate>
+      <dc:date>2019-09-24T20:12:15.852004+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Kantar Public, 5–9 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_ep_polls/2019-09-09-KantarPublic.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party (ECR): 35.3–40.9%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 21.6–26.6%&lt;/li&gt;&lt;li&gt;Liberal Democrats (RE): 17.8–22.5%&lt;/li&gt;&lt;li&gt;Scottish National Party (Greens/EFA): 3.0–5.3%&lt;/li&gt;&lt;li&gt;Plaid Cymru (Greens/EFA): 0.5–1.7%&lt;/li&gt;&lt;li&gt;UK Independence Party (ID): 0.5–1.7%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 2.1–4.1%&lt;/li&gt;&lt;li&gt;Brexit Party (NI): 5.7–8.6%&lt;/li&gt;&lt;li&gt;Change UK (RE): 0.5–1.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-09-09-KantarPublic.png"
         length="258744"
         type="image/png"/>
-      <pubDate>Fri, 20 Sep 2019 15:07:14 +0200</pubDate>
-      <dc:date>2019-09-20T15:07:14.826278+02:00</dc:date>
+      <pubDate>Tue, 24 Sep 2019 20:12:15 +0200</pubDate>
+      <dc:date>2019-09-24T20:12:15.852004+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ComRes for Daily Telegraph, 6–8 September 2019 – Voting Intentions</title>
@@ -1489,6 +1509,6 @@
       <pubDate>Mon, 22 Jul 2019 21:27:08 +0200</pubDate>
       <dc:date>2019-07-22T21:27:08.139393+02:00</dc:date>
     </item>
-    <dc:date>2019-09-24T09:01:23.843755+02:00</dc:date>
+    <dc:date>2019-09-24T20:12:15.852004+02:00</dc:date>
   </channel>
 </rss>
