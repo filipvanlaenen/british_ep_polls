@@ -134,7 +134,7 @@ Last result: **4** seats (General Election of 23 May 2019)
 | [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express | 23 | 22–24 | 22–24 | 22–24 | 22–24 |
 | [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 32 | 30–32 | 29–32 | 28–32 | 27–33 |
 | [9–10 September 2019](2019-09-10-YouGov.html) | YouGov <br> The Times | 25 | 24–28 | 24–29 | 24–29 | 24–30 |
-| [5–9 September 2019](2019-09-09-KantarPublic.html) | Kantar Public | 33 | 33–34 | 32–35 | 30–35 | 28–35 |
+| [5–9 September 2019](2019-09-09-KantarPublic.html) | Kantar Public | 34 | 30–35 | 30–35 | 29–35 | 29–36 |
 | [6–8 September 2019](2019-09-08-ComRes.html) | ComRes <br> Daily Telegraph | 25 | 22–25 | 22–26 | 22–27 | 22–28 |
 | [5–7 September 2019](2019-09-07-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 24 | 23–27 | 23–27 | 22–27 | 22–27 |
 | [5–6 September 2019](2019-09-06-YouGov.html) | YouGov <br> The Sunday Times | 30 | 27–30 | 26–31 | 26–32 | 25–32 |
