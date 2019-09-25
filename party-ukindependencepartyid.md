@@ -10,7 +10,7 @@ Last result: **3.2%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.9% | 0.2–1.3% | 0.2–1.4% | 0.1–1.5% | 0.1–1.7% |
+| N/A | [Poll Average](average.html) | 0.9% | 0.2–1.8% | 0.2–2.1% | 0.1–2.3% | 0.1–2.6% |
 | [19–20 September 2019](2019-09-20-Opinium.html) | Opinium <br> The Observer | 2.0% | 1.6–2.5% | 1.5–2.6% | 1.5–2.7% | 1.3–3.0% |
 | [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% |
 | [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
@@ -78,10 +78,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 31% | 100% |  |
-| 0.5–1.5% | 68% | 69% | Median |
-| 1.5–2.5% | 2% | 2% |  |
-| 2.5–3.5% | 0% | 0% | Last Result |
+| 0.0–0.5% | 32% | 100% |  |
+| 0.5–1.5% | 54% | 68% | Median |
+| 1.5–2.5% | 13% | 14% |  |
+| 2.5–3.5% | 0.8% | 0.8% | Last Result |
+| 3.5–4.5% | 0% | 0% |  |
 
 
 ## Seats
