@@ -92,7 +92,7 @@ Last result: **1** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [19–20 September 2019](2019-09-20-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
@@ -108,7 +108,7 @@ Last result: **1** seats (General Election of 23 May 2019)
 | [4–6 September 2019](2019-09-06-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0–1 |
 | [4–6 September 2019](2019-09-06-ComRes.html) | ComRes <br> Britain Elects | 1 | 1 | 1 | 1 | 0–2 |
 | [3–6 September 2019](2019-09-06-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
-| [3–4 September 2019](2019-09-04-HanburyStrategy.html) | Hanbury Strategy | 1 | 1 | 1 | 1–2 | 0–2 |
+| [3–4 September 2019](2019-09-04-HanburyStrategy.html) | Hanbury Strategy | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [29–30 August 2019](2019-08-30-Survation.html) | Survation <br> Daily Mail | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
@@ -162,9 +162,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 17% | 100% |  |
-| 1 | 78% | 83% | Last Result, Median |
-| 2 | 5% | 5% |  |
+| 0 | 18% | 100% |  |
+| 1 | 76% | 82% | Last Result, Median |
+| 2 | 6% | 6% |  |
 | 3 | 0% | 0% |  |
 
 

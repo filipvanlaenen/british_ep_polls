@@ -116,7 +116,7 @@ Last result: **29** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 2–10 | 1–11 | 0–12 | 0–15 |
+| N/A | [Poll Average](average.html) | 8 | 2–10 | 1–11 | 0–13 | 0–15 |
 | [19–20 September 2019](2019-09-20-Opinium.html) | Opinium <br> The Observer | 7 | 6–10 | 6–10 | 6–10 | 6–10 |
 | [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 8 | 7–9 | 7–10 | 7–10 | 7–10 |
 | [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 6 | 4–7 | 4–7 | 2–7 | 1–8 |
@@ -131,8 +131,8 @@ Last result: **29** seats (General Election of 23 May 2019)
 | [5–6 September 2019](2019-09-06-Panelbase.html) | Panelbase | 9 | 9–10 | 8–10 | 8–10 | 7–11 |
 | [4–6 September 2019](2019-09-06-Opinium.html) | Opinium <br> The Observer | 9 | 7–10 | 7–10 | 7–10 | 6–10 |
 | [4–6 September 2019](2019-09-06-ComRes.html) | ComRes <br> Britain Elects | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
-| [3–6 September 2019](2019-09-06-BMGResearch.html) | BMG Research <br> The Independent | 7 | 7–9 | 7–9 | 7–10 | 5–10 |
-| [3–4 September 2019](2019-09-04-HanburyStrategy.html) | Hanbury Strategy | 9 | 8–10 | 8–11 | 7–11 | 7–11 |
+| [3–6 September 2019](2019-09-06-BMGResearch.html) | BMG Research <br> The Independent | 7 | 7–9 | 7–9 | 6–10 | 5–10 |
+| [3–4 September 2019](2019-09-04-HanburyStrategy.html) | Hanbury Strategy | 9 | 8–10 | 7–11 | 7–11 | 7–11 |
 | [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
 | [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 10 | 8–10 | 7–10 | 7–10 | 7–10 |
 | [29–30 August 2019](2019-08-30-Survation.html) | Survation <br> Daily Mail | 9 | 7–10 | 7–10 | 7–10 | 7–10 |
@@ -193,15 +193,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 1.0% | 90% |  |
 | 5 | 2% | 89% |  |
 | 6 | 8% | 87% |  |
-| 7 | 19% | 79% |  |
-| 8 | 25% | 59% | Median |
-| 9 | 18% | 35% |  |
-| 10 | 10% | 16% |  |
+| 7 | 20% | 79% |  |
+| 8 | 27% | 59% | Median |
+| 9 | 14% | 32% |  |
+| 10 | 10% | 17% |  |
 | 11 | 2% | 7% |  |
 | 12 | 2% | 5% |  |
-| 13 | 0.6% | 2% |  |
-| 14 | 0.5% | 2% |  |
-| 15 | 0.8% | 1.3% |  |
+| 13 | 1.0% | 3% |  |
+| 14 | 0.7% | 2% |  |
+| 15 | 0.7% | 1.1% |  |
 | 16 | 0.3% | 0.4% |  |
 | 17 | 0.1% | 0.1% |  |
 | 18 | 0% | 0% |  |
