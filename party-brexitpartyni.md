@@ -117,15 +117,15 @@ Last result: **29** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 2–10 | 1–11 | 0–12 | 0–15 |
-| [19–20 September 2019](2019-09-20-Opinium.html) | Opinium <br> The Observer | 7 | 6–9 | 6–10 | 6–10 | 6–10 |
-| [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 8 | 8–9 | 7–9 | 7–10 | 7–10 |
-| [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 6 | 4–7 | 2–7 | 2–7 | 1–7 |
-| [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express | 8 | 7–8 | 7–9 | 7–9 | 6–10 |
+| [19–20 September 2019](2019-09-20-Opinium.html) | Opinium <br> The Observer | 7 | 6–10 | 6–10 | 6–10 | 6–10 |
+| [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 8 | 7–9 | 7–10 | 7–10 | 7–10 |
+| [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 6 | 4–7 | 4–7 | 2–7 | 1–8 |
+| [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 8 | 7–9 | 7–10 | 6–10 | 6–10 |
 | [9–10 September 2019](2019-09-10-YouGov.html) | YouGov <br> The Times | 10 | 9–10 | 8–10 | 8–10 | 7–10 |
 | [5–9 September 2019](2019-09-09-KantarPublic.html) | Kantar Public | 1 | 0–1 | 0–1 | 0–2 | 0–6 |
 | [6–8 September 2019](2019-09-08-ComRes.html) | ComRes <br> Daily Telegraph | 8 | 7–8 | 6–8 | 6–8 | 6–9 |
-| [5–7 September 2019](2019-09-07-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
+| [5–7 September 2019](2019-09-07-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 8 | 7–8 | 7–9 | 7–9 | 6–10 |
 | [5–6 September 2019](2019-09-06-YouGov.html) | YouGov <br> The Sunday Times | 8 | 7–10 | 6–10 | 6–10 | 6–10 |
 | [5–6 September 2019](2019-09-06-Survation.html) | Survation <br> Daily Mail | 11 | 10–15 | 10–15 | 10–16 | 9–17 |
 | [5–6 September 2019](2019-09-06-Panelbase.html) | Panelbase | 9 | 9–10 | 8–10 | 8–10 | 7–11 |
@@ -188,15 +188,15 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 3% | 100% |  |
 | 1 | 7% | 97% |  |
-| 2 | 0.8% | 90% |  |
-| 3 | 0.1% | 89% |  |
-| 4 | 0.8% | 89% |  |
-| 5 | 1.1% | 88% |  |
-| 6 | 9% | 87% |  |
-| 7 | 18% | 78% |  |
-| 8 | 26% | 61% | Median |
-| 9 | 19% | 35% |  |
-| 10 | 9% | 15% |  |
+| 2 | 0.4% | 90% |  |
+| 3 | 0.1% | 90% |  |
+| 4 | 1.0% | 90% |  |
+| 5 | 2% | 89% |  |
+| 6 | 8% | 87% |  |
+| 7 | 19% | 79% |  |
+| 8 | 25% | 59% | Median |
+| 9 | 18% | 35% |  |
+| 10 | 10% | 16% |  |
 | 11 | 2% | 7% |  |
 | 12 | 2% | 5% |  |
 | 13 | 0.6% | 2% |  |

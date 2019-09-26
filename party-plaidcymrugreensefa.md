@@ -92,9 +92,9 @@ Last result: **1** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
-| [19–20 September 2019](2019-09-20-Opinium.html) | Opinium <br> The Observer | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
-| [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| [19–20 September 2019](2019-09-20-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1–2 | 0–2 | 0–2 |
+| [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express |  |  |  |  |  |
 | [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1–2 | 1–2 | 0–2 |
@@ -162,8 +162,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 19% | 100% |  |
-| 1 | 75% | 81% | Last Result, Median |
+| 0 | 17% | 100% |  |
+| 1 | 78% | 83% | Last Result, Median |
 | 2 | 5% | 5% |  |
 | 3 | 0% | 0% |  |
 
