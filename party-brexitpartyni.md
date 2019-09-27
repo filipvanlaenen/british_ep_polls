@@ -133,7 +133,7 @@ Last result: **29** seats (General Election of 23 May 2019)
 | [4–6 September 2019](2019-09-06-ComRes.html) | ComRes <br> Britain Elects | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [3–6 September 2019](2019-09-06-BMGResearch.html) | BMG Research <br> The Independent | 7 | 7–9 | 7–9 | 6–10 | 5–10 |
 | [3–4 September 2019](2019-09-04-HanburyStrategy.html) | Hanbury Strategy | 9 | 8–10 | 7–11 | 7–11 | 7–11 |
-| [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
+| [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 6 | 6–7 | 5–7 | 5–8 | 4–9 |
 | [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 10 | 8–10 | 7–10 | 7–10 | 7–10 |
 | [29–30 August 2019](2019-08-30-Survation.html) | Survation <br> Daily Mail | 9 | 7–10 | 7–10 | 7–10 | 7–10 |
 | [28–29 August 2019](2019-08-29-YouGov.html) | YouGov | 7 | 7 | 6–8 | 6–9 | 6–10 |
