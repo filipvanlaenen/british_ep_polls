@@ -10,13 +10,13 @@ Last result: **13.7%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.9% | 21.4–28.5% | 20.8–29.1% | 20.3–29.7% | 19.4–30.8% |
+| N/A | [Poll Average](average.html) | 25.4% | 21.5–28.8% | 20.9–29.4% | 20.4–30.0% | 19.5–31.1% |
 | [24–25 September 2019](2019-09-25-YouGov.html) | YouGov <br> The Times | 21.1% | 19.8–22.5% | 19.5–22.8% | 19.2–23.2% | 18.6–23.8% |
 | [25 September 2019](2019-09-25-Survation.html) | Survation <br> Daily Mail | 24.0% | 22.4–25.8% | 21.9–26.3% | 21.5–26.8% | 20.7–27.6% |
-| [24 September 2019](2019-09-24-ComRes.html) | ComRes <br> Daily Telegraph | 28.1% | N/A | N/A | N/A | N/A |
-| [19–20 September 2019](2019-09-20-YouGov.html) | YouGov <br> People's Vote | 23.1% | N/A | N/A | N/A | N/A |
+| [24 September 2019](2019-09-24-ComRes.html) | ComRes <br> Daily Telegraph | 28.1% | 26.4–30.0% | 25.9–30.5% | 25.5–31.0% | 24.6–31.9% |
+| [19–20 September 2019](2019-09-20-YouGov.html) | YouGov <br> People's Vote | 23.1% | 21.9–24.3% | 21.6–24.7% | 21.3–25.0% | 20.7–25.6% |
 | [19–20 September 2019](2019-09-20-Opinium.html) | Opinium <br> The Observer | 22.1% | 20.9–23.3% | 20.6–23.7% | 20.3–24.0% | 19.8–24.6% |
-| [18–19 September 2019](2019-09-19-ComRes.html) | ComRes <br> Britain Elects | 27.4% | N/A | N/A | N/A | N/A |
+| [18–19 September 2019](2019-09-19-ComRes.html) | ComRes <br> Britain Elects | 27.4% | 26.1–28.7% | 25.8–29.0% | 25.5–29.3% | 24.9–30.0% |
 | [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 20.5% | 19.3–21.9% | 18.9–22.2% | 18.6–22.6% | 18.0–23.2% |
 | [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 24.2% | 22.5–26.0% | 22.0–26.5% | 21.6–26.9% | 20.8–27.8% |
 | [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express | 27.0% | 25.7–28.3% | 25.4–28.6% | 25.1–28.9% | 24.5–29.6% |
@@ -88,20 +88,20 @@ The following table shows the probability mass function per percentage block of 
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0% | 100% |  |
 | 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0.6% | 100% |  |
-| 19.5–20.5% | 3% | 99.3% |  |
-| 20.5–21.5% | 7% | 96% |  |
-| 21.5–22.5% | 11% | 89% |  |
-| 22.5–23.5% | 11% | 78% |  |
-| 23.5–24.5% | 12% | 67% |  |
-| 24.5–25.5% | 11% | 55% | Median |
-| 25.5–26.5% | 11% | 43% |  |
-| 26.5–27.5% | 12% | 32% |  |
-| 27.5–28.5% | 11% | 20% |  |
-| 28.5–29.5% | 6% | 9% |  |
-| 29.5–30.5% | 2% | 3% |  |
-| 30.5–31.5% | 0.6% | 0.8% |  |
-| 31.5–32.5% | 0.1% | 0.2% |  |
+| 18.5–19.5% | 0.5% | 100% |  |
+| 19.5–20.5% | 3% | 99.4% |  |
+| 20.5–21.5% | 7% | 97% |  |
+| 21.5–22.5% | 10% | 90% |  |
+| 22.5–23.5% | 10% | 80% |  |
+| 23.5–24.5% | 11% | 70% |  |
+| 24.5–25.5% | 11% | 59% | Median |
+| 25.5–26.5% | 11% | 49% |  |
+| 26.5–27.5% | 13% | 38% |  |
+| 27.5–28.5% | 13% | 25% |  |
+| 28.5–29.5% | 8% | 12% |  |
+| 29.5–30.5% | 3% | 4% |  |
+| 30.5–31.5% | 1.0% | 1.2% |  |
+| 31.5–32.5% | 0.2% | 0.2% |  |
 | 32.5–33.5% | 0% | 0% |  |
 
 
@@ -113,13 +113,13 @@ Last result: **10** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 16–22 | 16–23 | 15–24 | 15–25 |
+| N/A | [Poll Average](average.html) | 19 | 16–22 | 16–23 | 15–23 | 15–25 |
 | [24–25 September 2019](2019-09-25-YouGov.html) | YouGov <br> The Times | 17 | 15–17 | 15–17 | 15–17 | 15–17 |
 | [25 September 2019](2019-09-25-Survation.html) | Survation <br> Daily Mail | 16 | 16–19 | 16–20 | 16–20 | 16–21 |
-| [24 September 2019](2019-09-24-ComRes.html) | ComRes <br> Daily Telegraph |  |  |  |  |  |
-| [19–20 September 2019](2019-09-20-YouGov.html) | YouGov <br> People's Vote |  |  |  |  |  |
+| [24 September 2019](2019-09-24-ComRes.html) | ComRes <br> Daily Telegraph | 20 | 17–23 | 17–23 | 16–23 | 16–23 |
+| [19–20 September 2019](2019-09-20-YouGov.html) | YouGov <br> People's Vote | 16 | 16 | 16 | 16 | 16–20 |
 | [19–20 September 2019](2019-09-20-Opinium.html) | Opinium <br> The Observer | 17 | 15–18 | 15–18 | 15–19 | 15–20 |
-| [18–19 September 2019](2019-09-19-ComRes.html) | ComRes <br> Britain Elects |  |  |  |  |  |
+| [18–19 September 2019](2019-09-19-ComRes.html) | ComRes <br> Britain Elects | 21 | 21 | 21–23 | 21–23 | 20–25 |
 | [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 15 | 15–16 | 15–17 | 15–17 | 15–19 |
 | [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 18 | 16–20 | 15–21 | 15–22 | 15–23 |
 | [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express | 22 | 20–23 | 20–24 | 19–24 | 19–24 |
@@ -193,17 +193,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 5% | 100% |  |
-| 16 | 12% | 95% |  |
-| 17 | 19% | 83% |  |
-| 18 | 10% | 64% |  |
-| 19 | 16% | 54% | Median |
-| 20 | 11% | 37% |  |
-| 21 | 13% | 27% |  |
-| 22 | 8% | 14% |  |
-| 23 | 4% | 6% |  |
-| 24 | 2% | 3% |  |
-| 25 | 0.8% | 0.9% |  |
+| 15 | 4% | 100% |  |
+| 16 | 12% | 96% |  |
+| 17 | 19% | 84% |  |
+| 18 | 9% | 65% |  |
+| 19 | 16% | 56% | Median |
+| 20 | 10% | 39% |  |
+| 21 | 15% | 29% |  |
+| 22 | 7% | 14% |  |
+| 23 | 5% | 7% |  |
+| 24 | 1.5% | 2% |  |
+| 25 | 0.7% | 0.8% |  |
 | 26 | 0.1% | 0.1% |  |
 | 27 | 0% | 0% |  |
 
