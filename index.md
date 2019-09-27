@@ -5,10 +5,10 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | BREXIT | LIBDEM | LAB | GREEN | CON | SNP | PC | ChUK | UKIP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 23 May 2019 | General Election | 30.5% <br> 29 | 19.6% <br> 16 | 13.7% <br> 10 | 11.8% <br> 7 | 8.8% <br> 4 | 3.5% <br> 3 | 1.0% <br> 1 | 3.3% <br> 0 | 3.2% <br> 0 |
-| N/A | [Poll Average](average.html) | 6–17% <br> 0–17 | 16–24% <br> 9–19 | 20–30% <br> 15–24 | 2–6% <br> 0 | 26–39% <br> 20–34 | 2–6% <br> 1–3 | 0–2% <br> 0–2 | 0–1% <br> 0 | 0–2% <br> 0 |
+| N/A | [Poll Average](average.html) | 6–17% <br> 0–17 | 16–24% <br> 9–19 | 20–30% <br> 15–23 | 2–6% <br> 0 | 26–39% <br> 19–34 | 2–6% <br> 1–3 | 0–2% <br> 0–2 | 0–1% <br> 0 | 0–2% <br> 0 |
 | [24–25 September 2019](2019-09-25-YouGov.html) | YouGov <br> The Times | 12–15% <br> 7–10 | 19–23% <br> 13–19 | 19–23% <br> 15–17 | 5–7% <br> 0 | 29–34% <br> 24–28 | 2–4% <br> 1–2 | 1–2% <br> 1 | 0–1% <br> 0 | 1–2% <br> 0 |
 | [25 September 2019](2019-09-25-Survation.html) | Survation <br> Daily Mail | 14–18% <br> 7–17 | 20–25% <br> 13–19 | 21–27% <br> 16–20 | 2–4% <br> 0 | 24–30% <br> 20–24 | 3–5% <br> 2–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [24 September 2019](2019-09-24-ComRes.html) | ComRes <br> Daily Telegraph | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [24 September 2019](2019-09-24-ComRes.html) | ComRes <br> Daily Telegraph | 12–16% <br> 6–10 | 18–23% <br> 11–14 | 25–31% <br> 16–23 | N/A <br> N/A | 25–31% <br> 18–22 | 3–6% <br> 2–3 | 1–2% <br> 0–2 | N/A <br> N/A | N/A <br> N/A |
 | [19–20 September 2019](2019-09-20-Opinium.html) | Opinium <br> The Observer | 11–14% <br> 6–10 | 15–19% <br> 9–13 | 20–24% <br> 15–19 | 3–5% <br> 0 | 35–39% <br> 29–33 | 3–5% <br> 2–3 | 1–2% <br> 0–2 | 0–1% <br> 0 | 1–3% <br> 0 |
 | [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 8–12% <br> 2–7 | 21–26% <br> 14–19 | 22–27% <br> 15–22 | 3–5% <br> 0 | 30–36% <br> 24–30 | 2–4% <br> 1–3 | 0–2% <br> 0–2 | N/A <br> N/A | 0–1% <br> 0 |
 | [5–9 September 2019](2019-09-09-KantarPublic.html) | Kantar Public | 6–9% <br> 0–2 | 18–22% <br> 13–17 | 22–27% <br> 16–23 | 2–4% <br> 0 | 35–41% <br> 29–35 | 3–5% <br> 2–3 | 1–2% <br> 1–2 | 1–2% <br> 0 | 1–2% <br> 0 |
