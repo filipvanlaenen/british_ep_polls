@@ -10,8 +10,13 @@ Last result: **3.5%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.0% | 3.0–4.9% | 2.8–5.3% | 2.6–5.5% | 2.2–5.9% |
+| N/A | [Poll Average](average.html) | 3.8% | 2.8–5.0% | 2.5–5.3% | 2.4–5.5% | 2.1–6.0% |
+| [24–25 September 2019](2019-09-25-YouGov.html) | YouGov <br> The Times | 2.9% | 2.4–3.5% | 2.3–3.7% | 2.2–3.8% | 2.0–4.1% |
+| [25 September 2019](2019-09-25-Survation.html) | Survation <br> Daily Mail | 4.0% | 3.3–4.9% | 3.1–5.1% | 2.9–5.3% | 2.6–5.8% |
+| [24 September 2019](2019-09-24-ComRes.html) | ComRes <br> Daily Telegraph | 4.2% | N/A | N/A | N/A | N/A |
+| [19–20 September 2019](2019-09-20-YouGov.html) | YouGov <br> People's Vote | 4.0% | N/A | N/A | N/A | N/A |
 | [19–20 September 2019](2019-09-20-Opinium.html) | Opinium <br> The Observer | 4.0% | 3.5–4.7% | 3.4–4.8% | 3.3–5.0% | 3.0–5.3% |
+| [18–19 September 2019](2019-09-19-ComRes.html) | ComRes <br> Britain Elects | 4.0% | N/A | N/A | N/A | N/A |
 | [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 3.9% | 3.4–4.6% | 3.2–4.8% | 3.1–5.0% | 2.8–5.3% |
 | [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 3.2% | 2.6–4.0% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
 | [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–4.9% | 3.0–5.2% |
@@ -79,10 +84,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 25% | 98% |  |
-| 3.5–4.5% | 51% | 73% | Last Result, Median |
-| 4.5–5.5% | 19% | 21% |  |
+| 1.5–2.5% | 5% | 100% |  |
+| 2.5–3.5% | 34% | 95% |  |
+| 3.5–4.5% | 41% | 61% | Last Result, Median |
+| 4.5–5.5% | 18% | 21% |  |
 | 5.5–6.5% | 2% | 2% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
@@ -95,8 +100,13 @@ Last result: **3** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
+| [24–25 September 2019](2019-09-25-YouGov.html) | YouGov <br> The Times | 2 | 2 | 2 | 1–2 | 1–2 |
+| [25 September 2019](2019-09-25-Survation.html) | Survation <br> Daily Mail | 3 | 2–3 | 2–4 | 2–4 | 1–4 |
+| [24 September 2019](2019-09-24-ComRes.html) | ComRes <br> Daily Telegraph |  |  |  |  |  |
+| [19–20 September 2019](2019-09-20-YouGov.html) | YouGov <br> People's Vote |  |  |  |  |  |
 | [19–20 September 2019](2019-09-20-Opinium.html) | Opinium <br> The Observer | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [18–19 September 2019](2019-09-19-ComRes.html) | ComRes <br> Britain Elects |  |  |  |  |  |
 | [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -165,10 +175,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 2% | 100% |  |
-| 2 | 50% | 98% | Median |
-| 3 | 48% | 48% | Last Result |
-| 4 | 0.1% | 0.1% |  |
+| 1 | 3% | 100% |  |
+| 2 | 57% | 97% | Median |
+| 3 | 39% | 40% | Last Result |
+| 4 | 0.9% | 0.9% |  |
 | 5 | 0% | 0% |  |
 
 
