@@ -131,8 +131,8 @@ Last result: **4** seats (General Election of 23 May 2019)
 | N/A | [Poll Average](average.html) | 25 | 21–32 | 20–34 | 19–34 | 17–35 |
 | [24–25 September 2019](2019-09-25-YouGov.html) | YouGov <br> The Times | 26 | 24–28 | 24–29 | 24–29 | 24–29 |
 | [25 September 2019](2019-09-25-Survation.html) | Survation <br> Daily Mail | 23 | 21–24 | 20–24 | 19–24 | 18–24 |
-| [24 September 2019](2019-09-24-ComRes.html) | ComRes <br> Daily Telegraph | 20 | 18–22 | 17–22 | 17–23 | 16–23 |
-| [19–20 September 2019](2019-09-20-YouGov.html) | YouGov <br> People's Vote | 24 | 24 | 24 | 24–25 | 24–27 |
+| [24 September 2019](2019-09-24-ComRes.html) | ComRes <br> Daily Telegraph | 20 | 18–22 | 17–23 | 17–23 | 16–23 |
+| [19–20 September 2019](2019-09-20-YouGov.html) | YouGov <br> People's Vote | 24 | 24 | 24–25 | 24–25 | 24–27 |
 | [19–20 September 2019](2019-09-20-Opinium.html) | Opinium <br> The Observer | 32 | 30–33 | 29–33 | 29–33 | 28–34 |
 | [18–19 September 2019](2019-09-19-ComRes.html) | ComRes <br> Britain Elects | 23 | 23–24 | 23–24 | 22–24 | 22–25 |
 | [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 25 | 24–27 | 24–28 | 24–28 | 24–29 |
@@ -218,11 +218,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 0.1% | 100% |  |
 | 17 | 0.4% | 99.8% |  |
 | 18 | 1.4% | 99.4% |  |
-| 19 | 1.1% | 98% |  |
+| 19 | 1.3% | 98% |  |
 | 20 | 3% | 97% |  |
 | 21 | 4% | 94% |  |
-| 22 | 6% | 90% |  |
-| 23 | 7% | 84% |  |
+| 22 | 5% | 90% |  |
+| 23 | 8% | 84% |  |
 | 24 | 22% | 76% |  |
 | 25 | 13% | 55% | Median |
 | 26 | 8% | 41% |  |
