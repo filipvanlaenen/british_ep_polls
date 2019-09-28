@@ -98,12 +98,12 @@ Last result: **1** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
-| [24–25 September 2019](2019-09-25-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 1–2 |
+| [24–25 September 2019](2019-09-25-YouGov.html) | YouGov <br> The Times | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [25 September 2019](2019-09-25-Survation.html) | Survation <br> Daily Mail |  |  |  |  |  |
-| [24 September 2019](2019-09-24-ComRes.html) | ComRes <br> Daily Telegraph | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| [24 September 2019](2019-09-24-ComRes.html) | ComRes <br> Daily Telegraph | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | [19–20 September 2019](2019-09-20-YouGov.html) | YouGov <br> People's Vote | 0 | 0 | 0 | 0 | 0 |
 | [19–20 September 2019](2019-09-20-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1–2 | 0–2 | 0–2 |
-| [18–19 September 2019](2019-09-19-ComRes.html) | ComRes <br> Britain Elects | 0 | 0 | 0 | 0–1 | 0–1 |
+| [18–19 September 2019](2019-09-19-ComRes.html) | ComRes <br> Britain Elects | 0 | 0 | 0 | 0 | 0 |
 | [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express |  |  |  |  |  |
@@ -172,9 +172,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 16% | 100% |  |
-| 1 | 78% | 84% | Last Result, Median |
-| 2 | 6% | 6% |  |
+| 0 | 17% | 100% |  |
+| 1 | 76% | 83% | Last Result, Median |
+| 2 | 7% | 7% |  |
 | 3 | 0% | 0% |  |
 
 

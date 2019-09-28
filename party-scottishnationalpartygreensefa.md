@@ -100,13 +100,13 @@ Last result: **3** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
-| [24–25 September 2019](2019-09-25-YouGov.html) | YouGov <br> The Times | 2 | 2 | 2 | 1–2 | 1–2 |
-| [25 September 2019](2019-09-25-Survation.html) | Survation <br> Daily Mail | 3 | 2–3 | 2–4 | 2–4 | 1–4 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
+| [24–25 September 2019](2019-09-25-YouGov.html) | YouGov <br> The Times | 2 | 2 | 1–2 | 1–2 | 1–3 |
+| [25 September 2019](2019-09-25-Survation.html) | Survation <br> Daily Mail | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [24 September 2019](2019-09-24-ComRes.html) | ComRes <br> Daily Telegraph | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [19–20 September 2019](2019-09-20-YouGov.html) | YouGov <br> People's Vote | 2 | 2 | 2 | 2 | 2–3 |
+| [19–20 September 2019](2019-09-20-YouGov.html) | YouGov <br> People's Vote | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [19–20 September 2019](2019-09-20-Opinium.html) | Opinium <br> The Observer | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [18–19 September 2019](2019-09-19-ComRes.html) | ComRes <br> Britain Elects | 3 | 3 | 3 | 2–3 | 2–3 |
+| [18–19 September 2019](2019-09-19-ComRes.html) | ComRes <br> Britain Elects | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -176,9 +176,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 3% | 100% |  |
-| 2 | 56% | 97% | Median |
-| 3 | 41% | 42% | Last Result |
-| 4 | 0.8% | 0.8% |  |
+| 2 | 57% | 97% | Median |
+| 3 | 39% | 39% | Last Result |
+| 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
 

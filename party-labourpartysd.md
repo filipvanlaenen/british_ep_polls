@@ -113,13 +113,13 @@ Last result: **10** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 16–22 | 16–23 | 15–23 | 15–25 |
-| [24–25 September 2019](2019-09-25-YouGov.html) | YouGov <br> The Times | 17 | 15–17 | 15–17 | 15–17 | 15–17 |
-| [25 September 2019](2019-09-25-Survation.html) | Survation <br> Daily Mail | 16 | 16–19 | 16–20 | 16–20 | 16–21 |
-| [24 September 2019](2019-09-24-ComRes.html) | ComRes <br> Daily Telegraph | 20 | 17–23 | 17–23 | 16–23 | 16–23 |
-| [19–20 September 2019](2019-09-20-YouGov.html) | YouGov <br> People's Vote | 16 | 16 | 16 | 16 | 16–20 |
+| N/A | [Poll Average](average.html) | 19 | 16–22 | 15–23 | 15–24 | 15–25 |
+| [24–25 September 2019](2019-09-25-YouGov.html) | YouGov <br> The Times | 16 | 15–17 | 15–19 | 15–19 | 15–19 |
+| [25 September 2019](2019-09-25-Survation.html) | Survation <br> Daily Mail | 19 | 16–20 | 16–21 | 16–21 | 15–22 |
+| [24 September 2019](2019-09-24-ComRes.html) | ComRes <br> Daily Telegraph | 20 | 17–22 | 16–23 | 16–24 | 16–24 |
+| [19–20 September 2019](2019-09-20-YouGov.html) | YouGov <br> People's Vote | 17 | 16–19 | 16–19 | 16–19 | 15–20 |
 | [19–20 September 2019](2019-09-20-Opinium.html) | Opinium <br> The Observer | 17 | 15–18 | 15–18 | 15–19 | 15–20 |
-| [18–19 September 2019](2019-09-19-ComRes.html) | ComRes <br> Britain Elects | 21 | 21 | 21–23 | 21–23 | 20–25 |
+| [18–19 September 2019](2019-09-19-ComRes.html) | ComRes <br> Britain Elects | 22 | 21–22 | 21–22 | 20–23 | 20–24 |
 | [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 15 | 15–16 | 15–17 | 15–17 | 15–19 |
 | [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 18 | 16–20 | 15–21 | 15–22 | 15–23 |
 | [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express | 22 | 20–23 | 20–24 | 19–24 | 19–24 |
@@ -193,16 +193,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 4% | 100% |  |
-| 16 | 12% | 96% |  |
-| 17 | 19% | 84% |  |
-| 18 | 9% | 65% |  |
-| 19 | 16% | 56% | Median |
-| 20 | 10% | 39% |  |
-| 21 | 15% | 29% |  |
-| 22 | 7% | 14% |  |
-| 23 | 5% | 7% |  |
-| 24 | 1.5% | 2% |  |
+| 15 | 5% | 100% |  |
+| 16 | 12% | 95% |  |
+| 17 | 11% | 83% |  |
+| 18 | 11% | 72% |  |
+| 19 | 19% | 61% | Median |
+| 20 | 13% | 41% |  |
+| 21 | 14% | 28% |  |
+| 22 | 8% | 14% |  |
+| 23 | 4% | 6% |  |
+| 24 | 2% | 3% |  |
 | 25 | 0.7% | 0.8% |  |
 | 26 | 0.1% | 0.1% |  |
 | 27 | 0% | 0% |  |
