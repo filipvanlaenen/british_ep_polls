@@ -129,8 +129,8 @@ Last result: **4** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 25 | 21–32 | 20–34 | 19–34 | 17–35 |
-| [24–25 September 2019](2019-09-25-YouGov.html) | YouGov <br> The Times | 25 | 24–29 | 24–29 | 24–29 | 24–29 |
-| [25 September 2019](2019-09-25-Survation.html) | Survation <br> Daily Mail | 24 | 21–24 | 20–24 | 19–24 | 17–24 |
+| [24–25 September 2019](2019-09-25-YouGov.html) | YouGov <br> The Times | 26 | 24–28 | 24–29 | 24–29 | 24–29 |
+| [25 September 2019](2019-09-25-Survation.html) | Survation <br> Daily Mail | 23 | 21–24 | 20–24 | 19–24 | 18–24 |
 | [24 September 2019](2019-09-24-ComRes.html) | ComRes <br> Daily Telegraph | 20 | 18–22 | 17–22 | 17–23 | 16–23 |
 | [19–20 September 2019](2019-09-20-YouGov.html) | YouGov <br> People's Vote | 24 | 24 | 24 | 24–25 | 24–27 |
 | [19–20 September 2019](2019-09-20-Opinium.html) | Opinium <br> The Observer | 32 | 30–33 | 29–33 | 29–33 | 28–34 |
@@ -147,7 +147,7 @@ Last result: **4** seats (General Election of 23 May 2019)
 | [5–6 September 2019](2019-09-06-Survation.html) | Survation <br> Daily Mail | 24 | 22–25 | 22–26 | 21–26 | 21–28 |
 | [5–6 September 2019](2019-09-06-Panelbase.html) | Panelbase | 24 | 23–25 | 23–26 | 22–27 | 22–27 |
 | [4–6 September 2019](2019-09-06-Opinium.html) | Opinium <br> The Observer | 27 | 26–30 | 26–31 | 25–31 | 25–32 |
-| [4–6 September 2019](2019-09-06-ComRes.html) | ComRes <br> Britain Elects | 24 | 24–25 | 23–26 | 23–26 | 23–27 |
+| [4–6 September 2019](2019-09-06-ComRes.html) | ComRes <br> Britain Elects | 24 | 23–25 | 23–26 | 23–26 | 23–27 |
 | [3–6 September 2019](2019-09-06-BMGResearch.html) | BMG Research <br> The Independent | 23 | 22–24 | 21–25 | 21–25 | 20–26 |
 | [3–4 September 2019](2019-09-04-HanburyStrategy.html) | Hanbury Strategy | 26 | 24–28 | 24–29 | 23–30 | 23–31 |
 | [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 29 | 27–31 | 26–32 | 26–32 | 24–32 |
@@ -224,10 +224,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 22 | 6% | 90% |  |
 | 23 | 7% | 84% |  |
 | 24 | 22% | 76% |  |
-| 25 | 15% | 55% | Median |
-| 26 | 8% | 39% |  |
-| 27 | 5% | 32% |  |
-| 28 | 4% | 27% |  |
+| 25 | 13% | 55% | Median |
+| 26 | 8% | 41% |  |
+| 27 | 5% | 33% |  |
+| 28 | 5% | 28% |  |
 | 29 | 3% | 23% |  |
 | 30 | 4% | 20% |  |
 | 31 | 3% | 17% |  |
