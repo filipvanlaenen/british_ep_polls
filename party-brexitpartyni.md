@@ -127,7 +127,7 @@ Last result: **29** seats (General Election of 23 May 2019)
 | [24 September 2019](2019-09-24-ComRes.html) | ComRes <br> Daily Telegraph | 7 | 7–9 | 7–10 | 6–10 | 5–10 |
 | [19–20 September 2019](2019-09-20-YouGov.html) | YouGov <br> People's Vote | 9 | 9–10 | 9–10 | 8–10 | 8–10 |
 | [19–20 September 2019](2019-09-20-Opinium.html) | Opinium <br> The Observer | 7 | 6–10 | 6–10 | 6–10 | 6–10 |
-| [18–19 September 2019](2019-09-19-ComRes.html) | ComRes <br> Britain Elects | 8 | 8–9 | 8–9 | 7–9 | 6–9 |
+| [18–19 September 2019](2019-09-19-ComRes.html) | ComRes <br> Britain Elects | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 8 | 7–9 | 7–10 | 7–10 | 7–10 |
 | [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 6 | 4–7 | 4–7 | 2–7 | 1–8 |
 | [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
