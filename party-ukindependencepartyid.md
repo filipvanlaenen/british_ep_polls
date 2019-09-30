@@ -10,8 +10,8 @@ Last result: **3.2%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.7% | 0.2–1.2% | 0.1–1.4% | 0.1–1.5% | 0.1–1.7% |
-| [25–27 September 2019](2019-09-27-Opinium.html) | Opinium <br> The Observer | 0.2% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 0.5% | 0.2–1.2% | 0.1–1.3% | 0.1–1.5% | 0.1–1.7% |
+| [25–27 September 2019](2019-09-27-Opinium.html) | Opinium <br> The Observer | 0.2% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
 | [24–25 September 2019](2019-09-25-YouGov.html) | YouGov <br> The Times | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% |
 | [25 September 2019](2019-09-25-Survation.html) | Survation <br> Daily Mail | 0.0% | N/A | N/A | N/A | N/A |
 | [24 September 2019](2019-09-24-ComRes.html) | ComRes <br> Daily Telegraph | 0.0% | N/A | N/A | N/A | N/A |
@@ -84,8 +84,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 43% | 100% |  |
-| 0.5–1.5% | 56% | 57% | Median |
+| 0.0–0.5% | 50% | 100% |  |
+| 0.5–1.5% | 48% | 50% | Median |
 | 1.5–2.5% | 2% | 2% |  |
 | 2.5–3.5% | 0% | 0% | Last Result |
 
@@ -99,7 +99,7 @@ Last result: **0** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [25–27 September 2019](2019-09-27-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [25–27 September 2019](2019-09-27-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0 |
 | [24–25 September 2019](2019-09-25-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [25 September 2019](2019-09-25-Survation.html) | Survation <br> Daily Mail |  |  |  |  |  |
 | [24 September 2019](2019-09-24-ComRes.html) | ComRes <br> Daily Telegraph |  |  |  |  |  |

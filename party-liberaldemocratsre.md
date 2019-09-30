@@ -10,8 +10,8 @@ Last result: **19.6%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.0% | 16.8–23.0% | 16.2–23.8% | 15.8–24.4% | 14.9–25.6% |
-| [25–27 September 2019](2019-09-27-Opinium.html) | Opinium <br> The Observer | 19.9% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 20.0% | 16.9–22.8% | 16.3–23.6% | 15.8–24.3% | 15.0–25.5% |
+| [25–27 September 2019](2019-09-27-Opinium.html) | Opinium <br> The Observer | 19.9% | 18.8–21.1% | 18.5–21.4% | 18.2–21.7% | 17.7–22.3% |
 | [24–25 September 2019](2019-09-25-YouGov.html) | YouGov <br> The Times | 21.1% | 19.8–22.5% | 19.5–22.8% | 19.2–23.2% | 18.6–23.8% |
 | [25 September 2019](2019-09-25-Survation.html) | Survation <br> Daily Mail | 22.0% | 20.3–23.7% | 19.9–24.2% | 19.5–24.6% | 18.8–25.5% |
 | [24 September 2019](2019-09-24-ComRes.html) | ComRes <br> Daily Telegraph | 20.8% | 19.3–22.5% | 18.8–23.0% | 18.5–23.4% | 17.7–24.3% |
@@ -86,17 +86,17 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0.2% | 100% |  |
-| 14.5–15.5% | 2% | 99.8% |  |
-| 15.5–16.5% | 6% | 98% |  |
-| 16.5–17.5% | 10% | 92% |  |
-| 17.5–18.5% | 11% | 82% |  |
-| 18.5–19.5% | 14% | 71% |  |
-| 19.5–20.5% | 16% | 57% | Last Result, Median |
-| 20.5–21.5% | 16% | 41% |  |
-| 21.5–22.5% | 12% | 26% |  |
-| 22.5–23.5% | 7% | 14% |  |
-| 23.5–24.5% | 4% | 6% |  |
-| 24.5–25.5% | 2% | 2% |  |
+| 14.5–15.5% | 1.4% | 99.8% |  |
+| 15.5–16.5% | 5% | 98% |  |
+| 16.5–17.5% | 9% | 93% |  |
+| 17.5–18.5% | 11% | 84% |  |
+| 18.5–19.5% | 15% | 73% |  |
+| 19.5–20.5% | 18% | 58% | Last Result, Median |
+| 20.5–21.5% | 16% | 40% |  |
+| 21.5–22.5% | 11% | 23% |  |
+| 22.5–23.5% | 7% | 12% |  |
+| 23.5–24.5% | 4% | 5% |  |
+| 24.5–25.5% | 1.4% | 2% |  |
 | 25.5–26.5% | 0.4% | 0.5% |  |
 | 26.5–27.5% | 0.1% | 0.1% |  |
 | 27.5–28.5% | 0% | 0% |  |
@@ -110,8 +110,8 @@ Last result: **16** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 10–18 | 10–18 | 9–19 | 8–19 |
-| [25–27 September 2019](2019-09-27-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 13 | 10–18 | 10–18 | 9–19 | 9–19 |
+| [25–27 September 2019](2019-09-27-Opinium.html) | Opinium <br> The Observer | 15 | 12–15 | 12–15 | 11–15 | 11–16 |
 | [24–25 September 2019](2019-09-25-YouGov.html) | YouGov <br> The Times | 17 | 14–18 | 13–18 | 13–18 | 13–19 |
 | [25 September 2019](2019-09-25-Survation.html) | Survation <br> Daily Mail | 15 | 13–18 | 13–18 | 13–19 | 13–20 |
 | [24 September 2019](2019-09-24-ComRes.html) | ComRes <br> Daily Telegraph | 12 | 11–15 | 11–16 | 10–16 | 9–16 |
@@ -186,18 +186,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0.1% | 100% |  |
+| 7 | 0% | 100% |  |
 | 8 | 0.4% | 99.9% |  |
-| 9 | 4% | 99.5% |  |
-| 10 | 8% | 96% |  |
-| 11 | 8% | 88% |  |
-| 12 | 13% | 80% |  |
-| 13 | 25% | 67% | Median |
-| 14 | 11% | 41% |  |
-| 15 | 6% | 30% |  |
-| 16 | 8% | 25% | Last Result |
-| 17 | 4% | 16% |  |
-| 18 | 8% | 12% |  |
+| 9 | 3% | 99.5% |  |
+| 10 | 7% | 96% |  |
+| 11 | 8% | 89% |  |
+| 12 | 14% | 82% |  |
+| 13 | 24% | 68% | Median |
+| 14 | 11% | 43% |  |
+| 15 | 10% | 32% |  |
+| 16 | 8% | 22% | Last Result |
+| 17 | 4% | 15% |  |
+| 18 | 7% | 11% |  |
 | 19 | 4% | 4% |  |
 | 20 | 0.3% | 0.4% |  |
 | 21 | 0.1% | 0.1% |  |
