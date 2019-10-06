@@ -10,7 +10,9 @@ Last result: **3.5%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.0% | 2.8–5.2% | 2.6–5.5% | 2.4–5.7% | 2.1–6.1% |
+| N/A | [Poll Average](average.html) | 4.1% | 3.0–5.3% | 2.7–5.5% | 2.5–5.7% | 2.2–6.1% |
+| [30 September–1 October 2019](2019-10-01-YouGov.html) | YouGov <br> The Times | 3.0% | N/A | N/A | N/A | N/A |
+| [26–27 September 2019](2019-09-27-YouGov.html) | YouGov <br> The Sunday Times | 4.0% | N/A | N/A | N/A | N/A |
 | [25–27 September 2019](2019-09-27-Opinium.html) | Opinium <br> The Observer | 5.0% | 4.4–5.7% | 4.2–5.9% | 4.1–6.0% | 3.9–6.4% |
 | [24–25 September 2019](2019-09-25-YouGov.html) | YouGov <br> The Times | 2.9% | 2.4–3.5% | 2.3–3.7% | 2.2–3.8% | 2.0–4.1% |
 | [25 September 2019](2019-09-25-Survation.html) | Survation <br> Daily Mail | 4.0% | 3.3–4.9% | 3.1–5.1% | 2.9–5.3% | 2.6–5.8% |
@@ -85,10 +87,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 4% | 100% |  |
-| 2.5–3.5% | 30% | 96% |  |
-| 3.5–4.5% | 36% | 66% | Last Result, Median |
-| 4.5–5.5% | 26% | 29% |  |
+| 1.5–2.5% | 3% | 100% |  |
+| 2.5–3.5% | 24% | 97% |  |
+| 3.5–4.5% | 40% | 73% | Last Result, Median |
+| 4.5–5.5% | 29% | 33% |  |
 | 5.5–6.5% | 4% | 4% |  |
 | 6.5–7.5% | 0.1% | 0.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
@@ -103,6 +105,8 @@ Last result: **3** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
+| [30 September–1 October 2019](2019-10-01-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [26–27 September 2019](2019-09-27-YouGov.html) | YouGov <br> The Sunday Times |  |  |  |  |  |
 | [25–27 September 2019](2019-09-27-Opinium.html) | Opinium <br> The Observer | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | [24–25 September 2019](2019-09-25-YouGov.html) | YouGov <br> The Times | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [25 September 2019](2019-09-25-Survation.html) | Survation <br> Daily Mail | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -178,10 +182,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 4% | 100% |  |
-| 2 | 51% | 96% | Median |
-| 3 | 44% | 44% | Last Result |
-| 4 | 0.5% | 0.5% |  |
+| 1 | 3% | 100% |  |
+| 2 | 48% | 97% | Median |
+| 3 | 49% | 50% | Last Result |
+| 4 | 0.6% | 0.6% |  |
 | 5 | 0% | 0% |  |
 
 
