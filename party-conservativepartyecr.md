@@ -11,6 +11,7 @@ Last result: **8.8%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 32.0% | 27.6–36.8% | 26.6–38.1% | 25.9–39.0% | 24.7–40.4% |
+| [3–4 October 2019](2019-10-04-Opinium.html) | Opinium <br> The Observer | 38.5% | N/A | N/A | N/A | N/A |
 | [30 September–1 October 2019](2019-10-01-YouGov.html) | YouGov <br> The Times | 33.8% | N/A | N/A | N/A | N/A |
 | [26–27 September 2019](2019-09-27-YouGov.html) | YouGov <br> The Sunday Times | 32.8% | 31.4–34.4% | 31.0–34.8% | 30.6–35.2% | 29.9–35.9% |
 | [25–27 September 2019](2019-09-27-Opinium.html) | Opinium <br> The Observer | 35.8% | 34.5–37.2% | 34.1–37.6% | 33.7–38.0% | 33.1–38.6% |
@@ -132,6 +133,7 @@ Last result: **4** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 25 | 21–31 | 20–34 | 19–34 | 17–35 |
+| [3–4 October 2019](2019-10-04-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [30 September–1 October 2019](2019-10-01-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [26–27 September 2019](2019-09-27-YouGov.html) | YouGov <br> The Sunday Times | 26 | 24–29 | 24–29 | 24–29 | 24–30 |
 | [25–27 September 2019](2019-09-27-Opinium.html) | Opinium <br> The Observer | 29 | 26–31 | 26–31 | 25–32 | 25–32 |
