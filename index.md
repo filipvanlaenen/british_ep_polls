@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | BREXIT | LIBDEM | LAB | GREEN | CON | SNP | PC | ChUK | UKIP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 23 May 2019 | General Election | 30.5% <br> 29 | 19.6% <br> 16 | 13.7% <br> 10 | 11.8% <br> 7 | 8.8% <br> 4 | 3.5% <br> 3 | 1.0% <br> 1 | 3.3% <br> 0 | 3.2% <br> 0 |
-| N/A | [Poll Average](average.html) | 6–17% <br> 0–12 | 16–24% <br> 9–19 | 22–30% <br> 15–24 | 2–5% <br> 0 | 26–39% <br> 19–34 | 2–6% <br> 1–3 | 0–2% <br> 0–2 | 0–1% <br> 0 | 0–1% <br> 0 |
-| [26–27 September 2019](2019-09-27-YouGov.html) | YouGov <br> The Sunday Times | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 6–17% <br> 0–11 | 16–24% <br> 9–19 | 21–30% <br> 15–24 | 2–6% <br> 0 | 26–39% <br> 19–34 | 2–6% <br> 2–3 | 0–2% <br> 0–2 | 0–1% <br> 0 | 0–1% <br> 0 |
+| [26–27 September 2019](2019-09-27-YouGov.html) | YouGov <br> The Sunday Times | 11–15% <br> 6–10 | 19–23% <br> 13–19 | 20–24% <br> 15–19 | 4–6% <br> 0–1 | 31–35% <br> 24–29 | 3–5% <br> 2–3 | 1–2% <br> 0–2 | 0–1% <br> 0 | 0–1% <br> 0 |
 | [25–27 September 2019](2019-09-27-Opinium.html) | Opinium <br> The Observer | 10–12% <br> 6–7 | 18–22% <br> 11–15 | 22–26% <br> 15–21 | 1–3% <br> 0 | 34–38% <br> 25–32 | 4–6% <br> 2–4 | 1–2% <br> 1–2 | 0–1% <br> 0 | 0–1% <br> 0 |
 | [25 September 2019](2019-09-25-Survation.html) | Survation <br> Daily Mail | 14–18% <br> 8–14 | 20–25% <br> 13–19 | 21–27% <br> 16–21 | 2–4% <br> 0 | 24–30% <br> 19–24 | 3–5% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [24 September 2019](2019-09-24-ComRes.html) | ComRes <br> Daily Telegraph | 12–16% <br> 6–10 | 18–23% <br> 10–16 | 25–31% <br> 16–24 | N/A <br> N/A | 25–31% <br> 17–23 | 3–6% <br> 2–3 | 1–2% <br> 0–2 | N/A <br> N/A | N/A <br> N/A |
