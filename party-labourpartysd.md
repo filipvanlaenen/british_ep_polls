@@ -11,7 +11,8 @@ Last result: **13.7%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 25.5% | 22.4–28.8% | 21.7–29.4% | 21.1–30.0% | 20.2–31.1% |
-| [3–4 October 2019](2019-10-04-Opinium.html) | Opinium <br> The Observer | 23.3% | 22.1–24.5% | 21.8–24.9% | 21.5–25.2% | 20.9–25.8% |
+| [4–6 October 2019](2019-10-06-ComRes.html) | ComRes <br> Daily Telegraph | 26.7% | 25.5–28.0% | 25.1–28.4% | 24.8–28.7% | 24.2–29.3% |
+| [3–4 October 2019](2019-10-04-Opinium.html) | Opinium <br> The Observer | 23.3% | 22.1–24.5% | 21.7–24.9% | 21.5–25.2% | 20.9–25.8% |
 | [30 September–1 October 2019](2019-10-01-YouGov.html) | YouGov <br> The Times | 20.9% | 19.6–22.2% | 19.3–22.6% | 19.0–22.9% | 18.4–23.6% |
 | [26–27 September 2019](2019-09-27-YouGov.html) | YouGov <br> The Sunday Times | 21.9% | 20.6–23.2% | 20.2–23.6% | 19.9–24.0% | 19.3–24.6% |
 | [25–27 September 2019](2019-09-27-Opinium.html) | Opinium <br> The Observer | 23.9% | 22.7–25.1% | 22.3–25.5% | 22.0–25.8% | 21.5–26.4% |
@@ -118,7 +119,8 @@ Last result: **10** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 19 | 16–22 | 15–23 | 15–24 | 15–25 |
-| [3–4 October 2019](2019-10-04-Opinium.html) | Opinium <br> The Observer | 18 | 16–20 | 16–20 | 16–20 | 16–20 |
+| [4–6 October 2019](2019-10-06-ComRes.html) | ComRes <br> Daily Telegraph | 21 | 19–21 | 19–21 | 18–21 | 18–22 |
+| [3–4 October 2019](2019-10-04-Opinium.html) | Opinium <br> The Observer | 20 | 18–20 | 16–20 | 16–20 | 15–20 |
 | [30 September–1 October 2019](2019-10-01-YouGov.html) | YouGov <br> The Times | 16 | 15–16 | 15–16 | 15–17 | 15–17 |
 | [26–27 September 2019](2019-09-27-YouGov.html) | YouGov <br> The Sunday Times | 16 | 15–19 | 15–19 | 15–19 | 15–21 |
 | [25–27 September 2019](2019-09-27-Opinium.html) | Opinium <br> The Observer | 16 | 15–20 | 15–21 | 15–21 | 15–21 |
