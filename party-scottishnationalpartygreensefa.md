@@ -10,9 +10,10 @@ Last result: **3.5%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.1% | 3.0–5.2% | 2.8–5.5% | 2.5–5.7% | 2.2–6.1% |
+| N/A | [Poll Average](average.html) | 4.0% | 2.8–5.2% | 2.6–5.4% | 2.4–5.7% | 2.1–6.1% |
 | [4–6 October 2019](2019-10-06-ComRes.html) | ComRes <br> Daily Telegraph | 3.9% | 3.4–4.6% | 3.3–4.7% | 3.2–4.9% | 2.9–5.2% |
 | [3–4 October 2019](2019-10-04-Opinium.html) | Opinium <br> The Observer | 5.1% | 4.5–5.8% | 4.3–6.0% | 4.2–6.1% | 3.9–6.5% |
+| [1–4 October 2019](2019-10-04-BMGResearch.html) | BMG Research <br> The Independent | 0.0% | N/A | N/A | N/A | N/A |
 | [30 September–1 October 2019](2019-10-01-YouGov.html) | YouGov <br> The Times | 3.0% | 2.5–3.6% | 2.3–3.7% | 2.2–3.9% | 2.0–4.2% |
 | [26–27 September 2019](2019-09-27-YouGov.html) | YouGov <br> The Sunday Times | 4.0% | 3.4–4.7% | 3.3–4.9% | 3.2–5.1% | 2.9–5.4% |
 | [25–27 September 2019](2019-09-27-Opinium.html) | Opinium <br> The Observer | 5.0% | 4.4–5.7% | 4.2–5.9% | 4.1–6.0% | 3.9–6.4% |
@@ -31,11 +32,11 @@ Last result: **3.5%** (General Election of 23 May 2019)
 | [6–8 September 2019](2019-09-08-ComRes.html) | ComRes <br> Daily Telegraph | 3.0% | 2.5–3.5% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
 | [5–7 September 2019](2019-09-07-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 5.0% | 4.4–5.7% | 4.3–5.9% | 4.1–6.0% | 3.9–6.4% |
 | [5–6 September 2019](2019-09-06-YouGov.html) | YouGov <br> The Sunday Times | 4.0% | 3.4–4.7% | 3.3–4.9% | 3.2–5.1% | 2.9–5.4% |
-| [5–6 September 2019](2019-09-06-Survation.html) | Survation <br> Daily Mail | 4.0% | 3.3–4.9% | 3.1–5.2% | 3.0–5.4% | 2.7–5.9% |
+| [5–6 September 2019](2019-09-06-Survation.html) | Survation <br> Daily Mail | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
 | [5–6 September 2019](2019-09-06-Panelbase.html) | Panelbase | 3.1% | 2.5–3.9% | 2.3–4.1% | 2.2–4.3% | 1.9–4.7% |
 | [4–6 September 2019](2019-09-06-Opinium.html) | Opinium <br> The Observer | 5.0% | 4.4–5.7% | 4.2–5.9% | 4.1–6.0% | 3.8–6.4% |
 | [4–6 September 2019](2019-09-06-ComRes.html) | ComRes <br> Britain Elects | 3.0% | 2.5–3.5% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
-| [3–6 September 2019](2019-09-06-BMGResearch.html) | BMG Research <br> The Independent | 0.0% | N/A | N/A | N/A | N/A |
+| [3–6 September 2019](2019-09-06-BMGResearch.html) | BMG Research <br> The Independent | 2.8% | 2.3–3.4% | 2.2–3.6% | 2.1–3.8% | 1.9–4.1% |
 | [3–4 September 2019](2019-09-04-HanburyStrategy.html) | Hanbury Strategy | 4.0% | 3.3–4.9% | 3.1–5.2% | 3.0–5.4% | 2.7–5.9% |
 | [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 4.0% | 3.4–4.7% | 3.2–4.9% | 3.1–5.0% | 2.9–5.4% |
 | [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 3.9% | 3.4–4.5% | 3.2–4.7% | 3.1–4.8% | 2.9–5.2% |
@@ -76,7 +77,7 @@ Last result: **3.5%** (General Election of 23 May 2019)
 | [13–14 June 2019](2019-06-14-YouGov.html) | YouGov <br> The Sunday Times | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.3–3.9% | 2.1–4.2% |
 | [9–10 June 2019](2019-06-10-YouGov.html) | YouGov <br> The Times | 4.1% | 3.5–4.7% | 3.3–4.9% | 3.2–5.1% | 3.0–5.5% |
 | [7–9 June 2019](2019-06-09-ComRes.html) | ComRes <br> Daily Telegraph | 3.0% | 2.5–3.5% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
-| [4–7 June 2019](2019-06-07-BMGResearch.html) | BMG Research <br> The Independent | 0.0% | N/A | N/A | N/A | N/A |
+| [4–7 June 2019](2019-06-07-BMGResearch.html) | BMG Research <br> The Independent | 3.0% | 2.5–3.6% | 2.3–3.8% | 2.2–3.9% | 2.0–4.3% |
 | [4–6 June 2019](2019-06-06-YouGov.html) | YouGov <br> The Times | 5.0% | 4.3–5.7% | 4.1–5.9% | 4.0–6.1% | 3.7–6.5% |
 | [28–30 May 2019](2019-05-30-Opinium.html) | Opinium <br> The Observer | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
 | [29–30 May 2019](2019-05-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 3.9% | 3.5–4.5% | 3.3–4.6% | 3.2–4.8% | 3.0–5.0% |
@@ -89,12 +90,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 3% | 100% |  |
-| 2.5–3.5% | 23% | 97% |  |
-| 3.5–4.5% | 43% | 74% | Last Result, Median |
-| 4.5–5.5% | 27% | 31% |  |
-| 5.5–6.5% | 4% | 4% |  |
-| 6.5–7.5% | 0.1% | 0.1% |  |
+| 1.5–2.5% | 5% | 100% |  |
+| 2.5–3.5% | 28% | 95% |  |
+| 3.5–4.5% | 39% | 67% | Last Result, Median |
+| 4.5–5.5% | 25% | 28% |  |
+| 5.5–6.5% | 3% | 4% |  |
+| 6.5–7.5% | 0% | 0% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -107,8 +108,9 @@ Last result: **3** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
-| [4–6 October 2019](2019-10-06-ComRes.html) | ComRes <br> Daily Telegraph | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [3–4 October 2019](2019-10-04-Opinium.html) | Opinium <br> The Observer | 2 | 2–3 | 2–3 | 2–4 | 2–4 |
+| [4–6 October 2019](2019-10-06-ComRes.html) | ComRes <br> Daily Telegraph | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [3–4 October 2019](2019-10-04-Opinium.html) | Opinium <br> The Observer | 3 | 3 | 3 | 2–3 | 2–4 |
+| [1–4 October 2019](2019-10-04-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
 | [30 September–1 October 2019](2019-10-01-YouGov.html) | YouGov <br> The Times | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [26–27 September 2019](2019-09-27-YouGov.html) | YouGov <br> The Sunday Times | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [25–27 September 2019](2019-09-27-Opinium.html) | Opinium <br> The Observer | 3 | 3 | 2–3 | 2–4 | 2–4 |
@@ -131,7 +133,7 @@ Last result: **3** seats (General Election of 23 May 2019)
 | [5–6 September 2019](2019-09-06-Panelbase.html) | Panelbase | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | [4–6 September 2019](2019-09-06-Opinium.html) | Opinium <br> The Observer | 3 | 3 | 3 | 2–3 | 2–4 |
 | [4–6 September 2019](2019-09-06-ComRes.html) | ComRes <br> Britain Elects | 2 | 2 | 1–2 | 1–2 | 1–3 |
-| [3–6 September 2019](2019-09-06-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
+| [3–6 September 2019](2019-09-06-BMGResearch.html) | BMG Research <br> The Independent | 2 | 2 | 2 | 2 | 1–3 |
 | [3–4 September 2019](2019-09-04-HanburyStrategy.html) | Hanbury Strategy | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -172,7 +174,7 @@ Last result: **3** seats (General Election of 23 May 2019)
 | [13–14 June 2019](2019-06-14-YouGov.html) | YouGov <br> The Sunday Times | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [9–10 June 2019](2019-06-10-YouGov.html) | YouGov <br> The Times | 3 | 3 | 2–4 | 2–4 | 2–4 |
 | [7–9 June 2019](2019-06-09-ComRes.html) | ComRes <br> Daily Telegraph | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [4–7 June 2019](2019-06-07-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
+| [4–7 June 2019](2019-06-07-BMGResearch.html) | BMG Research <br> The Independent | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [4–6 June 2019](2019-06-06-YouGov.html) | YouGov <br> The Times | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [28–30 May 2019](2019-05-30-Opinium.html) | Opinium <br> The Observer | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [29–30 May 2019](2019-05-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
@@ -187,9 +189,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 2% | 100% |  |
-| 2 | 49% | 98% | Median |
-| 3 | 48% | 48% | Last Result |
-| 4 | 0.6% | 0.6% |  |
+| 2 | 54% | 98% | Median |
+| 3 | 43% | 44% | Last Result |
+| 4 | 0.5% | 0.5% |  |
 | 5 | 0% | 0% |  |
 
 
