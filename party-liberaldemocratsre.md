@@ -11,7 +11,9 @@ Last result: **19.6%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 19.9% | 16.8–22.8% | 16.2–23.6% | 15.8–24.3% | 14.9–25.5% |
-| [4–6 October 2019](2019-10-06-ComRes.html) | ComRes <br> Daily Telegraph | 18.8% | 17.7–20.0% | 17.4–20.3% | 17.1–20.6% | 16.6–21.1% |
+| [9–10 October 2019](2019-10-10-ComRes.html) | ComRes <br> Daily Express | 18.0% | 16.9–19.1% | 16.6–19.4% | 16.4–19.7% | 15.9–20.3% |
+| [8–9 October 2019](2019-10-09-YouGov.html) | YouGov <br> The Times | 19.7% | 18.4–21.0% | 18.1–21.4% | 17.8–21.7% | 17.2–22.3% |
+| [4–6 October 2019](2019-10-06-ComRes.html) | ComRes <br> Daily Telegraph | 18.6% | 17.6–19.8% | 17.3–20.1% | 17.0–20.4% | 16.5–21.0% |
 | [3–4 October 2019](2019-10-04-Opinium.html) | Opinium <br> The Observer | 15.2% | 14.2–16.3% | 13.9–16.6% | 13.7–16.8% | 13.2–17.4% |
 | [1–4 October 2019](2019-10-04-BMGResearch.html) | BMG Research <br> The Independent | 20.0% | 18.7–21.4% | 18.4–21.8% | 18.1–22.1% | 17.5–22.8% |
 | [30 September–1 October 2019](2019-10-01-YouGov.html) | YouGov <br> The Times | 22.9% | 21.6–24.2% | 21.2–24.6% | 20.9–25.0% | 20.3–25.7% |
@@ -116,9 +118,11 @@ Last result: **16** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 11–17 | 10–18 | 9–19 | 9–19 |
-| [4–6 October 2019](2019-10-06-ComRes.html) | ComRes <br> Daily Telegraph | 13 | 12–13 | 11–14 | 11–14 | 10–15 |
+| [9–10 October 2019](2019-10-10-ComRes.html) | ComRes <br> Daily Express | 11 | 10–13 | 9–13 | 9–13 | 9–14 |
+| [8–9 October 2019](2019-10-09-YouGov.html) | YouGov <br> The Times | 14 | 13–16 | 12–18 | 12–18 | 11–18 |
+| [4–6 October 2019](2019-10-06-ComRes.html) | ComRes <br> Daily Telegraph | 13 | 12–14 | 12–14 | 11–15 | 10–16 |
 | [3–4 October 2019](2019-10-04-Opinium.html) | Opinium <br> The Observer | 9 | 8–9 | 8–9 | 6–10 | 6–10 |
-| [1–4 October 2019](2019-10-04-BMGResearch.html) | BMG Research <br> The Independent | 14 | 12–16 | 12–16 | 12–16 | 12–17 |
+| [1–4 October 2019](2019-10-04-BMGResearch.html) | BMG Research <br> The Independent | 14 | 12–16 | 12–17 | 12–17 | 11–18 |
 | [30 September–1 October 2019](2019-10-01-YouGov.html) | YouGov <br> The Times | 18 | 16–18 | 16–19 | 16–19 | 15–19 |
 | [26–27 September 2019](2019-09-27-YouGov.html) | YouGov <br> The Sunday Times | 16 | 13–18 | 13–18 | 13–19 | 12–19 |
 | [25–27 September 2019](2019-09-27-Opinium.html) | Opinium <br> The Observer | 15 | 12–15 | 12–15 | 11–15 | 11–16 |
@@ -129,7 +133,7 @@ Last result: **16** seats (General Election of 23 May 2019)
 | [19–20 September 2019](2019-09-20-Opinium.html) | Opinium <br> The Observer | 11 | 9–12 | 9–13 | 9–13 | 9–15 |
 | [18–19 September 2019](2019-09-19-ComRes.html) | ComRes <br> Britain Elects | 14 | 13–15 | 13–15 | 13–15 | 13–16 |
 | [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 18 | 16–19 | 15–19 | 14–19 | 13–20 |
-| [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 18 | 15–19 | 15–19 | 14–19 | 13–21 |
+| [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 17 | 15–19 | 15–19 | 14–19 | 13–22 |
 | [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express | 13 | 13–14 | 13–15 | 13–16 | 13–17 |
 | [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 9 | 8–10 | 8–11 | 8–11 | 8–11 |
 | [9–10 September 2019](2019-09-10-YouGov.html) | YouGov <br> The Times | 13 | 11–15 | 11–15 | 10–16 | 10–18 |
@@ -204,13 +208,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 12% | 87% |  |
 | 13 | 25% | 75% |  |
 | 14 | 17% | 50% | Median |
-| 15 | 13% | 33% |  |
-| 16 | 8% | 20% | Last Result |
-| 17 | 3% | 12% |  |
-| 18 | 6% | 10% |  |
+| 15 | 14% | 33% |  |
+| 16 | 8% | 19% | Last Result |
+| 17 | 2% | 11% |  |
+| 18 | 4% | 9% |  |
 | 19 | 4% | 4% |  |
 | 20 | 0.3% | 0.4% |  |
-| 21 | 0.1% | 0.1% |  |
-| 22 | 0% | 0% |  |
+| 21 | 0% | 0.2% |  |
+| 22 | 0.1% | 0.1% |  |
+| 23 | 0% | 0% |  |
 
 
