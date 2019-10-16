@@ -138,10 +138,10 @@ Last result: **4** seats (General Election of 23 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 25 | 22–31 | 20–34 | 19–34 | 17–35 |
 | [9–10 October 2019](2019-10-10-ComRes.html) | ComRes <br> Daily Express | 26 | 24–27 | 24–27 | 23–28 | 23–30 |
-| [8–9 October 2019](2019-10-09-YouGov.html) | YouGov <br> The Times | 29 | 27–31 | 25–31 | 25–31 | 25–32 |
+| [8–9 October 2019](2019-10-09-YouGov.html) | YouGov <br> The Times | 29 | 27–31 | 26–31 | 25–31 | 24–32 |
 | [4–6 October 2019](2019-10-06-ComRes.html) | ComRes <br> Daily Telegraph | 24 | 24–26 | 24–27 | 24–27 | 23–28 |
 | [3–4 October 2019](2019-10-04-Opinium.html) | Opinium <br> The Observer | 33 | 32–33 | 31–33 | 31–35 | 30–35 |
-| [1–4 October 2019](2019-10-04-BMGResearch.html) | BMG Research <br> The Independent | 24 | 24–25 | 23–26 | 23–26 | 23–27 |
+| [1–4 October 2019](2019-10-04-BMGResearch.html) | BMG Research <br> The Independent | 24 | 24–25 | 23–26 | 23–26 | 23–28 |
 | [30 September–1 October 2019](2019-10-01-YouGov.html) | YouGov <br> The Times | 27 | 26–28 | 25–29 | 25–29 | 24–30 |
 | [26–27 September 2019](2019-09-27-YouGov.html) | YouGov <br> The Sunday Times | 26 | 24–29 | 24–29 | 24–29 | 24–30 |
 | [25–27 September 2019](2019-09-27-Opinium.html) | Opinium <br> The Observer | 29 | 26–31 | 26–31 | 25–32 | 25–32 |
@@ -152,7 +152,7 @@ Last result: **4** seats (General Election of 23 May 2019)
 | [19–20 September 2019](2019-09-20-Opinium.html) | Opinium <br> The Observer | 32 | 30–33 | 29–33 | 29–33 | 28–34 |
 | [18–19 September 2019](2019-09-19-ComRes.html) | ComRes <br> Britain Elects | 23 | 23–24 | 23–24 | 22–24 | 22–25 |
 | [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 25 | 24–27 | 24–28 | 24–28 | 24–29 |
-| [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 26 | 24–30 | 24–30 | 24–30 | 24–32 |
+| [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 26 | 24–29 | 24–30 | 24–30 | 24–31 |
 | [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express | 23 | 22–24 | 22–24 | 22–24 | 21–24 |
 | [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 32 | 30–32 | 29–32 | 28–32 | 27–33 |
 | [9–10 September 2019](2019-09-10-YouGov.html) | YouGov <br> The Times | 25 | 24–28 | 24–29 | 24–29 | 24–30 |
@@ -242,12 +242,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 24 | 24% | 80% |  |
 | 25 | 14% | 56% | Median |
 | 26 | 8% | 42% |  |
-| 27 | 5% | 34% |  |
+| 27 | 6% | 35% |  |
 | 28 | 7% | 29% |  |
-| 29 | 7% | 22% |  |
-| 30 | 4% | 14% |  |
+| 29 | 9% | 22% |  |
+| 30 | 3% | 14% |  |
 | 31 | 2% | 11% |  |
-| 32 | 1.2% | 9% |  |
+| 32 | 1.1% | 9% |  |
 | 33 | 3% | 8% |  |
 | 34 | 3% | 5% |  |
 | 35 | 2% | 2% |  |

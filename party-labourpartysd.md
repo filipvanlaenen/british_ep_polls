@@ -121,12 +121,12 @@ Last result: **10** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 16–22 | 15–23 | 15–24 | 15–25 |
+| N/A | [Poll Average](average.html) | 19 | 16–22 | 15–23 | 15–24 | 15–25 |
 | [9–10 October 2019](2019-10-10-ComRes.html) | ComRes <br> Daily Express | 21 | 21–23 | 21–23 | 20–24 | 19–24 |
-| [8–9 October 2019](2019-10-09-YouGov.html) | YouGov <br> The Times | 15 | 15–18 | 15–18 | 15–20 | 15–20 |
+| [8–9 October 2019](2019-10-09-YouGov.html) | YouGov <br> The Times | 16 | 15–17 | 15–18 | 15–19 | 15–20 |
 | [4–6 October 2019](2019-10-06-ComRes.html) | ComRes <br> Daily Telegraph | 21 | 20–22 | 20–22 | 19–22 | 19–23 |
 | [3–4 October 2019](2019-10-04-Opinium.html) | Opinium <br> The Observer | 18 | 17–19 | 16–20 | 16–20 | 16–20 |
-| [1–4 October 2019](2019-10-04-BMGResearch.html) | BMG Research <br> The Independent | 21 | 19–22 | 19–23 | 18–23 | 16–24 |
+| [1–4 October 2019](2019-10-04-BMGResearch.html) | BMG Research <br> The Independent | 21 | 19–22 | 19–23 | 18–23 | 17–24 |
 | [30 September–1 October 2019](2019-10-01-YouGov.html) | YouGov <br> The Times | 16 | 15–16 | 15–16 | 15–17 | 15–17 |
 | [26–27 September 2019](2019-09-27-YouGov.html) | YouGov <br> The Sunday Times | 16 | 15–19 | 15–19 | 15–19 | 15–21 |
 | [25–27 September 2019](2019-09-27-Opinium.html) | Opinium <br> The Observer | 16 | 15–20 | 15–21 | 15–21 | 15–21 |
@@ -137,7 +137,7 @@ Last result: **10** seats (General Election of 23 May 2019)
 | [19–20 September 2019](2019-09-20-Opinium.html) | Opinium <br> The Observer | 17 | 15–18 | 15–18 | 15–19 | 15–20 |
 | [18–19 September 2019](2019-09-19-ComRes.html) | ComRes <br> Britain Elects | 22 | 21–23 | 21–23 | 20–23 | 19–24 |
 | [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 15 | 15–16 | 15–17 | 15–17 | 15–19 |
-| [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 17 | 15–20 | 15–21 | 15–22 | 15–22 |
+| [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 17 | 16–20 | 15–21 | 15–21 | 15–22 |
 | [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express | 22 | 20–23 | 20–24 | 19–24 | 19–24 |
 | [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 18 | 18–19 | 18–20 | 17–20 | 16–21 |
 | [9–10 September 2019](2019-09-10-YouGov.html) | YouGov <br> The Times | 18 | 16–20 | 15–20 | 15–21 | 15–21 |
@@ -209,17 +209,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 7% | 100% |  |
-| 16 | 10% | 93% |  |
-| 17 | 10% | 83% |  |
+| 15 | 6% | 100% |  |
+| 16 | 12% | 94% |  |
+| 17 | 9% | 82% |  |
 | 18 | 8% | 73% |  |
-| 19 | 15% | 65% |  |
-| 20 | 12% | 50% | Median |
+| 19 | 14% | 64% | Median |
+| 20 | 12% | 50% |  |
 | 21 | 21% | 38% |  |
 | 22 | 10% | 17% |  |
 | 23 | 4% | 7% |  |
 | 24 | 2% | 3% |  |
-| 25 | 0.7% | 0.8% |  |
+| 25 | 0.7% | 0.9% |  |
 | 26 | 0.1% | 0.1% |  |
 | 27 | 0% | 0% |  |
 
