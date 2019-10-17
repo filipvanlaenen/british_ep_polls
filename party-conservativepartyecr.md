@@ -140,7 +140,7 @@ Last result: **4** seats (General Election of 23 May 2019)
 | [9–10 October 2019](2019-10-10-ComRes.html) | ComRes <br> Daily Express | 26 | 24–27 | 24–27 | 23–28 | 23–30 |
 | [8–9 October 2019](2019-10-09-YouGov.html) | YouGov <br> The Times | 29 | 27–31 | 26–31 | 25–31 | 24–32 |
 | [4–6 October 2019](2019-10-06-ComRes.html) | ComRes <br> Daily Telegraph | 24 | 24–26 | 24–27 | 24–27 | 23–28 |
-| [3–4 October 2019](2019-10-04-Opinium.html) | Opinium <br> The Observer | 33 | 32–33 | 31–33 | 31–35 | 30–35 |
+| [3–4 October 2019](2019-10-04-Opinium.html) | Opinium <br> The Observer | 33 | 32–33 | 31–34 | 31–35 | 30–35 |
 | [1–4 October 2019](2019-10-04-BMGResearch.html) | BMG Research <br> The Independent | 24 | 24–25 | 23–26 | 23–26 | 23–28 |
 | [30 September–1 October 2019](2019-10-01-YouGov.html) | YouGov <br> The Times | 27 | 26–30 | 25–30 | 25–30 | 24–30 |
 | [26–27 September 2019](2019-09-27-YouGov.html) | YouGov <br> The Sunday Times | 27 | 24–29 | 24–29 | 24–29 | 24–30 |
