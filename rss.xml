@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/british_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 16 Oct 2019 19:58:32 +0200</pubDate>
+    <pubDate>Thu, 17 Oct 2019 11:12:01 +0200</pubDate>
     <item>
       <title>Opinion Poll by ComRes for Daily Express, 9–10 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_ep_polls/2019-10-10-ComRes.html</link>
@@ -100,14 +100,34 @@
       <dc:date>2019-10-16T18:20:37.409138+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by YouGov for The Times, 30 September–1 October 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_ep_polls/2019-10-01-YouGov.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party (ECR): 25–30 seats&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 15–17 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats (RE): 15–19 seats&lt;/li&gt;&lt;li&gt;Scottish National Party (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Plaid Cymru (Greens/EFA): 0–2 seats&lt;/li&gt;&lt;li&gt;UK Independence Party (ID): 0 seats&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Brexit Party (NI): 6–8 seats&lt;/li&gt;&lt;li&gt;Change UK (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-10-01-YouGov-seats.png"
+        length="179849"
+        type="image/png"/>
+      <pubDate>Thu, 17 Oct 2019 11:12:01 +0200</pubDate>
+      <dc:date>2019-10-17T11:12:01.45353+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 30 September–1 October 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_ep_polls/2019-10-01-YouGov.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-10-01-YouGov-coalitions-seats.png"
+        length="135900"
+        type="image/png"/>
+      <pubDate>Thu, 17 Oct 2019 11:12:01 +0200</pubDate>
+      <dc:date>2019-10-17T11:12:01.45353+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by YouGov for The Times, 30 September–1 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_ep_polls/2019-10-01-YouGov.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party (ECR): 31.6–36.2%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 19.0–22.9%&lt;/li&gt;&lt;li&gt;Liberal Democrats (RE): 20.9–25.0%&lt;/li&gt;&lt;li&gt;Scottish National Party (Greens/EFA): 2.2–3.9%&lt;/li&gt;&lt;li&gt;Plaid Cymru (Greens/EFA): 0.6–1.6%&lt;/li&gt;&lt;li&gt;UK Independence Party (ID): 0.1–0.6%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 4.0–6.2%&lt;/li&gt;&lt;li&gt;Brexit Party (NI): 10.5–13.6%&lt;/li&gt;&lt;li&gt;Change UK (RE): 0.1–0.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-10-01-YouGov.png"
         length="256256"
         type="image/png"/>
-      <pubDate>Mon, 07 Oct 2019 19:08:00 +0200</pubDate>
-      <dc:date>2019-10-07T19:08:00.232357+02:00</dc:date>
+      <pubDate>Thu, 17 Oct 2019 11:12:01 +0200</pubDate>
+      <dc:date>2019-10-17T11:12:01.45353+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Sunday Times, 26–27 September 2019 – Voting Intentions</title>
@@ -116,8 +136,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-09-27-YouGov.png"
         length="256267"
         type="image/png"/>
-      <pubDate>Sun, 06 Oct 2019 15:47:44 +0200</pubDate>
-      <dc:date>2019-10-06T15:47:44.224549+02:00</dc:date>
+      <pubDate>Wed, 16 Oct 2019 22:46:53 +0200</pubDate>
+      <dc:date>2019-10-16T22:46:53.830482+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinium for The Observer, 25–27 September 2019 – Seat Projections for the Parties</title>
@@ -1939,6 +1959,6 @@
       <pubDate>Mon, 22 Jul 2019 21:27:08 +0200</pubDate>
       <dc:date>2019-07-22T21:27:08.139393+02:00</dc:date>
     </item>
-    <dc:date>2019-10-16T19:58:32.919518+02:00</dc:date>
+    <dc:date>2019-10-17T11:12:01.45353+02:00</dc:date>
   </channel>
 </rss>
