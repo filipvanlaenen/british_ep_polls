@@ -135,8 +135,8 @@ Last result: **29** seats (General Election of 23 May 2019)
 | [4–6 October 2019](2019-10-06-ComRes.html) | ComRes <br> Daily Telegraph | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [3–4 October 2019](2019-10-04-Opinium.html) | Opinium <br> The Observer | 7 | 7–9 | 7–10 | 7–10 | 6–10 |
 | [1–4 October 2019](2019-10-04-BMGResearch.html) | BMG Research <br> The Independent | 7 | 6–7 | 6–7 | 6–7 | 4–8 |
-| [30 September–1 October 2019](2019-10-01-YouGov.html) | YouGov <br> The Times | 7 | 7 | 6–7 | 6–8 | 6–9 |
-| [26–27 September 2019](2019-09-27-YouGov.html) | YouGov <br> The Sunday Times | 7 | 7–10 | 7–10 | 6–10 | 6–10 |
+| [30 September–1 October 2019](2019-10-01-YouGov.html) | YouGov <br> The Times | 7 | 6–7 | 6–8 | 6–8 | 6–9 |
+| [26–27 September 2019](2019-09-27-YouGov.html) | YouGov <br> The Sunday Times | 7 | 7–10 | 7–10 | 7–10 | 6–10 |
 | [25–27 September 2019](2019-09-27-Opinium.html) | Opinium <br> The Observer | 6 | 6–7 | 6–7 | 6–7 | 4–7 |
 | [24–25 September 2019](2019-09-25-YouGov.html) | YouGov <br> The Times | 8 | 7–10 | 7–10 | 7–10 | 7–10 |
 | [25 September 2019](2019-09-25-Survation.html) | Survation <br> Daily Mail | 10 | 8–13 | 8–13 | 8–14 | 8–16 |
@@ -220,8 +220,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 1.3% | 89% |  |
 | 6 | 13% | 87% |  |
 | 7 | 21% | 74% |  |
-| 8 | 18% | 53% | Median |
-| 9 | 20% | 35% |  |
+| 8 | 19% | 54% | Median |
+| 9 | 20% | 34% |  |
 | 10 | 11% | 15% |  |
 | 11 | 2% | 4% |  |
 | 12 | 1.3% | 2% |  |
