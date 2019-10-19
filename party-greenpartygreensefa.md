@@ -114,14 +114,14 @@ Last result: **7** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–2 |
 | [9–10 October 2019](2019-10-10-ComRes.html) | ComRes <br> Daily Express | 0 | 0 | 0 | 0 | 0 |
 | [8–9 October 2019](2019-10-09-YouGov.html) | YouGov <br> The Times | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [4–6 October 2019](2019-10-06-ComRes.html) | ComRes <br> Daily Telegraph | 0 | 0 | 0 | 0 | 0 |
 | [3–4 October 2019](2019-10-04-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0 |
 | [1–4 October 2019](2019-10-04-BMGResearch.html) | BMG Research <br> The Independent | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [30 September–1 October 2019](2019-10-01-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
-| [26–27 September 2019](2019-09-27-YouGov.html) | YouGov <br> The Sunday Times | 0 | 0 | 0 | 0 | 0–1 |
+| [26–27 September 2019](2019-09-27-YouGov.html) | YouGov <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
 | [25–27 September 2019](2019-09-27-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0 |
 | [24–25 September 2019](2019-09-25-YouGov.html) | YouGov <br> The Times | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [25 September 2019](2019-09-25-Survation.html) | Survation <br> Daily Mail | 0 | 0 | 0 | 0 | 0 |
@@ -142,7 +142,7 @@ Last result: **7** seats (General Election of 23 May 2019)
 | [5–6 September 2019](2019-09-06-Panelbase.html) | Panelbase | 0 | 0 | 0 | 0 | 0 |
 | [4–6 September 2019](2019-09-06-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0 |
 | [4–6 September 2019](2019-09-06-ComRes.html) | ComRes <br> Britain Elects | 0 | 0 | 0 | 0 | 0 |
-| [3–6 September 2019](2019-09-06-BMGResearch.html) | BMG Research <br> The Independent | 0 | 0 | 0–1 | 0–2 | 0–2 |
+| [3–6 September 2019](2019-09-06-BMGResearch.html) | BMG Research <br> The Independent | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [3–4 September 2019](2019-09-04-HanburyStrategy.html) | Hanbury Strategy | 0 | 0 | 0 | 0 | 0 |
 | [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0 | 0 | 0 | 0 | 0 |
@@ -197,9 +197,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.3% | 100% | Median |
-| 1 | 0.4% | 0.7% |  |
-| 2 | 0.3% | 0.3% |  |
+| 0 | 98% | 100% | Median |
+| 1 | 1.4% | 2% |  |
+| 2 | 0.6% | 0.6% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% |  |
 | 5 | 0% | 0% |  |

@@ -164,7 +164,7 @@ Last result: **4** seats (General Election of 23 May 2019)
 | [5–6 September 2019](2019-09-06-Panelbase.html) | Panelbase | 24 | 23–25 | 23–26 | 22–27 | 22–27 |
 | [4–6 September 2019](2019-09-06-Opinium.html) | Opinium <br> The Observer | 27 | 26–30 | 26–31 | 25–31 | 25–32 |
 | [4–6 September 2019](2019-09-06-ComRes.html) | ComRes <br> Britain Elects | 24 | 23–25 | 23–26 | 23–26 | 23–27 |
-| [3–6 September 2019](2019-09-06-BMGResearch.html) | BMG Research <br> The Independent | 24 | 23–26 | 23–26 | 23–26 | 23–27 |
+| [3–6 September 2019](2019-09-06-BMGResearch.html) | BMG Research <br> The Independent | 25 | 23–26 | 23–27 | 23–27 | 22–28 |
 | [3–4 September 2019](2019-09-04-HanburyStrategy.html) | Hanbury Strategy | 26 | 24–28 | 24–29 | 23–30 | 23–31 |
 | [2–3 September 2019](2019-09-03-YouGov.html) | YouGov <br> The Times | 29 | 27–31 | 26–32 | 26–32 | 24–32 |
 | [29–31 August 2019](2019-08-31-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 28 | 26–30 | 25–30 | 25–31 | 24–31 |
@@ -239,10 +239,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 21 | 4% | 94% |  |
 | 22 | 4% | 90% |  |
 | 23 | 6% | 86% |  |
-| 24 | 24% | 80% |  |
-| 25 | 13% | 56% | Median |
-| 26 | 8% | 43% |  |
-| 27 | 6% | 35% |  |
+| 24 | 21% | 80% |  |
+| 25 | 16% | 59% | Median |
+| 26 | 7% | 43% |  |
+| 27 | 7% | 36% |  |
 | 28 | 7% | 29% |  |
 | 29 | 8% | 22% |  |
 | 30 | 3% | 14% |  |

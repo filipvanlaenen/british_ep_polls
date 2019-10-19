@@ -32,12 +32,12 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#conservative-party-(ecr)">Conservative Party (ECR)</a> | 4 | 24 | 23–26 |23–26 |23–26 |23–27 |
-| <a href="#labour-party-(s&d)">Labour Party (S&D)</a> | 10 | 21 | 21–22 |20–22 |20–24 |19–24 |
-| <a href="#liberal-democrats-(re)">Liberal Democrats (RE)</a> | 16 | 14 | 12–15 |11–15 |11–15 |11–16 |
-| <a href="#brexit-party-(ni)">Brexit Party (NI)</a> | 29 | 9 | 7–9 |7–9 |6–10 |6–10 |
-| <a href="#green-party-(greens/efa)">Green Party (Greens/EFA)</a> | 7 | 0 | 0 |0–1 |0–2 |0–2 |
-| <a href="#scottish-national-party-(greens/efa)">Scottish National Party (Greens/EFA)</a> | 3 | 2 | 2 |2 |2 |1–3 |
+| <a href="#conservative-party-(ecr)">Conservative Party (ECR)</a> | 4 | 25 | 23–26 |23–27 |23–27 |22–28 |
+| <a href="#labour-party-(s&d)">Labour Party (S&D)</a> | 10 | 21 | 20–22 |20–23 |20–23 |19–24 |
+| <a href="#liberal-democrats-(re)">Liberal Democrats (RE)</a> | 16 | 14 | 12–15 |11–15 |11–15 |10–16 |
+| <a href="#brexit-party-(ni)">Brexit Party (NI)</a> | 29 | 9 | 7–9 |7–10 |7–10 |6–10 |
+| <a href="#green-party-(greens/efa)">Green Party (Greens/EFA)</a> | 7 | 0 | 0–1 |0–2 |0–2 |0–2 |
+| <a href="#scottish-national-party-(greens/efa)">Scottish National Party (Greens/EFA)</a> | 3 | 2 | 2 |1–2 |1–3 |1–3 |
 | <a href="#uk-independence-party-(id)">UK Independence Party (ID)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#plaid-cymru-(greens/efa)">Plaid Cymru (Greens/EFA)</a> | 1 | 0 | 0 |0 |0–1 |0–1 |
 | <a href="#change-uk-(re)">Change UK (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
@@ -68,14 +68,15 @@
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
 | 21 | 0% | 100% |  |
-| 22 | 0.3% | 100% |  |
-| 23 | 11% | 99.7% |  |
-| 24 | 62% | 89% | Median |
-| 25 | 12% | 26% |  |
-| 26 | 12% | 14% |  |
-| 27 | 2% | 2% |  |
-| 28 | 0.2% | 0.2% |  |
-| 29 | 0% | 0% |  |
+| 22 | 0.5% | 100% |  |
+| 23 | 12% | 99.5% |  |
+| 24 | 37% | 88% |  |
+| 25 | 33% | 50% | Median |
+| 26 | 9% | 18% |  |
+| 27 | 8% | 8% |  |
+| 28 | 0.5% | 0.6% |  |
+| 29 | 0.1% | 0.1% |  |
+| 30 | 0% | 0% |  |
 
 ### Labour Party (S&D)
 
@@ -95,12 +96,12 @@
 | 17 | 0% | 100% |  |
 | 18 | 0.1% | 100% |  |
 | 19 | 2% | 99.9% |  |
-| 20 | 3% | 98% |  |
-| 21 | 69% | 95% | Median |
-| 22 | 22% | 26% |  |
-| 23 | 0.6% | 4% |  |
-| 24 | 3% | 4% |  |
-| 25 | 0.1% | 0.1% |  |
+| 20 | 9% | 98% |  |
+| 21 | 65% | 89% | Median |
+| 22 | 16% | 24% |  |
+| 23 | 6% | 8% |  |
+| 24 | 2% | 2% |  |
+| 25 | 0.2% | 0.2% |  |
 | 26 | 0% | 0% |  |
 
 ### Liberal Democrats (RE)
@@ -112,13 +113,13 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 9 | 0.1% | 100% |  |
-| 10 | 0.3% | 99.9% |  |
-| 11 | 5% | 99.6% |  |
-| 12 | 6% | 94% |  |
-| 13 | 14% | 88% |  |
-| 14 | 63% | 75% | Median |
-| 15 | 10% | 12% |  |
-| 16 | 1.4% | 1.5% | Last Result |
+| 10 | 0.7% | 99.9% |  |
+| 11 | 6% | 99.2% |  |
+| 12 | 12% | 94% |  |
+| 13 | 25% | 82% |  |
+| 14 | 36% | 57% | Median |
+| 15 | 19% | 21% |  |
+| 16 | 2% | 2% | Last Result |
 | 17 | 0% | 0% |  |
 
 ### Brexit Party (NI)
@@ -129,11 +130,11 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 3% | 100% |  |
-| 7 | 8% | 97% |  |
-| 8 | 19% | 89% |  |
-| 9 | 67% | 70% | Median |
-| 10 | 2% | 3% |  |
+| 6 | 2% | 100% |  |
+| 7 | 20% | 98% |  |
+| 8 | 24% | 78% |  |
+| 9 | 47% | 54% | Median |
+| 10 | 6% | 7% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |
 | 13 | 0% | 0% |  |
@@ -162,9 +163,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 94% | 100% | Median |
-| 1 | 3% | 6% |  |
-| 2 | 3% | 3% |  |
+| 0 | 83% | 100% | Median |
+| 1 | 12% | 17% |  |
+| 2 | 5% | 5% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% |  |
 | 5 | 0% | 0% |  |
@@ -179,9 +180,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 2% | 100% |  |
-| 2 | 97% | 98% | Median |
-| 3 | 2% | 2% | Last Result |
+| 1 | 8% | 100% |  |
+| 2 | 88% | 92% | Median |
+| 3 | 4% | 4% | Last Result |
 | 4 | 0% | 0% |  |
 
 ### UK Independence Party (ID)
@@ -202,8 +203,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 96% | 100% | Median |
-| 1 | 4% | 4% | Last Result |
+| 0 | 95% | 100% | Median |
+| 1 | 5% | 5% | Last Result |
 | 2 | 0% | 0% |  |
 
 ### Change UK (RE)
@@ -225,11 +226,11 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Conservative Party (ECR) | 4 | 24 | 0% | 23–26 | 23–26 | 23–26 | 23–27 |
-| Labour Party (S&D) | 10 | 21 | 0% | 21–22 | 20–22 | 20–24 | 19–24 |
-| Liberal Democrats (RE) – Change UK (RE) | 16 | 14 | 0% | 12–15 | 11–15 | 11–15 | 11–16 |
-| Brexit Party (NI) | 29 | 9 | 0% | 7–9 | 7–9 | 6–10 | 6–10 |
-| Green Party (Greens/EFA) – Scottish National Party (Greens/EFA) – Plaid Cymru (Greens/EFA) | 11 | 2 | 0% | 2 | 2–3 | 2–4 | 1–5 |
+| Conservative Party (ECR) | 4 | 25 | 0% | 23–26 | 23–27 | 23–27 | 22–28 |
+| Labour Party (S&D) | 10 | 21 | 0% | 20–22 | 20–23 | 20–23 | 19–24 |
+| Liberal Democrats (RE) – Change UK (RE) | 16 | 14 | 0% | 12–15 | 11–15 | 11–15 | 10–16 |
+| Brexit Party (NI) | 29 | 9 | 0% | 7–9 | 7–10 | 7–10 | 6–10 |
+| Green Party (Greens/EFA) – Scottish National Party (Greens/EFA) – Plaid Cymru (Greens/EFA) | 11 | 2 | 0% | 2–3 | 2–4 | 1–4 | 1–5 |
 | UK Independence Party (ID) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Conservative Party (ECR)
@@ -256,14 +257,15 @@
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
 | 21 | 0% | 100% |  |
-| 22 | 0.3% | 100% |  |
-| 23 | 11% | 99.7% |  |
-| 24 | 62% | 89% | Median |
-| 25 | 12% | 26% |  |
-| 26 | 12% | 14% |  |
-| 27 | 2% | 2% |  |
-| 28 | 0.2% | 0.2% |  |
-| 29 | 0% | 0% |  |
+| 22 | 0.5% | 100% |  |
+| 23 | 12% | 99.5% |  |
+| 24 | 37% | 88% |  |
+| 25 | 33% | 50% | Median |
+| 26 | 9% | 18% |  |
+| 27 | 8% | 8% |  |
+| 28 | 0.5% | 0.6% |  |
+| 29 | 0.1% | 0.1% |  |
+| 30 | 0% | 0% |  |
 
 ### Labour Party (S&D)
 
@@ -281,12 +283,12 @@
 | 17 | 0% | 100% |  |
 | 18 | 0.1% | 100% |  |
 | 19 | 2% | 99.9% |  |
-| 20 | 3% | 98% |  |
-| 21 | 69% | 95% | Median |
-| 22 | 22% | 26% |  |
-| 23 | 0.6% | 4% |  |
-| 24 | 3% | 4% |  |
-| 25 | 0.1% | 0.1% |  |
+| 20 | 9% | 98% |  |
+| 21 | 65% | 89% | Median |
+| 22 | 16% | 24% |  |
+| 23 | 6% | 8% |  |
+| 24 | 2% | 2% |  |
+| 25 | 0.2% | 0.2% |  |
 | 26 | 0% | 0% |  |
 
 ### Liberal Democrats (RE) – Change UK (RE)
@@ -296,13 +298,13 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 9 | 0.1% | 100% |  |
-| 10 | 0.3% | 99.9% |  |
-| 11 | 5% | 99.6% |  |
-| 12 | 6% | 94% |  |
-| 13 | 14% | 88% |  |
-| 14 | 63% | 75% | Median |
-| 15 | 10% | 12% |  |
-| 16 | 1.4% | 1.5% | Last Result |
+| 10 | 0.7% | 99.9% |  |
+| 11 | 6% | 99.2% |  |
+| 12 | 12% | 94% |  |
+| 13 | 25% | 82% |  |
+| 14 | 36% | 57% | Median |
+| 15 | 19% | 21% |  |
+| 16 | 2% | 2% | Last Result |
 | 17 | 0% | 0% |  |
 
 ### Brexit Party (NI)
@@ -311,11 +313,11 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 3% | 100% |  |
-| 7 | 8% | 97% |  |
-| 8 | 19% | 89% |  |
-| 9 | 67% | 70% | Median |
-| 10 | 2% | 3% |  |
+| 6 | 2% | 100% |  |
+| 7 | 20% | 98% |  |
+| 8 | 24% | 78% |  |
+| 9 | 47% | 54% | Median |
+| 10 | 6% | 7% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |
 | 13 | 0% | 0% |  |
@@ -342,11 +344,11 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 1.4% | 100% |  |
-| 2 | 89% | 98.6% | Median |
-| 3 | 6% | 10% |  |
-| 4 | 3% | 4% |  |
-| 5 | 0.9% | 0.9% |  |
+| 1 | 5% | 100% |  |
+| 2 | 75% | 95% | Median |
+| 3 | 15% | 21% |  |
+| 4 | 5% | 6% |  |
+| 5 | 0.8% | 0.8% |  |
 | 6 | 0% | 0% |  |
 | 7 | 0% | 0% |  |
 | 8 | 0% | 0% |  |
@@ -374,6 +376,6 @@
 ### Calculations
 
 + **Sample size:** 1504
-+ **Simulations done:** 131,072
-+ **Error estimate:** 2.76%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.87%
 
