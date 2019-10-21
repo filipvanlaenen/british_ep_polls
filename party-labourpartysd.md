@@ -11,14 +11,14 @@ Last result: **13.7%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 25.1% | 22.4–28.7% | 21.7–29.4% | 21.1–30.0% | 20.2–31.1% |
-| [14–15 October 2019](2019-10-15-YouGov.html) | YouGov <br> The Times | 22.1% | N/A | N/A | N/A | N/A |
-| [10–15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 25.0% | N/A | N/A | N/A | N/A |
-| [9–11 October 2019](2019-10-11-Panelbase.html) | Panelbase <br> The Sunday Times | 30.2% | N/A | N/A | N/A | N/A |
-| [9–10 October 2019](2019-10-10-ComRes.html) | ComRes <br> Daily Express | 27.0% | N/A | N/A | N/A | N/A |
+| [14–15 October 2019](2019-10-15-YouGov.html) | YouGov <br> The Times | 22.1% | 20.8–23.5% | 20.4–23.9% | 20.1–24.2% | 19.5–24.8% |
+| [10–15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 25.0% | 23.4–26.7% | 23.0–27.1% | 22.6–27.6% | 21.9–28.4% |
+| [9–11 October 2019](2019-10-11-Panelbase.html) | Panelbase <br> The Sunday Times | 30.2% | 28.9–31.5% | 28.5–31.9% | 28.2–32.2% | 27.6–32.8% |
+| [9–10 October 2019](2019-10-10-ComRes.html) | ComRes <br> Daily Express | 27.0% | 25.8–28.3% | 25.4–28.7% | 25.1–29.0% | 24.5–29.6% |
 | [8–9 October 2019](2019-10-09-YouGov.html) | YouGov <br> The Times | 21.7% | 20.4–23.0% | 20.0–23.4% | 19.7–23.7% | 19.1–24.4% |
 | [4–6 October 2019](2019-10-06-ComRes.html) | ComRes <br> Daily Telegraph | 26.5% | 25.2–27.8% | 24.9–28.1% | 24.6–28.5% | 24.0–29.1% |
 | [3–4 October 2019](2019-10-04-Opinium.html) | Opinium <br> The Observer | 23.3% | 22.1–24.5% | 21.7–24.9% | 21.5–25.2% | 20.9–25.8% |
-| [1–4 October 2019](2019-10-04-BMGResearch.html) | BMG Research <br> The Independent | 26.2% | N/A | N/A | N/A | N/A |
+| [1–4 October 2019](2019-10-04-BMGResearch.html) | BMG Research <br> The Independent | 26.2% | 24.7–27.6% | 24.3–28.1% | 24.0–28.4% | 23.3–29.2% |
 | [30 September–1 October 2019](2019-10-01-YouGov.html) | YouGov <br> The Times | 20.9% | 19.6–22.2% | 19.3–22.6% | 19.0–22.9% | 18.4–23.6% |
 | [26–27 September 2019](2019-09-27-YouGov.html) | YouGov <br> The Sunday Times | 21.9% | 20.6–23.2% | 20.2–23.6% | 19.9–24.0% | 19.3–24.6% |
 | [25–27 September 2019](2019-09-27-Opinium.html) | Opinium <br> The Observer | 23.9% | 22.7–25.1% | 22.3–25.5% | 22.0–25.8% | 21.5–26.4% |
@@ -125,14 +125,14 @@ Last result: **10** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 19 | 16–22 | 15–23 | 15–24 | 15–25 |
-| [14–15 October 2019](2019-10-15-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
-| [10–15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public |  |  |  |  |  |
-| [9–11 October 2019](2019-10-11-Panelbase.html) | Panelbase <br> The Sunday Times |  |  |  |  |  |
-| [9–10 October 2019](2019-10-10-ComRes.html) | ComRes <br> Daily Express |  |  |  |  |  |
+| [14–15 October 2019](2019-10-15-YouGov.html) | YouGov <br> The Times | 15 | 15–18 | 15–20 | 15–20 | 15–21 |
+| [10–15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 19 | 19–23 | 18–23 | 18–23 | 16–24 |
+| [9–11 October 2019](2019-10-11-Panelbase.html) | Panelbase <br> The Sunday Times | 22 | 22 | 22 | 22 | 22–27 |
+| [9–10 October 2019](2019-10-10-ComRes.html) | ComRes <br> Daily Express | 22 | 21–22 | 21–23 | 21–24 | 21–24 |
 | [8–9 October 2019](2019-10-09-YouGov.html) | YouGov <br> The Times | 16 | 15–17 | 15–18 | 15–19 | 15–20 |
 | [4–6 October 2019](2019-10-06-ComRes.html) | ComRes <br> Daily Telegraph | 21 | 20–22 | 20–22 | 19–22 | 19–23 |
 | [3–4 October 2019](2019-10-04-Opinium.html) | Opinium <br> The Observer | 18 | 16–19 | 16–20 | 16–20 | 15–20 |
-| [1–4 October 2019](2019-10-04-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
+| [1–4 October 2019](2019-10-04-BMGResearch.html) | BMG Research <br> The Independent | 21 | 21 | 21–22 | 21–23 | 20–23 |
 | [30 September–1 October 2019](2019-10-01-YouGov.html) | YouGov <br> The Times | 15 | 15–16 | 15–16 | 15–17 | 14–18 |
 | [26–27 September 2019](2019-09-27-YouGov.html) | YouGov <br> The Sunday Times | 16 | 15–19 | 15–19 | 15–19 | 15–20 |
 | [25–27 September 2019](2019-09-27-Opinium.html) | Opinium <br> The Observer | 16 | 15–20 | 15–21 | 15–21 | 15–21 |
