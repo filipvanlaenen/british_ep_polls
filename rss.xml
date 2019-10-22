@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/british_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 21 Oct 2019 20:32:04 +0200</pubDate>
+    <pubDate>Tue, 22 Oct 2019 06:51:09 +0200</pubDate>
     <item>
       <title>Opinion Poll by YouGov for The Times, 14–15 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_ep_polls/2019-10-15-YouGov.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-10-15-YouGov.png"
         length="253490"
         type="image/png"/>
-      <pubDate>Mon, 21 Oct 2019 20:32:04 +0200</pubDate>
-      <dc:date>2019-10-21T20:32:04.762939+02:00</dc:date>
+      <pubDate>Mon, 21 Oct 2019 20:38:08 +0200</pubDate>
+      <dc:date>2019-10-21T20:38:08.295719+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Public, 10–15 October 2019 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-10-11-Panelbase.png"
         length="217021"
         type="image/png"/>
-      <pubDate>Mon, 21 Oct 2019 18:40:03 +0200</pubDate>
-      <dc:date>2019-10-21T18:40:03.856821+02:00</dc:date>
+      <pubDate>Tue, 22 Oct 2019 06:45:37 +0200</pubDate>
+      <dc:date>2019-10-22T06:45:37.284001+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ComRes for Daily Express, 9–10 October 2019 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-10-10-ComRes.png"
         length="197219"
         type="image/png"/>
-      <pubDate>Mon, 21 Oct 2019 19:05:07 +0200</pubDate>
-      <dc:date>2019-10-21T19:05:07.310749+02:00</dc:date>
+      <pubDate>Tue, 22 Oct 2019 06:51:09 +0200</pubDate>
+      <dc:date>2019-10-22T06:51:09.829866+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 8–9 October 2019 – Seat Projections for the Parties</title>
@@ -126,8 +126,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-10-04-BMGResearch.png"
         length="247479"
         type="image/png"/>
-      <pubDate>Mon, 21 Oct 2019 19:47:00 +0200</pubDate>
-      <dc:date>2019-10-21T19:47:00.592866+02:00</dc:date>
+      <pubDate>Mon, 21 Oct 2019 22:45:22 +0200</pubDate>
+      <dc:date>2019-10-21T22:45:22.677941+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 30 September–1 October 2019 – Seat Projections for the Parties</title>
@@ -2029,6 +2029,6 @@
       <pubDate>Mon, 22 Jul 2019 21:27:08 +0200</pubDate>
       <dc:date>2019-07-22T21:27:08.139393+02:00</dc:date>
     </item>
-    <dc:date>2019-10-21T20:32:04.762939+02:00</dc:date>
+    <dc:date>2019-10-22T06:51:09.829866+02:00</dc:date>
   </channel>
 </rss>
