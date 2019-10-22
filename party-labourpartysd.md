@@ -125,14 +125,14 @@ Last result: **10** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 19 | 16–22 | 15–23 | 15–24 | 15–25 |
-| [14–15 October 2019](2019-10-15-YouGov.html) | YouGov <br> The Times | 15 | 15–18 | 15–20 | 15–20 | 15–21 |
+| [14–15 October 2019](2019-10-15-YouGov.html) | YouGov <br> The Times | 16 | 15–18 | 15–19 | 15–20 | 15–21 |
 | [10–15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 19 | 19–23 | 18–23 | 18–23 | 16–24 |
-| [9–11 October 2019](2019-10-11-Panelbase.html) | Panelbase <br> The Sunday Times | 22 | 22 | 22 | 22 | 22–27 |
-| [9–10 October 2019](2019-10-10-ComRes.html) | ComRes <br> Daily Express | 22 | 21–22 | 21–23 | 21–24 | 21–24 |
+| [9–11 October 2019](2019-10-11-Panelbase.html) | Panelbase <br> The Sunday Times | 23 | 22–25 | 22–25 | 21–25 | 21–27 |
+| [9–10 October 2019](2019-10-10-ComRes.html) | ComRes <br> Daily Express | 21 | 21–23 | 21–23 | 20–24 | 19–24 |
 | [8–9 October 2019](2019-10-09-YouGov.html) | YouGov <br> The Times | 16 | 15–17 | 15–18 | 15–19 | 15–20 |
 | [4–6 October 2019](2019-10-06-ComRes.html) | ComRes <br> Daily Telegraph | 21 | 20–22 | 20–22 | 19–22 | 19–23 |
 | [3–4 October 2019](2019-10-04-Opinium.html) | Opinium <br> The Observer | 18 | 16–19 | 16–20 | 16–20 | 15–20 |
-| [1–4 October 2019](2019-10-04-BMGResearch.html) | BMG Research <br> The Independent | 21 | 21 | 21–22 | 21–23 | 20–23 |
+| [1–4 October 2019](2019-10-04-BMGResearch.html) | BMG Research <br> The Independent | 21 | 19–23 | 19–24 | 18–24 | 16–24 |
 | [30 September–1 October 2019](2019-10-01-YouGov.html) | YouGov <br> The Times | 15 | 15–16 | 15–16 | 15–17 | 14–18 |
 | [26–27 September 2019](2019-09-27-YouGov.html) | YouGov <br> The Sunday Times | 16 | 15–19 | 15–19 | 15–19 | 15–20 |
 | [25–27 September 2019](2019-09-27-Opinium.html) | Opinium <br> The Observer | 16 | 15–20 | 15–21 | 15–21 | 15–21 |

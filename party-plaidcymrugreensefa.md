@@ -109,14 +109,14 @@ Last result: **1** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
-| [14–15 October 2019](2019-10-15-YouGov.html) | YouGov <br> The Times | 1 | 1 | 0–2 | 0–2 | 0–2 |
+| [14–15 October 2019](2019-10-15-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | [10–15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | [9–11 October 2019](2019-10-11-Panelbase.html) | Panelbase <br> The Sunday Times |  |  |  |  |  |
 | [9–10 October 2019](2019-10-10-ComRes.html) | ComRes <br> Daily Express |  |  |  |  |  |
 | [8–9 October 2019](2019-10-09-YouGov.html) | YouGov <br> The Times | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | [4–6 October 2019](2019-10-06-ComRes.html) | ComRes <br> Daily Telegraph | 1 | 1 | 1 | 1 | 0–2 |
 | [3–4 October 2019](2019-10-04-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0–1 |
-| [1–4 October 2019](2019-10-04-BMGResearch.html) | BMG Research <br> The Independent | 1 | 1 | 1 | 1 | 1–2 |
+| [1–4 October 2019](2019-10-04-BMGResearch.html) | BMG Research <br> The Independent | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | [30 September–1 October 2019](2019-10-01-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 0–2 | 0–2 |
 | [26–27 September 2019](2019-09-27-YouGov.html) | YouGov <br> The Sunday Times | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | [25–27 September 2019](2019-09-27-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1–2 | 1–2 | 0–2 |

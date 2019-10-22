@@ -133,14 +133,14 @@ Last result: **29** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 2–10 | 1–10 | 0–11 | 0–13 |
-| [14–15 October 2019](2019-10-15-YouGov.html) | YouGov <br> The Times | 6 | 6–9 | 6–9 | 5–9 | 4–10 |
+| [14–15 October 2019](2019-10-15-YouGov.html) | YouGov <br> The Times | 6 | 6–9 | 6–9 | 6–9 | 5–10 |
 | [10–15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 1 | 1–2 | 1–5 | 1–6 | 0–6 |
-| [9–11 October 2019](2019-10-11-Panelbase.html) | Panelbase <br> The Sunday Times | 7 | 7 | 7 | 7 | 7 |
-| [9–10 October 2019](2019-10-10-ComRes.html) | ComRes <br> Daily Express | 7 | 7 | 6–8 | 6–8 | 6–8 |
+| [9–11 October 2019](2019-10-11-Panelbase.html) | Panelbase <br> The Sunday Times | 6 | 6–8 | 6–8 | 6–8 | 5–8 |
+| [9–10 October 2019](2019-10-10-ComRes.html) | ComRes <br> Daily Express | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [8–9 October 2019](2019-10-09-YouGov.html) | YouGov <br> The Times | 7 | 6–8 | 6–9 | 6–9 | 6–10 |
 | [4–6 October 2019](2019-10-06-ComRes.html) | ComRes <br> Daily Telegraph | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [3–4 October 2019](2019-10-04-Opinium.html) | Opinium <br> The Observer | 8 | 7–9 | 7–10 | 6–10 | 6–10 |
-| [1–4 October 2019](2019-10-04-BMGResearch.html) | BMG Research <br> The Independent | 7 | 7 | 7–8 | 6–8 | 6–8 |
+| [1–4 October 2019](2019-10-04-BMGResearch.html) | BMG Research <br> The Independent | 7 | 6–7 | 6–7 | 5–7 | 3–8 |
 | [30 September–1 October 2019](2019-10-01-YouGov.html) | YouGov <br> The Times | 7 | 6–7 | 6–8 | 6–8 | 6–9 |
 | [26–27 September 2019](2019-09-27-YouGov.html) | YouGov <br> The Sunday Times | 7 | 7–10 | 7–10 | 7–10 | 6–10 |
 | [25–27 September 2019](2019-09-27-Opinium.html) | Opinium <br> The Observer | 6 | 6–7 | 6–7 | 6–7 | 4–7 |
