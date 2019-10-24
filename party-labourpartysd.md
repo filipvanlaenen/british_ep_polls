@@ -10,17 +10,17 @@ Last result: **13.7%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.3% | 21.8–27.5% | 21.1–28.3% | 20.6–28.9% | 19.8–30.1% |
+| N/A | [Poll Average](average.html) | 24.9% | 22.1–28.7% | 21.4–29.5% | 20.8–30.0% | 20.0–30.9% |
 | [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 21.7% | 20.4–23.0% | 20.1–23.4% | 19.8–23.7% | 19.2–24.4% |
 | [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 23.9% | 22.8–25.2% | 22.4–25.6% | 22.1–25.9% | 21.6–26.5% |
 | [17–18 October 2019](2019-10-18-Survation.html) | Survation <br> Daily Mail | 24.0% | 22.3–25.8% | 21.9–26.3% | 21.5–26.7% | 20.7–27.6% |
 | [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 27.4% | 25.6–29.2% | 25.1–29.8% | 24.7–30.2% | 23.9–31.1% |
 | [15–17 October 2019](2019-10-17-Opinium.html) | Opinium <br> The Observer | 23.7% | 22.5–25.0% | 22.2–25.3% | 21.9–25.6% | 21.3–26.2% |
-| [16–17 October 2019](2019-10-17-ComRes.html) | ComRes <br> Britain Elects | 29.0% | N/A | N/A | N/A | N/A |
+| [16–17 October 2019](2019-10-17-ComRes.html) | ComRes <br> Britain Elects | 29.0% | 27.7–30.3% | 27.4–30.7% | 27.1–31.0% | 26.5–31.6% |
 | [14–15 October 2019](2019-10-15-YouGov.html) | YouGov <br> The Times | 22.1% | 20.8–23.5% | 20.4–23.9% | 20.1–24.2% | 19.5–24.8% |
-| [10–15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 25.2% | N/A | N/A | N/A | N/A |
+| [10–15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 25.2% | 23.6–26.8% | 23.2–27.3% | 22.8–27.7% | 22.0–28.5% |
 | [9–11 October 2019](2019-10-11-Panelbase.html) | Panelbase <br> The Sunday Times | 30.2% | 28.9–31.5% | 28.5–31.9% | 28.2–32.2% | 27.6–32.8% |
-| [9–10 October 2019](2019-10-10-ComRes.html) | ComRes <br> Daily Express | 27.0% | N/A | N/A | N/A | N/A |
+| [9–10 October 2019](2019-10-10-ComRes.html) | ComRes <br> Daily Express | 27.0% | 25.7–28.3% | 25.4–28.6% | 25.1–28.9% | 24.5–29.6% |
 | [8–9 October 2019](2019-10-09-YouGov.html) | YouGov <br> The Times | 21.7% | 20.4–23.0% | 20.0–23.4% | 19.7–23.7% | 19.1–24.4% |
 | [4–6 October 2019](2019-10-06-ComRes.html) | ComRes <br> Daily Telegraph | 26.5% | 25.2–27.8% | 24.9–28.1% | 24.6–28.5% | 24.0–29.1% |
 | [3–4 October 2019](2019-10-04-Opinium.html) | Opinium <br> The Observer | 23.3% | 22.1–24.5% | 21.7–24.9% | 21.5–25.2% | 20.9–25.8% |
@@ -106,19 +106,20 @@ The following table shows the probability mass function per percentage block of 
 | 16.5–17.5% | 0% | 100% |  |
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0.2% | 100% |  |
-| 19.5–20.5% | 2% | 99.8% |  |
-| 20.5–21.5% | 6% | 98% |  |
-| 21.5–22.5% | 10% | 92% |  |
-| 22.5–23.5% | 16% | 81% |  |
-| 23.5–24.5% | 20% | 65% | Median |
-| 24.5–25.5% | 15% | 45% |  |
-| 25.5–26.5% | 12% | 31% |  |
-| 26.5–27.5% | 9% | 19% |  |
-| 27.5–28.5% | 6% | 10% |  |
-| 28.5–29.5% | 3% | 4% |  |
-| 29.5–30.5% | 0.9% | 1.1% |  |
-| 30.5–31.5% | 0.2% | 0.2% |  |
-| 31.5–32.5% | 0% | 0% |  |
+| 19.5–20.5% | 1.4% | 99.8% |  |
+| 20.5–21.5% | 5% | 98% |  |
+| 21.5–22.5% | 8% | 94% |  |
+| 22.5–23.5% | 13% | 86% |  |
+| 23.5–24.5% | 17% | 73% |  |
+| 24.5–25.5% | 15% | 55% | Median |
+| 25.5–26.5% | 12% | 40% |  |
+| 26.5–27.5% | 9% | 28% |  |
+| 27.5–28.5% | 8% | 19% |  |
+| 28.5–29.5% | 7% | 11% |  |
+| 29.5–30.5% | 3% | 4% |  |
+| 30.5–31.5% | 0.9% | 1.0% |  |
+| 31.5–32.5% | 0.1% | 0.1% |  |
+| 32.5–33.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -129,17 +130,17 @@ Last result: **10** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 16–21 | 16–21 | 16–22 | 16–24 |
-| [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 16 | 16 | 16 | 16 | 16–18 |
-| [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 16 | 16–17 | 16–17 | 16–17 | 16–18 |
-| [17–18 October 2019](2019-10-18-Survation.html) | Survation <br> Daily Mail | 20 | 17–20 | 17–20 | 16–20 | 15–21 |
+| N/A | [Poll Average](average.html) | 19 | 16–22 | 16–23 | 16–24 | 15–24 |
+| [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 16 | 16–18 | 16–18 | 15–18 | 15–20 |
+| [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 18 | 18 | 16–18 | 16–19 | 16–21 |
+| [17–18 October 2019](2019-10-18-Survation.html) | Survation <br> Daily Mail | 19 | 16–21 | 15–21 | 15–21 | 15–22 |
 | [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 21 | 21 | 18–21 | 18–21 | 18–21 |
 | [15–17 October 2019](2019-10-17-Opinium.html) | Opinium <br> The Observer | 18 | 17–18 | 17–18 | 17–18 | 16–20 |
-| [16–17 October 2019](2019-10-17-ComRes.html) | ComRes <br> Britain Elects |  |  |  |  |  |
+| [16–17 October 2019](2019-10-17-ComRes.html) | ComRes <br> Britain Elects | 22 | 21–24 | 21–24 | 21–24 | 21–25 |
 | [14–15 October 2019](2019-10-15-YouGov.html) | YouGov <br> The Times | 16 | 15–18 | 15–19 | 15–20 | 15–21 |
-| [10–15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public |  |  |  |  |  |
+| [10–15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 19 | 18–22 | 16–23 | 16–23 | 16–24 |
 | [9–11 October 2019](2019-10-11-Panelbase.html) | Panelbase <br> The Sunday Times | 23 | 22–25 | 22–25 | 21–25 | 21–27 |
-| [9–10 October 2019](2019-10-10-ComRes.html) | ComRes <br> Daily Express |  |  |  |  |  |
+| [9–10 October 2019](2019-10-10-ComRes.html) | ComRes <br> Daily Express | 21 | 21–22 | 21–23 | 20–23 | 20–24 |
 | [8–9 October 2019](2019-10-09-YouGov.html) | YouGov <br> The Times | 16 | 15–17 | 15–18 | 15–19 | 15–20 |
 | [4–6 October 2019](2019-10-06-ComRes.html) | ComRes <br> Daily Telegraph | 21 | 20–22 | 20–22 | 19–22 | 19–23 |
 | [3–4 October 2019](2019-10-04-Opinium.html) | Opinium <br> The Observer | 18 | 16–19 | 16–20 | 16–20 | 15–20 |
@@ -226,17 +227,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 0.2% | 100% |  |
-| 16 | 29% | 99.8% |  |
-| 17 | 14% | 71% |  |
-| 18 | 12% | 58% | Median |
-| 19 | 5% | 46% |  |
-| 20 | 15% | 41% |  |
-| 21 | 22% | 26% |  |
-| 22 | 2% | 4% |  |
-| 23 | 0.9% | 2% |  |
-| 24 | 0.8% | 1.0% |  |
-| 25 | 0.1% | 0.1% |  |
+| 15 | 1.3% | 100% |  |
+| 16 | 19% | 98.7% |  |
+| 17 | 12% | 79% |  |
+| 18 | 13% | 67% |  |
+| 19 | 13% | 54% | Median |
+| 20 | 6% | 41% |  |
+| 21 | 22% | 36% |  |
+| 22 | 6% | 14% |  |
+| 23 | 5% | 7% |  |
+| 24 | 2% | 3% |  |
+| 25 | 0.4% | 0.4% |  |
 | 26 | 0% | 0% |  |
 
 
