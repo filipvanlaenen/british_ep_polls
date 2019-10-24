@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/british_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 23 Oct 2019 20:17:58 +0200</pubDate>
+    <pubDate>Thu, 24 Oct 2019 20:34:44 +0200</pubDate>
     <item>
       <title>Opinion Poll by YouGov for The Times, 20–21 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_ep_polls/2019-10-21-YouGov.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-10-21-YouGov.png"
         length="252429"
         type="image/png"/>
-      <pubDate>Wed, 23 Oct 2019 19:12:19 +0200</pubDate>
-      <dc:date>2019-10-23T19:12:19.729629+02:00</dc:date>
+      <pubDate>Thu, 24 Oct 2019 17:54:32 +0200</pubDate>
+      <dc:date>2019-10-24T17:54:32.959238+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Deltapoll, 18–21 October 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-10-21-Deltapoll.png"
         length="230681"
         type="image/png"/>
-      <pubDate>Wed, 23 Oct 2019 19:28:17 +0200</pubDate>
-      <dc:date>2019-10-23T19:28:17.477816+02:00</dc:date>
+      <pubDate>Thu, 24 Oct 2019 20:34:44 +0200</pubDate>
+      <dc:date>2019-10-24T20:34:44.562162+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Survation for Daily Mail, 17–18 October 2019 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-10-18-Survation.png"
         length="216394"
         type="image/png"/>
-      <pubDate>Wed, 23 Oct 2019 19:31:15 +0200</pubDate>
-      <dc:date>2019-10-23T19:31:15.462727+02:00</dc:date>
+      <pubDate>Thu, 24 Oct 2019 18:43:16 +0200</pubDate>
+      <dc:date>2019-10-24T18:43:16.339759+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Panelbase, 17–18 October 2019 – Voting Intentions</title>
@@ -60,6 +60,16 @@
       <dc:date>2019-10-23T20:17:58.934758+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by ComRes for Britain Elects, 16–17 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_ep_polls/2019-10-17-ComRes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party (ECR): 31.0–35.1%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 27.1–31.0%&lt;/li&gt;&lt;li&gt;Liberal Democrats (RE): 16.4–19.7%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 3.2–5.0%&lt;/li&gt;&lt;li&gt;Brexit Party (NI): 10.7–13.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-10-17-ComRes.png"
+        length="177152"
+        type="image/png"/>
+      <pubDate>Thu, 24 Oct 2019 18:01:24 +0200</pubDate>
+      <dc:date>2019-10-24T18:01:24.582636+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by YouGov for The Times, 14–15 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_ep_polls/2019-10-15-YouGov.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party (ECR): 34.8–39.6%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 20.1–24.2%&lt;/li&gt;&lt;li&gt;Liberal Democrats (RE): 16.3–20.0%&lt;/li&gt;&lt;li&gt;Scottish National Party (Greens/EFA): 3.1–5.1%&lt;/li&gt;&lt;li&gt;Plaid Cymru (Greens/EFA): 0.6–1.6%&lt;/li&gt;&lt;li&gt;UK Independence Party (ID): 0.6–1.6%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 4.1–6.2%&lt;/li&gt;&lt;li&gt;Brexit Party (NI): 9.6–12.7%&lt;/li&gt;&lt;li&gt;Change UK (RE): 0.1–0.6%&lt;/li&gt;&lt;/ul&gt;</description>
@@ -70,6 +80,16 @@
       <dc:date>2019-10-21T20:38:08.295719+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Kantar Public, 10–15 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_ep_polls/2019-10-15-KantarPublic.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party (ECR): 36.5–42.1%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 22.8–27.7%&lt;/li&gt;&lt;li&gt;Liberal Democrats (RE): 16.1–20.5%&lt;/li&gt;&lt;li&gt;Scottish National Party (Greens/EFA): 2.2–4.2%&lt;/li&gt;&lt;li&gt;Plaid Cymru (Greens/EFA): 0.6–1.8%&lt;/li&gt;&lt;li&gt;UK Independence Party (ID): 0.6–1.8%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 2.2–4.2%&lt;/li&gt;&lt;li&gt;Brexit Party (NI): 6.6–9.7%&lt;/li&gt;&lt;li&gt;Change UK (RE): 0.1–0.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-10-15-KantarPublic.png"
+        length="255613"
+        type="image/png"/>
+      <pubDate>Thu, 24 Oct 2019 20:30:31 +0200</pubDate>
+      <dc:date>2019-10-24T20:30:31.822794+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Panelbase for The Sunday Times, 9–11 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_ep_polls/2019-10-11-Panelbase.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party (ECR): 31.2–35.3%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 28.2–32.2%&lt;/li&gt;&lt;li&gt;Liberal Democrats (RE): 15.5–18.8%&lt;/li&gt;&lt;li&gt;Scottish National Party (Greens/EFA): 3.2–5.0%&lt;/li&gt;&lt;li&gt;UK Independence Party (ID): 0.1–0.6%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 2.4–3.9%&lt;/li&gt;&lt;li&gt;Brexit Party (NI): 10.7–13.6%&lt;/li&gt;&lt;/ul&gt;</description>
@@ -78,6 +98,16 @@
         type="image/png"/>
       <pubDate>Tue, 22 Oct 2019 06:45:37 +0200</pubDate>
       <dc:date>2019-10-22T06:45:37.284001+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ComRes for Daily Express, 9–10 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_ep_polls/2019-10-10-ComRes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party (ECR): 30.9–35.0%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 25.1–28.9%&lt;/li&gt;&lt;li&gt;Liberal Democrats (RE): 16.3–19.7%&lt;/li&gt;&lt;li&gt;Scottish National Party (Greens/EFA): 3.2–5.0%&lt;/li&gt;&lt;li&gt;UK Independence Party (ID): 0.1–0.6%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 3.2–5.0%&lt;/li&gt;&lt;li&gt;Brexit Party (NI): 10.6–13.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-10-10-ComRes.png"
+        length="217876"
+        type="image/png"/>
+      <pubDate>Thu, 24 Oct 2019 19:05:22 +0200</pubDate>
+      <dc:date>2019-10-24T19:05:22.474798+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov for The Times, 8–9 October 2019 – Seat Projections for the Parties</title>
@@ -2059,6 +2089,6 @@
       <pubDate>Mon, 22 Jul 2019 21:27:08 +0200</pubDate>
       <dc:date>2019-07-22T21:27:08.139393+02:00</dc:date>
     </item>
-    <dc:date>2019-10-23T20:17:58.934758+02:00</dc:date>
+    <dc:date>2019-10-24T20:34:44.562162+02:00</dc:date>
   </channel>
 </rss>
