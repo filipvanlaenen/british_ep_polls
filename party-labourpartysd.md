@@ -130,14 +130,14 @@ Last result: **10** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 16–22 | 16–23 | 16–24 | 15–24 |
+| N/A | [Poll Average](average.html) | 19 | 16–22 | 16–23 | 15–24 | 15–25 |
 | [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 16 | 16–18 | 16–18 | 15–18 | 15–20 |
-| [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 18 | 18 | 16–18 | 16–19 | 16–21 |
+| [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 18 | 15–20 | 15–20 | 15–21 | 15–21 |
 | [17–18 October 2019](2019-10-18-Survation.html) | Survation <br> Daily Mail | 19 | 16–21 | 15–21 | 15–21 | 15–22 |
-| [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 21 | 21 | 18–21 | 18–21 | 18–21 |
-| [15–17 October 2019](2019-10-17-Opinium.html) | Opinium <br> The Observer | 18 | 17–18 | 17–18 | 17–18 | 16–20 |
+| [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 21 | 20–23 | 18–23 | 18–23 | 17–25 |
+| [15–17 October 2019](2019-10-17-Opinium.html) | Opinium <br> The Observer | 18 | 17–20 | 17–20 | 17–20 | 16–21 |
 | [16–17 October 2019](2019-10-17-ComRes.html) | ComRes <br> Britain Elects | 22 | 21–24 | 21–24 | 21–24 | 21–25 |
-| [14–15 October 2019](2019-10-15-YouGov.html) | YouGov <br> The Times | 16 | 15–18 | 15–19 | 15–20 | 15–21 |
+| [14–15 October 2019](2019-10-15-YouGov.html) | YouGov <br> The Times | 16 | 15–18 | 15–19 | 15–20 | 15–20 |
 | [10–15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 19 | 18–22 | 16–23 | 16–23 | 16–24 |
 | [9–11 October 2019](2019-10-11-Panelbase.html) | Panelbase <br> The Sunday Times | 23 | 22–25 | 22–25 | 21–25 | 21–27 |
 | [9–10 October 2019](2019-10-10-ComRes.html) | ComRes <br> Daily Express | 21 | 21–22 | 21–23 | 20–23 | 20–24 |
@@ -227,17 +227,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 1.3% | 100% |  |
-| 16 | 19% | 98.7% |  |
-| 17 | 12% | 79% |  |
-| 18 | 13% | 67% |  |
-| 19 | 13% | 54% | Median |
-| 20 | 6% | 41% |  |
-| 21 | 22% | 36% |  |
-| 22 | 6% | 14% |  |
-| 23 | 5% | 7% |  |
+| 15 | 4% | 100% |  |
+| 16 | 12% | 96% |  |
+| 17 | 7% | 84% |  |
+| 18 | 16% | 77% |  |
+| 19 | 16% | 61% | Median |
+| 20 | 10% | 45% |  |
+| 21 | 17% | 35% |  |
+| 22 | 8% | 18% |  |
+| 23 | 7% | 10% |  |
 | 24 | 2% | 3% |  |
-| 25 | 0.4% | 0.4% |  |
-| 26 | 0% | 0% |  |
+| 25 | 0.4% | 0.5% |  |
+| 26 | 0.1% | 0.1% |  |
+| 27 | 0% | 0% |  |
 
 

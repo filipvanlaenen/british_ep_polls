@@ -116,10 +116,10 @@ Last result: **1** seats (General Election of 23 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
-| [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 1 | 1 | 1 | 1 | 0–2 |
+| [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | [17–18 October 2019](2019-10-18-Survation.html) | Survation <br> Daily Mail |  |  |  |  |  |
 | [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase |  |  |  |  |  |
-| [15–17 October 2019](2019-10-17-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 1 |
+| [15–17 October 2019](2019-10-17-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | [16–17 October 2019](2019-10-17-ComRes.html) | ComRes <br> Britain Elects |  |  |  |  |  |
 | [14–15 October 2019](2019-10-15-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | [10–15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -206,9 +206,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 3% | 100% |  |
-| 1 | 85% | 97% | Last Result, Median |
-| 2 | 11% | 11% |  |
+| 0 | 4% | 100% |  |
+| 1 | 83% | 96% | Last Result, Median |
+| 2 | 14% | 14% |  |
 | 3 | 0% | 0% |  |
 
 

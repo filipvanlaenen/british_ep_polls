@@ -119,12 +119,12 @@ Last result: **3** seats (General Election of 23 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 2 | 2 | 2 | 2 | 2–3 |
+| [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [17–18 October 2019](2019-10-18-Survation.html) | Survation <br> Daily Mail | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
-| [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 3 | 3 | 2–3 | 2–3 | 2–3 |
+| [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [15–17 October 2019](2019-10-17-Opinium.html) | Opinium <br> The Observer | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [16–17 October 2019](2019-10-17-ComRes.html) | ComRes <br> Britain Elects |  |  |  |  |  |
-| [14–15 October 2019](2019-10-15-YouGov.html) | YouGov <br> The Times | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [14–15 October 2019](2019-10-15-YouGov.html) | YouGov <br> The Times | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [10–15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [9–11 October 2019](2019-10-11-Panelbase.html) | Panelbase <br> The Sunday Times | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [9–10 October 2019](2019-10-10-ComRes.html) | ComRes <br> Daily Express | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -210,8 +210,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 7% | 100% |  |
-| 2 | 65% | 93% | Median |
-| 3 | 28% | 28% | Last Result |
+| 2 | 70% | 93% | Median |
+| 3 | 23% | 23% | Last Result |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
