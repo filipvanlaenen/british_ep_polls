@@ -126,7 +126,7 @@ Last result: **7** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
-| [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0 |
 | [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 0 | 0 | 0 | 0 | 0 |
@@ -219,8 +219,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 87% | 100% | Median |
-| 1 | 7% | 13% |  |
+| 0 | 88% | 100% | Median |
+| 1 | 7% | 12% |  |
 | 2 | 5% | 5% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% |  |
