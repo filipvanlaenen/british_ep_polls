@@ -128,15 +128,15 @@ Last result: **16** seats (General Election of 23 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12 | 9–15 | 8–16 | 8–17 | 6–18 |
 | [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 11 | 10–14 | 9–15 | 9–15 | 9–16 |
-| [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 9 | 8–10 | 8–10 | 6–10 | 6–11 |
+| [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 9 | 8–10 | 7–10 | 6–10 | 6–11 |
 | [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 12 | 10–15 | 10–15 | 10–16 | 10–16 |
-| [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 11 | 11–15 | 10–15 | 10–15 | 10–15 |
-| [17–18 October 2019](2019-10-18-Survation.html) | Survation <br> Daily Mail | 15 | 13–17 | 13–18 | 12–18 | 11–19 |
+| [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 12 | 11–15 | 11–15 | 11–15 | 10–15 |
+| [17–18 October 2019](2019-10-18-Survation.html) | Survation <br> Daily Mail | 15 | 13–18 | 13–18 | 12–19 | 11–19 |
 | [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 11 | 8–13 | 8–13 | 8–14 | 6–14 |
 | [15–17 October 2019](2019-10-17-Opinium.html) | Opinium <br> The Observer | 9 | 8–10 | 8–11 | 8–11 | 8–12 |
-| [16–17 October 2019](2019-10-17-ComRes.html) | ComRes <br> Britain Elects | 13 | 11–13 | 10–13 | 9–13 | 9–14 |
+| [16–17 October 2019](2019-10-17-ComRes.html) | ComRes <br> Britain Elects | 12 | 10–13 | 10–13 | 10–13 | 9–14 |
 | [14–15 October 2019](2019-10-15-YouGov.html) | YouGov <br> The Times | 13 | 10–14 | 9–15 | 9–15 | 9–15 |
-| [10–15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 13 | 10–14 | 10–14 | 9–14 | 8–15 |
+| [10–15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 13 | 10–13 | 10–14 | 9–14 | 9–15 |
 | [9–11 October 2019](2019-10-11-Panelbase.html) | Panelbase <br> The Sunday Times | 10 | 9–12 | 9–13 | 9–13 | 6–13 |
 | [9–10 October 2019](2019-10-10-ComRes.html) | ComRes <br> Daily Express | 12 | 11–13 | 10–13 | 10–13 | 9–14 |
 | [8–9 October 2019](2019-10-09-YouGov.html) | YouGov <br> The Times | 15 | 13–16 | 12–18 | 12–18 | 11–18 |
@@ -220,20 +220,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 0.6% | 100% |  |
-| 7 | 0.1% | 99.4% |  |
-| 8 | 8% | 99.3% |  |
-| 9 | 5% | 92% |  |
-| 10 | 13% | 86% |  |
-| 11 | 19% | 74% |  |
-| 12 | 7% | 55% | Median |
-| 13 | 22% | 48% |  |
-| 14 | 12% | 25% |  |
+| 6 | 0.8% | 100% |  |
+| 7 | 0.1% | 99.2% |  |
+| 8 | 7% | 99.1% |  |
+| 9 | 7% | 92% |  |
+| 10 | 9% | 85% |  |
+| 11 | 17% | 75% |  |
+| 12 | 12% | 59% | Median |
+| 13 | 23% | 46% |  |
+| 14 | 10% | 23% |  |
 | 15 | 7% | 13% |  |
-| 16 | 2% | 6% | Last Result |
-| 17 | 3% | 4% |  |
-| 18 | 0.8% | 0.9% |  |
-| 19 | 0.1% | 0.1% |  |
+| 16 | 4% | 6% | Last Result |
+| 17 | 1.1% | 3% |  |
+| 18 | 1.1% | 2% |  |
+| 19 | 0.5% | 0.5% |  |
 | 20 | 0% | 0% |  |
 
 

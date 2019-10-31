@@ -118,15 +118,15 @@ Last result: **1** seats (General Election of 23 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0 |
+| [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0–1 |
 | [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
-| [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 1 | 1 | 1 | 0–2 | 0–2 |
-| [17–18 October 2019](2019-10-18-Survation.html) | Survation <br> Daily Mail | 1 | 1 | 1–2 | 0–2 | 0–2 |
+| [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 1 | 1 | 1–2 | 0–2 | 0–2 |
+| [17–18 October 2019](2019-10-18-Survation.html) | Survation <br> Daily Mail | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [15–17 October 2019](2019-10-17-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | [16–17 October 2019](2019-10-17-ComRes.html) | ComRes <br> Britain Elects | 1 | 1 | 1 | 1 | 0–2 |
 | [14–15 October 2019](2019-10-15-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1–2 | 0–2 | 0–2 |
-| [10–15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [10–15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | [9–11 October 2019](2019-10-11-Panelbase.html) | Panelbase <br> The Sunday Times |  |  |  |  |  |
 | [9–10 October 2019](2019-10-10-ComRes.html) | ComRes <br> Daily Express |  |  |  |  |  |
 | [8–9 October 2019](2019-10-09-YouGov.html) | YouGov <br> The Times | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
@@ -210,9 +210,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 28% | 100% |  |
-| 1 | 66% | 72% | Last Result, Median |
-| 2 | 6% | 6% |  |
+| 0 | 27% | 100% |  |
+| 1 | 67% | 73% | Last Result, Median |
+| 2 | 7% | 7% |  |
 | 3 | 0% | 0% |  |
 
 
