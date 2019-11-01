@@ -148,7 +148,7 @@ Last result: **4** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 30 | 24–34 | 24–34 | 23–35 | 23–36 |
+| N/A | [Poll Average](average.html) | 30 | 24–33 | 24–34 | 23–35 | 23–36 |
 | [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 30 | 28–32 | 27–32 | 27–32 | 26–33 |
 | [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 33 | 32–35 | 32–35 | 32–36 | 32–37 |
 | [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 31 | 29–32 | 28–32 | 27–32 | 26–33 |
@@ -158,7 +158,7 @@ Last result: **4** seats (General Election of 23 May 2019)
 | [15–17 October 2019](2019-10-17-Opinium.html) | Opinium <br> The Observer | 33 | 31–33 | 29–33 | 28–33 | 28–33 |
 | [16–17 October 2019](2019-10-17-ComRes.html) | ComRes <br> Britain Elects | 25 | 23–27 | 23–27 | 23–28 | 23–28 |
 | [14–15 October 2019](2019-10-15-YouGov.html) | YouGov <br> The Times | 32 | 30–32 | 29–33 | 28–33 | 27–33 |
-| [10–15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 34 | 30–35 | 30–36 | 30–37 | 29–38 |
+| [10–15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 34 | 30–35 | 30–36 | 30–36 | 29–38 |
 | [9–11 October 2019](2019-10-11-Panelbase.html) | Panelbase <br> The Sunday Times | 27 | 24–28 | 23–28 | 23–28 | 22–29 |
 | [9–10 October 2019](2019-10-10-ComRes.html) | ComRes <br> Daily Express | 26 | 25–27 | 24–28 | 24–28 | 23–29 |
 | [8–9 October 2019](2019-10-09-YouGov.html) | YouGov <br> The Times | 29 | 27–31 | 26–31 | 25–31 | 24–32 |
@@ -268,14 +268,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 27 | 6% | 67% |  |
 | 28 | 4% | 62% |  |
 | 29 | 7% | 58% |  |
-| 30 | 11% | 51% | Median |
-| 31 | 8% | 40% |  |
-| 32 | 10% | 32% |  |
-| 33 | 11% | 22% |  |
-| 34 | 8% | 11% |  |
-| 35 | 2% | 3% |  |
-| 36 | 0.7% | 1.2% | Majority |
-| 37 | 0.4% | 0.5% |  |
+| 30 | 12% | 51% | Median |
+| 31 | 8% | 38% |  |
+| 32 | 10% | 31% |  |
+| 33 | 12% | 20% |  |
+| 34 | 5% | 9% |  |
+| 35 | 3% | 4% |  |
+| 36 | 0.7% | 1.1% | Majority |
+| 37 | 0.2% | 0.4% |  |
 | 38 | 0.1% | 0.1% |  |
 | 39 | 0% | 0% |  |
 

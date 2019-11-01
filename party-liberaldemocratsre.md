@@ -136,7 +136,7 @@ Last result: **16** seats (General Election of 23 May 2019)
 | [15–17 October 2019](2019-10-17-Opinium.html) | Opinium <br> The Observer | 9 | 8–10 | 8–11 | 8–11 | 8–12 |
 | [16–17 October 2019](2019-10-17-ComRes.html) | ComRes <br> Britain Elects | 12 | 10–13 | 10–13 | 10–13 | 9–14 |
 | [14–15 October 2019](2019-10-15-YouGov.html) | YouGov <br> The Times | 13 | 10–14 | 9–15 | 9–15 | 9–15 |
-| [10–15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 13 | 10–13 | 10–14 | 9–14 | 9–15 |
+| [10–15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 13 | 10–13 | 10–14 | 9–15 | 9–15 |
 | [9–11 October 2019](2019-10-11-Panelbase.html) | Panelbase <br> The Sunday Times | 10 | 9–12 | 9–13 | 9–13 | 6–13 |
 | [9–10 October 2019](2019-10-10-ComRes.html) | ComRes <br> Daily Express | 12 | 11–13 | 10–13 | 10–13 | 9–14 |
 | [8–9 October 2019](2019-10-09-YouGov.html) | YouGov <br> The Times | 15 | 13–16 | 12–18 | 12–18 | 11–18 |
@@ -224,10 +224,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0.1% | 99.2% |  |
 | 8 | 7% | 99.1% |  |
 | 9 | 7% | 92% |  |
-| 10 | 9% | 85% |  |
-| 11 | 17% | 75% |  |
-| 12 | 12% | 59% | Median |
-| 13 | 23% | 46% |  |
+| 10 | 9% | 84% |  |
+| 11 | 18% | 76% |  |
+| 12 | 12% | 58% | Median |
+| 13 | 22% | 45% |  |
 | 14 | 10% | 23% |  |
 | 15 | 7% | 13% |  |
 | 16 | 4% | 6% | Last Result |

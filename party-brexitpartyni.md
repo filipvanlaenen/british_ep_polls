@@ -149,7 +149,7 @@ Last result: **29** seats (General Election of 23 May 2019)
 | [15–17 October 2019](2019-10-17-Opinium.html) | Opinium <br> The Observer | 7 | 7–8 | 6–9 | 6–10 | 6–10 |
 | [16–17 October 2019](2019-10-17-ComRes.html) | ComRes <br> Britain Elects | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [14–15 October 2019](2019-10-15-YouGov.html) | YouGov <br> The Times | 6 | 6–7 | 6–8 | 6–9 | 6–10 |
-| [10–15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 1 | 1–5 | 1–5 | 1–5 | 0–6 |
+| [10–15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 1 | 1–5 | 1–5 | 1–6 | 0–6 |
 | [9–11 October 2019](2019-10-11-Panelbase.html) | Panelbase <br> The Sunday Times | 6 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [9–10 October 2019](2019-10-10-ComRes.html) | ComRes <br> Daily Express | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [8–9 October 2019](2019-10-09-YouGov.html) | YouGov <br> The Times | 7 | 6–8 | 6–9 | 6–9 | 6–10 |
@@ -233,12 +233,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% |  |
-| 1 | 8% | 99.9% |  |
-| 2 | 1.2% | 92% |  |
-| 3 | 2% | 90% |  |
-| 4 | 1.0% | 89% |  |
-| 5 | 5% | 88% |  |
+| 0 | 0.2% | 100% |  |
+| 1 | 8% | 99.8% |  |
+| 2 | 1.0% | 92% |  |
+| 3 | 2% | 91% |  |
+| 4 | 1.0% | 88% |  |
+| 5 | 5% | 87% |  |
 | 6 | 35% | 82% | Median |
 | 7 | 34% | 48% |  |
 | 8 | 8% | 14% |  |

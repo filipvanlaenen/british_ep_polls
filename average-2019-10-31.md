@@ -16,7 +16,7 @@ The table below lists the polls on which the average is based. They are the most
 | [17–18 October 2019](2019-10-18-Survation.html) | Survation <br> Daily Mail | 11–15% <br> 7–10 | 18–23% <br> 12–19 | 21–26% <br> 15–21 | 1–3% <br> 0 | 29–34% <br> 24–29 | 3–5% <br> 2–3 | 1–2% <br> 0–2 | 0–1% <br> 0 | 0–1% <br> 0 |
 | [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 9–13% <br> 4–8 | 15–20% <br> 8–14 | 25–30% <br> 19–25 | 2–4% <br> 0 | 33–39% <br> 26–33 | 3–5% <br> 2–3 | 0–1% <br> 0–1 | 0–1% <br> 0 | 0–1% <br> 0 |
 | [16–17 October 2019](2019-10-17-ComRes.html) | ComRes <br> Britain Elects | 10–13% <br> 6–8 | 16–19% <br> 10–13 | 27–30% <br> 21–24 | 3–5% <br> 0 | 30–34% <br> 23–28 | 3–5% <br> 2–3 | 1% <br> 1 | 0–1% <br> 0 | 0–1% <br> 0 |
-| [10–15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 7–10% <br> 1–5 | 16–20% <br> 9–14 | 23–28% <br> 18–23 | 2–4% <br> 0 | 37–42% <br> 30–37 | 2–4% <br> 1–2 | 1–2% <br> 0–2 | 0–1% <br> 0 | 1–2% <br> 0 |
+| [10–15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 7–10% <br> 1–6 | 16–20% <br> 9–15 | 23–28% <br> 18–23 | 2–4% <br> 0 | 37–42% <br> 30–36 | 2–4% <br> 1–2 | 1–2% <br> 0–2 | 0–1% <br> 0 | 1–2% <br> 0 |
 | [1–4 October 2019](2019-10-04-BMGResearch.html) | BMG Research <br> The Independent | 10–13% <br> 5–7 | 18–22% <br> 12–16 | 24–28% <br> 18–23 | 6–8% <br> 0–2 | 29–34% <br> 23–27 | 2–4% <br> 1–3 | 1–2% <br> 0–2 | N/A <br> N/A | 0–1% <br> 0 |
 | 23 May 2019 | General Election | 30.5% <br> 29 | 19.6% <br> 16 | 13.7% <br> 10 | 11.8% <br> 7 | 8.8% <br> 4 | 3.5% <br> 3 | 1.0% <br> 1 | 3.3% <br> 0 | 3.2% <br> 0 |
 
@@ -262,7 +262,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#liberal-democrats-(re)">Liberal Democrats (RE)</a> | 16 | 12 | 9–15 |8–16 | 8–17 | 6–18 |
 | <a href="#labour-party-(s&d)">Labour Party (S&D)</a> | 10 | 19 | 17–23 |16–23 | 16–24 | 15–25 |
 | <a href="#green-party-(greens/efa)">Green Party (Greens/EFA)</a> | 7 | 0 | 0–1 |0–2 | 0–2 | 0–2 |
-| <a href="#conservative-party-(ecr)">Conservative Party (ECR)</a> | 4 | 30 | 24–34 |24–34 | 23–35 | 23–36 |
+| <a href="#conservative-party-(ecr)">Conservative Party (ECR)</a> | 4 | 30 | 24–33 |24–34 | 23–35 | 23–36 |
 | <a href="#scottish-national-party-(greens/efa)">Scottish National Party (Greens/EFA)</a> | 3 | 2 | 2–3 |2–3 | 1–3 | 1–3 |
 | <a href="#change-uk-(re)">Change UK (RE)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#uk-independence-party-(id)">UK Independence Party (ID)</a> | 0 | 0 | 0 |0 | 0 | 0 |
@@ -276,12 +276,12 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% |  |
-| 1 | 8% | 99.9% |  |
-| 2 | 1.2% | 92% |  |
-| 3 | 2% | 90% |  |
-| 4 | 1.0% | 89% |  |
-| 5 | 5% | 88% |  |
+| 0 | 0.2% | 100% |  |
+| 1 | 8% | 99.8% |  |
+| 2 | 1.0% | 92% |  |
+| 3 | 2% | 91% |  |
+| 4 | 1.0% | 88% |  |
+| 5 | 5% | 87% |  |
 | 6 | 35% | 82% | Median |
 | 7 | 34% | 48% |  |
 | 8 | 8% | 14% |  |
@@ -319,10 +319,10 @@ Only polls for which at least the sample size has been published are included in
 | 7 | 0.1% | 99.2% |  |
 | 8 | 7% | 99.1% |  |
 | 9 | 7% | 92% |  |
-| 10 | 9% | 85% |  |
-| 11 | 17% | 75% |  |
-| 12 | 12% | 59% | Median |
-| 13 | 23% | 46% |  |
+| 10 | 9% | 84% |  |
+| 11 | 18% | 76% |  |
+| 12 | 12% | 58% | Median |
+| 13 | 22% | 45% |  |
 | 14 | 10% | 23% |  |
 | 15 | 7% | 13% |  |
 | 16 | 4% | 6% | Last Result |
@@ -347,12 +347,12 @@ Only polls for which at least the sample size has been published are included in
 | 15 | 1.4% | 100% |  |
 | 16 | 7% | 98.6% |  |
 | 17 | 6% | 91% |  |
-| 18 | 14% | 85% |  |
-| 19 | 24% | 71% | Median |
-| 20 | 10% | 47% |  |
-| 21 | 19% | 37% |  |
-| 22 | 8% | 19% |  |
-| 23 | 8% | 11% |  |
+| 18 | 15% | 85% |  |
+| 19 | 22% | 70% | Median |
+| 20 | 10% | 49% |  |
+| 21 | 18% | 39% |  |
+| 22 | 8% | 20% |  |
+| 23 | 9% | 13% |  |
 | 24 | 2% | 3% |  |
 | 25 | 0.6% | 0.7% |  |
 | 26 | 0.1% | 0.1% |  |
@@ -409,14 +409,14 @@ Only polls for which at least the sample size has been published are included in
 | 27 | 6% | 67% |  |
 | 28 | 4% | 62% |  |
 | 29 | 7% | 58% |  |
-| 30 | 11% | 51% | Median |
-| 31 | 8% | 40% |  |
-| 32 | 10% | 32% |  |
-| 33 | 11% | 22% |  |
-| 34 | 8% | 11% |  |
-| 35 | 2% | 3% |  |
-| 36 | 0.7% | 1.2% | Majority |
-| 37 | 0.4% | 0.5% |  |
+| 30 | 12% | 51% | Median |
+| 31 | 8% | 38% |  |
+| 32 | 10% | 31% |  |
+| 33 | 12% | 20% |  |
+| 34 | 5% | 9% |  |
+| 35 | 3% | 4% |  |
+| 36 | 0.7% | 1.1% | Majority |
+| 37 | 0.2% | 0.4% |  |
 | 38 | 0.1% | 0.1% |  |
 | 39 | 0% | 0% |  |
 
@@ -463,8 +463,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 27% | 100% |  |
-| 1 | 67% | 73% | Last Result, Median |
-| 2 | 7% | 7% |  |
+| 1 | 66% | 73% | Last Result, Median |
+| 2 | 8% | 8% |  |
 | 3 | 0% | 0% |  |
 
 
@@ -476,7 +476,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Conservative Party (ECR) | 4 | 30 | 1.2% | 24–34 | 24–34 | 23–35 | 23–36 |
+| Conservative Party (ECR) | 4 | 30 | 1.1% | 24–33 | 24–34 | 23–35 | 23–36 |
 | Labour Party (S&D) | 10 | 19 | 0% | 17–23 | 16–23 | 16–24 | 15–25 |
 | Liberal Democrats (RE) – Change UK (RE) | 16 | 12 | 0% | 9–15 | 8–16 | 8–17 | 6–18 |
 | Brexit Party (NI) | 29 | 6 | 0% | 3–8 | 1–9 | 1–9 | 1–10 |
@@ -515,14 +515,14 @@ Only polls for which at least the sample size has been published are included in
 | 27 | 6% | 67% |  |
 | 28 | 4% | 62% |  |
 | 29 | 7% | 58% |  |
-| 30 | 11% | 51% | Median |
-| 31 | 8% | 40% |  |
-| 32 | 10% | 32% |  |
-| 33 | 11% | 22% |  |
-| 34 | 8% | 11% |  |
-| 35 | 2% | 3% |  |
-| 36 | 0.7% | 1.2% | Majority |
-| 37 | 0.4% | 0.5% |  |
+| 30 | 12% | 51% | Median |
+| 31 | 8% | 38% |  |
+| 32 | 10% | 31% |  |
+| 33 | 12% | 20% |  |
+| 34 | 5% | 9% |  |
+| 35 | 3% | 4% |  |
+| 36 | 0.7% | 1.1% | Majority |
+| 37 | 0.2% | 0.4% |  |
 | 38 | 0.1% | 0.1% |  |
 | 39 | 0% | 0% |  |
 
@@ -540,12 +540,12 @@ Only polls for which at least the sample size has been published are included in
 | 15 | 1.4% | 100% |  |
 | 16 | 7% | 98.6% |  |
 | 17 | 6% | 91% |  |
-| 18 | 14% | 85% |  |
-| 19 | 24% | 71% | Median |
-| 20 | 10% | 47% |  |
-| 21 | 19% | 37% |  |
-| 22 | 8% | 19% |  |
-| 23 | 8% | 11% |  |
+| 18 | 15% | 85% |  |
+| 19 | 22% | 70% | Median |
+| 20 | 10% | 49% |  |
+| 21 | 18% | 39% |  |
+| 22 | 8% | 20% |  |
+| 23 | 9% | 13% |  |
 | 24 | 2% | 3% |  |
 | 25 | 0.6% | 0.7% |  |
 | 26 | 0.1% | 0.1% |  |
@@ -561,10 +561,10 @@ Only polls for which at least the sample size has been published are included in
 | 7 | 0.1% | 99.2% |  |
 | 8 | 7% | 99.1% |  |
 | 9 | 7% | 92% |  |
-| 10 | 9% | 85% |  |
-| 11 | 17% | 75% |  |
-| 12 | 12% | 59% | Median |
-| 13 | 23% | 46% |  |
+| 10 | 9% | 84% |  |
+| 11 | 18% | 76% |  |
+| 12 | 12% | 58% | Median |
+| 13 | 22% | 45% |  |
 | 14 | 10% | 23% |  |
 | 15 | 7% | 13% |  |
 | 16 | 4% | 6% | Last Result |
@@ -579,12 +579,12 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% |  |
-| 1 | 8% | 99.9% |  |
-| 2 | 1.2% | 92% |  |
-| 3 | 2% | 90% |  |
-| 4 | 1.0% | 89% |  |
-| 5 | 5% | 88% |  |
+| 0 | 0.2% | 100% |  |
+| 1 | 8% | 99.8% |  |
+| 2 | 1.0% | 92% |  |
+| 3 | 2% | 91% |  |
+| 4 | 1.0% | 88% |  |
+| 5 | 5% | 87% |  |
 | 6 | 35% | 82% | Median |
 | 7 | 34% | 48% |  |
 | 8 | 8% | 14% |  |
@@ -617,9 +617,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.1% | 100% |  |
-| 2 | 11% | 99.9% |  |
-| 3 | 57% | 88% | Median |
-| 4 | 25% | 31% |  |
+| 2 | 12% | 99.9% |  |
+| 3 | 56% | 88% | Median |
+| 4 | 25% | 32% |  |
 | 5 | 6% | 7% |  |
 | 6 | 0.7% | 0.7% |  |
 | 7 | 0% | 0% |  |
@@ -640,6 +640,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 8
-+ **Lowest number of simulations done in a poll included in this average:** 262,144
-+ **Total number of simulations done in the polls included in this average:** 7,602,176
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 8,388,608
 + **Error estimate:** 1.94%
