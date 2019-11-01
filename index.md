@@ -12,7 +12,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | [17–18 October 2019](2019-10-18-Survation.html) | Survation <br> Daily Mail | 11–15% <br> 7–10 | 18–23% <br> 12–19 | 21–26% <br> 15–21 | 1–3% <br> 0 | 29–34% <br> 24–29 | 3–5% <br> 2–3 | 1–2% <br> 0–2 | 0–1% <br> 0 | 0–1% <br> 0 |
 | [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 9–13% <br> 4–8 | 15–20% <br> 8–14 | 25–30% <br> 19–25 | 2–4% <br> 0 | 33–39% <br> 26–33 | 3–5% <br> 2–3 | 0–1% <br> 0–1 | 0–1% <br> 0 | 0–1% <br> 0 |
 | [16–17 October 2019](2019-10-17-ComRes.html) | ComRes <br> Britain Elects | 10–13% <br> 6–8 | 16–19% <br> 10–13 | 27–30% <br> 21–24 | 3–5% <br> 0 | 30–34% <br> 23–28 | 3–5% <br> 2–3 | 1% <br> 1 | 0–1% <br> 0 | 0–1% <br> 0 |
-| [10–15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 7–10% <br> 1–5 | 16–20% <br> 9–14 | 23–28% <br> 18–23 | 2–4% <br> 0 | 37–42% <br> 30–37 | 2–4% <br> 1–2 | 1–2% <br> 0–2 | 0–1% <br> 0 | 1–2% <br> 0 |
+| [10–15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 7–10% <br> 1–6 | 16–20% <br> 9–15 | 23–28% <br> 18–23 | 2–4% <br> 0 | 37–42% <br> 30–36 | 2–4% <br> 1–2 | 1–2% <br> 0–2 | 0–1% <br> 0 | 1–2% <br> 0 |
 | [1–4 October 2019](2019-10-04-BMGResearch.html) | BMG Research <br> The Independent | 10–13% <br> 5–7 | 18–22% <br> 12–16 | 24–28% <br> 18–23 | 6–8% <br> 0–2 | 29–34% <br> 23–27 | 2–4% <br> 1–3 | 1–2% <br> 0–2 | N/A <br> N/A | 0–1% <br> 0 |
 | 23 May 2019 | General Election | 30.5% <br> 29 | 19.6% <br> 16 | 13.7% <br> 10 | 11.8% <br> 7 | 8.8% <br> 4 | 3.5% <br> 3 | 1.0% <br> 1 | 3.3% <br> 0 | 3.2% <br> 0 |
 
