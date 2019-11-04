@@ -10,8 +10,18 @@ Last result: **19.6%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.3% | 15.6–20.8% | 14.9–21.4% | 14.4–22.0% | 13.7–23.0% |
-| [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 17.9% | 16.7–19.2% | 16.4–19.6% | 16.1–19.9% | 15.6–20.5% |
+| N/A | [Poll Average](average.html) | 19.2% | 17.3–21.0% | 16.8–21.5% | 16.4–21.8% | 15.7–22.6% |
+| [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 13.9% | N/A | N/A | N/A | N/A |
+| [30 October–1 November 2019](2019-11-01-YouGov.html) | YouGov <br> The Sunday Times | 15.9% | N/A | N/A | N/A | N/A |
+| [30 October–1 November 2019](2019-11-01-Opinium.html) | Opinium <br> The Observer | 15.8% | N/A | N/A | N/A | N/A |
+| [30–31 October 2019](2019-10-31-Panelbase.html) | Panelbase | 14.0% | N/A | N/A | N/A | N/A |
+| [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph | 14.0% | N/A | N/A | N/A | N/A |
+| [30–31 October 2019](2019-10-31-ComRes.html) | ComRes <br> Sunday Express | 17.1% | N/A | N/A | N/A | N/A |
+| [29–30 October 2019](2019-10-30-YouGov.html) | YouGov <br> The Times | 18.1% | N/A | N/A | N/A | N/A |
+| [29–30 October 2019](2019-10-30-Survation.html) | Survation | 19.0% | N/A | N/A | N/A | N/A |
+| [17–28 October 2019](2019-10-28-YouGov.html) | YouGov | 18.7% | N/A | N/A | N/A | N/A |
+| [25–28 October 2019](2019-10-28-IpsosMORI.html) | Ipsos MORI | 19.9% | N/A | N/A | N/A | N/A |
+| [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 17.9% | N/A | N/A | N/A | N/A |
 | [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 15.1% | 14.1–16.2% | 13.8–16.5% | 13.6–16.7% | 13.1–17.3% |
 | [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 18.7% | 17.5–20.0% | 17.2–20.3% | 16.9–20.7% | 16.4–21.3% |
 | [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 18.9% | 17.8–20.1% | 17.5–20.4% | 17.2–20.7% | 16.7–21.2% |
@@ -102,20 +112,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.3% | 100% |  |
-| 13.5–14.5% | 3% | 99.7% |  |
-| 14.5–15.5% | 7% | 97% |  |
-| 15.5–16.5% | 8% | 90% |  |
-| 16.5–17.5% | 15% | 82% |  |
-| 17.5–18.5% | 22% | 66% | Median |
-| 18.5–19.5% | 19% | 44% |  |
-| 19.5–20.5% | 13% | 25% | Last Result |
-| 20.5–21.5% | 8% | 12% |  |
-| 21.5–22.5% | 3% | 4% |  |
-| 22.5–23.5% | 0.9% | 1.1% |  |
-| 23.5–24.5% | 0.2% | 0.2% |  |
-| 24.5–25.5% | 0% | 0% |  |
+| 13.5–14.5% | 0% | 100% |  |
+| 14.5–15.5% | 0.3% | 100% |  |
+| 15.5–16.5% | 3% | 99.7% |  |
+| 16.5–17.5% | 11% | 97% |  |
+| 17.5–18.5% | 20% | 86% |  |
+| 18.5–19.5% | 25% | 66% | Median |
+| 19.5–20.5% | 23% | 41% | Last Result |
+| 20.5–21.5% | 14% | 18% |  |
+| 21.5–22.5% | 4% | 4% |  |
+| 22.5–23.5% | 0.5% | 0.5% |  |
+| 23.5–24.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -126,8 +133,18 @@ Last result: **16** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 9–15 | 8–16 | 8–17 | 6–18 |
-| [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 11 | 10–14 | 9–15 | 9–15 | 9–16 |
+| N/A | [Poll Average](average.html) | 13 | 11–15 | 10–16 | 10–16 | 9–17 |
+| [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday |  |  |  |  |  |
+| [30 October–1 November 2019](2019-11-01-YouGov.html) | YouGov <br> The Sunday Times |  |  |  |  |  |
+| [30 October–1 November 2019](2019-11-01-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [30–31 October 2019](2019-10-31-Panelbase.html) | Panelbase |  |  |  |  |  |
+| [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph |  |  |  |  |  |
+| [30–31 October 2019](2019-10-31-ComRes.html) | ComRes <br> Sunday Express |  |  |  |  |  |
+| [29–30 October 2019](2019-10-30-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [29–30 October 2019](2019-10-30-Survation.html) | Survation |  |  |  |  |  |
+| [17–28 October 2019](2019-10-28-YouGov.html) | YouGov |  |  |  |  |  |
+| [25–28 October 2019](2019-10-28-IpsosMORI.html) | Ipsos MORI |  |  |  |  |  |
+| [24–25 October 2019](2019-10-25-YouGov.html) | YouGov |  |  |  |  |  |
 | [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 9 | 8–10 | 7–10 | 6–10 | 6–11 |
 | [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 12 | 10–15 | 10–15 | 10–16 | 10–16 |
 | [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 12 | 11–15 | 11–15 | 11–15 | 10–15 |
@@ -220,20 +237,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 0.8% | 100% |  |
-| 7 | 0.1% | 99.2% |  |
-| 8 | 7% | 99.1% |  |
-| 9 | 7% | 92% |  |
-| 10 | 9% | 84% |  |
-| 11 | 18% | 76% |  |
-| 12 | 12% | 58% | Median |
-| 13 | 22% | 45% |  |
-| 14 | 10% | 23% |  |
-| 15 | 7% | 13% |  |
-| 16 | 4% | 6% | Last Result |
-| 17 | 1.1% | 3% |  |
-| 18 | 1.1% | 2% |  |
-| 19 | 0.5% | 0.5% |  |
-| 20 | 0% | 0% |  |
+| 8 | 0.2% | 100% |  |
+| 9 | 2% | 99.8% |  |
+| 10 | 4% | 98% |  |
+| 11 | 10% | 93% |  |
+| 12 | 10% | 84% |  |
+| 13 | 41% | 74% | Median |
+| 14 | 19% | 33% |  |
+| 15 | 6% | 14% |  |
+| 16 | 6% | 7% | Last Result |
+| 17 | 0.7% | 1.0% |  |
+| 18 | 0.3% | 0.3% |  |
+| 19 | 0% | 0% |  |
 
 
