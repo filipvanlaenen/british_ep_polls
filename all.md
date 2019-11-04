@@ -5,7 +5,17 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | BREXIT | LIBDEM | LAB | GREEN | CON | SNP | PC | ChUK | UKIP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 23 May 2019 | General Election | 30.5% <br> 29 | 19.6% <br> 16 | 13.7% <br> 10 | 11.8% <br> 7 | 8.8% <br> 4 | 3.5% <br> 3 | 1.0% <br> 1 | 3.3% <br> 0 | 3.2% <br> 0 |
-| [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 10–14% <br> 6–10 | 16–20% <br> 9–15 | 21–25% <br> 16–21 | 5–7% <br> 0–2 | 33–38% <br> 27–32 | 2–4% <br> 1–2 | 1–2% <br> 1–2 | 0–1% <br> 0 | 0–1% <br> 0 |
+| [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [30 October–1 November 2019](2019-11-01-YouGov.html) | YouGov <br> The Sunday Times | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [30 October–1 November 2019](2019-11-01-Opinium.html) | Opinium <br> The Observer | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [30–31 October 2019](2019-10-31-Panelbase.html) | Panelbase | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [30–31 October 2019](2019-10-31-ComRes.html) | ComRes <br> Sunday Express | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [29–30 October 2019](2019-10-30-YouGov.html) | YouGov <br> The Times | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [29–30 October 2019](2019-10-30-Survation.html) | Survation | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [17–28 October 2019](2019-10-28-YouGov.html) | YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [25–28 October 2019](2019-10-28-IpsosMORI.html) | Ipsos MORI | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 9–11% <br> 3–7 | 14–17% <br> 6–10 | 22–26% <br> 17–21 | 2–4% <br> 0 | 38–42% <br> 32–36 | 4–6% <br> 2–3 | 0–1% <br> 0 | 0–1% <br> 0 | 1–2% <br> 0 |
 | [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 9–12% <br> 6–8 | 17–21% <br> 10–16 | 20–24% <br> 15–18 | 6–8% <br> 0–2 | 34–39% <br> 27–32 | 2–4% <br> 1–3 | 1–2% <br> 0–2 | 0–1% <br> 0 | 1–2% <br> 0 |
 | [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 10–12% <br> 6–7 | 17–21% <br> 11–15 | 22–26% <br> 15–21 | 2–4% <br> 0 | 35–39% <br> 27–32 | 3–5% <br> 2–3 | 1–2% <br> 0–2 | 0–1% <br> 0 | 1–2% <br> 0 |
