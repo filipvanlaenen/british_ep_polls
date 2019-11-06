@@ -10,7 +10,9 @@ Last result: **13.7%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.7% | 24.0–27.4% | 23.5–27.8% | 23.1–28.2% | 22.3–29.0% |
+| N/A | [Poll Average](average.html) | 25.2% | 23.6–26.8% | 23.2–27.3% | 22.8–27.7% | 22.0–28.5% |
+| [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 24.6% | N/A | N/A | N/A | N/A |
+| [1–4 November 2019](2019-11-04-ICMResearch.html) | ICM Research <br> Reuters | 30.6% | N/A | N/A | N/A | N/A |
 | [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 27.9% | N/A | N/A | N/A | N/A |
 | [30 October–1 November 2019](2019-11-01-YouGov.html) | YouGov <br> The Sunday Times | 26.9% | N/A | N/A | N/A | N/A |
 | [30 October–1 November 2019](2019-11-01-Opinium.html) | Opinium <br> The Observer | 25.6% | N/A | N/A | N/A | N/A |
@@ -120,16 +122,15 @@ The following table shows the probability mass function per percentage block of 
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0.1% | 100% |  |
-| 21.5–22.5% | 0.8% | 99.9% |  |
-| 22.5–23.5% | 4% | 99.2% |  |
-| 23.5–24.5% | 14% | 95% |  |
-| 24.5–25.5% | 26% | 81% |  |
-| 25.5–26.5% | 29% | 55% | Median |
-| 26.5–27.5% | 18% | 26% |  |
-| 27.5–28.5% | 6% | 7% |  |
-| 28.5–29.5% | 1.1% | 1.2% |  |
-| 29.5–30.5% | 0.1% | 0.1% |  |
-| 30.5–31.5% | 0% | 0% |  |
+| 21.5–22.5% | 1.5% | 99.9% |  |
+| 22.5–23.5% | 8% | 98% |  |
+| 23.5–24.5% | 21% | 91% |  |
+| 24.5–25.5% | 30% | 70% | Median |
+| 25.5–26.5% | 25% | 39% |  |
+| 26.5–27.5% | 11% | 14% |  |
+| 27.5–28.5% | 3% | 3% |  |
+| 28.5–29.5% | 0.4% | 0.5% |  |
+| 29.5–30.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -140,7 +141,9 @@ Last result: **10** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 19–23 | 18–23 | 18–23 | 16–24 |
+| N/A | [Poll Average](average.html) | 19 | 19–23 | 18–23 | 18–23 | 16–24 |
+| [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [1–4 November 2019](2019-11-04-ICMResearch.html) | ICM Research <br> Reuters |  |  |  |  |  |
 | [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday |  |  |  |  |  |
 | [30 October–1 November 2019](2019-11-01-YouGov.html) | YouGov <br> The Sunday Times |  |  |  |  |  |
 | [30 October–1 November 2019](2019-11-01-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
@@ -250,15 +253,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
-| 16 | 0.6% | 100% |  |
-| 17 | 0.9% | 99.4% |  |
-| 18 | 6% | 98% |  |
-| 19 | 31% | 93% |  |
-| 20 | 13% | 62% | Median |
-| 21 | 25% | 49% |  |
-| 22 | 11% | 24% |  |
-| 23 | 11% | 13% |  |
-| 24 | 0.9% | 1.1% |  |
+| 16 | 0.9% | 100% |  |
+| 17 | 1.2% | 99.1% |  |
+| 18 | 7% | 98% |  |
+| 19 | 53% | 91% | Median |
+| 20 | 11% | 38% |  |
+| 21 | 6% | 26% |  |
+| 22 | 2% | 20% |  |
+| 23 | 18% | 19% |  |
+| 24 | 0.6% | 0.9% |  |
 | 25 | 0.2% | 0.2% |  |
 | 26 | 0% | 0% |  |
 
