@@ -11,7 +11,8 @@ Last result: **13.7%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 25.2% | 23.6–26.8% | 23.2–27.3% | 22.8–27.7% | 22.0–28.5% |
-| [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 24.6% | N/A | N/A | N/A | N/A |
+| [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times/Sky News | 24.9% | N/A | N/A | N/A | N/A |
+| [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 24.8% | N/A | N/A | N/A | N/A |
 | [1–4 November 2019](2019-11-04-ICMResearch.html) | ICM Research <br> Reuters | 30.6% | N/A | N/A | N/A | N/A |
 | [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 27.9% | N/A | N/A | N/A | N/A |
 | [30 October–1 November 2019](2019-11-01-YouGov.html) | YouGov <br> The Sunday Times | 26.9% | N/A | N/A | N/A | N/A |
@@ -142,6 +143,7 @@ Last result: **10** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 19 | 19–23 | 18–23 | 18–23 | 16–24 |
+| [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times/Sky News |  |  |  |  |  |
 | [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [1–4 November 2019](2019-11-04-ICMResearch.html) | ICM Research <br> Reuters |  |  |  |  |  |
 | [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday |  |  |  |  |  |
