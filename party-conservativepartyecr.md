@@ -10,8 +10,8 @@ Last result: **8.8%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 39.3% | 37.5–41.1% | 37.0–41.6% | 36.5–42.1% | 35.7–43.0% |
-| [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times/Sky News | 35.8% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 37.4% | 34.8–40.5% | 34.3–41.1% | 33.9–41.6% | 33.1–42.6% |
+| [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times/Sky News | 35.8% | 34.3–37.3% | 33.9–37.8% | 33.5–38.1% | 32.8–38.9% |
 | [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 37.7% | N/A | N/A | N/A | N/A |
 | [1–4 November 2019](2019-11-04-ICMResearch.html) | ICM Research <br> Reuters | 37.5% | N/A | N/A | N/A | N/A |
 | [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 39.9% | N/A | N/A | N/A | N/A |
@@ -138,18 +138,18 @@ The following table shows the probability mass function per percentage block of 
 | 28.5–29.5% | 0% | 100% |  |
 | 29.5–30.5% | 0% | 100% |  |
 | 30.5–31.5% | 0% | 100% |  |
-| 31.5–32.5% | 0% | 100% |  |
-| 32.5–33.5% | 0% | 100% |  |
-| 33.5–34.5% | 0% | 100% |  |
-| 34.5–35.5% | 0.3% | 100% |  |
-| 35.5–36.5% | 2% | 99.6% |  |
-| 36.5–37.5% | 8% | 97% |  |
-| 37.5–38.5% | 19% | 89% |  |
-| 38.5–39.5% | 27% | 70% | Median |
-| 39.5–40.5% | 24% | 43% |  |
-| 40.5–41.5% | 13% | 19% |  |
-| 41.5–42.5% | 5% | 6% |  |
-| 42.5–43.5% | 1.0% | 1.1% |  |
+| 31.5–32.5% | 0.1% | 100% |  |
+| 32.5–33.5% | 1.1% | 99.9% |  |
+| 33.5–34.5% | 6% | 98.7% |  |
+| 34.5–35.5% | 14% | 93% |  |
+| 35.5–36.5% | 17% | 80% |  |
+| 36.5–37.5% | 14% | 62% | Median |
+| 37.5–38.5% | 13% | 48% |  |
+| 38.5–39.5% | 14% | 36% |  |
+| 39.5–40.5% | 12% | 21% |  |
+| 40.5–41.5% | 7% | 9% |  |
+| 41.5–42.5% | 2% | 3% |  |
+| 42.5–43.5% | 0.5% | 0.6% |  |
 | 43.5–44.5% | 0.1% | 0.1% |  |
 | 44.5–45.5% | 0% | 0% |  |
 
@@ -162,8 +162,8 @@ Last result: **4** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 34 | 30–35 | 30–36 | 30–36 | 29–38 |
-| [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times/Sky News |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 32 | 27–35 | 27–35 | 27–36 | 27–37 |
+| [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times/Sky News | 28 | 27–32 | 27–32 | 27–32 | 27–33 |
 | [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [1–4 November 2019](2019-11-04-ICMResearch.html) | ICM Research <br> Reuters |  |  |  |  |  |
 | [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday |  |  |  |  |  |
@@ -290,21 +290,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 22 | 0% | 100% |  |
 | 23 | 0% | 100% |  |
 | 24 | 0% | 100% |  |
-| 25 | 0% | 100% |  |
-| 26 | 0% | 100% |  |
-| 27 | 0% | 100% |  |
-| 28 | 0.1% | 100% |  |
-| 29 | 1.1% | 99.9% |  |
-| 30 | 23% | 98.8% |  |
-| 31 | 4% | 76% |  |
-| 32 | 5% | 73% |  |
-| 33 | 13% | 68% |  |
-| 34 | 33% | 54% | Median |
-| 35 | 15% | 21% |  |
-| 36 | 4% | 6% | Majority |
-| 37 | 1.1% | 2% |  |
-| 38 | 0.8% | 1.0% |  |
-| 39 | 0.2% | 0.2% |  |
+| 25 | 0.1% | 100% |  |
+| 26 | 0.1% | 99.9% |  |
+| 27 | 23% | 99.8% |  |
+| 28 | 4% | 77% |  |
+| 29 | 2% | 73% |  |
+| 30 | 15% | 71% |  |
+| 31 | 2% | 56% |  |
+| 32 | 19% | 53% | Median |
+| 33 | 7% | 34% |  |
+| 34 | 17% | 27% |  |
+| 35 | 7% | 11% |  |
+| 36 | 2% | 3% | Majority |
+| 37 | 0.6% | 1.0% |  |
+| 38 | 0.4% | 0.5% |  |
+| 39 | 0.1% | 0.1% |  |
 | 40 | 0% | 0% |  |
 
 
