@@ -10,8 +10,13 @@ Last result: **19.6%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.5% | 16.1–19.2% | 15.7–19.7% | 15.4–20.1% | 14.9–20.9% |
-| [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times/Sky News | 16.9% | 15.8–18.2% | 15.5–18.5% | 15.2–18.8% | 14.7–19.4% |
+| N/A | [Poll Average](average.html) | 18.2% | 16.8–19.7% | 16.4–20.1% | 16.1–20.5% | 15.4–21.2% |
+| [6–9 November 2019](2019-11-09-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 16.1% | N/A | N/A | N/A | N/A |
+| [7–8 November 2019](2019-11-08-YouGov.html) | YouGov <br> The Sunday Times and Sky News | 16.9% | N/A | N/A | N/A | N/A |
+| [6–8 November 2019](2019-11-08-Panelbase.html) | Panelbase | 14.9% | N/A | N/A | N/A | N/A |
+| [6–8 November 2019](2019-11-08-Opinium.html) | Opinium <br> The Observer | 15.0% | N/A | N/A | N/A | N/A |
+| [5–8 November 2019](2019-11-08-BMGResearch.html) | BMG Research <br> The Independent | 25.8% | N/A | N/A | N/A | N/A |
+| [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times and Sky News | 16.9% | 15.8–18.2% | 15.5–18.5% | 15.2–18.8% | 14.7–19.4% |
 | [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 15.9% | N/A | N/A | N/A | N/A |
 | [1–4 November 2019](2019-11-04-ICMResearch.html) | ICM Research <br> Reuters | 14.8% | N/A | N/A | N/A | N/A |
 | [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 13.9% | N/A | N/A | N/A | N/A |
@@ -115,16 +120,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 12.5–13.5% | 0% | 100% |  |
-| 13.5–14.5% | 0.2% | 100% |  |
-| 14.5–15.5% | 3% | 99.8% |  |
-| 15.5–16.5% | 17% | 97% |  |
-| 16.5–17.5% | 31% | 80% |  |
-| 17.5–18.5% | 28% | 49% | Median |
-| 18.5–19.5% | 15% | 21% |  |
-| 19.5–20.5% | 5% | 6% | Last Result |
-| 20.5–21.5% | 1.0% | 1.1% |  |
-| 21.5–22.5% | 0.1% | 0.1% |  |
+| 13.5–14.5% | 0% | 100% |  |
+| 14.5–15.5% | 0.7% | 100% |  |
+| 15.5–16.5% | 6% | 99.3% |  |
+| 16.5–17.5% | 21% | 93% |  |
+| 17.5–18.5% | 34% | 72% | Median |
+| 18.5–19.5% | 26% | 38% |  |
+| 19.5–20.5% | 10% | 12% | Last Result |
+| 20.5–21.5% | 2% | 2% |  |
+| 21.5–22.5% | 0.2% | 0.2% |  |
 | 22.5–23.5% | 0% | 0% |  |
 
 
@@ -136,8 +140,13 @@ Last result: **16** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 10–13 | 9–13 | 8–14 | 8–15 |
-| [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times/Sky News | 11 | 11–12 | 8–12 | 8–12 | 8–13 |
+| N/A | [Poll Average](average.html) | 13 | 10–13 | 10–14 | 9–15 | 9–15 |
+| [6–9 November 2019](2019-11-09-Deltapoll.html) | Deltapoll <br> The Mail on Sunday |  |  |  |  |  |
+| [7–8 November 2019](2019-11-08-YouGov.html) | YouGov <br> The Sunday Times and Sky News |  |  |  |  |  |
+| [6–8 November 2019](2019-11-08-Panelbase.html) | Panelbase |  |  |  |  |  |
+| [6–8 November 2019](2019-11-08-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [5–8 November 2019](2019-11-08-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
+| [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times and Sky News | 11 | 11–12 | 8–12 | 8–12 | 8–13 |
 | [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [1–4 November 2019](2019-11-04-ICMResearch.html) | ICM Research <br> Reuters |  |  |  |  |  |
 | [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday |  |  |  |  |  |
@@ -243,15 +252,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 3% | 100% |  |
-| 9 | 3% | 97% |  |
-| 10 | 5% | 94% |  |
-| 11 | 31% | 89% |  |
-| 12 | 29% | 58% | Median |
-| 13 | 24% | 29% |  |
-| 14 | 4% | 5% |  |
-| 15 | 1.0% | 1.3% |  |
-| 16 | 0.2% | 0.2% | Last Result |
+| 8 | 0.4% | 100% |  |
+| 9 | 4% | 99.6% |  |
+| 10 | 9% | 95% |  |
+| 11 | 19% | 87% |  |
+| 12 | 9% | 67% |  |
+| 13 | 48% | 58% | Median |
+| 14 | 7% | 10% |  |
+| 15 | 2% | 3% |  |
+| 16 | 0.4% | 0.5% | Last Result |
 | 17 | 0% | 0% |  |
 
 
