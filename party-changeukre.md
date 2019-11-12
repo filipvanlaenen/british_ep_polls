@@ -11,12 +11,15 @@ Last result: **3.3%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.3% | 0.1–0.6% | 0.1–0.6% | 0.1–0.7% | 0.1–0.9% |
+| [8–11 November 2019](2019-11-11-ICMResearch.html) | ICM Research | 0.0% | N/A | N/A | N/A | N/A |
 | [6–9 November 2019](2019-11-09-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0.0% | N/A | N/A | N/A | N/A |
 | [7–8 November 2019](2019-11-08-YouGov.html) | YouGov <br> The Sunday Times and Sky News | 0.0% | N/A | N/A | N/A | N/A |
+| [6–8 November 2019](2019-11-08-Survation.html) | Survation | 0.0% | N/A | N/A | N/A | N/A |
 | [6–8 November 2019](2019-11-08-Panelbase.html) | Panelbase | 0.0% | N/A | N/A | N/A | N/A |
 | [6–8 November 2019](2019-11-08-Opinium.html) | Opinium <br> The Observer | 0.2% | N/A | N/A | N/A | N/A |
 | [5–8 November 2019](2019-11-08-BMGResearch.html) | BMG Research <br> The Independent | 0.0% | N/A | N/A | N/A | N/A |
 | [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times and Sky News | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.8% |
+| [30 October–5 November 2019](2019-11-05-ComRes.html) | ComRes <br> Remain United | 0.2% | N/A | N/A | N/A | N/A |
 | [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 0.2% | N/A | N/A | N/A | N/A |
 | [1–4 November 2019](2019-11-04-ICMResearch.html) | ICM Research <br> Reuters | 0.0% | N/A | N/A | N/A | N/A |
 | [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0.0% | N/A | N/A | N/A | N/A |
@@ -135,12 +138,15 @@ Last result: **0** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [8–11 November 2019](2019-11-11-ICMResearch.html) | ICM Research |  |  |  |  |  |
 | [6–9 November 2019](2019-11-09-Deltapoll.html) | Deltapoll <br> The Mail on Sunday |  |  |  |  |  |
 | [7–8 November 2019](2019-11-08-YouGov.html) | YouGov <br> The Sunday Times and Sky News |  |  |  |  |  |
+| [6–8 November 2019](2019-11-08-Survation.html) | Survation |  |  |  |  |  |
 | [6–8 November 2019](2019-11-08-Panelbase.html) | Panelbase |  |  |  |  |  |
 | [6–8 November 2019](2019-11-08-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [5–8 November 2019](2019-11-08-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
 | [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times and Sky News | 0 | 0 | 0 | 0 | 0 |
+| [30 October–5 November 2019](2019-11-05-ComRes.html) | ComRes <br> Remain United |  |  |  |  |  |
 | [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [1–4 November 2019](2019-11-04-ICMResearch.html) | ICM Research <br> Reuters |  |  |  |  |  |
 | [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday |  |  |  |  |  |
