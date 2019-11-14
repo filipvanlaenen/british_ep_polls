@@ -5,8 +5,11 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | BREXIT | LIBDEM | LAB | GREEN | CON | SNP | PC | ChUK | UKIP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 23 May 2019 | General Election | 30.5% <br> 29 | 19.6% <br> 16 | 13.7% <br> 10 | 11.8% <br> 7 | 8.8% <br> 4 | 3.5% <br> 3 | 1.0% <br> 1 | 3.3% <br> 0 | 3.2% <br> 0 |
-| [11–12 November 2019](2019-11-12-YouGov.html) | YouGov <br> Sky News | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [11–12 November 2019](2019-11-12-YouGov.html) | YouGov <br> The Times and Sky News | 3–5% <br> 0 | 13–17% <br> 6–10 | 26–30% <br> 20–26 | 3–5% <br> 0 | 40–44% <br> 33–39 | 2–4% <br> 1–2 | 1–2% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
+| [11–12 November 2019](2019-11-12-ComRes.html) | ComRes <br> Daily Telegraph | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [7–11 November 2019](2019-11-11-KantarPublic.html) | Kantar Public | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [8–11 November 2019](2019-11-11-ICMResearch.html) | ICM Research | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [8–10 November 2019](2019-11-10-ComRes.html) | ComRes <br> Britain Elects | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [6–9 November 2019](2019-11-09-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [7–8 November 2019](2019-11-08-YouGov.html) | YouGov <br> The Sunday Times and Sky News | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [6–8 November 2019](2019-11-08-Survation.html) | Survation | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
