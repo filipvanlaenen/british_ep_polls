@@ -10,8 +10,8 @@ Last result: **13.7%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.0% | 27.0–30.8% | 26.4–31.3% | 25.8–31.7% | 24.8–32.5% |
-| [13–14 November 2019](2019-11-14-Panelbase.html) | Panelbase | 30.2% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 28.8% | 25.7–30.8% | 24.0–31.4% | 23.1–31.9% | 21.8–32.8% |
+| [13–14 November 2019](2019-11-14-Panelbase.html) | Panelbase | 30.2% | 28.4–32.1% | 27.9–32.6% | 27.4–33.1% | 26.6–34.0% |
 | [11–12 November 2019](2019-11-12-YouGov.html) | YouGov <br> The Times and Sky News | 28.0% | 26.6–29.4% | 26.2–29.9% | 25.8–30.2% | 25.2–30.9% |
 | [11–12 November 2019](2019-11-12-ComRes.html) | ComRes <br> Daily Telegraph | 29.5% | 28.2–30.8% | 27.8–31.2% | 27.5–31.5% | 26.9–32.1% |
 | [7–11 November 2019](2019-11-11-KantarPublic.html) | Kantar Public | 27.0% | 25.4–28.8% | 25.0–29.2% | 24.6–29.7% | 23.8–30.5% |
@@ -31,12 +31,12 @@ Last result: **13.7%** (General Election of 23 May 2019)
 | [30 October–1 November 2019](2019-11-01-YouGov.html) | YouGov <br> The Sunday Times | 26.9% | N/A | N/A | N/A | N/A |
 | [30 October–1 November 2019](2019-11-01-Opinium.html) | Opinium <br> The Observer | 25.6% | N/A | N/A | N/A | N/A |
 | [30–31 October 2019](2019-10-31-Panelbase.html) | Panelbase | 29.0% | N/A | N/A | N/A | N/A |
-| [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph | 28.0% | N/A | N/A | N/A | N/A |
+| [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph | 28.0% | 26.7–29.3% | 26.3–29.6% | 26.0–29.9% | 25.4–30.6% |
 | [30–31 October 2019](2019-10-31-ComRes.html) | ComRes <br> Sunday Express | 28.1% | N/A | N/A | N/A | N/A |
 | [29–30 October 2019](2019-10-30-YouGov.html) | YouGov <br> The Times | 21.1% | N/A | N/A | N/A | N/A |
 | [29–30 October 2019](2019-10-30-Survation.html) | Survation | 26.0% | N/A | N/A | N/A | N/A |
 | [17–28 October 2019](2019-10-28-YouGov.html) | YouGov | 21.7% | N/A | N/A | N/A | N/A |
-| [25–28 October 2019](2019-10-28-IpsosMORI.html) | Ipsos MORI | 23.8% | N/A | N/A | N/A | N/A |
+| [25–28 October 2019](2019-10-28-IpsosMORI.html) | Ipsos MORI | 23.8% | 22.2–25.6% | 21.7–26.1% | 21.3–26.6% | 20.5–27.4% |
 | [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 22.9% | N/A | N/A | N/A | N/A |
 | [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 24.1% | 22.9–25.4% | 22.6–25.8% | 22.3–26.1% | 21.7–26.7% |
 | [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 21.7% | 20.4–23.0% | 20.1–23.4% | 19.8–23.7% | 19.2–24.4% |
@@ -135,20 +135,21 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0% | 100% |  |
-| 21.5–22.5% | 0% | 100% |  |
-| 22.5–23.5% | 0% | 100% |  |
-| 23.5–24.5% | 0.3% | 100% |  |
-| 24.5–25.5% | 1.4% | 99.7% |  |
-| 25.5–26.5% | 4% | 98% |  |
-| 26.5–27.5% | 11% | 94% |  |
-| 27.5–28.5% | 21% | 83% |  |
-| 28.5–29.5% | 28% | 62% | Median |
-| 29.5–30.5% | 21% | 34% |  |
-| 30.5–31.5% | 10% | 13% |  |
-| 31.5–32.5% | 3% | 3% |  |
-| 32.5–33.5% | 0.4% | 0.5% |  |
-| 33.5–34.5% | 0% | 0% |  |
+| 20.5–21.5% | 0.3% | 100% |  |
+| 21.5–22.5% | 1.1% | 99.6% |  |
+| 22.5–23.5% | 2% | 98.5% |  |
+| 23.5–24.5% | 3% | 96% |  |
+| 24.5–25.5% | 3% | 93% |  |
+| 25.5–26.5% | 5% | 91% |  |
+| 26.5–27.5% | 11% | 86% |  |
+| 27.5–28.5% | 20% | 75% |  |
+| 28.5–29.5% | 24% | 55% | Median |
+| 29.5–30.5% | 18% | 31% |  |
+| 30.5–31.5% | 9% | 13% |  |
+| 31.5–32.5% | 3% | 4% |  |
+| 32.5–33.5% | 0.7% | 0.8% |  |
+| 33.5–34.5% | 0.1% | 0.1% |  |
+| 34.5–35.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -159,9 +160,9 @@ Last result: **10** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24 | 21–26 | 20–26 | 20–26 | 19–26 |
-| [13–14 November 2019](2019-11-14-Panelbase.html) | Panelbase |  |  |  |  |  |
-| [11–12 November 2019](2019-11-12-YouGov.html) | YouGov <br> The Times and Sky News | 23 | 21–26 | 21–26 | 20–26 | 19–26 |
+| N/A | [Poll Average](average.html) | 24 | 20–26 | 18–26 | 18–26 | 16–26 |
+| [13–14 November 2019](2019-11-14-Panelbase.html) | Panelbase | 25 | 22–26 | 21–26 | 21–26 | 19–26 |
+| [11–12 November 2019](2019-11-12-YouGov.html) | YouGov <br> The Times and Sky News | 23 | 21–25 | 20–26 | 19–26 | 19–26 |
 | [11–12 November 2019](2019-11-12-ComRes.html) | ComRes <br> Daily Telegraph | 25 | 23–26 | 22–26 | 22–26 | 21–26 |
 | [7–11 November 2019](2019-11-11-KantarPublic.html) | Kantar Public | 20 | 19–23 | 19–24 | 19–25 | 18–25 |
 | [8–11 November 2019](2019-11-11-ICMResearch.html) | ICM Research | 26 | 25–26 | 25–26 | 25–27 | 23–28 |
@@ -180,12 +181,12 @@ Last result: **10** seats (General Election of 23 May 2019)
 | [30 October–1 November 2019](2019-11-01-YouGov.html) | YouGov <br> The Sunday Times |  |  |  |  |  |
 | [30 October–1 November 2019](2019-11-01-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
 | [30–31 October 2019](2019-10-31-Panelbase.html) | Panelbase |  |  |  |  |  |
-| [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph |  |  |  |  |  |
+| [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph | 23 | 21–25 | 20–25 | 20–26 | 20–26 |
 | [30–31 October 2019](2019-10-31-ComRes.html) | ComRes <br> Sunday Express |  |  |  |  |  |
 | [29–30 October 2019](2019-10-30-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [29–30 October 2019](2019-10-30-Survation.html) | Survation |  |  |  |  |  |
 | [17–28 October 2019](2019-10-28-YouGov.html) | YouGov |  |  |  |  |  |
-| [25–28 October 2019](2019-10-28-IpsosMORI.html) | Ipsos MORI |  |  |  |  |  |
+| [25–28 October 2019](2019-10-28-IpsosMORI.html) | Ipsos MORI | 18 | 16–20 | 16–20 | 15–20 | 15–22 |
 | [24–25 October 2019](2019-10-25-YouGov.html) | YouGov |  |  |  |  |  |
 | [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 19 | 18–20 | 18–21 | 17–21 | 16–22 |
 | [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 16 | 16–18 | 16–18 | 15–18 | 15–20 |
@@ -284,20 +285,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 0% | 100% |  |
-| 16 | 0% | 100% |  |
-| 17 | 0% | 100% |  |
-| 18 | 0.2% | 100% |  |
-| 19 | 2% | 99.8% |  |
-| 20 | 6% | 98% |  |
-| 21 | 9% | 92% |  |
-| 22 | 10% | 82% |  |
-| 23 | 13% | 72% |  |
-| 24 | 14% | 60% | Median |
-| 25 | 21% | 46% |  |
-| 26 | 24% | 25% |  |
-| 27 | 0.2% | 0.5% |  |
-| 28 | 0.3% | 0.3% |  |
+| 15 | 0.3% | 100% |  |
+| 16 | 2% | 99.7% |  |
+| 17 | 0.3% | 98% |  |
+| 18 | 4% | 98% |  |
+| 19 | 4% | 94% |  |
+| 20 | 7% | 90% |  |
+| 21 | 8% | 84% |  |
+| 22 | 10% | 76% |  |
+| 23 | 13% | 66% |  |
+| 24 | 13% | 53% | Median |
+| 25 | 20% | 40% |  |
+| 26 | 20% | 21% |  |
+| 27 | 0.2% | 0.4% |  |
+| 28 | 0.2% | 0.2% |  |
 | 29 | 0% | 0% |  |
 
 
