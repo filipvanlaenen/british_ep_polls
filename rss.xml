@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/british_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 16 Nov 2019 12:43:47 +0100</pubDate>
+    <pubDate>Mon, 18 Nov 2019 06:57:14 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Deltapoll for The Mail on Sunday, 10–16 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_ep_polls/2019-11-16-Deltapoll.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party (ECR): 42.5–47.5%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 27.8–32.4%&lt;/li&gt;&lt;li&gt;Liberal Democrats (RE): 9.5–12.7%&lt;/li&gt;&lt;li&gt;Scottish National Party (Greens/EFA): 2.3–4.0%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 2.3–4.0%&lt;/li&gt;&lt;li&gt;Brexit Party (NI): 4.9–7.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-11-16-Deltapoll.png"
+        length="195770"
+        type="image/png"/>
+      <pubDate>Mon, 18 Nov 2019 06:49:53 +0100</pubDate>
+      <dc:date>2019-11-18T06:49:53.594264+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for The Sunday Times, 14–15 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_ep_polls/2019-11-15-YouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party (ECR): 42.1–46.8%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 25.6–29.9%&lt;/li&gt;&lt;li&gt;Liberal Democrats (RE): 13.2–16.6%&lt;/li&gt;&lt;li&gt;Scottish National Party (Greens/EFA): 3.1–5.0%&lt;/li&gt;&lt;li&gt;Plaid Cymru (Greens/EFA): 0.1–0.6%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 2.2–3.9%&lt;/li&gt;&lt;li&gt;Brexit Party (NI): 3.1–5.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-11-15-YouGov.png"
+        length="211288"
+        type="image/png"/>
+      <pubDate>Mon, 18 Nov 2019 06:57:14 +0100</pubDate>
+      <dc:date>2019-11-18T06:57:14.476446+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Panelbase, 13–14 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_ep_polls/2019-11-14-Panelbase.html</link>
@@ -2409,6 +2429,6 @@
       <pubDate>Mon, 22 Jul 2019 21:27:08 +0200</pubDate>
       <dc:date>2019-07-22T21:27:08.139393+02:00</dc:date>
     </item>
-    <dc:date>2019-11-16T12:43:47.949968+01:00</dc:date>
+    <dc:date>2019-11-18T06:57:14.476446+01:00</dc:date>
   </channel>
 </rss>
