@@ -5,7 +5,13 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | BREXIT | LIBDEM | LAB | GREEN | CON | SNP | PC | ChUK | UKIP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 23 May 2019 | General Election | 30.5% <br> 29 | 19.6% <br> 16 | 13.7% <br> 10 | 11.8% <br> 7 | 8.8% <br> 4 | 3.5% <br> 3 | 1.0% <br> 1 | 3.3% <br> 0 | 3.2% <br> 0 |
+| [14–16 November 2019](2019-11-16-Survation.html) | Survation | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [10–16 November 2019](2019-11-16-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 5–7% <br> 0–1 | 10–13% <br> 4–6 | 28–32% <br> 23–27 | 2–4% <br> 0 | 43–48% <br> 35–40 | 2–4% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [14–15 November 2019](2019-11-15-YouGov.html) | YouGov <br> The Sunday Times | 3–5% <br> 0 | 13–17% <br> 6–9 | 26–30% <br> 20–25 | 2–4% <br> 0 | 42–47% <br> 36–39 | 3–5% <br> 2 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| [13–15 November 2019](2019-11-15-Opinium.html) | Opinium <br> The Observer | 5–7% <br> N/A | 12–16% <br> N/A | 26–30% <br> N/A | 2–4% <br> N/A | 42–46% <br> N/A | 3–5% <br> N/A | 0–2% <br> N/A | 0–1% <br> N/A | 0–1% <br> N/A |
+| [9–15 November 2019](2019-11-15-BMGResearch.html) | BMG Research | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [13–14 November 2019](2019-11-14-Panelbase.html) | Panelbase | 4–7% <br> 0 | 13–17% <br> 6–10 | 27–33% <br> 21–26 | 1–3% <br> 0 | 40–46% <br> 32–38 | 3–5% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 |
+| [13–14 November 2019](2019-11-14-ComRes.html) | ComRes <br> The Sunday Telegraph | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [11–12 November 2019](2019-11-12-YouGov.html) | YouGov <br> The Times and Sky News | 3–5% <br> 0 | 13–17% <br> 6–12 | 26–30% <br> 19–26 | 3–5% <br> 0 | 40–44% <br> 33–39 | 2–4% <br> 1–2 | 1–2% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
 | [11–12 November 2019](2019-11-12-ComRes.html) | ComRes <br> Daily Telegraph | 6–8% <br> 0–2 | 14–17% <br> 8–13 | 28–32% <br> 22–26 | 2–4% <br> 0 | 37–41% <br> 31–37 | 3–5% <br> 2–3 | 0–1% <br> 0 | 0–1% <br> 0 | 0–1% <br> 0 |
 | [7–11 November 2019](2019-11-11-KantarPublic.html) | Kantar Public | 7–11% <br> 1–6 | 15–19% <br> 8–13 | 25–30% <br> 19–25 | 2–4% <br> 0 | 34–40% <br> 28–34 | 2–4% <br> 1–2 | 1–2% <br> 1–2 | 1–2% <br> 0 | 1–2% <br> 0 |
