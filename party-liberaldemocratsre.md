@@ -10,8 +10,10 @@ Last result: **19.6%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.7% | 11.7–19.0% | 10.8–20.2% | 10.4–21.0% | 9.7–22.2% |
-| [14–16 November 2019](2019-11-16-Survation.html) | Survation | 13.2% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 14.4% | 11.4–19.3% | 10.7–20.4% | 10.3–21.1% | 9.6–22.2% |
+| [18–19 November 2019](2019-11-19-YouGov.html) | YouGov <br> The Times | 14.9% | N/A | N/A | N/A | N/A |
+| [15–18 November 2019](2019-11-18-ICMResearch.html) | ICM Research | 13.0% | N/A | N/A | N/A | N/A |
+| [14–16 November 2019](2019-11-16-Survation.html) | Survation | 13.2% | 11.9–14.6% | 11.5–15.0% | 11.2–15.4% | 10.6–16.1% |
 | [10–16 November 2019](2019-11-16-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 11.0% | 10.0–12.1% | 9.8–12.4% | 9.5–12.7% | 9.1–13.2% |
 | [14–15 November 2019](2019-11-15-YouGov.html) | YouGov <br> The Sunday Times | 14.8% | 13.7–16.0% | 13.4–16.3% | 13.2–16.6% | 12.7–17.2% |
 | [13–15 November 2019](2019-11-15-Opinium.html) | Opinium <br> The Observer | 13.9% | 12.8–15.2% | 12.3–15.6% | 12.3–15.6% | 11.9–16.0% |
@@ -135,21 +137,21 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.3% | 100% |  |
-| 9.5–10.5% | 3% | 99.7% |  |
-| 10.5–11.5% | 6% | 97% |  |
-| 11.5–12.5% | 4% | 91% |  |
-| 12.5–13.5% | 10% | 87% |  |
-| 13.5–14.5% | 22% | 78% |  |
-| 14.5–15.5% | 22% | 56% | Median |
-| 15.5–16.5% | 11% | 34% |  |
-| 16.5–17.5% | 6% | 23% |  |
-| 17.5–18.5% | 5% | 16% |  |
-| 18.5–19.5% | 4% | 12% |  |
-| 19.5–20.5% | 4% | 8% | Last Result |
+| 8.5–9.5% | 0.4% | 100% |  |
+| 9.5–10.5% | 3% | 99.6% |  |
+| 10.5–11.5% | 7% | 96% |  |
+| 11.5–12.5% | 7% | 89% |  |
+| 12.5–13.5% | 14% | 82% |  |
+| 13.5–14.5% | 20% | 67% | Median |
+| 14.5–15.5% | 14% | 47% |  |
+| 15.5–16.5% | 8% | 33% |  |
+| 16.5–17.5% | 7% | 25% |  |
+| 17.5–18.5% | 5% | 19% |  |
+| 18.5–19.5% | 5% | 14% |  |
+| 19.5–20.5% | 5% | 9% | Last Result |
 | 20.5–21.5% | 3% | 4% |  |
-| 21.5–22.5% | 1.0% | 1.2% |  |
-| 22.5–23.5% | 0.2% | 0.3% |  |
+| 21.5–22.5% | 1.1% | 1.4% |  |
+| 22.5–23.5% | 0.3% | 0.3% |  |
 | 23.5–24.5% | 0% | 0% |  |
 
 
@@ -161,8 +163,10 @@ Last result: **16** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 5–13 | 4–14 | 4–14 | 4–17 |
-| [14–16 November 2019](2019-11-16-Survation.html) | Survation |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 8 | 5–13 | 4–14 | 4–15 | 4–17 |
+| [18–19 November 2019](2019-11-19-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| [15–18 November 2019](2019-11-18-ICMResearch.html) | ICM Research |  |  |  |  |  |
+| [14–16 November 2019](2019-11-16-Survation.html) | Survation | 6 | 6–8 | 6–8 | 6–8 | 4–9 |
 | [10–16 November 2019](2019-11-16-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 4 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [14–15 November 2019](2019-11-15-YouGov.html) | YouGov <br> The Sunday Times | 8 | 6–9 | 6–9 | 6–9 | 6–11 |
 | [13–15 November 2019](2019-11-15-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
@@ -287,20 +291,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 8% | 100% |  |
-| 5 | 3% | 92% |  |
-| 6 | 18% | 89% |  |
-| 7 | 2% | 72% |  |
-| 8 | 38% | 70% | Median |
-| 9 | 8% | 32% |  |
-| 10 | 3% | 25% |  |
-| 11 | 6% | 22% |  |
-| 12 | 2% | 16% |  |
-| 13 | 7% | 14% |  |
-| 14 | 4% | 7% |  |
-| 15 | 0.6% | 2% |  |
-| 16 | 0.7% | 2% | Last Result |
-| 17 | 1.2% | 1.2% |  |
+| 4 | 10% | 100% |  |
+| 5 | 3% | 90% |  |
+| 6 | 29% | 87% |  |
+| 7 | 2% | 59% |  |
+| 8 | 22% | 57% | Median |
+| 9 | 6% | 35% |  |
+| 10 | 3% | 28% |  |
+| 11 | 7% | 25% |  |
+| 12 | 2% | 18% |  |
+| 13 | 8% | 16% |  |
+| 14 | 5% | 8% |  |
+| 15 | 0.7% | 3% |  |
+| 16 | 0.8% | 2% | Last Result |
+| 17 | 1.4% | 1.4% |  |
 | 18 | 0% | 0% |  |
 
 
