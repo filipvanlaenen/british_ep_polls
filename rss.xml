@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/british_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 19 Nov 2019 06:45:28 +0100</pubDate>
+    <pubDate>Wed, 20 Nov 2019 06:56:20 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by YouGov for The Times, 18–19 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_ep_polls/2019-11-19-YouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party (ECR): 39.5–44.3%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 27.8–32.3%&lt;/li&gt;&lt;li&gt;Liberal Democrats (RE): 13.3–16.8%&lt;/li&gt;&lt;li&gt;Scottish National Party (Greens/EFA): 3.1–5.1%&lt;/li&gt;&lt;li&gt;Plaid Cymru (Greens/EFA): 0.1–0.6%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 3.1–5.1%&lt;/li&gt;&lt;li&gt;Brexit Party (NI): 3.1–5.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-11-19-YouGov.png"
+        length="211895"
+        type="image/png"/>
+      <pubDate>Wed, 20 Nov 2019 06:49:58 +0100</pubDate>
+      <dc:date>2019-11-20T06:49:58.899804+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ICM Research, 15–18 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_ep_polls/2019-11-18-ICMResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party (ECR): 39.8–44.1%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 29.9–34.0%&lt;/li&gt;&lt;li&gt;Liberal Democrats (RE): 11.6–14.5%&lt;/li&gt;&lt;li&gt;Scottish National Party (Greens/EFA): 2.3–3.8%&lt;/li&gt;&lt;li&gt;Plaid Cymru (Greens/EFA): 0.1–0.6%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 2.3–3.8%&lt;/li&gt;&lt;li&gt;Brexit Party (NI): 4.1–6.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-11-18-ICMResearch.png"
+        length="207672"
+        type="image/png"/>
+      <pubDate>Wed, 20 Nov 2019 06:56:20 +0100</pubDate>
+      <dc:date>2019-11-20T06:56:20.154457+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Survation, 14–16 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_ep_polls/2019-11-16-Survation.html</link>
@@ -2439,6 +2459,6 @@
       <pubDate>Mon, 22 Jul 2019 21:27:08 +0200</pubDate>
       <dc:date>2019-07-22T21:27:08.139393+02:00</dc:date>
     </item>
-    <dc:date>2019-11-19T06:45:28.038696+01:00</dc:date>
+    <dc:date>2019-11-20T06:56:20.154457+01:00</dc:date>
   </channel>
 </rss>
