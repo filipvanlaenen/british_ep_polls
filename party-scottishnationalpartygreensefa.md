@@ -11,10 +11,11 @@ Last result: **3.5%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.7% | 2.7–5.0% | 2.6–5.3% | 2.4–5.5% | 2.1–6.0% |
+| [12–20 November 2019](2019-11-20-YouGov.html) | YouGov <br> The Times | 4.0% | N/A | N/A | N/A | N/A |
 | [18–19 November 2019](2019-11-19-YouGov.html) | YouGov <br> The Times | 4.0% | 3.4–4.7% | 3.3–4.9% | 3.1–5.1% | 2.9–5.4% |
-| [15–19 November 2019](2019-11-19-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 5.0% | N/A | N/A | N/A | N/A |
-| [18–19 November 2019](2019-11-19-ComRes.html) | ComRes <br> Daily Telegraph | 4.0% | N/A | N/A | N/A | N/A |
-| [14–18 November 2019](2019-11-18-KantarPublic.html) | Kantar Public | 0.0% | N/A | N/A | N/A | N/A |
+| [15–19 November 2019](2019-11-19-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 4.0% | N/A | N/A | N/A | N/A |
+| [18–19 November 2019](2019-11-19-ComRes.html) | ComRes <br> Daily Telegraph | 4.0% | 3.4–4.7% | 3.3–4.9% | 3.1–5.1% | 2.9–5.4% |
+| [14–18 November 2019](2019-11-18-KantarPublic.html) | Kantar Public | 4.0% | N/A | N/A | N/A | N/A |
 | [15–18 November 2019](2019-11-18-ICMResearch.html) | ICM Research | 3.0% | 2.5–3.5% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
 | [14–16 November 2019](2019-11-16-Survation.html) | Survation | 3.1% | 2.5–3.9% | 2.3–4.1% | 2.2–4.3% | 1.9–4.8% |
 | [10–16 November 2019](2019-11-16-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 3.0% | 2.5–3.7% | 2.4–3.8% | 2.3–4.0% | 2.0–4.3% |
@@ -157,9 +158,10 @@ Last result: **3** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
+| [12–20 November 2019](2019-11-20-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
 | [18–19 November 2019](2019-11-19-YouGov.html) | YouGov <br> The Times | 2 | 2 | 2 | 2–3 | 2–3 |
 | [15–19 November 2019](2019-11-19-IpsosMORI.html) | Ipsos MORI <br> Evening Standard |  |  |  |  |  |
-| [18–19 November 2019](2019-11-19-ComRes.html) | ComRes <br> Daily Telegraph |  |  |  |  |  |
+| [18–19 November 2019](2019-11-19-ComRes.html) | ComRes <br> Daily Telegraph | 2 | 2 | 2 | 2 | 2–3 |
 | [14–18 November 2019](2019-11-18-KantarPublic.html) | Kantar Public |  |  |  |  |  |
 | [15–18 November 2019](2019-11-18-ICMResearch.html) | ICM Research | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [14–16 November 2019](2019-11-16-Survation.html) | Survation | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
