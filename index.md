@@ -5,10 +5,10 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | BREXIT | LIBDEM | LAB | GREEN | CON | SNP | PC | ChUK | UKIP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 23 May 2019 | General Election | 30.5% <br> 29 | 19.6% <br> 16 | 13.7% <br> 10 | 11.8% <br> 7 | 8.8% <br> 4 | 3.5% <br> 3 | 1.0% <br> 1 | 3.3% <br> 0 | 3.2% <br> 0 |
-| N/A | [Poll Average](average.html) | 4–13% <br> 0–8 | 10–16% <br> 4–9 | 26–33% <br> 20–27 | 2–5% <br> 0 | 35–46% <br> 29–39 | 2–6% <br> 1–3 | 0–2% <br> 0–2 | 0–1% <br> 0 | 0–1% <br> 0 |
-| [18–19 November 2019](2019-11-19-YouGov.html) | YouGov <br> The Times | 3–5% <br> 0 | 13–17% <br> 6–9 | 28–32% <br> 23–26 | 3–5% <br> 0 | 40–44% <br> 33–37 | 3–5% <br> 2–3 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 4–13% <br> 0–8 | 10–16% <br> 4–9 | 26–33% <br> 20–27 | 2–4% <br> 0 | 35–46% <br> 29–39 | 2–6% <br> 1–3 | 0–2% <br> 0–2 | 0–1% <br> 0 | 0–1% <br> 0 |
+| [12–20 November 2019](2019-11-20-YouGov.html) | YouGov <br> The Times | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [15–19 November 2019](2019-11-19-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [18–19 November 2019](2019-11-19-ComRes.html) | ComRes <br> Daily Telegraph | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [18–19 November 2019](2019-11-19-ComRes.html) | ComRes <br> Daily Telegraph | 4–6% <br> 0 | 13–17% <br> 6–8 | 29–33% <br> 22–26 | 1–3% <br> 0 | 40–44% <br> 32–37 | 3–5% <br> 2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [14–18 November 2019](2019-11-18-KantarPublic.html) | Kantar Public | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [15–18 November 2019](2019-11-18-ICMResearch.html) | ICM Research | 4–6% <br> 0 | 12–15% <br> 5–8 | 30–34% <br> 25–27 | 2–4% <br> 0 | 40–44% <br> 34–38 | 2–4% <br> 1–2 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | [14–16 November 2019](2019-11-16-Survation.html) | Survation | 4–7% <br> 0–1 | 11–15% <br> 6–8 | 26–31% <br> 20–26 | 2–4% <br> 0 | 39–45% <br> 33–39 | 2–4% <br> 1–2 | 1–2% <br> 0–2 | N/A <br> N/A | N/A <br> N/A |
