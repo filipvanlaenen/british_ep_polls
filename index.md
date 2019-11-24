@@ -5,17 +5,17 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | BREXIT | LIBDEM | LAB | GREEN | CON | SNP | PC | ChUK | UKIP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 23 May 2019 | General Election | 30.5% <br> 29 | 19.6% <br> 16 | 13.7% <br> 10 | 11.8% <br> 7 | 8.8% <br> 4 | 3.5% <br> 3 | 1.0% <br> 1 | 3.3% <br> 0 | 3.2% <br> 0 |
-| N/A | [Poll Average](average.html) | 2–13% <br> 0–8 | 10–18% <br> 4–12 | 26–33% <br> 19–26 | 2–4% <br> 0 | 35–47% <br> 29–39 | 2–6% <br> 1–3 | 0–2% <br> 0–2 | N/A <br> N/A | 0–1% <br> 0 |
+| N/A | [Poll Average](average.html) | 2–13% <br> 0–9 | 12–18% <br> 6–12 | 25–33% <br> 19–26 | 2–5% <br> 0 | 35–47% <br> 28–39 | 2–6% <br> 1–3 | 0–2% <br> 0–2 | N/A <br> N/A | N/A <br> N/A |
+| [21–23 November 2019](2019-11-23-Deltapoll.html) | Deltapoll | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [21–22 November 2019](2019-11-22-YouGov.html) | YouGov <br> The Sunday Times | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [20–22 November 2019](2019-11-22-Panelbase.html) | Panelbase | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [20–22 November 2019](2019-11-22-Opinium.html) | Opinium <br> The Observer | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [20–21 November 2019](2019-11-21-ComRes.html) | ComRes <br> The Sunday Express | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [19–21 November 2019](2019-11-21-BMGResearch.html) | BMG Research | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [15–19 November 2019](2019-11-19-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 2–4% <br> 0 | 14–18% <br> 6–13 | 25–31% <br> 19–25 | 2–4% <br> 0 | 41–47% <br> 33–39 | 3–5% <br> 2–3 | 1–2% <br> 0–2 | N/A <br> N/A | N/A <br> N/A |
 | [14–18 November 2019](2019-11-18-KantarPublic.html) | Kantar Public | 1–3% <br> 0 | 14–18% <br> 7–13 | 25–30% <br> 17–24 | 2–4% <br> 0 | 42–48% <br> 34–40 | 3–5% <br> 2–3 | 1–2% <br> 0–2 | N/A <br> N/A | N/A <br> N/A |
 | [15–18 November 2019](2019-11-18-ICMResearch.html) | ICM Research | 4–6% <br> 0 | 12–15% <br> 5–8 | 30–34% <br> 25–27 | 2–4% <br> 0 | 40–44% <br> 34–38 | 2–4% <br> 1–2 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | [14–16 November 2019](2019-11-16-Survation.html) | Survation | 4–7% <br> 0–1 | 11–15% <br> 6–8 | 26–31% <br> 20–26 | 2–4% <br> 0 | 39–45% <br> 33–39 | 2–4% <br> 1–2 | 1–2% <br> 0–2 | N/A <br> N/A | N/A <br> N/A |
-| [10–16 November 2019](2019-11-16-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 5–7% <br> 0–1 | 10–13% <br> 4–6 | 28–32% <br> 23–27 | 2–4% <br> 0 | 43–48% <br> 35–40 | 2–4% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [9–15 November 2019](2019-11-15-BMGResearch.html) | BMG Research | 8–11% <br> 1–6 | 14–18% <br> 8–12 | 27–31% <br> 21–26 | 1–3% <br> 0 | 35–39% <br> 28–33 | 2–4% <br> 2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [13–14 November 2019](2019-11-14-Panelbase.html) | Panelbase | 4–7% <br> 0 | 13–17% <br> 6–10 | 27–33% <br> 21–26 | 1–3% <br> 0 | 40–46% <br> 32–38 | 3–5% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 |
 | [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph | 11–13% <br> 6–9 | 13–16% <br> 6–9 | 26–30% <br> 20–26 | 3–5% <br> 0 | 34–38% <br> 27–32 | 4–6% <br> 2–3 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | 23 May 2019 | General Election | 30.5% <br> 29 | 19.6% <br> 16 | 13.7% <br> 10 | 11.8% <br> 7 | 8.8% <br> 4 | 3.5% <br> 3 | 1.0% <br> 1 | 3.3% <br> 0 | 3.2% <br> 0 |
 
