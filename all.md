@@ -5,9 +5,12 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | BREXIT | LIBDEM | LAB | GREEN | CON | SNP | PC | ChUK | UKIP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 23 May 2019 | General Election | 30.5% <br> 29 | 19.6% <br> 16 | 13.7% <br> 10 | 11.8% <br> 7 | 8.8% <br> 4 | 3.5% <br> 3 | 1.0% <br> 1 | 3.3% <br> 0 | 3.2% <br> 0 |
+| [21–23 November 2019](2019-11-23-Deltapoll.html) | Deltapoll | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [21–22 November 2019](2019-11-22-YouGov.html) | YouGov <br> The Sunday Times | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [20–22 November 2019](2019-11-22-Panelbase.html) | Panelbase | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [20–22 November 2019](2019-11-22-Opinium.html) | Opinium <br> The Observer | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [20–21 November 2019](2019-11-21-ComRes.html) | ComRes <br> The Sunday Express | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [19–21 November 2019](2019-11-21-BMGResearch.html) | BMG Research | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [12–20 November 2019](2019-11-20-YouGov.html) | YouGov | 4% <br> N/A | 14–16% <br> N/A | 28–30% <br> N/A | 3% <br> N/A | 42–44% <br> N/A | 4% <br> N/A | 1% <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [18–19 November 2019](2019-11-19-YouGov.html) | YouGov <br> The Times | 3–5% <br> 0 | 13–17% <br> 6–9 | 28–32% <br> 23–26 | 3–5% <br> 0 | 40–44% <br> 33–37 | 3–5% <br> 2–3 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | [15–19 November 2019](2019-11-19-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 2–4% <br> 0 | 14–18% <br> 6–13 | 25–31% <br> 19–25 | 2–4% <br> 0 | 41–47% <br> 33–39 | 3–5% <br> 2–3 | 1–2% <br> 0–2 | N/A <br> N/A | N/A <br> N/A |
