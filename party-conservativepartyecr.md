@@ -10,18 +10,21 @@ Last result: **8.8%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 42.6% | 36.5–45.2% | 35.5–45.9% | 34.9–46.4% | 34.0–47.4% |
-| [12–20 November 2019](2019-11-20-YouGov.html) | YouGov <br> The Times | 42.6% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 42.7% | 36.1–45.7% | 35.4–46.4% | 34.9–46.9% | 34.0–47.9% |
+| [21–22 November 2019](2019-11-22-YouGov.html) | YouGov <br> The Sunday Times | 41.9% | N/A | N/A | N/A | N/A |
+| [20–22 November 2019](2019-11-22-Opinium.html) | Opinium <br> The Observer | 47.1% | N/A | N/A | N/A | N/A |
+| [20–21 November 2019](2019-11-21-ComRes.html) | ComRes <br> The Sunday Express | 42.0% | N/A | N/A | N/A | N/A |
+| [12–20 November 2019](2019-11-20-YouGov.html) | YouGov | 42.6% | 42.0–43.2% | 41.8–43.3% | 41.7–43.5% | 41.3–43.8% |
 | [18–19 November 2019](2019-11-19-YouGov.html) | YouGov <br> The Times | 41.9% | 40.3–43.5% | 39.9–44.0% | 39.5–44.3% | 38.8–45.1% |
-| [15–19 November 2019](2019-11-19-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 44.0% | N/A | N/A | N/A | N/A |
+| [15–19 November 2019](2019-11-19-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 44.0% | 42.1–45.9% | 41.5–46.4% | 41.1–46.9% | 40.2–47.8% |
 | [18–19 November 2019](2019-11-19-ComRes.html) | ComRes <br> Daily Telegraph | 42.0% | 40.5–43.6% | 40.0–44.0% | 39.6–44.4% | 38.9–45.2% |
-| [14–18 November 2019](2019-11-18-KantarPublic.html) | Kantar Public | 45.0% | N/A | N/A | N/A | N/A |
+| [14–18 November 2019](2019-11-18-KantarPublic.html) | Kantar Public | 45.0% | 43.1–46.9% | 42.6–47.4% | 42.2–47.8% | 41.3–48.7% |
 | [15–18 November 2019](2019-11-18-ICMResearch.html) | ICM Research | 41.9% | 40.5–43.3% | 40.1–43.7% | 39.8–44.1% | 39.1–44.7% |
 | [14–16 November 2019](2019-11-16-Survation.html) | Survation | 42.4% | 40.4–44.4% | 39.8–45.0% | 39.4–45.5% | 38.4–46.4% |
 | [10–16 November 2019](2019-11-16-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 45.0% | 43.4–46.7% | 42.9–47.1% | 42.5–47.5% | 41.8–48.3% |
 | [14–15 November 2019](2019-11-15-YouGov.html) | YouGov <br> The Sunday Times | 44.4% | 42.9–46.0% | 42.4–46.4% | 42.1–46.8% | 41.3–47.6% |
 | [13–15 November 2019](2019-11-15-Opinium.html) | Opinium <br> The Observer | 43.8% | 42.4–45.3% | 42.0–45.7% | 41.7–46.0% | 41.0–46.7% |
-| [9–15 November 2019](2019-11-15-BMGResearch.html) | BMG Research | 37.0% | N/A | N/A | N/A | N/A |
+| [9–15 November 2019](2019-11-15-BMGResearch.html) | BMG Research | 37.0% | 35.5–38.6% | 35.0–39.0% | 34.6–39.4% | 33.9–40.1% |
 | [13–14 November 2019](2019-11-14-Panelbase.html) | Panelbase | 43.2% | 41.2–45.2% | 40.7–45.8% | 40.2–46.3% | 39.2–47.2% |
 | [13–14 November 2019](2019-11-14-ComRes.html) | ComRes <br> The Sunday Telegraph | 41.0% | N/A | N/A | N/A | N/A |
 | [11–12 November 2019](2019-11-12-YouGov.html) | YouGov <br> The Times and Sky News | 42.0% | 40.4–43.6% | 40.0–44.0% | 39.6–44.4% | 38.9–45.2% |
@@ -165,22 +168,22 @@ The following table shows the probability mass function per percentage block of 
 | 30.5–31.5% | 0% | 100% |  |
 | 31.5–32.5% | 0% | 100% |  |
 | 32.5–33.5% | 0.2% | 100% |  |
-| 33.5–34.5% | 1.2% | 99.8% |  |
-| 34.5–35.5% | 4% | 98.6% |  |
-| 35.5–36.5% | 5% | 95% |  |
-| 36.5–37.5% | 3% | 90% |  |
-| 37.5–38.5% | 0.9% | 87% |  |
-| 38.5–39.5% | 1.1% | 86% |  |
-| 39.5–40.5% | 4% | 85% |  |
-| 40.5–41.5% | 11% | 80% |  |
-| 41.5–42.5% | 18% | 69% |  |
-| 42.5–43.5% | 18% | 51% | Median |
-| 43.5–44.5% | 16% | 33% |  |
-| 44.5–45.5% | 10% | 17% |  |
-| 45.5–46.5% | 5% | 7% |  |
-| 46.5–47.5% | 2% | 2% |  |
-| 47.5–48.5% | 0.3% | 0.4% |  |
-| 48.5–49.5% | 0% | 0% |  |
+| 33.5–34.5% | 1.3% | 99.8% |  |
+| 34.5–35.5% | 4% | 98% |  |
+| 35.5–36.5% | 8% | 94% |  |
+| 36.5–37.5% | 7% | 86% |  |
+| 37.5–38.5% | 4% | 80% |  |
+| 38.5–39.5% | 2% | 76% |  |
+| 39.5–40.5% | 3% | 74% |  |
+| 40.5–41.5% | 7% | 72% |  |
+| 41.5–42.5% | 12% | 64% |  |
+| 42.5–43.5% | 14% | 52% | Median |
+| 43.5–44.5% | 14% | 38% |  |
+| 44.5–45.5% | 12% | 24% |  |
+| 45.5–46.5% | 7% | 11% |  |
+| 46.5–47.5% | 3% | 4% |  |
+| 47.5–48.5% | 0.8% | 0.9% |  |
+| 48.5–49.5% | 0.1% | 0.1% |  |
 | 49.5–50.5% | 0% | 0% |  |
 
 
@@ -192,18 +195,21 @@ Last result: **4** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 36 | 30–38 | 29–38 | 29–39 | 27–40 |
-| [12–20 November 2019](2019-11-20-YouGov.html) | YouGov <br> The Times |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 36 | 30–38 | 29–39 | 29–39 | 27–40 |
+| [21–22 November 2019](2019-11-22-YouGov.html) | YouGov <br> The Sunday Times |  |  |  |  |  |
+| [20–22 November 2019](2019-11-22-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [20–21 November 2019](2019-11-21-ComRes.html) | ComRes <br> The Sunday Express |  |  |  |  |  |
+| [12–20 November 2019](2019-11-20-YouGov.html) | YouGov |  |  |  |  |  |
 | [18–19 November 2019](2019-11-19-YouGov.html) | YouGov <br> The Times | 35 | 34–37 | 34–37 | 33–37 | 32–38 |
-| [15–19 November 2019](2019-11-19-IpsosMORI.html) | Ipsos MORI <br> Evening Standard |  |  |  |  |  |
+| [15–19 November 2019](2019-11-19-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 37 | 34–38 | 34–38 | 33–39 | 31–40 |
 | [18–19 November 2019](2019-11-19-ComRes.html) | ComRes <br> Daily Telegraph | 34 | 33–36 | 33–36 | 32–37 | 31–37 |
-| [14–18 November 2019](2019-11-18-KantarPublic.html) | Kantar Public |  |  |  |  |  |
-| [15–18 November 2019](2019-11-18-ICMResearch.html) | ICM Research | 36 | 35–37 | 34–37 | 34–38 | 34–38 |
+| [14–18 November 2019](2019-11-18-KantarPublic.html) | Kantar Public | 38 | 36–39 | 35–39 | 34–40 | 33–42 |
+| [15–18 November 2019](2019-11-18-ICMResearch.html) | ICM Research | 36 | 36–37 | 34–37 | 34–38 | 34–38 |
 | [14–16 November 2019](2019-11-16-Survation.html) | Survation | 37 | 35–38 | 34–39 | 33–39 | 33–40 |
 | [10–16 November 2019](2019-11-16-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 37 | 36–39 | 35–39 | 35–40 | 35–40 |
 | [14–15 November 2019](2019-11-15-YouGov.html) | YouGov <br> The Sunday Times | 37 | 37–39 | 37–39 | 36–39 | 35–41 |
-| [13–15 November 2019](2019-11-15-Opinium.html) | Opinium <br> The Observer | 37 | 36–38 | 36–38 | 35–38 | 33–39 |
-| [9–15 November 2019](2019-11-15-BMGResearch.html) | BMG Research |  |  |  |  |  |
+| [13–15 November 2019](2019-11-15-Opinium.html) | Opinium <br> The Observer | 36 | 36–39 | 36–39 | 36–39 | 34–39 |
+| [9–15 November 2019](2019-11-15-BMGResearch.html) | BMG Research | 31 | 29–32 | 29–32 | 28–33 | 27–34 |
 | [13–14 November 2019](2019-11-14-Panelbase.html) | Panelbase | 36 | 33–37 | 33–38 | 32–38 | 31–39 |
 | [13–14 November 2019](2019-11-14-ComRes.html) | ComRes <br> The Sunday Telegraph |  |  |  |  |  |
 | [11–12 November 2019](2019-11-12-YouGov.html) | YouGov <br> The Times and Sky News | 36 | 34–38 | 33–39 | 33–39 | 32–40 |
@@ -347,21 +353,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 24 | 0% | 100% |  |
 | 25 | 0% | 100% |  |
 | 26 | 0.1% | 100% |  |
-| 27 | 0.4% | 99.9% |  |
-| 28 | 2% | 99.5% |  |
-| 29 | 4% | 98% |  |
-| 30 | 6% | 94% |  |
-| 31 | 2% | 89% |  |
-| 32 | 2% | 87% |  |
-| 33 | 8% | 85% |  |
-| 34 | 5% | 77% |  |
-| 35 | 8% | 71% |  |
-| 36 | 30% | 64% | Median, Majority |
-| 37 | 20% | 34% |  |
-| 38 | 10% | 15% |  |
-| 39 | 4% | 5% |  |
-| 40 | 0.6% | 0.7% |  |
-| 41 | 0.1% | 0.1% |  |
-| 42 | 0% | 0% |  |
+| 27 | 0.5% | 99.9% |  |
+| 28 | 2% | 99.4% |  |
+| 29 | 5% | 98% |  |
+| 30 | 9% | 93% |  |
+| 31 | 7% | 84% |  |
+| 32 | 3% | 77% |  |
+| 33 | 3% | 75% |  |
+| 34 | 4% | 72% |  |
+| 35 | 6% | 68% |  |
+| 36 | 22% | 62% | Median, Majority |
+| 37 | 20% | 40% |  |
+| 38 | 13% | 20% |  |
+| 39 | 6% | 7% |  |
+| 40 | 1.1% | 1.5% |  |
+| 41 | 0.2% | 0.4% |  |
+| 42 | 0.1% | 0.1% |  |
+| 43 | 0% | 0% |  |
 
 
