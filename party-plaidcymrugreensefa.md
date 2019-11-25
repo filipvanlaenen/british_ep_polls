@@ -10,13 +10,15 @@ Last result: **1.0%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.8% | 0.2–1.4% | 0.2–1.5% | 0.1–1.7% | 0.1–2.0% |
-| [21–23 November 2019](2019-11-23-Deltapoll.html) | Deltapoll | 0.3% | N/A | N/A | N/A | N/A |
-| [21–22 November 2019](2019-11-22-YouGov.html) | YouGov <br> The Sunday Times | 0.2% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 0.4% | 0.2–1.2% | 0.1–1.4% | 0.1–1.6% | 0.1–1.9% |
+| [22–25 November 2019](2019-11-25-ICMResearch.html) | ICM Research | 1.0% | N/A | N/A | N/A | N/A |
+| [20–23 November 2019](2019-11-23-Survation.html) | Survation <br> Good Morning Britain | 1.0% | N/A | N/A | N/A | N/A |
+| [21–23 November 2019](2019-11-23-Deltapoll.html) | Deltapoll | 0.3% | 0.2–0.5% | 0.1–0.6% | 0.1–0.7% | 0.1–0.8% |
+| [21–22 November 2019](2019-11-22-YouGov.html) | YouGov <br> The Sunday Times | 0.2% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.8% |
 | [20–22 November 2019](2019-11-22-Panelbase.html) | Panelbase | 1.0% | N/A | N/A | N/A | N/A |
-| [20–22 November 2019](2019-11-22-Opinium.html) | Opinium <br> The Observer | 0.2% | N/A | N/A | N/A | N/A |
+| [20–22 November 2019](2019-11-22-Opinium.html) | Opinium <br> The Observer | 0.2% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
 | [20–21 November 2019](2019-11-21-ComRes.html) | ComRes <br> The Sunday Express | 0.0% | N/A | N/A | N/A | N/A |
-| [19–21 November 2019](2019-11-21-BMGResearch.html) | BMG Research | 0.2% | N/A | N/A | N/A | N/A |
+| [19–21 November 2019](2019-11-21-BMGResearch.html) | BMG Research | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.6% | 0.1–0.8% |
 | [12–20 November 2019](2019-11-20-YouGov.html) | YouGov | 1.0% | 0.9–1.1% | 0.8–1.2% | 0.8–1.2% | 0.8–1.3% |
 | [18–19 November 2019](2019-11-19-YouGov.html) | YouGov <br> The Times | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.6% | 0.1–0.8% |
 | [15–19 November 2019](2019-11-19-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.5–1.7% | 0.4–2.0% |
@@ -146,9 +148,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 40% | 100% |  |
-| 0.5–1.5% | 55% | 60% | Last Result, Median |
-| 1.5–2.5% | 5% | 5% |  |
+| 0.0–0.5% | 64% | 100% | Median |
+| 0.5–1.5% | 33% | 36% | Last Result |
+| 1.5–2.5% | 3% | 3% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -160,13 +162,15 @@ Last result: **1** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
-| [21–23 November 2019](2019-11-23-Deltapoll.html) | Deltapoll |  |  |  |  |  |
-| [21–22 November 2019](2019-11-22-YouGov.html) | YouGov <br> The Sunday Times |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [22–25 November 2019](2019-11-25-ICMResearch.html) | ICM Research |  |  |  |  |  |
+| [20–23 November 2019](2019-11-23-Survation.html) | Survation <br> Good Morning Britain |  |  |  |  |  |
+| [21–23 November 2019](2019-11-23-Deltapoll.html) | Deltapoll | 0 | 0 | 0 | 0 | 0–1 |
+| [21–22 November 2019](2019-11-22-YouGov.html) | YouGov <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
 | [20–22 November 2019](2019-11-22-Panelbase.html) | Panelbase |  |  |  |  |  |
-| [20–22 November 2019](2019-11-22-Opinium.html) | Opinium <br> The Observer |  |  |  |  |  |
+| [20–22 November 2019](2019-11-22-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0–1 |
 | [20–21 November 2019](2019-11-21-ComRes.html) | ComRes <br> The Sunday Express |  |  |  |  |  |
-| [19–21 November 2019](2019-11-21-BMGResearch.html) | BMG Research |  |  |  |  |  |
+| [19–21 November 2019](2019-11-21-BMGResearch.html) | BMG Research | 0 | 0 | 0 | 0 | 0–1 |
 | [12–20 November 2019](2019-11-20-YouGov.html) | YouGov |  |  |  |  |  |
 | [18–19 November 2019](2019-11-19-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0–1 |
 | [15–19 November 2019](2019-11-19-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
@@ -298,9 +302,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 48% | 100% |  |
-| 1 | 49% | 52% | Last Result, Median |
-| 2 | 4% | 4% |  |
+| 0 | 71% | 100% | Median |
+| 1 | 27% | 29% | Last Result |
+| 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 
 
