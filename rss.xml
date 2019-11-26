@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/british_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 24 Nov 2019 20:33:05 +0100</pubDate>
+    <pubDate>Tue, 26 Nov 2019 19:24:38 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by ICM Research, 22–25 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_ep_polls/2019-11-25-ICMResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party (ECR): 38.8–43.1%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 31.9–36.0%&lt;/li&gt;&lt;li&gt;Liberal Democrats (RE): 11.6–14.5%&lt;/li&gt;&lt;li&gt;Scottish National Party (Greens/EFA): 2.3–3.8%&lt;/li&gt;&lt;li&gt;Plaid Cymru (Greens/EFA): 0.6–1.5%&lt;/li&gt;&lt;li&gt;UK Independence Party (ID): 0.1–0.6%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 2.3–3.8%&lt;/li&gt;&lt;li&gt;Brexit Party (NI): 3.2–5.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-11-25-ICMResearch.png"
+        length="226060"
+        type="image/png"/>
+      <pubDate>Tue, 26 Nov 2019 06:49:28 +0100</pubDate>
+      <dc:date>2019-11-26T06:49:28.064447+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Survation for Good Morning Britain, 20–23 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_ep_polls/2019-11-23-Survation.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party (ECR): 37.2–43.3%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 26.7–32.3%&lt;/li&gt;&lt;li&gt;Liberal Democrats (RE): 12.7–17.1%&lt;/li&gt;&lt;li&gt;Scottish National Party (Greens/EFA): 2.1–4.2%&lt;/li&gt;&lt;li&gt;Plaid Cymru (Greens/EFA): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 2.1–4.2%&lt;/li&gt;&lt;li&gt;Brexit Party (NI): 3.8–6.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-11-23-Survation.png"
+        length="225215"
+        type="image/png"/>
+      <pubDate>Tue, 26 Nov 2019 06:52:52 +0100</pubDate>
+      <dc:date>2019-11-26T06:52:52.192837+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Deltapoll, 21–23 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_ep_polls/2019-11-23-Deltapoll.html</link>
@@ -28,6 +48,16 @@
         type="image/png"/>
       <pubDate>Sun, 24 Nov 2019 19:43:04 +0100</pubDate>
       <dc:date>2019-11-24T19:43:04.280915+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Panelbase, 20–22 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_ep_polls/2019-11-22-Panelbase.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party (ECR): 39.9–44.2%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 30.0–34.1%&lt;/li&gt;&lt;li&gt;Liberal Democrats (RE): 12.6–15.6%&lt;/li&gt;&lt;li&gt;Scottish National Party (Greens/EFA): 2.3–3.9%&lt;/li&gt;&lt;li&gt;Plaid Cymru (Greens/EFA): 0.6–1.5%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 2.3–3.9%&lt;/li&gt;&lt;li&gt;Brexit Party (NI): 2.3–3.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-11-22-Panelbase.png"
+        length="205979"
+        type="image/png"/>
+      <pubDate>Tue, 26 Nov 2019 19:24:38 +0100</pubDate>
+      <dc:date>2019-11-26T19:24:38.159341+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinium for The Observer, 20–22 November 2019 – Voting Intentions</title>
@@ -2559,6 +2589,6 @@
       <pubDate>Mon, 22 Jul 2019 21:27:08 +0200</pubDate>
       <dc:date>2019-07-22T21:27:08.139393+02:00</dc:date>
     </item>
-    <dc:date>2019-11-24T20:33:05.893375+01:00</dc:date>
+    <dc:date>2019-11-26T19:24:38.159341+01:00</dc:date>
   </channel>
 </rss>
