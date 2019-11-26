@@ -10,8 +10,8 @@ Last result: **3.2%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.3% | 0.2–0.6% | 0.1–0.7% | 0.1–0.8% | 0.1–1.0% |
-| [22–25 November 2019](2019-11-25-ICMResearch.html) | ICM Research | 0.2% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 0.3% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
+| [22–25 November 2019](2019-11-25-ICMResearch.html) | ICM Research | 0.2% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
 | [20–23 November 2019](2019-11-23-Survation.html) | Survation <br> Good Morning Britain | 0.0% | N/A | N/A | N/A | N/A |
 | [21–23 November 2019](2019-11-23-Deltapoll.html) | Deltapoll | 0.0% | N/A | N/A | N/A | N/A |
 | [21–22 November 2019](2019-11-22-YouGov.html) | YouGov <br> The Sunday Times | 0.0% | N/A | N/A | N/A | N/A |
@@ -148,8 +148,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 89% | 100% | Median |
-| 0.5–1.5% | 11% | 11% |  |
+| 0.0–0.5% | 96% | 100% | Median |
+| 0.5–1.5% | 4% | 4% |  |
 | 1.5–2.5% | 0% | 0% |  |
 | 2.5–3.5% | 0% | 0% | Last Result |
 
@@ -163,7 +163,7 @@ Last result: **0** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [22–25 November 2019](2019-11-25-ICMResearch.html) | ICM Research |  |  |  |  |  |
+| [22–25 November 2019](2019-11-25-ICMResearch.html) | ICM Research | 0 | 0 | 0 | 0 | 0 |
 | [20–23 November 2019](2019-11-23-Survation.html) | Survation <br> Good Morning Britain |  |  |  |  |  |
 | [21–23 November 2019](2019-11-23-Deltapoll.html) | Deltapoll |  |  |  |  |  |
 | [21–22 November 2019](2019-11-22-YouGov.html) | YouGov <br> The Sunday Times |  |  |  |  |  |

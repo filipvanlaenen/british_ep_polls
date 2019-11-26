@@ -10,12 +10,12 @@ Last result: **11.8%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.1% | 2.1–4.6% | 1.9–5.1% | 1.7–5.5% | 1.4–6.1% |
-| [22–25 November 2019](2019-11-25-ICMResearch.html) | ICM Research | 3.0% | N/A | N/A | N/A | N/A |
-| [20–23 November 2019](2019-11-23-Survation.html) | Survation <br> Good Morning Britain | 3.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 3.2% | 2.3–4.6% | 2.0–5.1% | 1.9–5.5% | 1.6–6.1% |
+| [22–25 November 2019](2019-11-25-ICMResearch.html) | ICM Research | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
+| [20–23 November 2019](2019-11-23-Survation.html) | Survation <br> Good Morning Britain | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.8–4.6% |
 | [21–23 November 2019](2019-11-23-Deltapoll.html) | Deltapoll | 3.0% | 2.5–3.7% | 2.4–3.9% | 2.3–4.0% | 2.1–4.4% |
 | [21–22 November 2019](2019-11-22-YouGov.html) | YouGov <br> The Sunday Times | 4.0% | 3.4–4.7% | 3.3–4.9% | 3.2–5.0% | 2.9–5.4% |
-| [20–22 November 2019](2019-11-22-Panelbase.html) | Panelbase | 3.0% | N/A | N/A | N/A | N/A |
+| [20–22 November 2019](2019-11-22-Panelbase.html) | Panelbase | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% |
 | [20–22 November 2019](2019-11-22-Opinium.html) | Opinium <br> The Observer | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
 | [20–21 November 2019](2019-11-21-ComRes.html) | ComRes <br> The Sunday Express | 2.0% | 1.7–2.5% | 1.6–2.6% | 1.5–2.7% | 1.3–3.0% |
 | [19–21 November 2019](2019-11-21-BMGResearch.html) | BMG Research | 5.1% | 4.5–5.9% | 4.3–6.1% | 4.1–6.3% | 3.9–6.7% |
@@ -149,10 +149,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 1.2% | 100% |  |
-| 1.5–2.5% | 21% | 98.8% |  |
-| 2.5–3.5% | 45% | 78% | Median |
-| 3.5–4.5% | 23% | 33% |  |
+| 0.5–1.5% | 0.4% | 100% |  |
+| 1.5–2.5% | 16% | 99.6% |  |
+| 2.5–3.5% | 50% | 84% | Median |
+| 3.5–4.5% | 23% | 34% |  |
 | 4.5–5.5% | 8% | 11% |  |
 | 5.5–6.5% | 2% | 2% |  |
 | 6.5–7.5% | 0.1% | 0.1% |  |
@@ -172,11 +172,11 @@ Last result: **7** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [22–25 November 2019](2019-11-25-ICMResearch.html) | ICM Research |  |  |  |  |  |
-| [20–23 November 2019](2019-11-23-Survation.html) | Survation <br> Good Morning Britain |  |  |  |  |  |
+| [22–25 November 2019](2019-11-25-ICMResearch.html) | ICM Research | 0 | 0 | 0 | 0 | 0 |
+| [20–23 November 2019](2019-11-23-Survation.html) | Survation <br> Good Morning Britain | 0 | 0 | 0 | 0 | 0 |
 | [21–23 November 2019](2019-11-23-Deltapoll.html) | Deltapoll | 0 | 0 | 0 | 0 | 0 |
 | [21–22 November 2019](2019-11-22-YouGov.html) | YouGov <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
-| [20–22 November 2019](2019-11-22-Panelbase.html) | Panelbase |  |  |  |  |  |
+| [20–22 November 2019](2019-11-22-Panelbase.html) | Panelbase | 0 | 0 | 0 | 0 | 0 |
 | [20–22 November 2019](2019-11-22-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0 |
 | [20–21 November 2019](2019-11-21-ComRes.html) | ComRes <br> The Sunday Express | 0 | 0 | 0 | 0 | 0 |
 | [19–21 November 2019](2019-11-21-BMGResearch.html) | BMG Research | 0 | 0 | 0 | 0 | 0–1 |
