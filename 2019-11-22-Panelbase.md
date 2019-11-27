@@ -30,13 +30,13 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#conservative-party-(ecr)">Conservative Party (ECR)</a> | 4 | 33 | 33–35 |33–35 |33–35 |33–36 |
-| <a href="#labour-party-(s&d)">Labour Party (S&D)</a> | 10 | 26 | 24–26 |24–26 |24–26 |24–26 |
-| <a href="#liberal-democrats-(re)">Liberal Democrats (RE)</a> | 16 | 8 | 8 |8 |6–8 |6–8 |
-| <a href="#scottish-national-party-(greens/efa)">Scottish National Party (Greens/EFA)</a> | 3 | 2 | 2 |2 |2 |1–2 |
+| <a href="#conservative-party-(ecr)">Conservative Party (ECR)</a> | 4 | 35 | 33–36 |33–36 |33–37 |32–37 |
+| <a href="#labour-party-(s&d)">Labour Party (S&D)</a> | 10 | 26 | 25–26 |25–26 |25–26 |24–27 |
+| <a href="#liberal-democrats-(re)">Liberal Democrats (RE)</a> | 16 | 6 | 6–8 |6–8 |6–8 |5–8 |
+| <a href="#scottish-national-party-(greens/efa)">Scottish National Party (Greens/EFA)</a> | 3 | 2 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#green-party-(greens/efa)">Green Party (Greens/EFA)</a> | 7 | 0 | 0 |0 |0 |0 |
 | <a href="#brexit-party-(ni)">Brexit Party (NI)</a> | 29 | 0 | 0 |0 |0 |0 |
-| <a href="#plaid-cymru-(greens/efa)">Plaid Cymru (Greens/EFA)</a> | 1 | 1 | 1 |1 |1 |0–1 |
+| <a href="#plaid-cymru-(greens/efa)">Plaid Cymru (Greens/EFA)</a> | 1 | 1 | 1 |0–1 |0–1 |0–1 |
 
 ### Conservative Party (ECR)
 
@@ -73,13 +73,15 @@
 | 28 | 0% | 100% |  |
 | 29 | 0% | 100% |  |
 | 30 | 0% | 100% |  |
-| 31 | 0.2% | 100% |  |
-| 32 | 0% | 99.8% |  |
-| 33 | 59% | 99.8% | Median |
-| 34 | 2% | 41% |  |
-| 35 | 38% | 39% |  |
-| 36 | 2% | 2% | Majority |
-| 37 | 0% | 0% |  |
+| 31 | 0.1% | 100% |  |
+| 32 | 0.7% | 99.9% |  |
+| 33 | 26% | 99.2% |  |
+| 34 | 7% | 74% |  |
+| 35 | 39% | 66% | Median |
+| 36 | 22% | 27% | Majority |
+| 37 | 4% | 5% |  |
+| 38 | 0.4% | 0.4% |  |
+| 39 | 0% | 0% |  |
 
 ### Labour Party (S&D)
 
@@ -101,15 +103,14 @@
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
 | 21 | 0% | 100% |  |
-| 22 | 0% | 100% |  |
-| 23 | 0.1% | 100% |  |
-| 24 | 37% | 99.9% |  |
-| 25 | 0.7% | 63% |  |
-| 26 | 62% | 63% | Median |
-| 27 | 0% | 0.2% |  |
-| 28 | 0% | 0.2% |  |
-| 29 | 0.1% | 0.2% |  |
-| 30 | 0% | 0% |  |
+| 22 | 0.1% | 100% |  |
+| 23 | 0.3% | 99.9% |  |
+| 24 | 0.7% | 99.6% |  |
+| 25 | 19% | 99.0% |  |
+| 26 | 78% | 80% | Median |
+| 27 | 2% | 2% |  |
+| 28 | 0.1% | 0.1% |  |
+| 29 | 0% | 0% |  |
 
 ### Liberal Democrats (RE)
 
@@ -119,10 +120,11 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 3% | 100% |  |
-| 7 | 0.1% | 97% |  |
-| 8 | 97% | 97% | Median |
-| 9 | 0% | 0% |  |
+| 5 | 0.6% | 100% |  |
+| 6 | 63% | 99.4% | Median |
+| 7 | 3% | 36% |  |
+| 8 | 33% | 33% |  |
+| 9 | 0% | 0.1% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |
@@ -139,8 +141,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 2% | 100% |  |
-| 2 | 98% | 98% | Median |
+| 1 | 12% | 100% |  |
+| 2 | 88% | 88% | Median |
 | 3 | 0% | 0% | Last Result |
 
 ### Green Party (Greens/EFA)
@@ -207,9 +209,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.5% | 100% |  |
-| 1 | 99.3% | 99.5% | Last Result, Median |
-| 2 | 0.2% | 0.2% |  |
+| 0 | 9% | 100% |  |
+| 1 | 91% | 91% | Last Result, Median |
+| 2 | 0.4% | 0.4% |  |
 | 3 | 0% | 0% |  |
 
 
@@ -221,9 +223,9 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Conservative Party (ECR) | 4 | 33 | 2% | 33–35 | 33–35 | 33–35 | 33–36 |
-| Labour Party (S&D) | 10 | 26 | 0% | 24–26 | 24–26 | 24–26 | 24–26 |
-| Green Party (Greens/EFA) – Scottish National Party (Greens/EFA) – Plaid Cymru (Greens/EFA) | 11 | 3 | 0% | 3 | 3 | 2–3 | 2–3 |
+| Conservative Party (ECR) | 4 | 35 | 27% | 33–36 | 33–36 | 33–37 | 32–37 |
+| Labour Party (S&D) | 10 | 26 | 0% | 25–26 | 25–26 | 25–26 | 24–27 |
+| Green Party (Greens/EFA) – Scottish National Party (Greens/EFA) – Plaid Cymru (Greens/EFA) | 11 | 3 | 0% | 2–3 | 2–3 | 2–3 | 1–3 |
 | Brexit Party (NI) | 29 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Conservative Party (ECR)
@@ -259,13 +261,15 @@
 | 28 | 0% | 100% |  |
 | 29 | 0% | 100% |  |
 | 30 | 0% | 100% |  |
-| 31 | 0.2% | 100% |  |
-| 32 | 0% | 99.8% |  |
-| 33 | 59% | 99.8% | Median |
-| 34 | 2% | 41% |  |
-| 35 | 38% | 39% |  |
-| 36 | 2% | 2% | Majority |
-| 37 | 0% | 0% |  |
+| 31 | 0.1% | 100% |  |
+| 32 | 0.7% | 99.9% |  |
+| 33 | 26% | 99.2% |  |
+| 34 | 7% | 74% |  |
+| 35 | 39% | 66% | Median |
+| 36 | 22% | 27% | Majority |
+| 37 | 4% | 5% |  |
+| 38 | 0.4% | 0.4% |  |
+| 39 | 0% | 0% |  |
 
 ### Labour Party (S&D)
 
@@ -285,15 +289,14 @@
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
 | 21 | 0% | 100% |  |
-| 22 | 0% | 100% |  |
-| 23 | 0.1% | 100% |  |
-| 24 | 37% | 99.9% |  |
-| 25 | 0.7% | 63% |  |
-| 26 | 62% | 63% | Median |
-| 27 | 0% | 0.2% |  |
-| 28 | 0% | 0.2% |  |
-| 29 | 0.1% | 0.2% |  |
-| 30 | 0% | 0% |  |
+| 22 | 0.1% | 100% |  |
+| 23 | 0.3% | 99.9% |  |
+| 24 | 0.7% | 99.6% |  |
+| 25 | 19% | 99.0% |  |
+| 26 | 78% | 80% | Median |
+| 27 | 2% | 2% |  |
+| 28 | 0.1% | 0.1% |  |
+| 29 | 0% | 0% |  |
 
 ### Green Party (Greens/EFA) – Scottish National Party (Greens/EFA) – Plaid Cymru (Greens/EFA)
 
@@ -301,9 +304,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 3% | 100% |  |
-| 3 | 97% | 97% | Median |
-| 4 | 0.2% | 0.2% |  |
+| 1 | 1.0% | 100% |  |
+| 2 | 19% | 99.0% |  |
+| 3 | 80% | 80% | Median |
+| 4 | 0.4% | 0.4% |  |
 | 5 | 0% | 0% |  |
 | 6 | 0% | 0% |  |
 | 7 | 0% | 0% |  |
@@ -361,6 +365,6 @@
 ### Calculations
 
 + **Sample size:** 2028
-+ **Simulations done:** 1,024
-+ **Error estimate:** 2.06%
++ **Simulations done:** 524,288
++ **Error estimate:** 1.78%
 
