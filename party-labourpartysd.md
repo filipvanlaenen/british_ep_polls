@@ -189,12 +189,12 @@ Last result: **10** seats (General Election of 23 May 2019)
 | [21–23 November 2019](2019-11-23-Deltapoll.html) | Deltapoll | 25 | 23–26 | 22–26 | 21–26 | 20–26 |
 | [21–22 November 2019](2019-11-22-YouGov.html) | YouGov <br> The Sunday Times | 25 | 23–26 | 22–26 | 21–26 | 20–26 |
 | [20–22 November 2019](2019-11-22-Panelbase.html) | Panelbase | 26 | 25–26 | 25–26 | 25–26 | 24–27 |
-| [20–22 November 2019](2019-11-22-Opinium.html) | Opinium <br> The Observer | 25 | 22–25 | 21–25 | 20–25 | 19–25 |
+| [20–22 November 2019](2019-11-22-Opinium.html) | Opinium <br> The Observer | 24 | 22–25 | 21–25 | 20–25 | 18–25 |
 | [20–21 November 2019](2019-11-21-ComRes.html) | ComRes <br> The Sunday Express | 26 | 25–26 | 25–26 | 25–26 | 23–27 |
-| [19–21 November 2019](2019-11-21-BMGResearch.html) | BMG Research | 23 | 20–24 | 20–24 | 20–25 | 20–26 |
+| [19–21 November 2019](2019-11-21-BMGResearch.html) | BMG Research | 22 | 20–24 | 20–25 | 20–25 | 20–26 |
 | [12–20 November 2019](2019-11-20-YouGov.html) | YouGov | 23 | 23–26 | 22–26 | 22–26 | 21–26 |
 | [18–19 November 2019](2019-11-19-YouGov.html) | YouGov <br> The Times | 25 | 23–26 | 23–26 | 23–26 | 21–26 |
-| [15–19 November 2019](2019-11-19-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 22 | 19–25 | 19–25 | 19–25 | 18–26 |
+| [15–19 November 2019](2019-11-19-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 21 | 19–25 | 19–25 | 19–25 | 18–26 |
 | [18–19 November 2019](2019-11-19-ComRes.html) | ComRes <br> Daily Telegraph | 26 | 25–26 | 23–26 | 22–26 | 21–26 |
 | [14–18 November 2019](2019-11-18-KantarPublic.html) | Kantar Public | 20 | 19–22 | 18–23 | 17–24 | 17–25 |
 | [15–18 November 2019](2019-11-18-ICMResearch.html) | ICM Research | 26 | 25–26 | 25–27 | 25–27 | 25–27 |
@@ -333,13 +333,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 0.2% | 100% |  |
 | 18 | 0.6% | 99.7% |  |
 | 19 | 3% | 99.1% |  |
-| 20 | 10% | 96% |  |
-| 21 | 5% | 87% |  |
-| 22 | 5% | 81% |  |
-| 23 | 11% | 76% |  |
-| 24 | 9% | 64% |  |
-| 25 | 23% | 56% | Median |
-| 26 | 29% | 33% |  |
+| 20 | 11% | 96% |  |
+| 21 | 6% | 85% |  |
+| 22 | 5% | 80% |  |
+| 23 | 11% | 74% |  |
+| 24 | 8% | 63% |  |
+| 25 | 22% | 55% | Median |
+| 26 | 28% | 33% |  |
 | 27 | 3% | 4% |  |
 | 28 | 1.0% | 1.4% |  |
 | 29 | 0.3% | 0.4% |  |

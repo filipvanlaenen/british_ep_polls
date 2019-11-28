@@ -175,7 +175,7 @@ Last result: **3** seats (General Election of 23 May 2019)
 | [20–22 November 2019](2019-11-22-Panelbase.html) | Panelbase | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [20–22 November 2019](2019-11-22-Opinium.html) | Opinium <br> The Observer | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [20–21 November 2019](2019-11-21-ComRes.html) | ComRes <br> The Sunday Express | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| [19–21 November 2019](2019-11-21-BMGResearch.html) | BMG Research | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [19–21 November 2019](2019-11-21-BMGResearch.html) | BMG Research | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12–20 November 2019](2019-11-20-YouGov.html) | YouGov | 2 | 2 | 2 | 2 | 2 |
 | [18–19 November 2019](2019-11-19-YouGov.html) | YouGov <br> The Times | 2 | 2 | 2 | 2–3 | 2–3 |
 | [15–19 November 2019](2019-11-19-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 2 | 2 | 2–3 | 2–3 | 2–3 |
@@ -309,7 +309,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 12% | 100% |  |
 | 2 | 76% | 88% | Median |
-| 3 | 11% | 11% | Last Result |
+| 3 | 12% | 12% | Last Result |
 | 4 | 0% | 0% |  |
 
 
