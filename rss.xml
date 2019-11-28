@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/british_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 27 Nov 2019 20:36:25 +0100</pubDate>
+    <pubDate>Thu, 28 Nov 2019 20:26:58 +0100</pubDate>
     <item>
       <title>Opinion Poll by ICM Research, 22–25 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/british_ep_polls/2019-11-25-ICMResearch.html</link>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-11-22-Opinium.png"
         length="233477"
         type="image/png"/>
-      <pubDate>Wed, 27 Nov 2019 20:36:25 +0100</pubDate>
-      <dc:date>2019-11-27T20:36:25.403565+01:00</dc:date>
+      <pubDate>Wed, 27 Nov 2019 20:53:08 +0100</pubDate>
+      <dc:date>2019-11-27T20:53:08.139916+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ComRes for The Sunday Express, 20–21 November 2019 – Voting Intentions</title>
@@ -76,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-11-21-ComRes.png"
         length="191503"
         type="image/png"/>
-      <pubDate>Sun, 24 Nov 2019 20:20:24 +0100</pubDate>
-      <dc:date>2019-11-24T20:20:24.550937+01:00</dc:date>
+      <pubDate>Thu, 28 Nov 2019 20:00:53 +0100</pubDate>
+      <dc:date>2019-11-28T20:00:53.358326+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by BMG Research, 19–21 November 2019 – Voting Intentions</title>
@@ -86,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-11-21-BMGResearch.png"
         length="213598"
         type="image/png"/>
-      <pubDate>Sun, 24 Nov 2019 20:33:05 +0100</pubDate>
-      <dc:date>2019-11-24T20:33:05.893375+01:00</dc:date>
+      <pubDate>Thu, 28 Nov 2019 20:19:30 +0100</pubDate>
+      <dc:date>2019-11-28T20:19:30.495008+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov, 12–20 November 2019 – Voting Intentions</title>
@@ -116,8 +116,8 @@
       <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-11-19-IpsosMORI.png"
         length="219075"
         type="image/png"/>
-      <pubDate>Sun, 24 Nov 2019 10:10:00 +0100</pubDate>
-      <dc:date>2019-11-24T10:10:00.668341+01:00</dc:date>
+      <pubDate>Thu, 28 Nov 2019 20:26:58 +0100</pubDate>
+      <dc:date>2019-11-28T20:26:58.619687+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ComRes for Daily Telegraph, 18–19 November 2019 – Voting Intentions</title>
@@ -2729,6 +2729,6 @@
       <pubDate>Mon, 22 Jul 2019 21:27:08 +0200</pubDate>
       <dc:date>2019-07-22T21:27:08.139393+02:00</dc:date>
     </item>
-    <dc:date>2019-11-27T20:36:25.403565+01:00</dc:date>
+    <dc:date>2019-11-28T20:26:58.619687+01:00</dc:date>
   </channel>
 </rss>
