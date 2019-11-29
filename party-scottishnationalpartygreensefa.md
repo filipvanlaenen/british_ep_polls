@@ -10,10 +10,13 @@ Last result: **3.5%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.6% | 2.4–5.1% | 2.1–5.4% | 1.9–5.6% | 1.6–6.0% |
+| N/A | [Poll Average](average.html) | 3.7% | 2.4–5.1% | 2.1–5.4% | 1.9–5.6% | 1.6–6.0% |
+| [25–26 November 2019](2019-11-26-YouGov.html) | YouGov <br> The Times and Sky News | 4.1% | 3.5–4.7% | 3.3–4.9% | 3.2–5.1% | 3.0–5.5% |
+| [25–26 November 2019](2019-11-26-ComRes.html) | ComRes <br> Daily Telegraph | 3.0% | 2.6–3.6% | 2.5–3.8% | 2.4–3.9% | 2.2–4.2% |
+| [21–25 November 2019](2019-11-25-KantarPublic.html) | Kantar Public | 4.0% | 3.3–4.9% | 3.2–5.1% | 3.0–5.3% | 2.7–5.8% |
 | [22–25 November 2019](2019-11-25-ICMResearch.html) | ICM Research | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
 | [20–23 November 2019](2019-11-23-Survation.html) | Survation <br> Good Morning Britain | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.8–4.6% |
-| [21–23 November 2019](2019-11-23-Deltapoll.html) | Deltapoll | 4.0% | 3.4–4.7% | 3.3–5.0% | 3.1–5.1% | 2.9–5.5% |
+| [21–23 November 2019](2019-11-23-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 4.0% | 3.4–4.7% | 3.3–5.0% | 3.1–5.1% | 2.9–5.5% |
 | [21–22 November 2019](2019-11-22-YouGov.html) | YouGov <br> The Sunday Times | 4.0% | 3.4–4.7% | 3.3–4.9% | 3.2–5.0% | 2.9–5.4% |
 | [20–22 November 2019](2019-11-22-Panelbase.html) | Panelbase | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% |
 | [20–22 November 2019](2019-11-22-Opinium.html) | Opinium <br> The Observer | 5.0% | 4.4–5.7% | 4.3–5.9% | 4.1–6.1% | 3.9–6.4% |
@@ -150,7 +153,7 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
 | 0.5–1.5% | 0.4% | 100% |  |
-| 1.5–2.5% | 12% | 99.6% |  |
+| 1.5–2.5% | 11% | 99.6% |  |
 | 2.5–3.5% | 35% | 88% |  |
 | 3.5–4.5% | 31% | 53% | Last Result, Median |
 | 4.5–5.5% | 19% | 22% |  |
@@ -168,9 +171,12 @@ Last result: **3** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| [25–26 November 2019](2019-11-26-YouGov.html) | YouGov <br> The Times and Sky News | 2 | 2 | 2–3 | 2–3 | 1–3 |
+| [25–26 November 2019](2019-11-26-ComRes.html) | ComRes <br> Daily Telegraph | 2 | 2 | 2 | 2 | 1–2 |
+| [21–25 November 2019](2019-11-25-KantarPublic.html) | Kantar Public | 2 | 2 | 2 | 2 | 2 |
 | [22–25 November 2019](2019-11-25-ICMResearch.html) | ICM Research | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [20–23 November 2019](2019-11-23-Survation.html) | Survation <br> Good Morning Britain | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [21–23 November 2019](2019-11-23-Deltapoll.html) | Deltapoll | 2 | 2 | 2 | 2 | 2–3 |
+| [21–23 November 2019](2019-11-23-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 2 | 2 | 2 | 2 | 2–3 |
 | [21–22 November 2019](2019-11-22-YouGov.html) | YouGov <br> The Sunday Times | 2 | 2 | 2 | 2–3 | 2–3 |
 | [20–22 November 2019](2019-11-22-Panelbase.html) | Panelbase | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [20–22 November 2019](2019-11-22-Opinium.html) | Opinium <br> The Observer | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -207,8 +213,8 @@ Last result: **3** seats (General Election of 23 May 2019)
 | [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [30 October–1 November 2019](2019-11-01-YouGov.html) | YouGov <br> The Sunday Times | 3 | 3 | 3 | 3 | 2–3 |
 | [30 October–1 November 2019](2019-11-01-Opinium.html) | Opinium <br> The Observer | 2 | 2 | 2 | 2 | 2–3 |
-| [30–31 October 2019](2019-10-31-Panelbase.html) | Panelbase | 2 | 2 | 2 | 2 | 1–2 |
-| [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [30–31 October 2019](2019-10-31-Panelbase.html) | Panelbase | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [30–31 October 2019](2019-10-31-ComRes.html) | ComRes <br> Sunday Express | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [29–30 October 2019](2019-10-30-YouGov.html) | YouGov <br> The Times | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [29–30 October 2019](2019-10-30-Survation.html) | Survation | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -307,8 +313,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 12% | 100% |  |
-| 2 | 76% | 88% | Median |
+| 1 | 11% | 100% |  |
+| 2 | 76% | 89% | Median |
 | 3 | 12% | 12% | Last Result |
 | 4 | 0% | 0% |  |
 
