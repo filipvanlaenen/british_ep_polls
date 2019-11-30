@@ -186,10 +186,10 @@ Last result: **10** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 21–26 | 20–27 | 20–27 | 19–30 |
-| [25–26 November 2019](2019-11-26-YouGov.html) | YouGov <br> The Times and Sky News | 26 | 25–26 | 25–26 | 25–26 | 24–27 |
-| [25–26 November 2019](2019-11-26-ComRes.html) | ComRes <br> Daily Telegraph | 26 | 26–27 | 26–28 | 26–30 | 25–30 |
-| [21–25 November 2019](2019-11-25-KantarPublic.html) | Kantar Public | 25 | 25 | 25 | 25–26 | 25–28 |
+| N/A | [Poll Average](average.html) | 25 | 21–26 | 20–27 | 20–28 | 19–29 |
+| [25–26 November 2019](2019-11-26-YouGov.html) | YouGov <br> The Times and Sky News | 26 | 25–26 | 25–27 | 25–27 | 25–27 |
+| [25–26 November 2019](2019-11-26-ComRes.html) | ComRes <br> Daily Telegraph | 26 | 26–28 | 26–28 | 26–28 | 25–30 |
+| [21–25 November 2019](2019-11-25-KantarPublic.html) | Kantar Public | 26 | 25–26 | 25–26 | 24–27 | 23–28 |
 | [22–25 November 2019](2019-11-25-ICMResearch.html) | ICM Research | 26 | 26–28 | 26–28 | 26–29 | 25–30 |
 | [20–23 November 2019](2019-11-23-Survation.html) | Survation <br> Good Morning Britain | 25 | 22–26 | 22–26 | 21–26 | 20–27 |
 | [21–23 November 2019](2019-11-23-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 25 | 23–26 | 22–26 | 21–26 | 20–26 |
@@ -198,7 +198,7 @@ Last result: **10** seats (General Election of 23 May 2019)
 | [20–22 November 2019](2019-11-22-Opinium.html) | Opinium <br> The Observer | 24 | 22–25 | 21–25 | 20–25 | 18–25 |
 | [20–21 November 2019](2019-11-21-ComRes.html) | ComRes <br> The Sunday Express | 26 | 25–26 | 25–26 | 25–26 | 23–27 |
 | [19–21 November 2019](2019-11-21-BMGResearch.html) | BMG Research | 22 | 20–24 | 20–25 | 20–25 | 20–26 |
-| [12–20 November 2019](2019-11-20-YouGov.html) | YouGov | 23 | 23–26 | 22–26 | 22–26 | 21–26 |
+| [12–20 November 2019](2019-11-20-YouGov.html) | YouGov | 23 | 22–24 | 22–25 | 22–25 | 22–25 |
 | [18–19 November 2019](2019-11-19-YouGov.html) | YouGov <br> The Times | 25 | 23–26 | 23–26 | 23–26 | 21–26 |
 | [15–19 November 2019](2019-11-19-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 21 | 19–25 | 19–25 | 19–25 | 17–26 |
 | [18–19 November 2019](2019-11-19-ComRes.html) | ComRes <br> Daily Telegraph | 26 | 25–26 | 23–26 | 22–26 | 21–26 |
@@ -210,7 +210,7 @@ Last result: **10** seats (General Election of 23 May 2019)
 | [13–15 November 2019](2019-11-15-Opinium.html) | Opinium <br> The Observer | 23 | 21–25 | 20–25 | 20–25 | 19–25 |
 | [9–15 November 2019](2019-11-15-BMGResearch.html) | BMG Research | 25 | 22–25 | 21–26 | 21–26 | 20–27 |
 | [13–14 November 2019](2019-11-14-Panelbase.html) | Panelbase | 25 | 22–26 | 21–26 | 21–26 | 19–26 |
-| [13–14 November 2019](2019-11-14-ComRes.html) | ComRes <br> The Sunday Telegraph | 26 | 26–27 | 26–30 | 26–30 | 25–30 |
+| [13–14 November 2019](2019-11-14-ComRes.html) | ComRes <br> The Sunday Telegraph | 26 | 26–27 | 26–27 | 25–28 | 25–28 |
 | [11–12 November 2019](2019-11-12-YouGov.html) | YouGov <br> The Times and Sky News | 23 | 21–25 | 20–26 | 19–26 | 19–26 |
 | [11–12 November 2019](2019-11-12-ComRes.html) | ComRes <br> Daily Telegraph | 25 | 23–26 | 22–26 | 22–26 | 21–26 |
 | [7–11 November 2019](2019-11-11-KantarPublic.html) | Kantar Public | 20 | 19–23 | 19–24 | 19–25 | 18–25 |
@@ -223,20 +223,20 @@ Last result: **10** seats (General Election of 23 May 2019)
 | [6–8 November 2019](2019-11-08-Opinium.html) | Opinium <br> The Observer | 26 | 22–26 | 22–26 | 22–26 | 20–26 |
 | [5–8 November 2019](2019-11-08-BMGResearch.html) | BMG Research <br> The Independent | 24 | 23–25 | 21–25 | 21–26 | 20–26 |
 | [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times and Sky News | 21 | 18–21 | 18–22 | 18–22 | 17–23 |
-| [30 October–5 November 2019](2019-11-05-ComRes.html) | ComRes <br> Remain United | 21 | 21 | 21–23 | 21–23 | 21–23 |
-| [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 19 | 19–21 | 17–21 | 17–21 | 17–21 |
-| [1–4 November 2019](2019-11-04-ICMResearch.html) | ICM Research <br> Reuters | 25 | 25 | 25 | 25 | 25–27 |
-| [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 23 | 19–23 | 19–26 | 19–26 | 19–26 |
-| [30 October–1 November 2019](2019-11-01-YouGov.html) | YouGov <br> The Sunday Times | 24 | 24 | 23–24 | 22–24 | 19–24 |
-| [30 October–1 November 2019](2019-11-01-Opinium.html) | Opinium <br> The Observer | 20 | 18–20 | 18–20 | 18–20 | 17–22 |
+| [30 October–5 November 2019](2019-11-05-ComRes.html) | ComRes <br> Remain United | 22 | 21–23 | 21–23 | 21–23 | 21–23 |
+| [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 18 | 18–20 | 18–20 | 18–21 | 17–21 |
+| [1–4 November 2019](2019-11-04-ICMResearch.html) | ICM Research <br> Reuters | 25 | 25–26 | 25–26 | 24–28 | 23–28 |
+| [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 22 | 19–25 | 19–25 | 19–25 | 19–25 |
+| [30 October–1 November 2019](2019-11-01-YouGov.html) | YouGov <br> The Sunday Times | 21 | 20–25 | 19–26 | 18–26 | 18–26 |
+| [30 October–1 November 2019](2019-11-01-Opinium.html) | Opinium <br> The Observer | 20 | 19–22 | 18–23 | 18–23 | 17–24 |
 | [30–31 October 2019](2019-10-31-Panelbase.html) | Panelbase | 25 | 21–25 | 21–26 | 20–26 | 19–26 |
 | [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph | 23 | 21–25 | 20–25 | 20–26 | 20–26 |
-| [30–31 October 2019](2019-10-31-ComRes.html) | ComRes <br> Sunday Express | 23 | 22–23 | 21–23 | 20–23 | 20–23 |
-| [29–30 October 2019](2019-10-30-YouGov.html) | YouGov <br> The Times | 16 | 15–16 | 15–16 | 15–16 | 15–16 |
-| [29–30 October 2019](2019-10-30-Survation.html) | Survation | 21 | 21 | 21 | 16–21 | 16–23 |
-| [17–28 October 2019](2019-10-28-YouGov.html) | YouGov | 16 | 15–16 | 15–16 | 15–16 | 15–16 |
+| [30–31 October 2019](2019-10-31-ComRes.html) | ComRes <br> Sunday Express | 23 | 22–25 | 21–25 | 21–25 | 20–25 |
+| [29–30 October 2019](2019-10-30-YouGov.html) | YouGov <br> The Times | 15 | 15–16 | 15–17 | 15–18 | 15–19 |
+| [29–30 October 2019](2019-10-30-Survation.html) | Survation | 21 | 18–22 | 17–22 | 16–23 | 16–24 |
+| [17–28 October 2019](2019-10-28-YouGov.html) | YouGov | 15 | 15–17 | 15–17 | 15–17 | 15–18 |
 | [25–28 October 2019](2019-10-28-IpsosMORI.html) | Ipsos MORI | 18 | 16–20 | 16–20 | 15–20 | 15–22 |
-| [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 18 | 18–21 | 16–21 | 16–21 | 16–21 |
+| [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 18 | 16–19 | 16–20 | 16–21 | 16–21 |
 | [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 19 | 18–20 | 18–21 | 17–21 | 16–22 |
 | [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 16 | 16–18 | 16–18 | 15–18 | 15–20 |
 | [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 18 | 16–20 | 16–21 | 15–21 | 15–21 |
@@ -344,12 +344,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 22 | 5% | 87% |  |
 | 23 | 8% | 82% |  |
 | 24 | 7% | 74% |  |
-| 25 | 29% | 67% | Median |
-| 26 | 30% | 38% |  |
-| 27 | 6% | 8% |  |
-| 28 | 1.3% | 2% |  |
-| 29 | 0.3% | 0.8% |  |
-| 30 | 0.6% | 0.6% |  |
+| 25 | 23% | 67% | Median |
+| 26 | 34% | 43% |  |
+| 27 | 6% | 9% |  |
+| 28 | 2% | 3% |  |
+| 29 | 0.3% | 0.6% |  |
+| 30 | 0.3% | 0.3% |  |
 | 31 | 0% | 0% |  |
 
 

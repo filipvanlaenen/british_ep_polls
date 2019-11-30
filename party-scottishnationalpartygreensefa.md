@@ -171,9 +171,9 @@ Last result: **3** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
-| [25–26 November 2019](2019-11-26-YouGov.html) | YouGov <br> The Times and Sky News | 2 | 2 | 2–3 | 2–3 | 1–3 |
-| [25–26 November 2019](2019-11-26-ComRes.html) | ComRes <br> Daily Telegraph | 2 | 2 | 2 | 2 | 1–2 |
-| [21–25 November 2019](2019-11-25-KantarPublic.html) | Kantar Public | 2 | 2 | 2 | 2 | 2 |
+| [25–26 November 2019](2019-11-26-YouGov.html) | YouGov <br> The Times and Sky News | 2 | 2 | 2 | 2–3 | 2–3 |
+| [25–26 November 2019](2019-11-26-ComRes.html) | ComRes <br> Daily Telegraph | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| [21–25 November 2019](2019-11-25-KantarPublic.html) | Kantar Public | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [22–25 November 2019](2019-11-25-ICMResearch.html) | ICM Research | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [20–23 November 2019](2019-11-23-Survation.html) | Survation <br> Good Morning Britain | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [21–23 November 2019](2019-11-23-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 2 | 2 | 2 | 2 | 2–3 |
@@ -194,7 +194,7 @@ Last result: **3** seats (General Election of 23 May 2019)
 | [13–15 November 2019](2019-11-15-Opinium.html) | Opinium <br> The Observer | 2 | 2 | 2 | 2 | 2–3 |
 | [9–15 November 2019](2019-11-15-BMGResearch.html) | BMG Research | 2 | 2 | 2 | 2 | 1–2 |
 | [13–14 November 2019](2019-11-14-Panelbase.html) | Panelbase | 2 | 2 | 2 | 2–3 | 2–3 |
-| [13–14 November 2019](2019-11-14-ComRes.html) | ComRes <br> The Sunday Telegraph | 2 | 2 | 2 | 1–2 | 1–2 |
+| [13–14 November 2019](2019-11-14-ComRes.html) | ComRes <br> The Sunday Telegraph | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [11–12 November 2019](2019-11-12-YouGov.html) | YouGov <br> The Times and Sky News | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [11–12 November 2019](2019-11-12-ComRes.html) | ComRes <br> Daily Telegraph | 2 | 2 | 2 | 2–3 | 2–3 |
 | [7–11 November 2019](2019-11-11-KantarPublic.html) | Kantar Public | 2 | 2 | 1–2 | 1–2 | 1–3 |
@@ -207,20 +207,20 @@ Last result: **3** seats (General Election of 23 May 2019)
 | [6–8 November 2019](2019-11-08-Opinium.html) | Opinium <br> The Observer | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [5–8 November 2019](2019-11-08-BMGResearch.html) | BMG Research <br> The Independent | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times and Sky News | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [30 October–5 November 2019](2019-11-05-ComRes.html) | ComRes <br> Remain United | 2 | 2 | 2 | 2 | 2–3 |
+| [30 October–5 November 2019](2019-11-05-ComRes.html) | ComRes <br> Remain United | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [1–4 November 2019](2019-11-04-ICMResearch.html) | ICM Research <br> Reuters | 2 | 2 | 2 | 2 | 2 |
-| [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| [30 October–1 November 2019](2019-11-01-YouGov.html) | YouGov <br> The Sunday Times | 3 | 3 | 3 | 3 | 2–3 |
+| [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| [30 October–1 November 2019](2019-11-01-YouGov.html) | YouGov <br> The Sunday Times | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [30 October–1 November 2019](2019-11-01-Opinium.html) | Opinium <br> The Observer | 2 | 2 | 2 | 2 | 2–3 |
 | [30–31 October 2019](2019-10-31-Panelbase.html) | Panelbase | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph | 3 | 3 | 2–3 | 2–3 | 2–3 |
-| [30–31 October 2019](2019-10-31-ComRes.html) | ComRes <br> Sunday Express | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [30–31 October 2019](2019-10-31-ComRes.html) | ComRes <br> Sunday Express | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [29–30 October 2019](2019-10-30-YouGov.html) | YouGov <br> The Times | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [29–30 October 2019](2019-10-30-Survation.html) | Survation | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [17–28 October 2019](2019-10-28-YouGov.html) | YouGov | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [29–30 October 2019](2019-10-30-Survation.html) | Survation | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [17–28 October 2019](2019-10-28-YouGov.html) | YouGov | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [25–28 October 2019](2019-10-28-IpsosMORI.html) | Ipsos MORI | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -313,8 +313,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 11% | 100% |  |
-| 2 | 76% | 89% | Median |
+| 1 | 12% | 100% |  |
+| 2 | 76% | 88% | Median |
 | 3 | 12% | 12% | Last Result |
 | 4 | 0% | 0% |  |
 
