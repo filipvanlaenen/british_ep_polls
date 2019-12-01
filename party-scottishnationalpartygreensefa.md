@@ -171,10 +171,10 @@ Last result: **3** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
-| [25–26 November 2019](2019-11-26-YouGov.html) | YouGov <br> The Times and Sky News | 2 | 2 | 2 | 2–3 | 2–3 |
+| [25–26 November 2019](2019-11-26-YouGov.html) | YouGov <br> The Times and Sky News | 2 | 2 | 2 | 2 | 2–3 |
 | [25–26 November 2019](2019-11-26-ComRes.html) | ComRes <br> Daily Telegraph | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [21–25 November 2019](2019-11-25-KantarPublic.html) | Kantar Public | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| [22–25 November 2019](2019-11-25-ICMResearch.html) | ICM Research | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [22–25 November 2019](2019-11-25-ICMResearch.html) | ICM Research | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [20–23 November 2019](2019-11-23-Survation.html) | Survation <br> Good Morning Britain | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [21–23 November 2019](2019-11-23-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 2 | 2 | 2 | 2 | 2–3 |
 | [21–22 November 2019](2019-11-22-YouGov.html) | YouGov <br> The Sunday Times | 2 | 2 | 2 | 2–3 | 2–3 |
@@ -313,8 +313,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 12% | 100% |  |
-| 2 | 76% | 88% | Median |
+| 1 | 11% | 100% |  |
+| 2 | 76% | 89% | Median |
 | 3 | 12% | 12% | Last Result |
 | 4 | 0% | 0% |  |
 

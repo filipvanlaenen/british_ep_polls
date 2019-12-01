@@ -175,13 +175,13 @@ Last result: **16** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–11 | 5–13 | 4–13 | 4–14 |
+| N/A | [Poll Average](average.html) | 6 | 6–11 | 5–13 | 5–13 | 4–14 |
 | [25–26 November 2019](2019-11-26-YouGov.html) | YouGov <br> The Times and Sky News | 6 | 6 | 5–7 | 5–8 | 4–8 |
 | [25–26 November 2019](2019-11-26-ComRes.html) | ComRes <br> Daily Telegraph | 6 | 5–8 | 5–8 | 5–8 | 5–8 |
-| [21–25 November 2019](2019-11-25-KantarPublic.html) | Kantar Public | 6 | 6–8 | 6–8 | 5–8 | 5–9 |
+| [21–25 November 2019](2019-11-25-KantarPublic.html) | Kantar Public | 6 | 6–8 | 6–8 | 5–8 | 5–8 |
 | [22–25 November 2019](2019-11-25-ICMResearch.html) | ICM Research | 6 | 5–8 | 5–8 | 5–8 | 5–8 |
 | [20–23 November 2019](2019-11-23-Survation.html) | Survation <br> Good Morning Britain | 8 | 6–9 | 6–11 | 6–12 | 6–13 |
-| [21–23 November 2019](2019-11-23-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 8 | 8–9 | 6–11 | 6–11 | 6–13 |
+| [21–23 November 2019](2019-11-23-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 8 | 8–10 | 6–11 | 6–12 | 6–13 |
 | [21–22 November 2019](2019-11-22-YouGov.html) | YouGov <br> The Sunday Times | 8 | 8–10 | 6–11 | 6–12 | 6–13 |
 | [20–22 November 2019](2019-11-22-Panelbase.html) | Panelbase | 6 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [20–22 November 2019](2019-11-22-Opinium.html) | Opinium <br> The Observer | 6 | 4–6 | 4–6 | 4–7 | 4–8 |
@@ -318,13 +318,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 3% | 100% |  |
-| 5 | 7% | 97% |  |
+| 4 | 2% | 100% |  |
+| 5 | 7% | 98% |  |
 | 6 | 43% | 90% | Median |
 | 7 | 2% | 47% |  |
 | 8 | 28% | 45% |  |
 | 9 | 4% | 17% |  |
-| 10 | 2% | 13% |  |
+| 10 | 3% | 13% |  |
 | 11 | 2% | 10% |  |
 | 12 | 1.5% | 8% |  |
 | 13 | 6% | 7% |  |

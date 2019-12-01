@@ -195,7 +195,7 @@ Last result: **10** seats (General Election of 23 May 2019)
 | [21–23 November 2019](2019-11-23-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 25 | 23–26 | 22–26 | 21–26 | 20–26 |
 | [21–22 November 2019](2019-11-22-YouGov.html) | YouGov <br> The Sunday Times | 25 | 23–26 | 22–26 | 21–26 | 20–26 |
 | [20–22 November 2019](2019-11-22-Panelbase.html) | Panelbase | 26 | 25–26 | 25–26 | 25–26 | 24–27 |
-| [20–22 November 2019](2019-11-22-Opinium.html) | Opinium <br> The Observer | 24 | 22–25 | 21–25 | 20–25 | 18–25 |
+| [20–22 November 2019](2019-11-22-Opinium.html) | Opinium <br> The Observer | 23 | 22–25 | 21–25 | 20–25 | 18–25 |
 | [20–21 November 2019](2019-11-21-ComRes.html) | ComRes <br> The Sunday Express | 26 | 25–26 | 25–26 | 25–26 | 23–27 |
 | [19–21 November 2019](2019-11-21-BMGResearch.html) | BMG Research | 22 | 20–24 | 20–25 | 20–25 | 20–26 |
 | [12–20 November 2019](2019-11-20-YouGov.html) | YouGov | 23 | 22–24 | 22–25 | 22–25 | 22–25 |
@@ -339,16 +339,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 0.1% | 100% |  |
 | 18 | 0.1% | 99.9% |  |
 | 19 | 1.4% | 99.8% |  |
-| 20 | 7% | 98% |  |
+| 20 | 6% | 98% |  |
 | 21 | 5% | 92% |  |
 | 22 | 5% | 87% |  |
-| 23 | 8% | 82% |  |
-| 24 | 7% | 74% |  |
-| 25 | 23% | 67% | Median |
-| 26 | 34% | 43% |  |
+| 23 | 9% | 81% |  |
+| 24 | 7% | 72% |  |
+| 25 | 23% | 65% | Median |
+| 26 | 33% | 42% |  |
 | 27 | 6% | 9% |  |
 | 28 | 2% | 3% |  |
-| 29 | 0.3% | 0.6% |  |
+| 29 | 0.2% | 0.5% |  |
 | 30 | 0.3% | 0.3% |  |
 | 31 | 0% | 0% |  |
 

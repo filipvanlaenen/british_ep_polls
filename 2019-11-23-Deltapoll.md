@@ -1,4 +1,4 @@
-# Opinion Poll by Deltapoll, 21–23 November 2019
+# Opinion Poll by Deltapoll for The Mail on Sunday, 21–23 November 2019
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
 
@@ -30,9 +30,9 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#conservative-party-(ecr)">Conservative Party (ECR)</a> | 4 | 35 | 34–37 |33–37 |33–38 |31–38 |
+| <a href="#conservative-party-(ecr)">Conservative Party (ECR)</a> | 4 | 35 | 34–37 |33–37 |33–37 |31–38 |
 | <a href="#labour-party-(s&d)">Labour Party (S&D)</a> | 10 | 25 | 23–26 |22–26 |21–26 |20–26 |
-| <a href="#liberal-democrats-(re)">Liberal Democrats (RE)</a> | 16 | 8 | 8–9 |6–11 |6–11 |6–13 |
+| <a href="#liberal-democrats-(re)">Liberal Democrats (RE)</a> | 16 | 8 | 8–10 |6–11 |6–12 |6–13 |
 | <a href="#scottish-national-party-(greens/efa)">Scottish National Party (Greens/EFA)</a> | 3 | 2 | 2 |2 |2 |2–3 |
 | <a href="#green-party-(greens/efa)">Green Party (Greens/EFA)</a> | 7 | 0 | 0 |0 |0 |0 |
 | <a href="#brexit-party-(ni)">Brexit Party (NI)</a> | 29 | 0 | 0 |0 |0 |0 |
@@ -74,14 +74,14 @@
 | 29 | 0% | 100% |  |
 | 30 | 0% | 100% |  |
 | 31 | 0.5% | 100% |  |
-| 32 | 1.1% | 99.5% |  |
+| 32 | 1.5% | 99.5% |  |
 | 33 | 5% | 98% |  |
-| 34 | 20% | 93% |  |
-| 35 | 34% | 74% | Median |
-| 36 | 9% | 40% | Majority |
-| 37 | 28% | 30% |  |
-| 38 | 2% | 3% |  |
-| 39 | 0.2% | 0.2% |  |
+| 34 | 17% | 93% |  |
+| 35 | 35% | 76% | Median |
+| 36 | 6% | 40% | Majority |
+| 37 | 32% | 34% |  |
+| 38 | 2% | 2% |  |
+| 39 | 0.1% | 0.1% |  |
 | 40 | 0% | 0% |  |
 
 ### Labour Party (S&D)
@@ -102,13 +102,13 @@
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
-| 20 | 1.0% | 100% |  |
+| 20 | 0.9% | 100% |  |
 | 21 | 3% | 99.0% |  |
-| 22 | 3% | 96% |  |
-| 23 | 17% | 92% |  |
-| 24 | 14% | 75% |  |
-| 25 | 45% | 61% | Median |
-| 26 | 16% | 16% |  |
+| 22 | 5% | 96% |  |
+| 23 | 20% | 91% |  |
+| 24 | 11% | 70% |  |
+| 25 | 45% | 59% | Median |
+| 26 | 14% | 14% |  |
 | 27 | 0% | 0% |  |
 
 ### Liberal Democrats (RE)
@@ -120,13 +120,13 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 8% | 100% |  |
-| 7 | 1.2% | 92% |  |
-| 8 | 71% | 90% | Median |
-| 9 | 10% | 20% |  |
-| 10 | 4% | 10% |  |
-| 11 | 4% | 6% |  |
-| 12 | 1.2% | 2% |  |
-| 13 | 1.1% | 1.1% |  |
+| 7 | 0.9% | 92% |  |
+| 8 | 70% | 91% | Median |
+| 9 | 9% | 21% |  |
+| 10 | 6% | 12% |  |
+| 11 | 3% | 6% |  |
+| 12 | 1.5% | 3% |  |
+| 13 | 1.4% | 1.4% |  |
 | 14 | 0% | 0% |  |
 | 15 | 0% | 0% |  |
 | 16 | 0% | 0% | Last Result |
@@ -221,9 +221,9 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Conservative Party (ECR) | 4 | 35 | 40% | 34–37 | 33–37 | 33–38 | 31–38 |
+| Conservative Party (ECR) | 4 | 35 | 40% | 34–37 | 33–37 | 33–37 | 31–38 |
 | Labour Party (S&D) | 10 | 25 | 0% | 23–26 | 22–26 | 21–26 | 20–26 |
-| Scottish National Party (Greens/EFA) – Green Party (Greens/EFA) – Plaid Cymru (Greens/EFA) | 11 | 2 | 0% | 2 | 2 | 2 | 2–3 |
+| Scottish National Party (Greens/EFA) – Green Party (Greens/EFA) – Plaid Cymru (Greens/EFA) | 11 | 2 | 0% | 2 | 2 | 2–3 | 2–3 |
 | Brexit Party (NI) | 29 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Conservative Party (ECR)
@@ -260,14 +260,14 @@
 | 29 | 0% | 100% |  |
 | 30 | 0% | 100% |  |
 | 31 | 0.5% | 100% |  |
-| 32 | 1.1% | 99.5% |  |
+| 32 | 1.5% | 99.5% |  |
 | 33 | 5% | 98% |  |
-| 34 | 20% | 93% |  |
-| 35 | 34% | 74% | Median |
-| 36 | 9% | 40% | Majority |
-| 37 | 28% | 30% |  |
-| 38 | 2% | 3% |  |
-| 39 | 0.2% | 0.2% |  |
+| 34 | 17% | 93% |  |
+| 35 | 35% | 76% | Median |
+| 36 | 6% | 40% | Majority |
+| 37 | 32% | 34% |  |
+| 38 | 2% | 2% |  |
+| 39 | 0.1% | 0.1% |  |
 | 40 | 0% | 0% |  |
 
 ### Labour Party (S&D)
@@ -286,13 +286,13 @@
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
-| 20 | 1.0% | 100% |  |
+| 20 | 0.9% | 100% |  |
 | 21 | 3% | 99.0% |  |
-| 22 | 3% | 96% |  |
-| 23 | 17% | 92% |  |
-| 24 | 14% | 75% |  |
-| 25 | 45% | 61% | Median |
-| 26 | 16% | 16% |  |
+| 22 | 5% | 96% |  |
+| 23 | 20% | 91% |  |
+| 24 | 11% | 70% |  |
+| 25 | 45% | 59% | Median |
+| 26 | 14% | 14% |  |
 | 27 | 0% | 0% |  |
 
 ### Scottish National Party (Greens/EFA) – Green Party (Greens/EFA) – Plaid Cymru (Greens/EFA)
@@ -302,8 +302,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.1% | 100% |  |
-| 2 | 98% | 99.9% | Median |
-| 3 | 2% | 2% |  |
+| 2 | 97% | 99.9% | Median |
+| 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 | 5 | 0% | 0% |  |
 | 6 | 0% | 0% |  |
@@ -356,12 +356,12 @@
 ### Opinion Poll
 
 + **Polling firm:** Deltapoll
-+ **Commissioner(s):** —
++ **Commissioner(s):** The Mail on Sunday
 + **Fieldwork period:** 21–23 November 2019
 
 ### Calculations
 
 + **Sample size:** 1519
-+ **Simulations done:** 524,288
-+ **Error estimate:** 0.85%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.16%
 
