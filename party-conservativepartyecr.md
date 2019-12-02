@@ -10,7 +10,12 @@ Last result: **8.8%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 42.2% | 38.3–45.7% | 36.0–47.1% | 35.3–47.8% | 34.2–48.9% |
+| N/A | [Poll Average](average.html) | 42.3% | 37.6–46.2% | 36.0–47.2% | 35.3–47.9% | 34.2–48.9% |
+| [28–30 November 2019](2019-11-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 45.1% | 43.5–46.7% | 43.0–47.2% | 42.6–47.6% | 41.8–48.4% |
+| [28–29 November 2019](2019-11-29-YouGov.html) | YouGov <br> The Sunday Times | 42.9% | 41.4–44.5% | 40.9–44.9% | 40.6–45.3% | 39.8–46.1% |
+| [27–28 November 2019](2019-11-28-Panelbase.html) | Panelbase | 41.9% | 40.5–43.3% | 40.1–43.7% | 39.8–44.1% | 39.1–44.7% |
+| [27–28 November 2019](2019-11-28-ComRes.html) | ComRes <br> The Sunday Telegraph | 43.0% | 41.6–44.4% | 41.2–44.8% | 40.9–45.2% | 40.2–45.9% |
+| [26–27 November 2019](2019-11-27-BMGResearch.html) | BMG Research <br> The Independent | 39.1% | 37.6–40.6% | 37.1–41.1% | 36.8–41.5% | 36.0–42.2% |
 | [25–26 November 2019](2019-11-26-YouGov.html) | YouGov <br> The Times and Sky News | 43.3% | 41.8–44.9% | 41.3–45.3% | 41.0–45.7% | 40.2–46.5% |
 | [25–26 November 2019](2019-11-26-ComRes.html) | ComRes <br> Daily Telegraph | 41.4% | 40.0–42.8% | 39.6–43.2% | 39.3–43.6% | 38.6–44.2% |
 | [21–25 November 2019](2019-11-25-KantarPublic.html) | Kantar Public | 42.8% | 40.8–44.7% | 40.3–45.2% | 39.8–45.7% | 38.9–46.6% |
@@ -179,19 +184,19 @@ The following table shows the probability mass function per percentage block of 
 | 33.5–34.5% | 0.8% | 99.9% |  |
 | 34.5–35.5% | 2% | 99.1% |  |
 | 35.5–36.5% | 3% | 97% |  |
-| 36.5–37.5% | 2% | 93% |  |
-| 37.5–38.5% | 2% | 91% |  |
-| 38.5–39.5% | 4% | 89% |  |
-| 39.5–40.5% | 9% | 86% |  |
-| 40.5–41.5% | 16% | 77% |  |
-| 41.5–42.5% | 19% | 61% | Median |
-| 42.5–43.5% | 16% | 42% |  |
-| 43.5–44.5% | 10% | 27% |  |
-| 44.5–45.5% | 6% | 16% |  |
-| 45.5–46.5% | 4% | 11% |  |
-| 46.5–47.5% | 4% | 7% |  |
-| 47.5–48.5% | 2% | 3% |  |
-| 48.5–49.5% | 0.8% | 0.9% |  |
+| 36.5–37.5% | 3% | 93% |  |
+| 37.5–38.5% | 4% | 90% |  |
+| 38.5–39.5% | 6% | 87% |  |
+| 39.5–40.5% | 8% | 81% |  |
+| 40.5–41.5% | 12% | 72% |  |
+| 41.5–42.5% | 14% | 60% | Median |
+| 42.5–43.5% | 14% | 46% |  |
+| 43.5–44.5% | 11% | 32% |  |
+| 44.5–45.5% | 7% | 21% |  |
+| 45.5–46.5% | 5% | 13% |  |
+| 46.5–47.5% | 4% | 8% |  |
+| 47.5–48.5% | 3% | 4% |  |
+| 48.5–49.5% | 0.8% | 1.0% |  |
 | 49.5–50.5% | 0.1% | 0.1% |  |
 | 50.5–51.5% | 0% | 0% |  |
 
@@ -204,7 +209,12 @@ Last result: **4** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 35 | 31–38 | 30–39 | 29–39 | 28–40 |
+| N/A | [Poll Average](average.html) | 36 | 32–38 | 30–39 | 29–39 | 28–40 |
+| [28–30 November 2019](2019-11-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 36 | 34–38 | 34–38 | 34–38 | 34–38 |
+| [28–29 November 2019](2019-11-29-YouGov.html) | YouGov <br> The Sunday Times | 36 | 35–36 | 34–37 | 34–37 | 33–37 |
+| [27–28 November 2019](2019-11-28-Panelbase.html) | Panelbase | 36 | 35–36 | 34–37 | 33–37 | 32–37 |
+| [27–28 November 2019](2019-11-28-ComRes.html) | ComRes <br> The Sunday Telegraph | 35 | 35–36 | 35–36 | 33–36 | 33–37 |
+| [26–27 November 2019](2019-11-27-BMGResearch.html) | BMG Research <br> The Independent | 35 | 32–36 | 32–36 | 31–36 | 30–37 |
 | [25–26 November 2019](2019-11-26-YouGov.html) | YouGov <br> The Times and Sky News | 36 | 36–37 | 35–37 | 34–37 | 34–38 |
 | [25–26 November 2019](2019-11-26-ComRes.html) | ComRes <br> Daily Telegraph | 35 | 33–35 | 32–36 | 31–36 | 31–36 |
 | [21–25 November 2019](2019-11-25-KantarPublic.html) | Kantar Public | 36 | 34–37 | 34–37 | 33–37 | 32–38 |
@@ -218,7 +228,7 @@ Last result: **4** seats (General Election of 23 May 2019)
 | [19–21 November 2019](2019-11-21-BMGResearch.html) | BMG Research | 35 | 32–37 | 31–38 | 31–38 | 30–38 |
 | [12–20 November 2019](2019-11-20-YouGov.html) | YouGov | 36 | 36–37 | 34–37 | 34–37 | 34–37 |
 | [18–19 November 2019](2019-11-19-YouGov.html) | YouGov <br> The Times | 35 | 34–37 | 34–37 | 33–37 | 32–38 |
-| [15–19 November 2019](2019-11-19-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 37 | 34–38 | 34–39 | 33–39 | 31–40 |
+| [15–19 November 2019](2019-11-19-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 37 | 34–38 | 33–39 | 33–39 | 31–40 |
 | [18–19 November 2019](2019-11-19-ComRes.html) | ComRes <br> Daily Telegraph | 34 | 33–36 | 33–36 | 32–37 | 31–37 |
 | [14–18 November 2019](2019-11-18-KantarPublic.html) | Kantar Public | 38 | 36–39 | 35–40 | 34–41 | 33–42 |
 | [15–18 November 2019](2019-11-18-ICMResearch.html) | ICM Research | 36 | 36–37 | 34–37 | 34–38 | 34–38 |
@@ -376,15 +386,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 30 | 3% | 96% |  |
 | 31 | 2% | 92% |  |
 | 32 | 3% | 90% |  |
-| 33 | 9% | 87% |  |
-| 34 | 10% | 78% |  |
-| 35 | 23% | 67% | Median |
-| 36 | 18% | 45% | Majority |
-| 37 | 15% | 27% |  |
-| 38 | 5% | 12% |  |
+| 33 | 5% | 88% |  |
+| 34 | 10% | 82% |  |
+| 35 | 19% | 73% |  |
+| 36 | 28% | 54% | Median, Majority |
+| 37 | 13% | 25% |  |
+| 38 | 6% | 12% |  |
 | 39 | 5% | 7% |  |
 | 40 | 1.4% | 2% |  |
-| 41 | 0.1% | 0.5% |  |
+| 41 | 0.2% | 0.5% |  |
 | 42 | 0.3% | 0.3% |  |
 | 43 | 0% | 0.1% |  |
 | 44 | 0% | 0% |  |
