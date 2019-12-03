@@ -5,6 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | BREXIT | LIBDEM | LAB | GREEN | CON | SNP | PC | ChUK | UKIP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 23 May 2019 | General Election | 30.5% <br> 29 | 19.6% <br> 16 | 13.7% <br> 10 | 11.8% <br> 7 | 8.8% <br> 4 | 3.5% <br> 3 | 1.0% <br> 1 | 3.3% <br> 0 | 3.2% <br> 0 |
+| [29 November–2 December 2019](2019-12-02-ICMResearch.html) | ICM Research | 2–4% <br> 0 | 12–15% <br> 5–8 | 33–37% <br> 26–29 | 1–3% <br> 0 | 40–45% <br> 33–37 | 2–4% <br> 1–2 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| [26–30 November 2019](2019-11-30-Survation.html) | Survation <br> Good Morning Britain | 2–4% <br> 0 | 9–13% <br> 4–6 | 30–36% <br> 25–28 | 3–5% <br> 0 | 39–45% <br> 34–38 | 2–4% <br> 1–2 | 1–2% <br> 0–2 | N/A <br> N/A | N/A <br> N/A |
 | [28–30 November 2019](2019-11-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 2–4% <br> 0 | 13–17% <br> 6–8 | 30–34% <br> 23–26 | 1–2% <br> 0 | 43–48% <br> 34–38 | 2–4% <br> 1–2 | 0–1% <br> 0 | N/A <br> N/A | 0–1% <br> 0 |
 | [28–29 November 2019](2019-11-29-YouGov.html) | YouGov <br> The Sunday Times | 1–3% <br> 0 | 11–15% <br> 5–8 | 32–36% <br> 25–28 | 2–4% <br> 0 | 41–45% <br> 34–37 | 3–5% <br> 2 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | [27–28 November 2019](2019-11-28-Panelbase.html) | Panelbase | 3–5% <br> 0 | 12–15% <br> 5–8 | 32–36% <br> 26–28 | 2–4% <br> 0 | 40–44% <br> 33–37 | 2–4% <br> 1–2 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A |
