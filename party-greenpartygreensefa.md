@@ -10,7 +10,9 @@ Last result: **11.8%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.2% | 2.2–4.6% | 1.1–5.1% | 0.9–5.4% | 0.7–5.9% |
+| N/A | [Poll Average](average.html) | 3.3% | 2.2–4.7% | 1.1–5.1% | 0.9–5.4% | 0.7–6.0% |
+| [29 November–2 December 2019](2019-12-02-ICMResearch.html) | ICM Research | 2.0% | 1.7–2.5% | 1.6–2.6% | 1.5–2.7% | 1.3–3.0% |
+| [26–30 November 2019](2019-11-30-Survation.html) | Survation <br> Good Morning Britain | 4.0% | 3.4–4.9% | 3.2–5.2% | 3.0–5.4% | 2.7–5.9% |
 | [28–30 November 2019](2019-11-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% |
 | [28–29 November 2019](2019-11-29-YouGov.html) | YouGov <br> The Sunday Times | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.3–3.9% | 2.1–4.2% |
 | [27–28 November 2019](2019-11-28-Panelbase.html) | Panelbase | 3.0% | 2.5–3.5% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
@@ -158,10 +160,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.1% | 100% |  |
 | 0.5–1.5% | 9% | 99.9% |  |
-| 1.5–2.5% | 8% | 91% |  |
-| 2.5–3.5% | 51% | 84% | Median |
-| 3.5–4.5% | 22% | 32% |  |
-| 4.5–5.5% | 9% | 11% |  |
+| 1.5–2.5% | 6% | 91% |  |
+| 2.5–3.5% | 47% | 85% | Median |
+| 3.5–4.5% | 26% | 38% |  |
+| 4.5–5.5% | 11% | 13% |  |
 | 5.5–6.5% | 2% | 2% |  |
 | 6.5–7.5% | 0% | 0% |  |
 | 7.5–8.5% | 0% | 0% |  |
@@ -180,6 +182,8 @@ Last result: **7** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [29 November–2 December 2019](2019-12-02-ICMResearch.html) | ICM Research | 0 | 0 | 0 | 0 | 0 |
+| [26–30 November 2019](2019-11-30-Survation.html) | Survation <br> Good Morning Britain | 0 | 0 | 0 | 0 | 0 |
 | [28–30 November 2019](2019-11-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0 | 0 | 0 | 0 | 0 |
 | [28–29 November 2019](2019-11-29-YouGov.html) | YouGov <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
 | [27–28 November 2019](2019-11-28-Panelbase.html) | Panelbase | 0 | 0 | 0 | 0 | 0 |
