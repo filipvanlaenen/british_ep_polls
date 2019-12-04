@@ -10,11 +10,14 @@ Last result: **3.5%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.7% | 2.7–5.1% | 2.6–5.4% | 2.4–5.6% | 2.2–6.0% |
+| N/A | [Poll Average](average.html) | 3.6% | 2.7–4.8% | 2.6–5.1% | 2.4–5.4% | 2.2–5.9% |
+| [2–3 December 2019](2019-12-03-YouGov.html) | YouGov <br> The Times and Sky News | 4.9% | 4.3–5.7% | 4.1–5.9% | 4.0–6.1% | 3.7–6.5% |
+| [28 November–2 December 2019](2019-12-02-KantarPublic.html) | Kantar Public | 3.0% | 2.4–3.8% | 2.3–4.0% | 2.1–4.2% | 1.9–4.6% |
 | [29 November–2 December 2019](2019-12-02-ICMResearch.html) | ICM Research | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% |
 | [26–30 November 2019](2019-11-30-Survation.html) | Survation <br> Good Morning Britain | 3.0% | 2.4–3.8% | 2.3–4.0% | 2.1–4.2% | 1.9–4.6% |
 | [28–30 November 2019](2019-11-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 3.0% | 2.5–3.7% | 2.4–3.8% | 2.3–4.0% | 2.0–4.3% |
 | [28–29 November 2019](2019-11-29-YouGov.html) | YouGov <br> The Sunday Times | 4.0% | 3.4–4.7% | 3.3–4.9% | 3.1–5.0% | 2.9–5.4% |
+| [27–29 November 2019](2019-11-29-Opinium.html) | Opinium <br> The Observer | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–4.9% | 3.0–5.2% |
 | [27–28 November 2019](2019-11-28-Panelbase.html) | Panelbase | 3.0% | 2.5–3.5% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
 | [27–28 November 2019](2019-11-28-ComRes.html) | ComRes <br> The Sunday Telegraph | 3.0% | 2.6–3.6% | 2.5–3.7% | 2.3–3.9% | 2.1–4.1% |
 | [26–27 November 2019](2019-11-27-BMGResearch.html) | BMG Research <br> The Independent | 4.0% | 3.5–4.7% | 3.3–4.9% | 3.2–5.1% | 2.9–5.4% |
@@ -160,12 +163,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 5% | 100% |  |
-| 2.5–3.5% | 41% | 95% |  |
-| 3.5–4.5% | 32% | 54% | Last Result, Median |
-| 4.5–5.5% | 19% | 22% |  |
-| 5.5–6.5% | 3% | 3% |  |
+| 2.5–3.5% | 42% | 95% |  |
+| 3.5–4.5% | 38% | 53% | Last Result, Median |
+| 4.5–5.5% | 14% | 15% |  |
+| 5.5–6.5% | 2% | 2% |  |
 | 6.5–7.5% | 0% | 0% |  |
-| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -177,10 +179,13 @@ Last result: **3** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| [2–3 December 2019](2019-12-03-YouGov.html) | YouGov <br> The Times and Sky News | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [28 November–2 December 2019](2019-12-02-KantarPublic.html) | Kantar Public | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [29 November–2 December 2019](2019-12-02-ICMResearch.html) | ICM Research | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [26–30 November 2019](2019-11-30-Survation.html) | Survation <br> Good Morning Britain | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [28–30 November 2019](2019-11-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [28–29 November 2019](2019-11-29-YouGov.html) | YouGov <br> The Sunday Times | 2 | 2 | 2 | 2 | 2–3 |
+| [27–29 November 2019](2019-11-29-Opinium.html) | Opinium <br> The Observer | 2 | 2 | 2 | 2 | 2 |
 | [27–28 November 2019](2019-11-28-Panelbase.html) | Panelbase | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [27–28 November 2019](2019-11-28-ComRes.html) | ComRes <br> The Sunday Telegraph | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [26–27 November 2019](2019-11-27-BMGResearch.html) | BMG Research <br> The Independent | 2 | 2 | 2–3 | 2–3 | 2–3 |
@@ -327,8 +332,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 6% | 100% |  |
-| 2 | 81% | 94% | Median |
-| 3 | 13% | 13% | Last Result |
+| 2 | 84% | 94% | Median |
+| 3 | 10% | 10% | Last Result |
 | 4 | 0% | 0% |  |
 
 
