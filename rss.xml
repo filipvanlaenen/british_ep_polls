@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/british_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 04 Dec 2019 17:26:40 +0100</pubDate>
+    <pubDate>Thu, 05 Dec 2019 19:37:05 +0100</pubDate>
     <item>
       <title>Opinion Poll by YouGov for The Times and Sky News, 2–3 December 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_ep_polls/2019-12-03-YouGov.html#seats</link>
@@ -38,6 +38,36 @@
         type="image/png"/>
       <pubDate>Wed, 04 Dec 2019 17:26:40 +0100</pubDate>
       <dc:date>2019-12-04T17:26:40.645721+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ComRes for Daily Telegraph, 2–3 December 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_ep_polls/2019-12-03-ComRes.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party (ECR): 34–36 seats&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 25–27 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats (RE): 4–6 seats&lt;/li&gt;&lt;li&gt;Scottish National Party (Greens/EFA): 2 seats&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Brexit Party (NI): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-12-03-ComRes-seats.png"
+        length="124304"
+        type="image/png"/>
+      <pubDate>Thu, 05 Dec 2019 19:37:05 +0100</pubDate>
+      <dc:date>2019-12-05T19:37:05.22225+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ComRes for Daily Telegraph, 2–3 December 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_ep_polls/2019-12-03-ComRes.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-12-03-ComRes-coalitions-seats.png"
+        length="107866"
+        type="image/png"/>
+      <pubDate>Thu, 05 Dec 2019 19:37:05 +0100</pubDate>
+      <dc:date>2019-12-05T19:37:05.22225+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ComRes for Daily Telegraph, 2–3 December 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_ep_polls/2019-12-03-ComRes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party (ECR): 39.9–44.2%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 30.0–34.1%&lt;/li&gt;&lt;li&gt;Liberal Democrats (RE): 10.7–13.5%&lt;/li&gt;&lt;li&gt;Scottish National Party (Greens/EFA): 3.2–5.0%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 1.5–2.7%&lt;/li&gt;&lt;li&gt;Brexit Party (NI): 2.3–3.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-12-03-ComRes.png"
+        length="190950"
+        type="image/png"/>
+      <pubDate>Thu, 05 Dec 2019 19:37:05 +0100</pubDate>
+      <dc:date>2019-12-05T19:37:05.22225+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Public, 28 November–2 December 2019 – Seat Projections for the Parties</title>
@@ -3259,6 +3289,6 @@
       <pubDate>Mon, 22 Jul 2019 21:27:08 +0200</pubDate>
       <dc:date>2019-07-22T21:27:08.139393+02:00</dc:date>
     </item>
-    <dc:date>2019-12-04T17:26:40.645721+01:00</dc:date>
+    <dc:date>2019-12-05T19:37:05.22225+01:00</dc:date>
   </channel>
 </rss>
