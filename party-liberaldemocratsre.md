@@ -12,6 +12,7 @@ Last result: **19.6%** (General Election of 23 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13.3% | 11.8–15.5% | 11.1–16.2% | 10.5–16.8% | 9.6–17.8% |
 | [2–3 December 2019](2019-12-03-YouGov.html) | YouGov <br> The Times and Sky News | 11.8% | 10.9–12.9% | 10.6–13.2% | 10.4–13.5% | 9.9–14.0% |
+| [2–3 December 2019](2019-12-03-ComRes.html) | ComRes <br> Daily Telegraph | 12.0% | 11.1–13.0% | 10.9–13.3% | 10.7–13.5% | 10.3–14.0% |
 | [28 November–2 December 2019](2019-12-02-KantarPublic.html) | Kantar Public | 14.9% | 13.6–16.3% | 13.2–16.8% | 12.9–17.1% | 12.3–17.8% |
 | [29 November–2 December 2019](2019-12-02-ICMResearch.html) | ICM Research | 13.1% | 12.2–14.1% | 11.9–14.4% | 11.7–14.7% | 11.3–15.2% |
 | [26–30 November 2019](2019-11-30-Survation.html) | Survation <br> Good Morning Britain | 11.0% | 9.8–12.3% | 9.5–12.7% | 9.2–13.0% | 8.7–13.7% |
@@ -186,6 +187,7 @@ Last result: **16** seats (General Election of 23 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–8 | 5–8 | 4–9 | 4–12 |
 | [2–3 December 2019](2019-12-03-YouGov.html) | YouGov <br> The Times and Sky News | 5 | 5–6 | 4–6 | 4–6 | 4–8 |
+| [2–3 December 2019](2019-12-03-ComRes.html) | ComRes <br> Daily Telegraph | 6 | 5–6 | 5–6 | 4–6 | 4–7 |
 | [28 November–2 December 2019](2019-12-02-KantarPublic.html) | Kantar Public | 8 | 6–8 | 6–8 | 6–8 | 6–11 |
 | [29 November–2 December 2019](2019-12-02-ICMResearch.html) | ICM Research | 6 | 5–6 | 5–8 | 5–8 | 5–8 |
 | [26–30 November 2019](2019-11-30-Survation.html) | Survation <br> Good Morning Britain | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
