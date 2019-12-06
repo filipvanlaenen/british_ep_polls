@@ -255,12 +255,12 @@ Last result: **4** seats (General Election of 23 May 2019)
 | [7–11 November 2019](2019-11-11-KantarPublic.html) | Kantar Public | 31 | 29–33 | 29–33 | 28–34 | 27–36 |
 | [8–11 November 2019](2019-11-11-ICMResearch.html) | ICM Research | 31 | 30–32 | 30–32 | 30–33 | 29–35 |
 | [8–10 November 2019](2019-11-10-ComRes.html) | ComRes <br> Britain Elects | 30 | 29–31 | 28–31 | 28–32 | 26–33 |
-| [6–9 November 2019](2019-11-09-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 35 | 32–37 | 31–37 | 31–37 | 31–38 |
-| [7–8 November 2019](2019-11-08-YouGov.html) | YouGov <br> The Sunday Times and Sky News | 32 | 30–33 | 30–34 | 30–35 | 29–35 |
+| [6–9 November 2019](2019-11-09-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 35 | 32–37 | 31–37 | 31–38 | 31–38 |
+| [7–8 November 2019](2019-11-08-YouGov.html) | YouGov <br> The Sunday Times and Sky News | 32 | 30–33 | 29–34 | 29–35 | 28–35 |
 | [6–8 November 2019](2019-11-08-Survation.html) | Survation | 28 | 26–30 | 26–30 | 26–30 | 25–31 |
 | [6–8 November 2019](2019-11-08-Panelbase.html) | Panelbase | 32 | 31–35 | 30–36 | 30–36 | 28–37 |
 | [6–8 November 2019](2019-11-08-Opinium.html) | Opinium <br> The Observer | 33 | 33–36 | 32–36 | 32–37 | 31–38 |
-| [5–8 November 2019](2019-11-08-BMGResearch.html) | BMG Research <br> The Independent | 33 | 31–33 | 31–33 | 31–33 | 28–35 |
+| [5–8 November 2019](2019-11-08-BMGResearch.html) | BMG Research <br> The Independent | 32 | 30–33 | 30–33 | 29–33 | 28–35 |
 | [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times and Sky News | 28 | 27–32 | 27–32 | 27–32 | 27–33 |
 | [30 October–5 November 2019](2019-11-05-ComRes.html) | ComRes <br> Remain United | 30 | 27–30 | 27–30 | 27–30 | 27–30 |
 | [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 33 | 31–33 | 31–33 | 31–33 | 29–33 |

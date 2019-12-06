@@ -218,11 +218,11 @@ Last result: **1** seats (General Election of 23 May 2019)
 | [8–11 November 2019](2019-11-11-ICMResearch.html) | ICM Research | 1 | 1 | 1 | 0–1 | 0–1 |
 | [8–10 November 2019](2019-11-10-ComRes.html) | ComRes <br> Britain Elects |  |  |  |  |  |
 | [6–9 November 2019](2019-11-09-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0 | 0 | 0 | 0 | 0–1 |
-| [7–8 November 2019](2019-11-08-YouGov.html) | YouGov <br> The Sunday Times and Sky News | 1 | 1 | 1–2 | 0–2 | 0–2 |
+| [7–8 November 2019](2019-11-08-YouGov.html) | YouGov <br> The Sunday Times and Sky News | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | [6–8 November 2019](2019-11-08-Survation.html) | Survation | 1 | 1 | 1 | 1 | 0–2 |
 | [6–8 November 2019](2019-11-08-Panelbase.html) | Panelbase |  |  |  |  |  |
 | [6–8 November 2019](2019-11-08-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 0–1 | 0–1 |
-| [5–8 November 2019](2019-11-08-BMGResearch.html) | BMG Research <br> The Independent | 0 | 0 | 0 | 0 | 0 |
+| [5–8 November 2019](2019-11-08-BMGResearch.html) | BMG Research <br> The Independent | 0 | 0 | 0 | 0 | 0–1 |
 | [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times and Sky News | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | [30 October–5 November 2019](2019-11-05-ComRes.html) | ComRes <br> Remain United | 1 | 1 | 1 | 1 | 1 |
 | [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1 | 1 | 0–2 |

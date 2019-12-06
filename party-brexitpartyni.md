@@ -238,19 +238,19 @@ Last result: **29** seats (General Election of 23 May 2019)
 | [14–15 November 2019](2019-11-15-YouGov.html) | YouGov <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
 | [13–15 November 2019](2019-11-15-Opinium.html) | Opinium <br> The Observer | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [9–15 November 2019](2019-11-15-BMGResearch.html) | BMG Research | 3 | 2–5 | 2–6 | 1–6 | 1–6 |
-| [13–14 November 2019](2019-11-14-Panelbase.html) | Panelbase | 0 | 0 | 0 | 0 | 0–1 |
+| [13–14 November 2019](2019-11-14-Panelbase.html) | Panelbase | 0 | 0 | 0 | 0–1 | 0–1 |
 | [13–14 November 2019](2019-11-14-ComRes.html) | ComRes <br> The Sunday Telegraph | 0 | 0 | 0 | 0 | 0 |
 | [11–12 November 2019](2019-11-12-YouGov.html) | YouGov <br> The Times and Sky News | 0 | 0 | 0 | 0 | 0 |
 | [11–12 November 2019](2019-11-12-ComRes.html) | ComRes <br> Daily Telegraph | 1 | 0–1 | 0–1 | 0–2 | 0–3 |
 | [7–11 November 2019](2019-11-11-KantarPublic.html) | Kantar Public | 5 | 2–6 | 1–6 | 1–6 | 1–7 |
 | [8–11 November 2019](2019-11-11-ICMResearch.html) | ICM Research | 2 | 1–3 | 1–3 | 1–3 | 1–5 |
 | [8–10 November 2019](2019-11-10-ComRes.html) | ComRes <br> Britain Elects | 3 | 2–5 | 1–5 | 1–6 | 1–6 |
-| [6–9 November 2019](2019-11-09-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
-| [7–8 November 2019](2019-11-08-YouGov.html) | YouGov <br> The Sunday Times and Sky News | 6 | 3–6 | 3–6 | 2–7 | 2–7 |
+| [6–9 November 2019](2019-11-09-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [7–8 November 2019](2019-11-08-YouGov.html) | YouGov <br> The Sunday Times and Sky News | 5 | 4–6 | 3–6 | 3–7 | 1–7 |
 | [6–8 November 2019](2019-11-08-Survation.html) | Survation | 6 | 3–6 | 3–6 | 3–6 | 2–7 |
 | [6–8 November 2019](2019-11-08-Panelbase.html) | Panelbase | 3 | 1–3 | 1–4 | 0–5 | 0–5 |
 | [6–8 November 2019](2019-11-08-Opinium.html) | Opinium <br> The Observer | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [5–8 November 2019](2019-11-08-BMGResearch.html) | BMG Research <br> The Independent | 2 | 2–3 | 1–5 | 1–5 | 1–6 |
+| [5–8 November 2019](2019-11-08-BMGResearch.html) | BMG Research <br> The Independent | 3 | 2–5 | 1–5 | 1–6 | 1–6 |
 | [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times and Sky News | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
 | [30 October–5 November 2019](2019-11-05-ComRes.html) | ComRes <br> Remain United | 5 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 6 | 6–7 | 6–7 | 5–8 | 5–8 |

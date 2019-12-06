@@ -220,12 +220,12 @@ Last result: **3** seats (General Election of 23 May 2019)
 | [7–11 November 2019](2019-11-11-KantarPublic.html) | Kantar Public | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | [8–11 November 2019](2019-11-11-ICMResearch.html) | ICM Research | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [8–10 November 2019](2019-11-10-ComRes.html) | ComRes <br> Britain Elects | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [6–9 November 2019](2019-11-09-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| [6–9 November 2019](2019-11-09-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [7–8 November 2019](2019-11-08-YouGov.html) | YouGov <br> The Sunday Times and Sky News | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [6–8 November 2019](2019-11-08-Survation.html) | Survation | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [6–8 November 2019](2019-11-08-Panelbase.html) | Panelbase | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [6–8 November 2019](2019-11-08-Opinium.html) | Opinium <br> The Observer | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [5–8 November 2019](2019-11-08-BMGResearch.html) | BMG Research <br> The Independent | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [5–8 November 2019](2019-11-08-BMGResearch.html) | BMG Research <br> The Independent | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times and Sky News | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [30 October–5 November 2019](2019-11-05-ComRes.html) | ComRes <br> Remain United | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 2 | 2–3 | 2–3 | 2–3 | 2–3 |

@@ -231,7 +231,7 @@ Last result: **7** seats (General Election of 23 May 2019)
 | [6–8 November 2019](2019-11-08-Survation.html) | Survation | 0 | 0 | 0 | 0 | 0 |
 | [6–8 November 2019](2019-11-08-Panelbase.html) | Panelbase | 0 | 0 | 0 | 0 | 0 |
 | [6–8 November 2019](2019-11-08-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0 |
-| [5–8 November 2019](2019-11-08-BMGResearch.html) | BMG Research <br> The Independent | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [5–8 November 2019](2019-11-08-BMGResearch.html) | BMG Research <br> The Independent | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times and Sky News | 0 | 0 | 0 | 0 | 0 |
 | [30 October–5 November 2019](2019-11-05-ComRes.html) | ComRes <br> Remain United | 0 | 0 | 0 | 0 | 0 |
 | [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
