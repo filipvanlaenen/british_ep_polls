@@ -11,6 +11,12 @@ Last result: **8.8%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 42.5% | 37.8–45.5% | 36.0–46.2% | 35.3–46.7% | 34.2–47.6% |
+| [5–7 December 2019](2019-12-07-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 44.4% | 42.7–46.0% | 42.3–46.5% | 41.9–46.9% | 41.1–47.6% |
+| [5–6 December 2019](2019-12-06-YouGov.html) | YouGov <br> The Sunday Times | 42.9% | 41.4–44.5% | 40.9–44.9% | 40.6–45.3% | 39.8–46.1% |
+| [4–6 December 2019](2019-12-06-Panelbase.html) | Panelbase | 42.9% | 41.5–44.3% | 41.1–44.7% | 40.8–45.1% | 40.1–45.7% |
+| [4–6 December 2019](2019-12-06-Opinium.html) | Opinium <br> The Observer | 45.9% | 44.5–47.3% | 44.1–47.8% | 43.7–48.1% | 43.0–48.8% |
+| [4–5 December 2019](2019-12-05-ComRes.html) | ComRes <br> The Sunday Telegraph | 41.0% | 39.6–42.4% | 39.2–42.8% | 38.9–43.2% | 38.2–43.8% |
+| [2–4 December 2019](2019-12-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 44.0% | 42.4–45.6% | 41.9–46.1% | 41.5–46.5% | 40.8–47.3% |
 | [2–3 December 2019](2019-12-03-YouGov.html) | YouGov <br> The Times and Sky News | 41.5% | 40.0–43.0% | 39.5–43.5% | 39.2–43.9% | 38.4–44.6% |
 | [2–3 December 2019](2019-12-03-ComRes.html) | ComRes <br> Daily Telegraph | 42.0% | 40.6–43.4% | 40.2–43.8% | 39.9–44.2% | 39.2–44.8% |
 | [28 November–2 December 2019](2019-12-02-KantarPublic.html) | Kantar Public | 43.5% | 41.6–45.5% | 41.1–46.0% | 40.6–46.5% | 39.7–47.4% |
@@ -215,6 +221,12 @@ Last result: **4** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 36 | 32–37 | 30–38 | 29–38 | 28–39 |
+| [5–7 December 2019](2019-12-07-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 37 | 36–38 | 36–38 | 36–38 | 35–39 |
+| [5–6 December 2019](2019-12-06-YouGov.html) | YouGov <br> The Sunday Times | 36 | 35–37 | 34–37 | 34–37 | 33–38 |
+| [4–6 December 2019](2019-12-06-Panelbase.html) | Panelbase | 35 | 35–36 | 34–36 | 33–36 | 32–37 |
+| [4–6 December 2019](2019-12-06-Opinium.html) | Opinium <br> The Observer | 37 | 37–38 | 36–38 | 36–38 | 36–39 |
+| [4–5 December 2019](2019-12-05-ComRes.html) | ComRes <br> The Sunday Telegraph | 35 | 34–35 | 34–35 | 33–36 | 32–36 |
+| [2–4 December 2019](2019-12-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 36 | 35–37 | 35–37 | 34–37 | 33–38 |
 | [2–3 December 2019](2019-12-03-YouGov.html) | YouGov <br> The Times and Sky News | 36 | 35–36 | 34–37 | 34–37 | 33–38 |
 | [2–3 December 2019](2019-12-03-ComRes.html) | ComRes <br> Daily Telegraph | 35 | 35–36 | 35–36 | 34–36 | 33–37 |
 | [28 November–2 December 2019](2019-12-02-KantarPublic.html) | Kantar Public | 35 | 33–37 | 33–37 | 33–38 | 32–39 |
@@ -246,19 +258,19 @@ Last result: **4** seats (General Election of 23 May 2019)
 | [14–16 November 2019](2019-11-16-Survation.html) | Survation | 37 | 35–38 | 34–39 | 33–39 | 33–40 |
 | [10–16 November 2019](2019-11-16-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 37 | 36–39 | 35–39 | 35–40 | 35–40 |
 | [14–15 November 2019](2019-11-15-YouGov.html) | YouGov <br> The Sunday Times | 37 | 37–39 | 37–39 | 36–39 | 35–41 |
-| [13–15 November 2019](2019-11-15-Opinium.html) | Opinium <br> The Observer | 36 | 36–39 | 36–39 | 36–39 | 34–39 |
+| [13–15 November 2019](2019-11-15-Opinium.html) | Opinium <br> The Observer | 37 | 36–37 | 36–38 | 36–39 | 35–39 |
 | [9–15 November 2019](2019-11-15-BMGResearch.html) | BMG Research | 31 | 29–32 | 29–32 | 28–33 | 27–34 |
 | [13–14 November 2019](2019-11-14-Panelbase.html) | Panelbase | 36 | 33–37 | 33–38 | 32–38 | 31–39 |
 | [13–14 November 2019](2019-11-14-ComRes.html) | ComRes <br> The Sunday Telegraph | 34 | 33–35 | 32–36 | 32–36 | 31–36 |
-| [11–12 November 2019](2019-11-12-YouGov.html) | YouGov <br> The Times and Sky News | 36 | 34–38 | 33–39 | 33–39 | 32–40 |
-| [11–12 November 2019](2019-11-12-ComRes.html) | ComRes <br> Daily Telegraph | 34 | 32–35 | 31–37 | 31–37 | 30–37 |
-| [7–11 November 2019](2019-11-11-KantarPublic.html) | Kantar Public | 31 | 29–33 | 29–33 | 28–34 | 27–36 |
-| [8–11 November 2019](2019-11-11-ICMResearch.html) | ICM Research | 31 | 30–32 | 30–32 | 30–33 | 29–35 |
-| [8–10 November 2019](2019-11-10-ComRes.html) | ComRes <br> Britain Elects | 30 | 29–31 | 28–31 | 28–32 | 26–33 |
+| [11–12 November 2019](2019-11-12-YouGov.html) | YouGov <br> The Times and Sky News | 37 | 34–38 | 33–38 | 33–39 | 32–39 |
+| [11–12 November 2019](2019-11-12-ComRes.html) | ComRes <br> Daily Telegraph | 33 | 31–35 | 31–35 | 30–37 | 30–37 |
+| [7–11 November 2019](2019-11-11-KantarPublic.html) | Kantar Public | 30 | 29–33 | 28–33 | 28–34 | 27–36 |
+| [8–11 November 2019](2019-11-11-ICMResearch.html) | ICM Research | 32 | 31–33 | 30–33 | 30–34 | 29–35 |
+| [8–10 November 2019](2019-11-10-ComRes.html) | ComRes <br> Britain Elects | 30 | 28–31 | 28–31 | 27–32 | 26–33 |
 | [6–9 November 2019](2019-11-09-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 35 | 32–37 | 31–37 | 31–38 | 31–38 |
 | [7–8 November 2019](2019-11-08-YouGov.html) | YouGov <br> The Sunday Times and Sky News | 32 | 30–33 | 29–34 | 29–35 | 28–35 |
 | [6–8 November 2019](2019-11-08-Survation.html) | Survation | 28 | 26–30 | 26–30 | 26–30 | 25–31 |
-| [6–8 November 2019](2019-11-08-Panelbase.html) | Panelbase | 32 | 31–35 | 30–36 | 30–36 | 28–37 |
+| [6–8 November 2019](2019-11-08-Panelbase.html) | Panelbase | 32 | 30–35 | 30–36 | 30–37 | 28–37 |
 | [6–8 November 2019](2019-11-08-Opinium.html) | Opinium <br> The Observer | 33 | 33–36 | 32–36 | 32–37 | 31–38 |
 | [5–8 November 2019](2019-11-08-BMGResearch.html) | BMG Research <br> The Independent | 32 | 30–33 | 30–33 | 29–33 | 28–35 |
 | [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times and Sky News | 28 | 27–32 | 27–32 | 27–32 | 27–33 |
