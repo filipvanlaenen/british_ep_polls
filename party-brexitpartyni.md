@@ -11,10 +11,14 @@ Last result: **30.5%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.5% | 2.1–5.0% | 1.8–11.9% | 1.7–12.4% | 1.5–13.2% |
+| [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 3.0% | 2.5–3.5% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
+| [6–8 December 2019](2019-12-08-ComRes.html) | ComRes <br> Remain United | 3.0% | 2.7–3.3% | 2.6–3.4% | 2.6–3.4% | 2.4–3.6% |
+| [5–7 December 2019](2019-12-07-Survation.html) | Survation <br> Good Morning Britain | 4.0% | 3.3–4.9% | 3.1–5.1% | 2.9–5.3% | 2.6–5.8% |
 | [5–7 December 2019](2019-12-07-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.3–4.0% | 2.0–4.3% |
 | [5–6 December 2019](2019-12-06-YouGov.html) | YouGov <br> The Sunday Times | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.3–3.9% | 2.1–4.2% |
 | [4–6 December 2019](2019-12-06-Panelbase.html) | Panelbase | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
 | [4–6 December 2019](2019-12-06-Opinium.html) | Opinium <br> The Observer | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
+| [4–6 December 2019](2019-12-06-BMGResearch.html) | BMG Research <br> The Independent | 4.0% | 3.4–4.7% | 3.3–5.0% | 3.1–5.1% | 2.9–5.5% |
 | [4–5 December 2019](2019-12-05-ComRes.html) | ComRes <br> The Sunday Telegraph | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
 | [2–4 December 2019](2019-12-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 2.0% | 1.6–2.5% | 1.5–2.7% | 1.4–2.8% | 1.2–3.1% |
 | [2–3 December 2019](2019-12-03-YouGov.html) | YouGov <br> The Times and Sky News | 3.9% | 3.4–4.6% | 3.2–4.8% | 3.1–5.0% | 2.9–5.3% |
@@ -211,10 +215,14 @@ Last result: **29** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–7 | 0–8 | 0–9 |
+| [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 0 | 0 | 0 | 0 | 0 |
+| [6–8 December 2019](2019-12-08-ComRes.html) | ComRes <br> Remain United | 0 | 0 | 0 | 0 | 0 |
+| [5–7 December 2019](2019-12-07-Survation.html) | Survation <br> Good Morning Britain | 0 | 0 | 0 | 0 | 0 |
 | [5–7 December 2019](2019-12-07-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0 | 0 | 0 | 0 | 0 |
 | [5–6 December 2019](2019-12-06-YouGov.html) | YouGov <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
 | [4–6 December 2019](2019-12-06-Panelbase.html) | Panelbase | 0 | 0 | 0 | 0 | 0 |
 | [4–6 December 2019](2019-12-06-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0 |
+| [4–6 December 2019](2019-12-06-BMGResearch.html) | BMG Research <br> The Independent | 0 | 0 | 0 | 0 | 0 |
 | [4–5 December 2019](2019-12-05-ComRes.html) | ComRes <br> The Sunday Telegraph | 0 | 0 | 0 | 0 | 0 |
 | [2–4 December 2019](2019-12-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0 | 0 | 0 | 0 | 0 |
 | [2–3 December 2019](2019-12-03-YouGov.html) | YouGov <br> The Times and Sky News | 0 | 0 | 0 | 0 | 0 |

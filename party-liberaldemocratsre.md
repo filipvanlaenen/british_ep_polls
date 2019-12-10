@@ -11,10 +11,14 @@ Last result: **19.6%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13.3% | 11.8–15.5% | 11.1–16.2% | 10.5–16.8% | 9.6–17.8% |
+| [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 12.0% | 11.1–13.0% | 10.8–13.2% | 10.6–13.5% | 10.2–14.0% |
+| [6–8 December 2019](2019-12-08-ComRes.html) | ComRes <br> Remain United | 11.9% | 11.3–12.4% | 11.2–12.6% | 11.1–12.7% | 10.8–13.0% |
+| [5–7 December 2019](2019-12-07-Survation.html) | Survation <br> Good Morning Britain | 10.9% | 9.7–12.2% | 9.4–12.6% | 9.1–12.9% | 8.6–13.6% |
 | [5–7 December 2019](2019-12-07-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 11.1% | 10.1–12.2% | 9.8–12.5% | 9.6–12.8% | 9.2–13.3% |
 | [5–6 December 2019](2019-12-06-YouGov.html) | YouGov <br> The Sunday Times | 13.0% | 12.0–14.1% | 11.7–14.4% | 11.4–14.7% | 11.0–15.2% |
 | [4–6 December 2019](2019-12-06-Panelbase.html) | Panelbase | 13.0% | 12.1–14.0% | 11.8–14.3% | 11.6–14.5% | 11.2–15.0% |
 | [4–6 December 2019](2019-12-06-Opinium.html) | Opinium <br> The Observer | 13.0% | 12.1–14.0% | 11.8–14.3% | 11.6–14.5% | 11.2–15.0% |
+| [4–6 December 2019](2019-12-06-BMGResearch.html) | BMG Research <br> The Independent | 14.0% | 12.9–15.2% | 12.6–15.5% | 12.4–15.8% | 11.9–16.4% |
 | [4–5 December 2019](2019-12-05-ComRes.html) | ComRes <br> The Sunday Telegraph | 12.0% | 11.1–13.0% | 10.9–13.2% | 10.7–13.5% | 10.2–14.0% |
 | [2–4 December 2019](2019-12-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 13.0% | 12.0–14.2% | 11.7–14.5% | 11.4–14.8% | 10.9–15.4% |
 | [2–3 December 2019](2019-12-03-YouGov.html) | YouGov <br> The Times and Sky News | 11.8% | 10.9–12.9% | 10.6–13.2% | 10.4–13.5% | 9.9–14.0% |
@@ -192,10 +196,14 @@ Last result: **16** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–8 | 5–8 | 4–9 | 4–12 |
+| [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
+| [6–8 December 2019](2019-12-08-ComRes.html) | ComRes <br> Remain United | 5 | 5 | 5 | 5 | 4–6 |
+| [5–7 December 2019](2019-12-07-Survation.html) | Survation <br> Good Morning Britain | 4 | 4–6 | 4–6 | 4–6 | 3–6 |
 | [5–7 December 2019](2019-12-07-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 4 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [5–6 December 2019](2019-12-06-YouGov.html) | YouGov <br> The Sunday Times | 6 | 5–6 | 5–8 | 5–8 | 4–8 |
 | [4–6 December 2019](2019-12-06-Panelbase.html) | Panelbase | 6 | 5–6 | 5–6 | 5–8 | 4–8 |
 | [4–6 December 2019](2019-12-06-Opinium.html) | Opinium <br> The Observer | 6 | 6 | 5–6 | 5–6 | 4–8 |
+| [4–6 December 2019](2019-12-06-BMGResearch.html) | BMG Research <br> The Independent | 6 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [4–5 December 2019](2019-12-05-ComRes.html) | ComRes <br> The Sunday Telegraph | 5 | 5–6 | 5–6 | 5–6 | 4–8 |
 | [2–4 December 2019](2019-12-04-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 6 | 5–6 | 5–6 | 4–8 | 4–8 |
 | [2–3 December 2019](2019-12-03-YouGov.html) | YouGov <br> The Times and Sky News | 5 | 5–6 | 4–6 | 4–6 | 4–8 |
@@ -230,12 +238,12 @@ Last result: **16** seats (General Election of 23 May 2019)
 | [10–16 November 2019](2019-11-16-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 4 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [14–15 November 2019](2019-11-15-YouGov.html) | YouGov <br> The Sunday Times | 8 | 6–9 | 6–9 | 6–9 | 6–11 |
 | [13–15 November 2019](2019-11-15-Opinium.html) | Opinium <br> The Observer | 8 | 6–8 | 6–8 | 6–9 | 6–9 |
-| [9–15 November 2019](2019-11-15-BMGResearch.html) | BMG Research | 9 | 8–11 | 8–11 | 8–12 | 6–13 |
+| [9–15 November 2019](2019-11-15-BMGResearch.html) | BMG Research | 9 | 8–11 | 8–12 | 8–12 | 6–13 |
 | [13–14 November 2019](2019-11-14-Panelbase.html) | Panelbase | 8 | 6–8 | 6–9 | 6–11 | 6–13 |
 | [13–14 November 2019](2019-11-14-ComRes.html) | ComRes <br> The Sunday Telegraph | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [11–12 November 2019](2019-11-12-YouGov.html) | YouGov <br> The Times and Sky News | 8 | 6–9 | 6–10 | 6–11 | 6–12 |
 | [11–12 November 2019](2019-11-12-ComRes.html) | ComRes <br> Daily Telegraph | 8 | 8–11 | 8–11 | 8–12 | 6–13 |
-| [7–11 November 2019](2019-11-11-KantarPublic.html) | Kantar Public | 11 | 8–13 | 8–13 | 8–13 | 8–14 |
+| [7–11 November 2019](2019-11-11-KantarPublic.html) | Kantar Public | 10 | 8–13 | 8–13 | 8–13 | 7–14 |
 | [8–11 November 2019](2019-11-11-ICMResearch.html) | ICM Research | 8 | 8 | 7–9 | 6–9 | 6–11 |
 | [8–10 November 2019](2019-11-10-ComRes.html) | ComRes <br> Britain Elects | 10 | 8–12 | 8–13 | 8–13 | 8–13 |
 | [6–9 November 2019](2019-11-09-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 8 | 8–12 | 8–13 | 6–13 | 6–13 |
