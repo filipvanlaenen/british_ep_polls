@@ -11,7 +11,10 @@ Last result: **8.8%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 42.5% | 37.8–45.5% | 36.0–46.2% | 35.3–46.7% | 34.2–47.6% |
-| [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 42.0% | 40.6–43.4% | 40.2–43.9% | 39.9–44.2% | 39.2–44.9% |
+| [10–11 December 2019](2019-12-11-Opinium.html) | Opinium | 45.3% | N/A | N/A | N/A | N/A |
+| [8–10 December 2019](2019-12-10-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 43.0% | N/A | N/A | N/A | N/A |
+| [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 42.2% | 40.8–43.7% | 40.4–44.0% | 40.1–44.4% | 39.4–45.1% |
+| [5–8 December 2019](2019-12-08-Qriously.html) | Qriously | 43.4% | 42.1–44.8% | 41.7–45.2% | 41.4–45.5% | 40.7–46.2% |
 | [6–8 December 2019](2019-12-08-ComRes.html) | ComRes <br> Remain United | 42.5% | 41.7–43.3% | 41.4–43.5% | 41.2–43.7% | 40.8–44.1% |
 | [5–7 December 2019](2019-12-07-Survation.html) | Survation <br> Good Morning Britain | 44.6% | 42.6–46.6% | 42.0–47.2% | 41.5–47.6% | 40.6–48.6% |
 | [5–7 December 2019](2019-12-07-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 44.4% | 42.7–46.0% | 42.3–46.5% | 41.9–46.9% | 41.1–47.6% |
@@ -225,7 +228,10 @@ Last result: **4** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 36 | 32–37 | 30–38 | 29–38 | 28–39 |
-| [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 32 | 30–33 | 29–33 | 28–33 | 28–33 |
+| [10–11 December 2019](2019-12-11-Opinium.html) | Opinium |  |  |  |  |  |
+| [8–10 December 2019](2019-12-10-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg |  |  |  |  |  |
+| [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 36 | 34–36 | 33–37 | 33–37 | 32–37 |
+| [5–8 December 2019](2019-12-08-Qriously.html) | Qriously | 37 | 36–38 | 36–38 | 36–39 | 35–40 |
 | [6–8 December 2019](2019-12-08-ComRes.html) | ComRes <br> Remain United | 36 | 35–36 | 35–36 | 35–36 | 35–37 |
 | [5–7 December 2019](2019-12-07-Survation.html) | Survation <br> Good Morning Britain | 37 | 36–39 | 35–40 | 35–40 | 35–41 |
 | [5–7 December 2019](2019-12-07-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 37 | 36–38 | 36–38 | 36–38 | 35–39 |
@@ -264,9 +270,9 @@ Last result: **4** seats (General Election of 23 May 2019)
 | [14–18 November 2019](2019-11-18-KantarPublic.html) | Kantar Public | 38 | 36–39 | 35–40 | 34–41 | 33–42 |
 | [15–18 November 2019](2019-11-18-ICMResearch.html) | ICM Research | 36 | 36–37 | 34–37 | 34–38 | 34–38 |
 | [14–16 November 2019](2019-11-16-Survation.html) | Survation | 37 | 35–38 | 34–39 | 33–39 | 33–40 |
-| [10–16 November 2019](2019-11-16-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 37 | 36–39 | 35–39 | 35–40 | 35–40 |
+| [10–16 November 2019](2019-11-16-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 37 | 36–39 | 36–39 | 35–40 | 35–40 |
 | [14–15 November 2019](2019-11-15-YouGov.html) | YouGov <br> The Sunday Times | 37 | 37–39 | 37–39 | 36–39 | 35–41 |
-| [13–15 November 2019](2019-11-15-Opinium.html) | Opinium <br> The Observer | 37 | 36–37 | 36–38 | 36–39 | 35–39 |
+| [13–15 November 2019](2019-11-15-Opinium.html) | Opinium <br> The Observer | 37 | 36–38 | 36–38 | 36–39 | 35–39 |
 | [9–15 November 2019](2019-11-15-BMGResearch.html) | BMG Research | 30 | 29–32 | 29–32 | 28–32 | 27–34 |
 | [13–14 November 2019](2019-11-14-Panelbase.html) | Panelbase | 36 | 33–37 | 33–38 | 32–38 | 31–39 |
 | [13–14 November 2019](2019-11-14-ComRes.html) | ComRes <br> The Sunday Telegraph | 34 | 33–35 | 32–36 | 32–36 | 31–36 |

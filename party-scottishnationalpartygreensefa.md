@@ -11,7 +11,10 @@ Last result: **3.5%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.6% | 2.7–4.8% | 2.6–5.1% | 2.4–5.4% | 2.2–5.9% |
-| [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 0.0% | N/A | N/A | N/A | N/A |
+| [10–11 December 2019](2019-12-11-Opinium.html) | Opinium | 4.0% | N/A | N/A | N/A | N/A |
+| [8–10 December 2019](2019-12-10-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 4.0% | N/A | N/A | N/A | N/A |
+| [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 3.0% | 2.6–3.6% | 2.5–3.7% | 2.4–3.9% | 2.2–4.2% |
+| [5–8 December 2019](2019-12-08-Qriously.html) | Qriously | 2.0% | 1.7–2.5% | 1.6–2.6% | 1.5–2.7% | 1.4–2.9% |
 | [6–8 December 2019](2019-12-08-ComRes.html) | ComRes <br> Remain United | 4.0% | 3.6–4.3% | 3.6–4.4% | 3.5–4.5% | 3.3–4.6% |
 | [5–7 December 2019](2019-12-07-Survation.html) | Survation <br> Good Morning Britain | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.8–4.6% |
 | [5–7 December 2019](2019-12-07-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 4.0% | 3.5–4.8% | 3.3–5.0% | 3.2–5.2% | 2.9–5.5% |
@@ -190,7 +193,10 @@ Last result: **3** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
-| [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research |  |  |  |  |  |
+| [10–11 December 2019](2019-12-11-Opinium.html) | Opinium |  |  |  |  |  |
+| [8–10 December 2019](2019-12-10-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg |  |  |  |  |  |
+| [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| [5–8 December 2019](2019-12-08-Qriously.html) | Qriously | 1 | 1 | 1 | 1–2 | 1–2 |
 | [6–8 December 2019](2019-12-08-ComRes.html) | ComRes <br> Remain United | 2 | 2 | 2 | 2 | 2 |
 | [5–7 December 2019](2019-12-07-Survation.html) | Survation <br> Good Morning Britain | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [5–7 December 2019](2019-12-07-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 2 | 2 | 2 | 2 | 2–3 |
@@ -231,7 +237,7 @@ Last result: **3** seats (General Election of 23 May 2019)
 | [14–16 November 2019](2019-11-16-Survation.html) | Survation | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [10–16 November 2019](2019-11-16-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 2 | 2 | 2 | 1–2 | 1–2 |
 | [14–15 November 2019](2019-11-15-YouGov.html) | YouGov <br> The Sunday Times | 2 | 2 | 2 | 2 | 2–3 |
-| [13–15 November 2019](2019-11-15-Opinium.html) | Opinium <br> The Observer | 2 | 2 | 2 | 2 | 2 |
+| [13–15 November 2019](2019-11-15-Opinium.html) | Opinium <br> The Observer | 2 | 2 | 2 | 2–3 | 2–3 |
 | [9–15 November 2019](2019-11-15-BMGResearch.html) | BMG Research | 2 | 2 | 2 | 1–2 | 1–2 |
 | [13–14 November 2019](2019-11-14-Panelbase.html) | Panelbase | 2 | 2 | 2 | 2–3 | 2–3 |
 | [13–14 November 2019](2019-11-14-ComRes.html) | ComRes <br> The Sunday Telegraph | 2 | 2 | 1–2 | 1–2 | 1–2 |
