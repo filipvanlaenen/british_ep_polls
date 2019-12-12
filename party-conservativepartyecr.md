@@ -11,8 +11,13 @@ Last result: **8.8%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 42.5% | 37.8–45.5% | 36.0–46.2% | 35.3–46.7% | 34.2–47.6% |
-| [10–11 December 2019](2019-12-11-Opinium.html) | Opinium | 45.3% | N/A | N/A | N/A | N/A |
-| [8–10 December 2019](2019-12-10-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 43.0% | N/A | N/A | N/A | N/A |
+| [10–11 December 2019](2019-12-11-Survation.html) | Survation | 45.0% | 43.7–46.3% | 43.3–46.7% | 43.0–47.0% | 42.4–47.6% |
+| [10–11 December 2019](2019-12-11-Panelbase.html) | Panelbase | 43.0% | 41.9–44.1% | 41.6–44.5% | 41.3–44.7% | 40.8–45.3% |
+| [10–11 December 2019](2019-12-11-Opinium.html) | Opinium | 45.3% | 44.2–46.5% | 43.8–46.8% | 43.5–47.1% | 43.0–47.7% |
+| [9–11 December 2019](2019-12-11-KantarPublic.html) | Kantar Public | 43.9% | 42.7–45.1% | 42.4–45.5% | 42.1–45.8% | 41.5–46.3% |
+| [9–11 December 2019](2019-12-11-Deltapoll.html) | Deltapoll | 44.3% | 42.8–45.8% | 42.4–46.3% | 42.1–46.6% | 41.4–47.4% |
+| [8–10 December 2019](2019-12-10-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 43.0% | 41.0–45.0% | 40.5–45.6% | 40.0–46.1% | 39.0–47.1% |
+| [9–10 December 2019](2019-12-10-ComRes.html) | ComRes <br> Daily Telegraph | 41.0% | 39.6–42.4% | 39.2–42.8% | 38.9–43.1% | 38.2–43.8% |
 | [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 42.2% | 40.8–43.7% | 40.4–44.0% | 40.1–44.4% | 39.4–45.1% |
 | [5–8 December 2019](2019-12-08-Qriously.html) | Qriously | 43.4% | 42.1–44.8% | 41.7–45.2% | 41.4–45.5% | 40.7–46.2% |
 | [6–8 December 2019](2019-12-08-ComRes.html) | ComRes <br> Remain United | 42.5% | 41.7–43.3% | 41.4–43.5% | 41.2–43.7% | 40.8–44.1% |
@@ -228,8 +233,13 @@ Last result: **4** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 36 | 32–37 | 30–38 | 29–38 | 28–39 |
-| [10–11 December 2019](2019-12-11-Opinium.html) | Opinium |  |  |  |  |  |
-| [8–10 December 2019](2019-12-10-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg |  |  |  |  |  |
+| [10–11 December 2019](2019-12-11-Survation.html) | Survation | 37 | 36–37 | 36–38 | 36–38 | 36–38 |
+| [10–11 December 2019](2019-12-11-Panelbase.html) | Panelbase | 36 | 36–37 | 36–37 | 36–37 | 35–38 |
+| [10–11 December 2019](2019-12-11-Opinium.html) | Opinium | 36 | 36–38 | 36–38 | 36–38 | 36–38 |
+| [9–11 December 2019](2019-12-11-KantarPublic.html) | Kantar Public | 37 | 36–37 | 36–37 | 36–37 | 35–37 |
+| [9–11 December 2019](2019-12-11-Deltapoll.html) | Deltapoll | 37 | 37–38 | 36–38 | 36–38 | 35–38 |
+| [8–10 December 2019](2019-12-10-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 35 | 34–37 | 34–37 | 33–38 | 32–39 |
+| [9–10 December 2019](2019-12-10-ComRes.html) | ComRes <br> Daily Telegraph | 34 | 32–35 | 32–35 | 31–35 | 31–36 |
 | [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 36 | 34–36 | 33–37 | 33–37 | 32–37 |
 | [5–8 December 2019](2019-12-08-Qriously.html) | Qriously | 37 | 36–38 | 36–38 | 36–39 | 35–40 |
 | [6–8 December 2019](2019-12-08-ComRes.html) | ComRes <br> Remain United | 36 | 35–36 | 35–36 | 35–36 | 35–37 |
@@ -263,7 +273,7 @@ Last result: **4** seats (General Election of 23 May 2019)
 | [20–22 November 2019](2019-11-22-Opinium.html) | Opinium <br> The Observer | 39 | 37–40 | 37–41 | 37–42 | 36–43 |
 | [20–21 November 2019](2019-11-21-ComRes.html) | ComRes <br> The Sunday Express | 33 | 33–36 | 33–36 | 33–36 | 32–37 |
 | [19–21 November 2019](2019-11-21-BMGResearch.html) | BMG Research | 35 | 32–37 | 31–38 | 31–38 | 30–38 |
-| [12–20 November 2019](2019-11-20-YouGov.html) | YouGov | 36 | 36–37 | 34–37 | 34–37 | 34–37 |
+| [12–20 November 2019](2019-11-20-YouGov.html) | YouGov | 36 | 34–37 | 34–37 | 34–37 | 34–37 |
 | [18–19 November 2019](2019-11-19-YouGov.html) | YouGov <br> The Times | 35 | 34–37 | 34–37 | 33–37 | 32–38 |
 | [15–19 November 2019](2019-11-19-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 37 | 34–38 | 33–39 | 33–39 | 31–40 |
 | [18–19 November 2019](2019-11-19-ComRes.html) | ComRes <br> Daily Telegraph | 34 | 33–36 | 33–36 | 32–37 | 31–37 |
@@ -271,7 +281,7 @@ Last result: **4** seats (General Election of 23 May 2019)
 | [15–18 November 2019](2019-11-18-ICMResearch.html) | ICM Research | 36 | 36–37 | 34–37 | 34–38 | 34–38 |
 | [14–16 November 2019](2019-11-16-Survation.html) | Survation | 37 | 35–38 | 34–39 | 33–39 | 33–40 |
 | [10–16 November 2019](2019-11-16-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 37 | 36–39 | 36–39 | 35–40 | 35–40 |
-| [14–15 November 2019](2019-11-15-YouGov.html) | YouGov <br> The Sunday Times | 37 | 37–39 | 37–39 | 36–39 | 35–41 |
+| [14–15 November 2019](2019-11-15-YouGov.html) | YouGov <br> The Sunday Times | 38 | 37–39 | 37–39 | 35–39 | 35–41 |
 | [13–15 November 2019](2019-11-15-Opinium.html) | Opinium <br> The Observer | 37 | 36–38 | 36–38 | 36–39 | 35–39 |
 | [9–15 November 2019](2019-11-15-BMGResearch.html) | BMG Research | 30 | 29–32 | 29–32 | 28–32 | 27–34 |
 | [13–14 November 2019](2019-11-14-Panelbase.html) | Panelbase | 36 | 33–37 | 33–38 | 32–38 | 31–39 |

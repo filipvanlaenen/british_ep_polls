@@ -11,8 +11,13 @@ Last result: **13.7%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 32.5% | 28.1–34.6% | 27.3–35.1% | 26.8–35.6% | 25.8–36.4% |
-| [10–11 December 2019](2019-12-11-Opinium.html) | Opinium | 33.2% | N/A | N/A | N/A | N/A |
-| [8–10 December 2019](2019-12-10-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 33.0% | N/A | N/A | N/A | N/A |
+| [10–11 December 2019](2019-12-11-Survation.html) | Survation | 34.0% | 32.8–35.3% | 32.4–35.6% | 32.1–35.9% | 31.5–36.5% |
+| [10–11 December 2019](2019-12-11-Panelbase.html) | Panelbase | 34.0% | 32.9–35.1% | 32.6–35.4% | 32.4–35.7% | 31.9–36.2% |
+| [10–11 December 2019](2019-12-11-Opinium.html) | Opinium | 33.2% | 32.1–34.4% | 31.8–34.7% | 31.6–35.0% | 31.1–35.5% |
+| [9–11 December 2019](2019-12-11-KantarPublic.html) | Kantar Public | 31.9% | 30.8–33.1% | 30.5–33.4% | 30.2–33.7% | 29.7–34.2% |
+| [9–11 December 2019](2019-12-11-Deltapoll.html) | Deltapoll | 34.5% | 33.1–35.9% | 32.7–36.4% | 32.3–36.7% | 31.7–37.4% |
+| [8–10 December 2019](2019-12-10-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 33.0% | 31.1–34.9% | 30.6–35.5% | 30.2–36.0% | 29.3–36.9% |
+| [9–10 December 2019](2019-12-10-ComRes.html) | ComRes <br> Daily Telegraph | 36.0% | 34.6–37.4% | 34.2–37.8% | 33.9–38.1% | 33.3–38.8% |
 | [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 36.2% | 34.8–37.6% | 34.4–38.0% | 34.1–38.3% | 33.5–39.0% |
 | [5–8 December 2019](2019-12-08-Qriously.html) | Qriously | 30.3% | 29.1–31.6% | 28.7–31.9% | 28.4–32.2% | 27.8–32.9% |
 | [6–8 December 2019](2019-12-08-ComRes.html) | ComRes <br> Remain United | 35.6% | 34.8–36.4% | 34.5–36.6% | 34.4–36.8% | 34.0–37.2% |
@@ -211,8 +216,13 @@ Last result: **10** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 26 | 22–27 | 21–28 | 20–28 | 19–30 |
-| [10–11 December 2019](2019-12-11-Opinium.html) | Opinium |  |  |  |  |  |
-| [8–10 December 2019](2019-12-10-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg |  |  |  |  |  |
+| [10–11 December 2019](2019-12-11-Survation.html) | Survation | 27 | 27–28 | 26–28 | 26–28 | 26–28 |
+| [10–11 December 2019](2019-12-11-Panelbase.html) | Panelbase | 27 | 27 | 27 | 26–27 | 26–28 |
+| [10–11 December 2019](2019-12-11-Opinium.html) | Opinium | 26 | 25–27 | 25–27 | 25–27 | 25–27 |
+| [9–11 December 2019](2019-12-11-KantarPublic.html) | Kantar Public | 25 | 25–26 | 25–26 | 25–27 | 25–27 |
+| [9–11 December 2019](2019-12-11-Deltapoll.html) | Deltapoll | 27 | 27 | 26–28 | 26–28 | 26–28 |
+| [8–10 December 2019](2019-12-10-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 26 | 25–27 | 25–28 | 24–28 | 24–30 |
+| [9–10 December 2019](2019-12-10-ComRes.html) | ComRes <br> Daily Telegraph | 28 | 27–30 | 26–30 | 26–30 | 26–30 |
 | [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 27 | 27–28 | 26–30 | 26–30 | 26–30 |
 | [5–8 December 2019](2019-12-08-Qriously.html) | Qriously | 25 | 24–26 | 24–26 | 24–27 | 23–27 |
 | [6–8 December 2019](2019-12-08-ComRes.html) | ComRes <br> Remain United | 27 | 27–28 | 27–28 | 27–28 | 26–28 |
@@ -246,7 +256,7 @@ Last result: **10** seats (General Election of 23 May 2019)
 | [20–22 November 2019](2019-11-22-Opinium.html) | Opinium <br> The Observer | 23 | 22–25 | 21–25 | 20–25 | 18–25 |
 | [20–21 November 2019](2019-11-21-ComRes.html) | ComRes <br> The Sunday Express | 26 | 25–26 | 25–26 | 25–26 | 23–27 |
 | [19–21 November 2019](2019-11-21-BMGResearch.html) | BMG Research | 22 | 20–24 | 20–25 | 20–25 | 20–26 |
-| [12–20 November 2019](2019-11-20-YouGov.html) | YouGov | 23 | 22–24 | 22–25 | 22–25 | 22–25 |
+| [12–20 November 2019](2019-11-20-YouGov.html) | YouGov | 23 | 22–25 | 22–25 | 22–25 | 22–25 |
 | [18–19 November 2019](2019-11-19-YouGov.html) | YouGov <br> The Times | 25 | 23–26 | 23–26 | 22–26 | 21–26 |
 | [15–19 November 2019](2019-11-19-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 21 | 19–25 | 19–25 | 19–25 | 17–26 |
 | [18–19 November 2019](2019-11-19-ComRes.html) | ComRes <br> Daily Telegraph | 26 | 25–26 | 23–26 | 22–26 | 22–27 |

@@ -1,48 +1,48 @@
-# Opinion Poll by YouGov, 12–20 November 2019
+# Opinion Poll by Panelbase, 10–11 December 2019
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
 
 ## Voting Intentions
 
-![Graph with voting intentions not yet produced](2019-11-20-YouGov.png "Voting Intentions")
+![Graph with voting intentions not yet produced](2019-12-11-Panelbase.png "Voting Intentions")
 
 ### Confidence Intervals
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Conservative Party (ECR) | 8.8% | 42.6% | 42.0–43.2% |41.8–43.3% |41.7–43.5% |41.4–43.8% |
-| Labour Party (S&D) | 13.7% | 28.7% | 28.2–29.3% |28.0–29.4% |27.9–29.6% |27.6–29.8% |
-| Liberal Democrats (RE) | 19.6% | 14.9% | 14.4–15.3% |14.3–15.4% |14.2–15.5% |14.0–15.7% |
-| Scottish National Party (Greens/EFA) | 3.5% | 4.0% | 3.7–4.2% |3.7–4.3% |3.6–4.3% |3.5–4.5% |
-| Brexit Party (NI) | 30.5% | 4.0% | 3.7–4.2% |3.7–4.3% |3.6–4.3% |3.5–4.5% |
-| Green Party (Greens/EFA) | 11.8% | 3.0% | 2.8–3.2% |2.7–3.3% |2.7–3.3% |2.6–3.4% |
-| Plaid Cymru (Greens/EFA) | 1.0% | 1.0% | 0.9–1.1% |0.8–1.2% |0.8–1.2% |0.8–1.3% |
+| Conservative Party (ECR) | 8.8% | 43.0% | 41.9–44.1% |41.6–44.5% |41.3–44.7% |40.8–45.3% |
+| Labour Party (S&D) | 13.7% | 34.0% | 32.9–35.1% |32.6–35.4% |32.4–35.7% |31.9–36.2% |
+| Liberal Democrats (RE) | 19.6% | 11.0% | 10.3–11.8% |10.1–11.9% |10.0–12.1% |9.6–12.5% |
+| Scottish National Party (Greens/EFA) | 3.5% | 4.0% | 3.6–4.5% |3.5–4.6% |3.4–4.8% |3.2–5.0% |
+| Brexit Party (NI) | 30.5% | 4.0% | 3.6–4.5% |3.5–4.6% |3.4–4.8% |3.2–5.0% |
+| Green Party (Greens/EFA) | 11.8% | 3.0% | 2.6–3.4% |2.5–3.6% |2.5–3.7% |2.3–3.9% |
+| Plaid Cymru (Greens/EFA) | 1.0% | 0.3% | 0.2–0.4% |0.1–0.5% |0.1–0.5% |0.1–0.6% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
 ## Seats
 
-![Graph with seats not yet produced](2019-11-20-YouGov-seats.png "Seats")
+![Graph with seats not yet produced](2019-12-11-Panelbase-seats.png "Seats")
 
-![Graph with seating plan not yet produced](2019-11-20-YouGov-seating-plan.png "Seating Plan")
+![Graph with seating plan not yet produced](2019-12-11-Panelbase-seating-plan.png "Seating Plan")
 
 ### Confidence Intervals
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#conservative-party-(ecr)">Conservative Party (ECR)</a> | 4 | 36 | 34–37 |34–37 |34–37 |34–37 |
-| <a href="#labour-party-(s&d)">Labour Party (S&D)</a> | 10 | 23 | 22–25 |22–25 |22–25 |22–25 |
-| <a href="#liberal-democrats-(re)">Liberal Democrats (RE)</a> | 16 | 8 | 7–8 |6–8 |6–8 |6–8 |
+| <a href="#conservative-party-(ecr)">Conservative Party (ECR)</a> | 4 | 36 | 36–37 |36–37 |36–37 |35–38 |
+| <a href="#labour-party-(s&d)">Labour Party (S&D)</a> | 10 | 27 | 27 |27 |26–27 |26–28 |
+| <a href="#liberal-democrats-(re)">Liberal Democrats (RE)</a> | 16 | 5 | 4–5 |4–5 |4–5 |4–6 |
 | <a href="#scottish-national-party-(greens/efa)">Scottish National Party (Greens/EFA)</a> | 3 | 2 | 2 |2 |2 |2 |
 | <a href="#brexit-party-(ni)">Brexit Party (NI)</a> | 29 | 0 | 0 |0 |0 |0 |
 | <a href="#green-party-(greens/efa)">Green Party (Greens/EFA)</a> | 7 | 0 | 0 |0 |0 |0 |
-| <a href="#plaid-cymru-(greens/efa)">Plaid Cymru (Greens/EFA)</a> | 1 | 1 | 1 |1 |1 |1 |
+| <a href="#plaid-cymru-(greens/efa)">Plaid Cymru (Greens/EFA)</a> | 1 | 0 | 0 |0 |0 |0 |
 
 ### Conservative Party (ECR)
 
 *For a full overview of the results for this party, see the [Conservative Party (ECR)](party-conservativepartyecr.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-11-20-YouGov-seats-pmf-conservativepartyecr.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-12-11-Panelbase-seats-pmf-conservativepartyecr.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -76,17 +76,18 @@
 | 31 | 0% | 100% |  |
 | 32 | 0% | 100% |  |
 | 33 | 0% | 100% |  |
-| 34 | 14% | 100% |  |
-| 35 | 8% | 86% |  |
-| 36 | 57% | 78% | Median, Majority |
-| 37 | 21% | 21% |  |
-| 38 | 0% | 0% |  |
+| 34 | 0% | 100% |  |
+| 35 | 2% | 100% |  |
+| 36 | 56% | 98% | Median, Majority |
+| 37 | 41% | 42% |  |
+| 38 | 2% | 2% |  |
+| 39 | 0% | 0% |  |
 
 ### Labour Party (S&D)
 
 *For a full overview of the results for this party, see the [Labour Party (S&D)](party-labourpartysd.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-11-20-YouGov-seats-pmf-labourpartysd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-12-11-Panelbase-seats-pmf-labourpartysd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -102,23 +103,28 @@
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
 | 21 | 0% | 100% |  |
-| 22 | 19% | 100% |  |
-| 23 | 47% | 81% | Median |
-| 24 | 12% | 34% |  |
-| 25 | 22% | 22% |  |
-| 26 | 0% | 0% |  |
+| 22 | 0% | 100% |  |
+| 23 | 0% | 100% |  |
+| 24 | 0% | 100% |  |
+| 25 | 0.2% | 100% |  |
+| 26 | 4% | 99.8% |  |
+| 27 | 94% | 96% | Median |
+| 28 | 2% | 2% |  |
+| 29 | 0% | 0% |  |
 
 ### Liberal Democrats (RE)
 
 *For a full overview of the results for this party, see the [Liberal Democrats (RE)](party-liberaldemocratsre.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-11-20-YouGov-seats-pmf-liberaldemocratsre.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-12-11-Panelbase-seats-pmf-liberaldemocratsre.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 7% | 100% |  |
-| 7 | 7% | 93% |  |
-| 8 | 86% | 86% | Median |
+| 4 | 42% | 100% |  |
+| 5 | 57% | 58% | Median |
+| 6 | 2% | 2% |  |
+| 7 | 0% | 0% |  |
+| 8 | 0% | 0% |  |
 | 9 | 0% | 0% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
@@ -132,18 +138,19 @@
 
 *For a full overview of the results for this party, see the [Scottish National Party (Greens/EFA)](party-scottishnationalpartygreensefa.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-11-20-YouGov-seats-pmf-scottishnationalpartygreensefa.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-12-11-Panelbase-seats-pmf-scottishnationalpartygreensefa.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 100% | 100% | Median |
-| 3 | 0% | 0% | Last Result |
+| 2 | 99.8% | 100% | Median |
+| 3 | 0.2% | 0.2% | Last Result |
+| 4 | 0% | 0% |  |
 
 ### Brexit Party (NI)
 
 *For a full overview of the results for this party, see the [Brexit Party (NI)](party-brexitpartyni.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-11-20-YouGov-seats-pmf-brexitpartyni.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-12-11-Panelbase-seats-pmf-brexitpartyni.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -182,7 +189,7 @@
 
 *For a full overview of the results for this party, see the [Green Party (Greens/EFA)](party-greenpartygreensefa.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-11-20-YouGov-seats-pmf-greenpartygreensefa.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-12-11-Panelbase-seats-pmf-greenpartygreensefa.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -199,31 +206,30 @@
 
 *For a full overview of the results for this party, see the [Plaid Cymru (Greens/EFA)](party-plaidcymrugreensefa.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-11-20-YouGov-seats-pmf-plaidcymrugreensefa.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-12-11-Panelbase-seats-pmf-plaidcymrugreensefa.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.4% | 100% |  |
-| 1 | 99.6% | 99.6% | Last Result, Median |
-| 2 | 0% | 0% |  |
+| 0 | 100% | 100% | Median |
+| 1 | 0% | 0% | Last Result |
 
 
 ## Coalitions
 
-![Graph with coalitions seats not yet produced](2019-11-20-YouGov-coalitions-seats.png "Coalitions Seats")
+![Graph with coalitions seats not yet produced](2019-12-11-Panelbase-coalitions-seats.png "Coalitions Seats")
 
 ### Confidence Intervals
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Conservative Party (ECR) | 4 | 36 | 78% | 34–37 | 34–37 | 34–37 | 34–37 |
-| Labour Party (S&D) | 10 | 23 | 0% | 22–25 | 22–25 | 22–25 | 22–25 |
-| Scottish National Party (Greens/EFA) – Green Party (Greens/EFA) – Plaid Cymru (Greens/EFA) | 11 | 3 | 0% | 3 | 3 | 3 | 3 |
+| Conservative Party (ECR) | 4 | 36 | 98% | 36–37 | 36–37 | 36–37 | 35–38 |
+| Labour Party (S&D) | 10 | 27 | 0% | 27 | 27 | 26–27 | 26–28 |
+| Scottish National Party (Greens/EFA) – Green Party (Greens/EFA) – Plaid Cymru (Greens/EFA) | 11 | 2 | 0% | 2 | 2 | 2 | 2 |
 | Brexit Party (NI) | 29 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Conservative Party (ECR)
 
-![Graph with seats probability mass function not yet produced](2019-11-20-YouGov-coalitions-seats-pmf-con.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-12-11-Panelbase-coalitions-seats-pmf-con.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -257,15 +263,16 @@
 | 31 | 0% | 100% |  |
 | 32 | 0% | 100% |  |
 | 33 | 0% | 100% |  |
-| 34 | 14% | 100% |  |
-| 35 | 8% | 86% |  |
-| 36 | 57% | 78% | Median, Majority |
-| 37 | 21% | 21% |  |
-| 38 | 0% | 0% |  |
+| 34 | 0% | 100% |  |
+| 35 | 2% | 100% |  |
+| 36 | 56% | 98% | Median, Majority |
+| 37 | 41% | 42% |  |
+| 38 | 2% | 2% |  |
+| 39 | 0% | 0% |  |
 
 ### Labour Party (S&D)
 
-![Graph with seats probability mass function not yet produced](2019-11-20-YouGov-coalitions-seats-pmf-lab.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-12-11-Panelbase-coalitions-seats-pmf-lab.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -281,20 +288,23 @@
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
 | 21 | 0% | 100% |  |
-| 22 | 19% | 100% |  |
-| 23 | 47% | 81% | Median |
-| 24 | 12% | 34% |  |
-| 25 | 22% | 22% |  |
-| 26 | 0% | 0% |  |
+| 22 | 0% | 100% |  |
+| 23 | 0% | 100% |  |
+| 24 | 0% | 100% |  |
+| 25 | 0.2% | 100% |  |
+| 26 | 4% | 99.8% |  |
+| 27 | 94% | 96% | Median |
+| 28 | 2% | 2% |  |
+| 29 | 0% | 0% |  |
 
 ### Scottish National Party (Greens/EFA) – Green Party (Greens/EFA) – Plaid Cymru (Greens/EFA)
 
-![Graph with seats probability mass function not yet produced](2019-11-20-YouGov-coalitions-seats-pmf-snp–green–pc.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-12-11-Panelbase-coalitions-seats-pmf-snp–green–pc.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.4% | 100% |  |
-| 3 | 99.6% | 99.6% | Median |
+| 2 | 99.8% | 100% | Median |
+| 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
 | 5 | 0% | 0% |  |
 | 6 | 0% | 0% |  |
@@ -306,7 +316,7 @@
 
 ### Brexit Party (NI)
 
-![Graph with seats probability mass function not yet produced](2019-11-20-YouGov-coalitions-seats-pmf-brexit.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-12-11-Panelbase-coalitions-seats-pmf-brexit.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -346,13 +356,13 @@
 
 ### Opinion Poll
 
-+ **Polling firm:** YouGov
++ **Polling firm:** Panelbase
 + **Commissioner(s):** —
-+ **Fieldwork period:** 12–20 November 2019
++ **Fieldwork period:** 10–11 December 2019
 
 ### Calculations
 
-+ **Sample size:** 11277
++ **Sample size:** 3174
 + **Simulations done:** 1,048,576
-+ **Error estimate:** 0.30%
++ **Error estimate:** 0.62%
 

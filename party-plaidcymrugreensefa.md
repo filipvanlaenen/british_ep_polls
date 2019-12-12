@@ -11,8 +11,13 @@ Last result: **1.0%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.4% | 0.2–1.2% | 0.1–1.3% | 0.1–1.5% | 0.1–1.8% |
-| [10–11 December 2019](2019-12-11-Opinium.html) | Opinium | 0.3% | N/A | N/A | N/A | N/A |
-| [8–10 December 2019](2019-12-10-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 1.0% | N/A | N/A | N/A | N/A |
+| [10–11 December 2019](2019-12-11-Survation.html) | Survation | 1.0% | 0.8–1.3% | 0.7–1.4% | 0.7–1.5% | 0.6–1.7% |
+| [10–11 December 2019](2019-12-11-Panelbase.html) | Panelbase | 0.3% | 0.2–0.4% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% |
+| [10–11 December 2019](2019-12-11-Opinium.html) | Opinium | 0.3% | 0.2–0.4% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% |
+| [9–11 December 2019](2019-12-11-KantarPublic.html) | Kantar Public | 0.2% | 0.2–0.4% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% |
+| [9–11 December 2019](2019-12-11-Deltapoll.html) | Deltapoll | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% |
+| [8–10 December 2019](2019-12-10-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
+| [9–10 December 2019](2019-12-10-ComRes.html) | ComRes <br> Daily Telegraph | 0.0% | N/A | N/A | N/A | N/A |
 | [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 0.2% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
 | [5–8 December 2019](2019-12-08-Qriously.html) | Qriously | 0.0% | N/A | N/A | N/A | N/A |
 | [6–8 December 2019](2019-12-08-ComRes.html) | ComRes <br> Remain United | 0.2% | 0.2–0.4% | 0.2–0.4% | 0.1–0.4% | 0.1–0.5% |
@@ -190,8 +195,13 @@ Last result: **1** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
-| [10–11 December 2019](2019-12-11-Opinium.html) | Opinium |  |  |  |  |  |
-| [8–10 December 2019](2019-12-10-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg |  |  |  |  |  |
+| [10–11 December 2019](2019-12-11-Survation.html) | Survation | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [10–11 December 2019](2019-12-11-Panelbase.html) | Panelbase | 0 | 0 | 0 | 0 | 0 |
+| [10–11 December 2019](2019-12-11-Opinium.html) | Opinium | 0 | 0 | 0 | 0 | 0 |
+| [9–11 December 2019](2019-12-11-KantarPublic.html) | Kantar Public | 0 | 0 | 0 | 0 | 0 |
+| [9–11 December 2019](2019-12-11-Deltapoll.html) | Deltapoll | 0 | 0 | 0 | 0 | 0 |
+| [8–10 December 2019](2019-12-10-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| [9–10 December 2019](2019-12-10-ComRes.html) | ComRes <br> Daily Telegraph |  |  |  |  |  |
 | [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 0 | 0 | 0 | 0 | 0 |
 | [5–8 December 2019](2019-12-08-Qriously.html) | Qriously |  |  |  |  |  |
 | [6–8 December 2019](2019-12-08-ComRes.html) | ComRes <br> Remain United | 0 | 0 | 0 | 0 | 0 |
@@ -229,7 +239,7 @@ Last result: **1** seats (General Election of 23 May 2019)
 | [18–19 November 2019](2019-11-19-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0–1 |
 | [15–19 November 2019](2019-11-19-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [18–19 November 2019](2019-11-19-ComRes.html) | ComRes <br> Daily Telegraph |  |  |  |  |  |
-| [14–18 November 2019](2019-11-18-KantarPublic.html) | Kantar Public | 1 | 1 | 0–2 | 0–2 | 0–2 |
+| [14–18 November 2019](2019-11-18-KantarPublic.html) | Kantar Public | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [15–18 November 2019](2019-11-18-ICMResearch.html) | ICM Research | 0 | 0 | 0 | 0 | 0 |
 | [14–16 November 2019](2019-11-16-Survation.html) | Survation | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [10–16 November 2019](2019-11-16-Deltapoll.html) | Deltapoll <br> The Mail on Sunday |  |  |  |  |  |
