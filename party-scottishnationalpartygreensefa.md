@@ -15,7 +15,9 @@ Last result: **3.5%** (General Election of 23 May 2019)
 | [10–11 December 2019](2019-12-11-Panelbase.html) | Panelbase | 4.0% | 3.6–4.5% | 3.5–4.6% | 3.4–4.8% | 3.2–5.0% |
 | [10–11 December 2019](2019-12-11-Opinium.html) | Opinium | 4.0% | 3.6–4.5% | 3.5–4.7% | 3.4–4.8% | 3.2–5.0% |
 | [9–11 December 2019](2019-12-11-KantarPublic.html) | Kantar Public | 4.0% | 3.5–4.5% | 3.4–4.6% | 3.3–4.8% | 3.1–5.0% |
+| [9–11 December 2019](2019-12-11-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0.0% | N/A | N/A | N/A | N/A |
 | [9–11 December 2019](2019-12-11-Deltapoll.html) | Deltapoll | 4.0% | 3.4–4.6% | 3.3–4.8% | 3.2–5.0% | 2.9–5.3% |
+| [6–11 December 2019](2019-12-11-BMGResearch.html) | BMG Research | 0.0% | N/A | N/A | N/A | N/A |
 | [8–10 December 2019](2019-12-10-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 4.0% | 3.3–4.9% | 3.1–5.1% | 2.9–5.4% | 2.6–5.8% |
 | [9–10 December 2019](2019-12-10-ComRes.html) | ComRes <br> Daily Telegraph | 4.0% | 3.5–4.6% | 3.4–4.8% | 3.2–4.9% | 3.0–5.3% |
 | [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 3.0% | 2.6–3.6% | 2.5–3.7% | 2.4–3.9% | 2.2–4.2% |
@@ -202,7 +204,9 @@ Last result: **3** seats (General Election of 23 May 2019)
 | [10–11 December 2019](2019-12-11-Panelbase.html) | Panelbase | 2 | 2 | 2 | 2 | 2 |
 | [10–11 December 2019](2019-12-11-Opinium.html) | Opinium | 2 | 2 | 2 | 2 | 2 |
 | [9–11 December 2019](2019-12-11-KantarPublic.html) | Kantar Public | 2 | 2 | 2 | 2 | 2 |
+| [9–11 December 2019](2019-12-11-IpsosMORI.html) | Ipsos MORI <br> Evening Standard |  |  |  |  |  |
 | [9–11 December 2019](2019-12-11-Deltapoll.html) | Deltapoll | 2 | 2 | 2 | 2 | 2–3 |
+| [6–11 December 2019](2019-12-11-BMGResearch.html) | BMG Research |  |  |  |  |  |
 | [8–10 December 2019](2019-12-10-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [9–10 December 2019](2019-12-10-ComRes.html) | ComRes <br> Daily Telegraph | 2 | 2 | 2 | 2–3 | 2–3 |
 | [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 2 | 2 | 1–2 | 1–2 | 1–2 |

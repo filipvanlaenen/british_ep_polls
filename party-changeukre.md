@@ -15,7 +15,9 @@ Last result: **3.3%** (General Election of 23 May 2019)
 | [10–11 December 2019](2019-12-11-Panelbase.html) | Panelbase | 0.0% | N/A | N/A | N/A | N/A |
 | [10–11 December 2019](2019-12-11-Opinium.html) | Opinium | 0.0% | N/A | N/A | N/A | N/A |
 | [9–11 December 2019](2019-12-11-KantarPublic.html) | Kantar Public | 0.0% | N/A | N/A | N/A | N/A |
+| [9–11 December 2019](2019-12-11-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0.0% | N/A | N/A | N/A | N/A |
 | [9–11 December 2019](2019-12-11-Deltapoll.html) | Deltapoll | 0.0% | N/A | N/A | N/A | N/A |
+| [6–11 December 2019](2019-12-11-BMGResearch.html) | BMG Research | 0.0% | N/A | N/A | N/A | N/A |
 | [8–10 December 2019](2019-12-10-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 0.0% | N/A | N/A | N/A | N/A |
 | [9–10 December 2019](2019-12-10-ComRes.html) | ComRes <br> Daily Telegraph | 0.0% | N/A | N/A | N/A | N/A |
 | [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 0.0% | N/A | N/A | N/A | N/A |
@@ -199,7 +201,9 @@ Last result: **0** seats (General Election of 23 May 2019)
 | [10–11 December 2019](2019-12-11-Panelbase.html) | Panelbase |  |  |  |  |  |
 | [10–11 December 2019](2019-12-11-Opinium.html) | Opinium |  |  |  |  |  |
 | [9–11 December 2019](2019-12-11-KantarPublic.html) | Kantar Public |  |  |  |  |  |
+| [9–11 December 2019](2019-12-11-IpsosMORI.html) | Ipsos MORI <br> Evening Standard |  |  |  |  |  |
 | [9–11 December 2019](2019-12-11-Deltapoll.html) | Deltapoll |  |  |  |  |  |
+| [6–11 December 2019](2019-12-11-BMGResearch.html) | BMG Research |  |  |  |  |  |
 | [8–10 December 2019](2019-12-10-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg |  |  |  |  |  |
 | [9–10 December 2019](2019-12-10-ComRes.html) | ComRes <br> Daily Telegraph |  |  |  |  |  |
 | [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research |  |  |  |  |  |
