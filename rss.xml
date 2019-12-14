@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/british_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 13 Dec 2019 20:37:09 +0100</pubDate>
+    <pubDate>Sat, 14 Dec 2019 09:29:46 +0100</pubDate>
     <item>
       <title>Opinion Poll by Survation, 10–11 December 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_ep_polls/2019-12-11-Survation.html#seats</link>
@@ -188,6 +188,36 @@
         type="image/png"/>
       <pubDate>Thu, 12 Dec 2019 15:37:07 +0100</pubDate>
       <dc:date>2019-12-12T15:37:07.230955+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by BMG Research, 6–11 December 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/british_ep_polls/2019-12-11-BMGResearch.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party (ECR): 32–36 seats&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 25–27 seats&lt;/li&gt;&lt;li&gt;Liberal Democrats (RE): 6–8 seats&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Brexit Party (NI): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-12-11-BMGResearch-seats.png"
+        length="122763"
+        type="image/png"/>
+      <pubDate>Sat, 14 Dec 2019 09:29:46 +0100</pubDate>
+      <dc:date>2019-12-14T09:29:46.250934+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by BMG Research, 6–11 December 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/british_ep_polls/2019-12-11-BMGResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-12-11-BMGResearch-coalitions-seats.png"
+        length="110505"
+        type="image/png"/>
+      <pubDate>Sat, 14 Dec 2019 09:29:46 +0100</pubDate>
+      <dc:date>2019-12-14T09:29:46.250934+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by BMG Research, 6–11 December 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/british_ep_polls/2019-12-11-BMGResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Conservative Party (ECR): 38.7–43.4%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 29.8–34.3%&lt;/li&gt;&lt;li&gt;Liberal Democrats (RE): 12.4–15.7%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 2.3–4.0%&lt;/li&gt;&lt;li&gt;Brexit Party (NI): 3.1–5.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-12-11-BMGResearch.png"
+        length="171800"
+        type="image/png"/>
+      <pubDate>Sat, 14 Dec 2019 09:29:46 +0100</pubDate>
+      <dc:date>2019-12-14T09:29:46.250934+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Number Cruncher Politics for Bloomberg, 8–10 December 2019 – Seat Projections for the Parties</title>
@@ -4279,6 +4309,6 @@
       <pubDate>Mon, 22 Jul 2019 21:27:08 +0200</pubDate>
       <dc:date>2019-07-22T21:27:08.139393+02:00</dc:date>
     </item>
-    <dc:date>2019-12-13T20:37:09.600087+01:00</dc:date>
+    <dc:date>2019-12-14T09:29:46.250934+01:00</dc:date>
   </channel>
 </rss>
