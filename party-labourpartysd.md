@@ -17,7 +17,7 @@ Last result: **13.7%** (General Election of 23 May 2019)
 | [9–11 December 2019](2019-12-11-KantarPublic.html) | Kantar Public | 31.9% | 30.8–33.1% | 30.5–33.4% | 30.2–33.7% | 29.7–34.2% |
 | [9–11 December 2019](2019-12-11-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 33.0% | 31.7–34.3% | 31.4–34.7% | 31.0–35.0% | 30.5–35.6% |
 | [9–11 December 2019](2019-12-11-Deltapoll.html) | Deltapoll | 34.5% | 33.1–35.9% | 32.7–36.4% | 32.3–36.7% | 31.7–37.4% |
-| [6–11 December 2019](2019-12-11-BMGResearch.html) | BMG Research | 32.0% | N/A | N/A | N/A | N/A |
+| [6–11 December 2019](2019-12-11-BMGResearch.html) | BMG Research | 32.0% | 30.5–33.5% | 30.1–33.9% | 29.8–34.3% | 29.1–35.0% |
 | [8–10 December 2019](2019-12-10-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 33.0% | 31.1–34.9% | 30.6–35.5% | 30.2–36.0% | 29.3–36.9% |
 | [9–10 December 2019](2019-12-10-ComRes.html) | ComRes <br> Daily Telegraph | 36.0% | 34.6–37.4% | 34.2–37.8% | 33.9–38.1% | 33.3–38.8% |
 | [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 36.2% | 34.8–37.6% | 34.4–38.0% | 34.1–38.3% | 33.5–39.0% |
@@ -224,7 +224,7 @@ Last result: **10** seats (General Election of 23 May 2019)
 | [9–11 December 2019](2019-12-11-KantarPublic.html) | Kantar Public | 25 | 25–26 | 25–26 | 25–27 | 25–27 |
 | [9–11 December 2019](2019-12-11-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 26 | 25–27 | 25–27 | 25–27 | 24–27 |
 | [9–11 December 2019](2019-12-11-Deltapoll.html) | Deltapoll | 27 | 27 | 26–28 | 26–28 | 26–28 |
-| [6–11 December 2019](2019-12-11-BMGResearch.html) | BMG Research |  |  |  |  |  |
+| [6–11 December 2019](2019-12-11-BMGResearch.html) | BMG Research | 26 | 25–26 | 25–27 | 25–27 | 24–28 |
 | [8–10 December 2019](2019-12-10-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 26 | 25–27 | 25–28 | 24–28 | 24–30 |
 | [9–10 December 2019](2019-12-10-ComRes.html) | ComRes <br> Daily Telegraph | 28 | 27–30 | 26–30 | 26–30 | 26–30 |
 | [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 27 | 27–28 | 26–30 | 26–30 | 26–30 |

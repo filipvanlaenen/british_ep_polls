@@ -17,7 +17,7 @@ Last result: **11.8%** (General Election of 23 May 2019)
 | [9–11 December 2019](2019-12-11-KantarPublic.html) | Kantar Public | 3.0% | 2.6–3.4% | 2.5–3.6% | 2.4–3.7% | 2.2–3.9% |
 | [9–11 December 2019](2019-12-11-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 3.0% | 2.6–3.5% | 2.4–3.7% | 2.3–3.8% | 2.2–4.1% |
 | [9–11 December 2019](2019-12-11-Deltapoll.html) | Deltapoll | 3.0% | 2.5–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.2% |
-| [6–11 December 2019](2019-12-11-BMGResearch.html) | BMG Research | 3.0% | N/A | N/A | N/A | N/A |
+| [6–11 December 2019](2019-12-11-BMGResearch.html) | BMG Research | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.3–4.0% | 2.1–4.3% |
 | [8–10 December 2019](2019-12-10-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.8–4.6% |
 | [9–10 December 2019](2019-12-10-ComRes.html) | ComRes <br> Daily Telegraph | 2.0% | 1.6–2.5% | 1.6–2.6% | 1.5–2.7% | 1.3–2.9% |
 | [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 2.0% | 1.6–2.5% | 1.5–2.6% | 1.5–2.7% | 1.3–2.9% |
@@ -212,7 +212,7 @@ Last result: **7** seats (General Election of 23 May 2019)
 | [9–11 December 2019](2019-12-11-KantarPublic.html) | Kantar Public | 0 | 0 | 0 | 0 | 0 |
 | [9–11 December 2019](2019-12-11-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 0 | 0 | 0 | 0 | 0 |
 | [9–11 December 2019](2019-12-11-Deltapoll.html) | Deltapoll | 0 | 0 | 0 | 0 | 0 |
-| [6–11 December 2019](2019-12-11-BMGResearch.html) | BMG Research |  |  |  |  |  |
+| [6–11 December 2019](2019-12-11-BMGResearch.html) | BMG Research | 0 | 0 | 0 | 0 | 0 |
 | [8–10 December 2019](2019-12-10-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 0 | 0 | 0 | 0 | 0 |
 | [9–10 December 2019](2019-12-10-ComRes.html) | ComRes <br> Daily Telegraph | 0 | 0 | 0 | 0 | 0 |
 | [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 0 | 0 | 0 | 0 | 0 |
