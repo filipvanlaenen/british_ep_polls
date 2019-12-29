@@ -205,7 +205,7 @@ Last result: **16** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–8 | 5–8 | 4–9 | 4–12 |
+| N/A | [Poll Average](average.html) | 6 | 5–8 | 5–9 | 4–9 | 4–12 |
 | [10–11 December 2019](2019-12-11-Survation.html) | Survation | 3 | 2–4 | 2–4 | 2–4 | 1–4 |
 | [10–11 December 2019](2019-12-11-Panelbase.html) | Panelbase | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [10–11 December 2019](2019-12-11-Opinium.html) | Opinium | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
@@ -275,12 +275,12 @@ Last result: **16** seats (General Election of 23 May 2019)
 | [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times and Sky News | 11 | 11–12 | 8–12 | 8–12 | 8–13 |
 | [30 October–5 November 2019](2019-11-05-ComRes.html) | ComRes <br> Remain United | 10 | 10–11 | 9–11 | 9–12 | 8–12 |
 | [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 10 | 8–10 | 8–11 | 8–11 | 8–11 |
-| [1–4 November 2019](2019-11-04-ICMResearch.html) | ICM Research <br> Reuters | 8 | 8 | 8–9 | 7–9 | 6–10 |
+| [1–4 November 2019](2019-11-04-ICMResearch.html) | ICM Research <br> Reuters | 8 | 7–8 | 6–9 | 6–9 | 6–10 |
 | [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 6 | 5–8 | 5–8 | 5–8 | 5–10 |
 | [30 October–1 November 2019](2019-11-01-YouGov.html) | YouGov <br> The Sunday Times | 9 | 8–13 | 8–13 | 8–13 | 8–13 |
 | [30 October–1 November 2019](2019-11-01-Opinium.html) | Opinium <br> The Observer | 9 | 8–10 | 7–11 | 6–12 | 6–12 |
 | [30–31 October 2019](2019-10-31-Panelbase.html) | Panelbase | 6 | 6–8 | 6–9 | 6–9 | 5–10 |
-| [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
+| [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph | 8 | 6–8 | 6–9 | 6–9 | 5–10 |
 | [30–31 October 2019](2019-10-31-ComRes.html) | ComRes <br> Sunday Express | 10 | 9–11 | 9–12 | 8–12 | 8–13 |
 | [29–30 October 2019](2019-10-30-YouGov.html) | YouGov <br> The Times | 12 | 10–14 | 9–15 | 9–15 | 9–15 |
 | [29–30 October 2019](2019-10-30-Survation.html) | Survation | 13 | 11–14 | 11–15 | 10–16 | 9–16 |
@@ -383,8 +383,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 4% | 99.9% |  |
 | 5 | 16% | 96% |  |
 | 6 | 54% | 80% | Median |
-| 7 | 3% | 26% |  |
-| 8 | 18% | 23% |  |
+| 7 | 3% | 27% |  |
+| 8 | 19% | 24% |  |
 | 9 | 3% | 5% |  |
 | 10 | 0.9% | 2% |  |
 | 11 | 0.5% | 1.3% |  |
