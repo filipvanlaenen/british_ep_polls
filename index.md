@@ -5,18 +5,19 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | BREXIT | LIBDEM | LAB | GREEN | CON | SNP | PC | ChUK | UKIP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 23 May 2019 | General Election | 30.5% <br> 29 | 19.6% <br> 16 | 13.7% <br> 10 | 11.8% <br> 7 | 8.8% <br> 4 | 3.5% <br> 3 | 1.0% <br> 1 | 3.3% <br> 0 | 3.2% <br> 0 |
-| N/A | [Poll Average](average.html) | 2–12% <br> 0–8 | 10–17% <br> 4–9 | 27–36% <br> 20–28 | 1–5% <br> 0 | 35–47% <br> 29–38 | 2–5% <br> 1–3 | 0–2% <br> 0–1 | 0–1% <br> 0 | 0–1% <br> 0 |
-| [26–30 November 2019](2019-11-30-Survation.html) | Survation <br> Good Morning Britain | 2–4% <br> 0 | 9–13% <br> 4–6 | 30–36% <br> 25–28 | 3–5% <br> 0 | 39–45% <br> 34–38 | 2–4% <br> 1–2 | 1–2% <br> 0–2 | N/A <br> N/A | N/A <br> N/A |
-| [28–30 November 2019](2019-11-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 2–4% <br> 0 | 13–17% <br> 6–8 | 30–34% <br> 23–26 | 1–2% <br> 0 | 43–48% <br> 34–38 | 2–4% <br> 1–2 | 0–1% <br> 0 | N/A <br> N/A | 0–1% <br> 0 |
-| [28–29 November 2019](2019-11-29-YouGov.html) | YouGov <br> The Sunday Times | 1–3% <br> 0 | 11–15% <br> 5–8 | 32–36% <br> 25–28 | 2–4% <br> 0 | 41–45% <br> 34–37 | 3–5% <br> 2 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A |
-| [27–29 November 2019](2019-11-29-Opinium.html) | Opinium <br> The Observer | 1–3% <br> 0 | 11–14% <br> 4–6 | 29–33% <br> 24–26 | 2–4% <br> 0 | 43–48% <br> 36–38 | 3–5% <br> 2 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A |
-| [27–28 November 2019](2019-11-28-Panelbase.html) | Panelbase | 3–5% <br> 0 | 12–15% <br> 5–8 | 32–36% <br> 26–28 | 2–4% <br> 0 | 40–44% <br> 33–37 | 2–4% <br> 1–2 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A |
-| [27–28 November 2019](2019-11-28-ComRes.html) | ComRes <br> The Sunday Telegraph | 3–5% <br> 0 | 12–15% <br> 5–8 | 31–35% <br> 25–27 | 2–4% <br> 0 | 41–45% <br> 33–36 | 2–4% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [26–27 November 2019](2019-11-27-BMGResearch.html) | BMG Research <br> The Independent | 3–5% <br> 0 | 12–15% <br> 5–8 | 31–35% <br> 26–30 | 4–6% <br> 0–1 | 37–41% <br> 31–36 | 3–5% <br> 2–3 | 0–1% <br> 0 | 0–1% <br> 0 | 0–1% <br> 0 |
-| [21–25 November 2019](2019-11-25-KantarPublic.html) | Kantar Public | 2–4% <br> 0 | 12–16% <br> 5–8 | 29–35% <br> 24–27 | 3–5% <br> 0 | 40–46% <br> 33–37 | 3–5% <br> 2–3 | 0–1% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
-| [22–25 November 2019](2019-11-25-ICMResearch.html) | ICM Research | 3–5% <br> 0 | 12–15% <br> 5–8 | 32–36% <br> 26–29 | 2–4% <br> 0 | 39–43% <br> 31–36 | 2–4% <br> 1–2 | 1–2% <br> 0–1 | N/A <br> N/A | 0–1% <br> 0 |
-| [15–19 November 2019](2019-11-19-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 2–4% <br> 0 | 14–18% <br> 6–13 | 25–31% <br> 19–25 | 2–4% <br> 0 | 41–47% <br> 33–39 | 3–5% <br> 2–3 | 1–2% <br> 0–2 | N/A <br> N/A | N/A <br> N/A |
-| [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph | 11–13% <br> 6–9 | 13–16% <br> 6–9 | 26–30% <br> 20–26 | 3–5% <br> 0 | 34–38% <br> 27–32 | 4–6% <br> 2–3 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 2–5% <br> 0 | 9–15% <br> 2–8 | 30–37% <br> 25–29 | 2–4% <br> 0 | 40–46% <br> 33–38 | 2–5% <br> 1–2 | 0–1% <br> 0–1 | N/A <br> N/A | 0–1% <br> 0 |
+| [10–11 December 2019](2019-12-11-Survation.html) | Survation | 2–4% <br> 0 | 8–10% <br> 2–4 | 32–36% <br> 26–28 | 2–4% <br> 0 | 43–47% <br> 36–38 | 3–5% <br> 2 | 1% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
+| [10–11 December 2019](2019-12-11-Panelbase.html) | Panelbase | 3–5% <br> 0 | 10–12% <br> 4–5 | 32–36% <br> 26–27 | 2–4% <br> 0 | 41–45% <br> 36–37 | 3–5% <br> 2 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| [10–11 December 2019](2019-12-11-Opinium.html) | Opinium | 2–3% <br> 0 | 11–13% <br> 4–6 | 32–35% <br> 25–27 | 2–3% <br> 0 | 44–47% <br> 36–38 | 3–5% <br> 2 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| [9–11 December 2019](2019-12-11-KantarPublic.html) | Kantar Public | 2–4% <br> 0 | 12–14% <br> 5–6 | 30–34% <br> 25–27 | 2–4% <br> 0 | 42–46% <br> 36–37 | 3–5% <br> 2 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| [9–11 December 2019](2019-12-11-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 1–3% <br> 0 | 11–13% <br> 4–6 | 31–35% <br> 25–27 | 2–4% <br> 0 | 42–46% <br> 35–37 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [9–11 December 2019](2019-12-11-Deltapoll.html) | Deltapoll | 3–5% <br> 0 | 9–11% <br> 2–5 | 32–37% <br> 26–28 | 2–4% <br> 0 | 42–47% <br> 36–38 | 3–5% <br> 2 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| [6–11 December 2019](2019-12-11-BMGResearch.html) | BMG Research | 3–5% <br> 0 | 12–16% <br> 6–8 | 30–34% <br> 25–27 | 2–4% <br> 0 | 39–43% <br> 32–36 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [8–10 December 2019](2019-12-10-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 2–4% <br> 0 | 10–14% <br> 4–6 | 30–36% <br> 24–28 | 2–4% <br> 0 | 40–46% <br> 33–38 | 3–5% <br> 2–3 | 1–2% <br> 0–2 | N/A <br> N/A | N/A <br> N/A |
+| [9–10 December 2019](2019-12-10-ComRes.html) | ComRes <br> Daily Telegraph | 2–4% <br> 0 | 11–13% <br> 5–6 | 34–38% <br> 26–30 | 1–3% <br> 0 | 39–43% <br> 31–35 | 3–5% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 2–4% <br> 0 | 11–14% <br> 4–6 | 34–38% <br> 26–30 | 1–3% <br> 0 | 40–44% <br> 33–37 | 2–4% <br> 1–2 | 0–1% <br> 0 | N/A <br> N/A | 0–1% <br> 0 |
+| [5–8 December 2019](2019-12-08-Qriously.html) | Qriously | 2–4% <br> 0 | 11–14% <br> 4–6 | 28–32% <br> 24–27 | 3–5% <br> 0 | 41–46% <br> 36–39 | 2–3% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [5–6 December 2019](2019-12-06-YouGov.html) | YouGov <br> The Sunday Times | 2–4% <br> 0 | 11–15% <br> 5–8 | 31–35% <br> 25–27 | 2–4% <br> 0 | 41–45% <br> 34–37 | 3–5% <br> 2 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | 23 May 2019 | General Election | 30.5% <br> 29 | 19.6% <br> 16 | 13.7% <br> 10 | 11.8% <br> 7 | 8.8% <br> 4 | 3.5% <br> 3 | 1.0% <br> 1 | 3.3% <br> 0 | 3.2% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
