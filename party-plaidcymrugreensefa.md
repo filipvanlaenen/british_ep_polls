@@ -10,7 +10,7 @@ Last result: **1.0%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.4% | 0.2–1.2% | 0.1–1.3% | 0.1–1.5% | 0.1–1.8% |
+| N/A | [Poll Average](average.html) | 0.3% | 0.2–1.1% | 0.1–1.3% | 0.1–1.4% | 0.1–1.7% |
 | [10–11 December 2019](2019-12-11-Survation.html) | Survation | 1.0% | 0.8–1.3% | 0.7–1.4% | 0.7–1.5% | 0.6–1.7% |
 | [10–11 December 2019](2019-12-11-Panelbase.html) | Panelbase | 0.3% | 0.2–0.4% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% |
 | [10–11 December 2019](2019-12-11-Opinium.html) | Opinium | 0.3% | 0.2–0.4% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% |
@@ -182,9 +182,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 66% | 100% | Median |
-| 0.5–1.5% | 32% | 34% | Last Result |
-| 1.5–2.5% | 2% | 2% |  |
+| 0.0–0.5% | 73% | 100% | Median |
+| 0.5–1.5% | 25% | 27% | Last Result |
+| 1.5–2.5% | 1.2% | 1.2% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -196,7 +196,7 @@ Last result: **1** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–11 December 2019](2019-12-11-Survation.html) | Survation | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–11 December 2019](2019-12-11-Panelbase.html) | Panelbase | 0 | 0 | 0 | 0 | 0 |
 | [10–11 December 2019](2019-12-11-Opinium.html) | Opinium | 0 | 0 | 0 | 0 | 0 |
@@ -370,9 +370,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 73% | 100% | Median |
-| 1 | 26% | 27% | Last Result |
-| 2 | 0.9% | 0.9% |  |
+| 0 | 79% | 100% | Median |
+| 1 | 21% | 21% | Last Result |
+| 2 | 0.4% | 0.4% |  |
 | 3 | 0% | 0% |  |
 
 
