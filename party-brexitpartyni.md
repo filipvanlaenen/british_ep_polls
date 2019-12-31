@@ -296,7 +296,7 @@ Last result: **29** seats (General Election of 23 May 2019)
 | [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 6 | 6–7 | 6–7 | 5–8 | 5–8 |
 | [1–4 November 2019](2019-11-04-ICMResearch.html) | ICM Research <br> Reuters | 3 | 3–4 | 2–5 | 1–5 | 1–6 |
 | [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 6 | 5–7 | 5–7 | 4–7 | 3–8 |
-| [30 October–1 November 2019](2019-11-01-YouGov.html) | YouGov <br> The Sunday Times | 1 | 1–3 | 0–3 | 0–3 | 0–3 |
+| [30 October–1 November 2019](2019-11-01-YouGov.html) | YouGov <br> The Sunday Times | 1 | 1–2 | 0–3 | 0–3 | 0–3 |
 | [30 October–1 November 2019](2019-11-01-Opinium.html) | Opinium <br> The Observer | 3 | 2–5 | 1–6 | 1–6 | 1–6 |
 | [30–31 October 2019](2019-10-31-Panelbase.html) | Panelbase | 3 | 2–5 | 1–6 | 1–6 | 1–7 |
 | [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph | 7 | 6–9 | 6–9 | 6–9 | 5–9 |
