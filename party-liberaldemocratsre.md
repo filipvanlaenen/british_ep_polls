@@ -356,7 +356,7 @@ Last result: **16** seats (General Election of 23 May 2019)
 | [10–11 July 2019](2019-07-11-ComRes.html) | ComRes <br> The Express | 8 | 8–11 | 6–12 | 6–12 | 6–13 |
 | [9–10 July 2019](2019-07-10-YouGov.html) | YouGov <br> The Times | 12 | 10–13 | 10–14 | 10–15 | 10–15 |
 | [5–7 July 2019](2019-07-07-ComRes.html) | ComRes <br> Daily Telegraph | 9 | 8–12 | 8–13 | 8–13 | 6–13 |
-| [3–5 July 2019](2019-07-05-Opinium.html) | Opinium <br> The Observer | 9 | 8–10 | 8–10 | 8–11 | 8–11 |
+| [3–5 July 2019](2019-07-05-Opinium.html) | Opinium <br> The Observer | 8 | 8–10 | 8–11 | 8–11 | 7–11 |
 | [2–5 July 2019](2019-07-05-BMGResearch.html) | BMG Research <br> The Independent | 14 | 11–14 | 11–14 | 10–14 | 9–15 |
 | [2–3 July 2019](2019-07-03-YouGov.html) | YouGov <br> The Times | 13 | 12–15 | 11–15 | 11–16 | 10–17 |
 | [24–25 June 2019](2019-06-25-YouGov.html) | YouGov <br> The Times | 12 | 10–15 | 10–15 | 10–15 | 10–16 |
