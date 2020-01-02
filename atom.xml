@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/british_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2020-01-01T19:48:53.194722+01:00</updated>
+  <updated>2020-01-02T19:16:27.327313+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party (ECR): 43.0–47.0%, 36–38 seats</li><li>Labour Party (S&amp;D): 32.1–35.9%, 26–28 seats</li><li>Liberal Democrats (RE): 7.9–10.2%, 2–4 seats</li><li>Scottish National Party (Greens/EFA): 3.3–4.9%, 2 seats</li><li>Plaid Cymru (Greens/EFA): 0.7–1.5%, 0–1 seats</li><li>Green Party (Greens/EFA): 2.4–3.8%, 0 seats</li><li>Brexit Party (NI): 2.4–3.8%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/british_ep_polls/2019-12-11-Survation.html</id>
@@ -496,6 +496,14 @@
     <dc:date>2019-12-06T17:13:49.639834+01:00</dc:date>
   </entry>
   <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party (ECR): 38.9–43.3%, 31–37 seats</li><li>Labour Party (S&amp;D): 27.1–31.1%, 21–26 seats</li><li>Liberal Democrats (RE): 13.5–16.7%, 6–9 seats</li><li>Scottish National Party (Greens/EFA): 4.1–6.1%, 2–3 seats</li><li>Plaid Cymru (Greens/EFA): 0.6–1.5%, 0–1 seats</li><li>UK Independence Party (ID): 0.1–0.6%, 0 seats</li><li>Green Party (Greens/EFA): 1.5–2.7%, 0 seats</li><li>Brexit Party (NI): 5.0–7.1%, 0–1 seats</li><li>Change UK (RE): 0.1–0.6%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_ep_polls/2019-11-08-Opinium.html</id>
+    <link href="https://filipvanlaenen.github.io/british_ep_polls/2019-11-08-Opinium.html"/>
+    <title>Opinion Poll by Opinium for The Observer, 6–8 November 2019</title>
+    <updated>2020-01-02T12:42:10.045758+01:00</updated>
+    <dc:date>2020-01-02T12:42:10.045758+01:00</dc:date>
+  </entry>
+  <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party (ECR): 34.2–39.1%, 29–33 seats</li><li>Labour Party (S&amp;D): 26.5–31.1%, 21–25 seats</li><li>Liberal Democrats (RE): 14.1–17.8%, 8–13 seats</li><li>Scottish National Party (Greens/EFA): 1.4–2.8%, 1–2 seats</li><li>Plaid Cymru (Greens/EFA): 0.1–0.7%, 0 seats</li><li>UK Independence Party (ID): 0.1–0.7%, 0 seats</li><li>Green Party (Greens/EFA): 5.7–8.3%, 0–2 seats</li><li>Brexit Party (NI): 7.6–10.5%, 1–6 seats</li><li>Change UK (RE): 0.1–0.7%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/british_ep_polls/2019-11-08-BMGResearch.html</id>
     <link href="https://filipvanlaenen.github.io/british_ep_polls/2019-11-08-BMGResearch.html"/>
@@ -528,12 +536,28 @@
     <dc:date>2019-12-29T14:42:07.561819+01:00</dc:date>
   </entry>
   <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party (ECR): 31.1–36.9%, 24–30 seats</li><li>Labour Party (S&amp;D): 23.4–28.8%, 16–23 seats</li><li>Liberal Democrats (RE): 16.7–21.6%, 10–15 seats</li><li>Scottish National Party (Greens/EFA): 2.9–5.3%, 2–3 seats</li><li>Plaid Cymru (Greens/EFA): 0.5–1.8%, 0–2 seats</li><li>Green Party (Greens/EFA): 0.5–1.8%, 0 seats</li><li>Brexit Party (NI): 10.1–14.1%, 6–9 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_ep_polls/2019-10-30-Survation.html</id>
+    <link href="https://filipvanlaenen.github.io/british_ep_polls/2019-10-30-Survation.html"/>
+    <title>Opinion Poll by Survation, 29–30 October 2019</title>
+    <updated>2020-01-02T10:59:52.78948+01:00</updated>
+    <dc:date>2020-01-02T10:59:52.78948+01:00</dc:date>
+  </entry>
+  <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party (ECR): 37.8–43.9%, 31–38 seats</li><li>Labour Party (S&amp;D): 21.3–26.6%, 16–20 seats</li><li>Liberal Democrats (RE): 17.5–22.5%, 11–17 seats</li><li>Scottish National Party (Greens/EFA): 2.1–4.2%, 1–2 seats</li><li>Plaid Cymru (Greens/EFA): 0.5–1.8%, 0–2 seats</li><li>UK Independence Party (ID): 0.1–0.9%, 0 seats</li><li>Green Party (Greens/EFA): 2.1–4.2%, 0 seats</li><li>Brexit Party (NI): 5.5–8.7%, 0–2 seats</li><li>Change UK (RE): 0.1–0.9%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/british_ep_polls/2019-10-28-IpsosMORI.html</id>
     <link href="https://filipvanlaenen.github.io/british_ep_polls/2019-10-28-IpsosMORI.html"/>
     <title>Opinion Poll by Ipsos MORI, 25–28 October 2019</title>
     <updated>2019-12-30T18:04:59.794899+01:00</updated>
     <dc:date>2019-12-30T18:04:59.794899+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party (ECR): 33.6–38.2%, 28–32 seats</li><li>Labour Party (S&amp;D): 20.9–25.0%, 16–20 seats</li><li>Liberal Democrats (RE): 16.1–19.8%, 9–15 seats</li><li>Scottish National Party (Greens/EFA): 2.3–3.9%, 1–2 seats</li><li>Plaid Cymru (Greens/EFA): 0.6–1.6%, 0–2 seats</li><li>UK Independence Party (ID): 0.1–0.6%, 0 seats</li><li>Green Party (Greens/EFA): 4.9–7.2%, 0–2 seats</li><li>Brexit Party (NI): 10.5–13.6%, 6–10 seats</li><li>Change UK (RE): 0.1–0.6%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_ep_polls/2019-10-25-YouGov.html</id>
+    <link href="https://filipvanlaenen.github.io/british_ep_polls/2019-10-25-YouGov.html"/>
+    <title>Opinion Poll by YouGov, 24–25 October 2019</title>
+    <updated>2020-01-02T11:33:34.800669+01:00</updated>
+    <dc:date>2020-01-02T11:33:34.800669+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party (ECR): 38.0–42.4%, 32–36 seats</li><li>Labour Party (S&amp;D): 22.3–26.1%, 17–21 seats</li><li>Liberal Democrats (RE): 13.6–16.7%, 6–10 seats</li><li>Scottish National Party (Greens/EFA): 4.2–6.1%, 2–3 seats</li><li>Plaid Cymru (Greens/EFA): 0.1–0.6%, 0 seats</li><li>UK Independence Party (ID): 0.6–1.5%, 0 seats</li><li>Green Party (Greens/EFA): 2.3–3.9%, 0 seats</li><li>Brexit Party (NI): 8.8–11.4%, 3–7 seats</li><li>Change UK (RE): 0.1–0.6%, 0 seats</li></ul></div></content>
@@ -590,6 +614,14 @@
     <title>Opinion Poll by Kantar Public, 10–15 October 2019</title>
     <updated>2019-10-31T21:15:48.736603+01:00</updated>
     <dc:date>2019-10-31T21:15:48.736603+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party (ECR): 30.9–35.0%, 24–28 seats</li><li>Labour Party (S&amp;D): 25.1–28.9%, 21–23 seats</li><li>Liberal Democrats (RE): 16.3–19.7%, 10–13 seats</li><li>Scottish National Party (Greens/EFA): 3.2–5.0%, 2–3 seats</li><li>UK Independence Party (ID): 0.1–0.6%, 0 seats</li><li>Green Party (Greens/EFA): 3.2–5.0%, 0 seats</li><li>Brexit Party (NI): 10.6–13.5%, 6–8 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_ep_polls/2019-10-10-ComRes.html</id>
+    <link href="https://filipvanlaenen.github.io/british_ep_polls/2019-10-10-ComRes.html"/>
+    <title>Opinion Poll by ComRes for Daily Express, 9–10 October 2019</title>
+    <updated>2020-01-02T19:16:27.327313+01:00</updated>
+    <dc:date>2020-01-02T19:16:27.327313+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party (ECR): 32.2–36.8%, 25–31 seats</li><li>Labour Party (S&amp;D): 19.7–23.7%, 15–19 seats</li><li>Liberal Democrats (RE): 17.8–21.7%, 12–18 seats</li><li>Scottish National Party (Greens/EFA): 3.1–5.0%, 2–3 seats</li><li>Plaid Cymru (Greens/EFA): 0.6–1.6%, 0–2 seats</li><li>UK Independence Party (ID): 0.1–0.6%, 0 seats</li><li>Green Party (Greens/EFA): 4.9–7.2%, 0–2 seats</li><li>Brexit Party (NI): 10.3–13.5%, 6–9 seats</li><li>Change UK (RE): 0.6–1.6%, 0 seats</li></ul></div></content>
@@ -710,6 +742,14 @@
     <title>Opinion Poll by ComRes for Sunday Express, 12–15 September 2019</title>
     <updated>2019-09-26T15:21:38.458712+02:00</updated>
     <dc:date>2019-09-26T15:21:38.458712+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party (ECR): 29.6–34.0%, 24–29 seats</li><li>Labour Party (S&amp;D): 20.9–24.9%, 15–21 seats</li><li>Liberal Democrats (RE): 17.0–20.8%, 11–16 seats</li><li>Scottish National Party (Greens/EFA): 3.2–5.1%, 2–3 seats</li><li>Plaid Cymru (Greens/EFA): 0.1–0.6%, 0–1 seats</li><li>UK Independence Party (ID): 0.1–0.6%, 0 seats</li><li>Green Party (Greens/EFA): 5.8–8.2%, 0–2 seats</li><li>Brexit Party (NI): 12.3–15.7%, 8–10 seats</li><li>Change UK (RE): 0.1–0.6%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_ep_polls/2019-09-10-YouGov.html</id>
+    <link href="https://filipvanlaenen.github.io/british_ep_polls/2019-09-10-YouGov.html"/>
+    <title>Opinion Poll by YouGov for The Times, 9–10 September 2019</title>
+    <updated>2020-01-02T13:15:57.627563+01:00</updated>
+    <dc:date>2020-01-02T13:15:57.627563+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party (ECR): 35.3–40.9%, 29–35 seats</li><li>Labour Party (S&amp;D): 21.6–26.6%, 16–23 seats</li><li>Liberal Democrats (RE): 17.8–22.5%, 13–17 seats</li><li>Scottish National Party (Greens/EFA): 3.0–5.3%, 2–3 seats</li><li>Plaid Cymru (Greens/EFA): 0.5–1.7%, 1–2 seats</li><li>UK Independence Party (ID): 0.5–1.7%, 0 seats</li><li>Green Party (Greens/EFA): 2.1–4.1%, 0 seats</li><li>Brexit Party (NI): 5.7–8.6%, 0–2 seats</li><li>Change UK (RE): 0.5–1.7%, 0 seats</li></ul></div></content>
@@ -1111,5 +1151,5 @@
     <updated>2019-07-22T21:27:08.139393+02:00</updated>
     <dc:date>2019-07-22T21:27:08.139393+02:00</dc:date>
   </entry>
-  <dc:date>2020-01-01T19:48:53.194722+01:00</dc:date>
+  <dc:date>2020-01-02T19:16:27.327313+01:00</dc:date>
 </feed>
