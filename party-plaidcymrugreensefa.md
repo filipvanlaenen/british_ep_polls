@@ -261,7 +261,7 @@ Last result: **1** seats (General Election of 23 May 2019)
 | [7–8 November 2019](2019-11-08-YouGov.html) | YouGov <br> The Sunday Times and Sky News | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | [6–8 November 2019](2019-11-08-Survation.html) | Survation | 1 | 1 | 1 | 1 | 0–2 |
 | [6–8 November 2019](2019-11-08-Panelbase.html) | Panelbase |  |  |  |  |  |
-| [6–8 November 2019](2019-11-08-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 0–1 | 0–1 |
+| [6–8 November 2019](2019-11-08-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [5–8 November 2019](2019-11-08-BMGResearch.html) | BMG Research <br> The Independent | 0 | 0 | 0 | 0 | 0–1 |
 | [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times and Sky News | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | [30 October–5 November 2019](2019-11-05-ComRes.html) | ComRes <br> Remain United | 1 | 1 | 1 | 1 | 1 |
@@ -277,7 +277,7 @@ Last result: **1** seats (General Election of 23 May 2019)
 | [29–30 October 2019](2019-10-30-Survation.html) | Survation | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | [17–28 October 2019](2019-10-28-YouGov.html) | YouGov | 1 | 1 | 1 | 1 | 1 |
 | [25–28 October 2019](2019-10-28-IpsosMORI.html) | Ipsos MORI | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
-| [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0–1 |
 | [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 1 | 1 | 1–2 | 0–2 | 0–2 |
@@ -305,8 +305,8 @@ Last result: **1** seats (General Election of 23 May 2019)
 | [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express |  |  |  |  |  |
-| [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1–2 | 1–2 | 0–2 |
-| [9–10 September 2019](2019-09-10-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 0–2 | 0–2 |
+| [9–10 September 2019](2019-09-10-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0–1 | 0–1 |
 | [5–9 September 2019](2019-09-09-KantarPublic.html) | Kantar Public | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [6–8 September 2019](2019-09-08-ComRes.html) | ComRes <br> Daily Telegraph | 1 | 1 | 1 | 1 | 0–2 |
 | [5–7 September 2019](2019-09-07-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 1 | 1 | 1 | 0–2 | 0–2 |

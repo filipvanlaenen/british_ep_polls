@@ -298,7 +298,7 @@ Last result: **4** seats (General Election of 23 May 2019)
 | [7–8 November 2019](2019-11-08-YouGov.html) | YouGov <br> The Sunday Times and Sky News | 32 | 30–33 | 29–34 | 29–35 | 28–35 |
 | [6–8 November 2019](2019-11-08-Survation.html) | Survation | 28 | 26–30 | 26–30 | 26–30 | 25–31 |
 | [6–8 November 2019](2019-11-08-Panelbase.html) | Panelbase | 32 | 30–35 | 30–36 | 30–37 | 28–37 |
-| [6–8 November 2019](2019-11-08-Opinium.html) | Opinium <br> The Observer | 33 | 33–36 | 32–36 | 32–37 | 31–38 |
+| [6–8 November 2019](2019-11-08-Opinium.html) | Opinium <br> The Observer | 33 | 32–36 | 32–36 | 31–37 | 31–38 |
 | [5–8 November 2019](2019-11-08-BMGResearch.html) | BMG Research <br> The Independent | 32 | 30–33 | 30–33 | 29–33 | 28–35 |
 | [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times and Sky News | 28 | 27–32 | 27–32 | 27–32 | 27–33 |
 | [30 October–5 November 2019](2019-11-05-ComRes.html) | ComRes <br> Remain United | 30 | 27–30 | 27–30 | 27–30 | 27–30 |
@@ -311,10 +311,10 @@ Last result: **4** seats (General Election of 23 May 2019)
 | [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph | 30 | 28–31 | 28–32 | 27–32 | 27–33 |
 | [30–31 October 2019](2019-10-31-ComRes.html) | ComRes <br> Sunday Express | 30 | 29–30 | 28–31 | 28–32 | 26–32 |
 | [29–30 October 2019](2019-10-30-YouGov.html) | YouGov <br> The Times | 31 | 29–31 | 28–32 | 28–32 | 28–33 |
-| [29–30 October 2019](2019-10-30-Survation.html) | Survation | 26 | 24–29 | 24–30 | 24–30 | 23–32 |
+| [29–30 October 2019](2019-10-30-Survation.html) | Survation | 26 | 25–29 | 24–30 | 24–30 | 23–32 |
 | [17–28 October 2019](2019-10-28-YouGov.html) | YouGov | 29 | 29–31 | 29–32 | 29–32 | 29–32 |
 | [25–28 October 2019](2019-10-28-IpsosMORI.html) | Ipsos MORI | 34 | 33–36 | 33–37 | 31–38 | 30–39 |
-| [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 30 | 29–31 | 28–32 | 28–32 | 26–32 |
+| [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 30 | 29–32 | 28–32 | 28–32 | 26–33 |
 | [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 33 | 32–35 | 32–35 | 32–36 | 32–37 |
 | [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 31 | 29–32 | 28–32 | 27–32 | 26–33 |
 | [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 31 | 28–32 | 28–32 | 27–32 | 26–33 |
@@ -342,8 +342,8 @@ Last result: **4** seats (General Election of 23 May 2019)
 | [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 25 | 24–27 | 24–28 | 24–28 | 24–29 |
 | [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 26 | 24–29 | 24–30 | 24–30 | 24–31 |
 | [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express | 23 | 22–24 | 22–24 | 22–24 | 21–24 |
-| [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 32 | 30–32 | 29–32 | 28–32 | 27–33 |
-| [9–10 September 2019](2019-09-10-YouGov.html) | YouGov <br> The Times | 25 | 24–28 | 24–29 | 24–29 | 24–30 |
+| [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 31 | 30–32 | 28–32 | 28–33 | 27–33 |
+| [9–10 September 2019](2019-09-10-YouGov.html) | YouGov <br> The Times | 25 | 24–28 | 24–28 | 24–29 | 24–30 |
 | [5–9 September 2019](2019-09-09-KantarPublic.html) | Kantar Public | 34 | 30–35 | 30–35 | 29–35 | 29–36 |
 | [6–8 September 2019](2019-09-08-ComRes.html) | ComRes <br> Daily Telegraph | 25 | 22–25 | 22–26 | 22–27 | 22–28 |
 | [5–7 September 2019](2019-09-07-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 24 | 23–27 | 23–27 | 23–27 | 22–27 |
@@ -393,7 +393,7 @@ Last result: **4** seats (General Election of 23 May 2019)
 | [13–14 June 2019](2019-06-14-YouGov.html) | YouGov <br> The Sunday Times | 15 | 14–18 | 13–19 | 13–19 | 12–19 |
 | [9–10 June 2019](2019-06-10-YouGov.html) | YouGov <br> The Times | 10 | 10–12 | 10–12 | 10–13 | 10–13 |
 | [7–9 June 2019](2019-06-09-ComRes.html) | ComRes <br> Daily Telegraph | 17 | 16–19 | 15–20 | 15–21 | 14–22 |
-| [4–7 June 2019](2019-06-07-BMGResearch.html) | BMG Research <br> The Independent | 23 | 20–23 | 19–24 | 18–24 | 18–25 |
+| [4–7 June 2019](2019-06-07-BMGResearch.html) | BMG Research <br> The Independent | 23 | 19–24 | 18–24 | 18–24 | 17–25 |
 | [4–6 June 2019](2019-06-06-YouGov.html) | YouGov <br> The Times | 11 | 10–13 | 10–13 | 10–13 | 10–15 |
 | [28–30 May 2019](2019-05-30-Opinium.html) | Opinium <br> The Observer | 10 | 10–12 | 10–13 | 10–14 | 9–14 |
 | [29–30 May 2019](2019-05-30-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 15 | 12–16 | 12–16 | 12–16 | 11–17 |
