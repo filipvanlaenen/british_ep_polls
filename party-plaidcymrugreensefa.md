@@ -305,7 +305,7 @@ Last result: **1** seats (General Election of 23 May 2019)
 | [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express |  |  |  |  |  |
-| [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 0–2 | 0–2 |
+| [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | [9–10 September 2019](2019-09-10-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0–1 | 0–1 |
 | [5–9 September 2019](2019-09-09-KantarPublic.html) | Kantar Public | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [6–8 September 2019](2019-09-08-ComRes.html) | ComRes <br> Daily Telegraph | 1 | 1 | 1 | 1 | 0–2 |

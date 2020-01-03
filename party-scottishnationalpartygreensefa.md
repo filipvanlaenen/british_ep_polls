@@ -269,7 +269,7 @@ Last result: **3** seats (General Election of 23 May 2019)
 | [5–8 November 2019](2019-11-08-BMGResearch.html) | BMG Research <br> The Independent | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times and Sky News | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [30 October–5 November 2019](2019-11-05-ComRes.html) | ComRes <br> Remain United | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [1–4 November 2019](2019-11-04-ICMResearch.html) | ICM Research <br> Reuters | 2 | 2 | 2 | 2 | 1–2 |
 | [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [30 October–1 November 2019](2019-11-01-YouGov.html) | YouGov <br> The Sunday Times | 3 | 2–3 | 2–3 | 2–3 | 2–3 |

@@ -288,7 +288,7 @@ Last result: **10** seats (General Election of 23 May 2019)
 | [5–8 November 2019](2019-11-08-BMGResearch.html) | BMG Research <br> The Independent | 24 | 22–25 | 21–25 | 21–25 | 20–27 |
 | [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times and Sky News | 21 | 18–21 | 18–22 | 18–22 | 17–23 |
 | [30 October–5 November 2019](2019-11-05-ComRes.html) | ComRes <br> Remain United | 22 | 21–23 | 21–23 | 21–23 | 21–23 |
-| [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 18 | 18–20 | 18–20 | 18–21 | 17–21 |
+| [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 19 | 18–20 | 18–21 | 18–21 | 17–22 |
 | [1–4 November 2019](2019-11-04-ICMResearch.html) | ICM Research <br> Reuters | 25 | 25–26 | 25–27 | 24–28 | 23–28 |
 | [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 22 | 19–25 | 19–25 | 19–25 | 19–25 |
 | [30 October–1 November 2019](2019-11-01-YouGov.html) | YouGov <br> The Sunday Times | 21 | 19–25 | 19–26 | 19–26 | 18–26 |
@@ -328,7 +328,7 @@ Last result: **10** seats (General Election of 23 May 2019)
 | [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 15 | 15–16 | 15–17 | 15–17 | 15–19 |
 | [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 17 | 16–20 | 15–21 | 15–21 | 15–22 |
 | [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express | 22 | 20–23 | 20–24 | 19–24 | 19–24 |
-| [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 19 | 17–20 | 17–21 | 17–21 | 16–22 |
+| [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 19 | 17–21 | 17–21 | 17–21 | 16–22 |
 | [9–10 September 2019](2019-09-10-YouGov.html) | YouGov <br> The Times | 19 | 16–20 | 16–21 | 15–21 | 15–21 |
 | [5–9 September 2019](2019-09-09-KantarPublic.html) | Kantar Public | 19 | 17–22 | 16–23 | 16–23 | 15–23 |
 | [6–8 September 2019](2019-09-08-ComRes.html) | ComRes <br> Daily Telegraph | 24 | 22–25 | 22–25 | 21–26 | 20–27 |

@@ -302,7 +302,7 @@ Last result: **4** seats (General Election of 23 May 2019)
 | [5–8 November 2019](2019-11-08-BMGResearch.html) | BMG Research <br> The Independent | 32 | 30–33 | 30–33 | 29–33 | 28–35 |
 | [5–6 November 2019](2019-11-06-YouGov.html) | YouGov <br> The Times and Sky News | 28 | 27–32 | 27–32 | 27–32 | 27–33 |
 | [30 October–5 November 2019](2019-11-05-ComRes.html) | ComRes <br> Remain United | 30 | 27–30 | 27–30 | 27–30 | 27–30 |
-| [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 33 | 31–33 | 31–33 | 31–33 | 29–33 |
+| [1–4 November 2019](2019-11-04-YouGov.html) | YouGov <br> The Times | 33 | 31–33 | 30–33 | 30–33 | 29–33 |
 | [1–4 November 2019](2019-11-04-ICMResearch.html) | ICM Research <br> Reuters | 32 | 31–32 | 30–33 | 30–33 | 29–34 |
 | [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 32 | 30–34 | 30–35 | 30–35 | 29–36 |
 | [30 October–1 November 2019](2019-11-01-YouGov.html) | YouGov <br> The Sunday Times | 33 | 30–36 | 29–37 | 29–37 | 29–37 |
@@ -342,7 +342,7 @@ Last result: **4** seats (General Election of 23 May 2019)
 | [17–18 September 2019](2019-09-18-YouGov.html) | YouGov <br> The Times | 25 | 24–27 | 24–28 | 24–28 | 24–29 |
 | [13–16 September 2019](2019-09-16-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 26 | 24–29 | 24–30 | 24–30 | 24–31 |
 | [12–15 September 2019](2019-09-15-ComRes.html) | ComRes <br> Sunday Express | 23 | 22–24 | 22–24 | 22–24 | 21–24 |
-| [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 31 | 30–32 | 28–32 | 28–33 | 27–33 |
+| [11–13 September 2019](2019-09-13-Opinium.html) | Opinium <br> The Observer | 31 | 29–32 | 28–32 | 28–33 | 27–33 |
 | [9–10 September 2019](2019-09-10-YouGov.html) | YouGov <br> The Times | 25 | 24–28 | 24–28 | 24–29 | 24–30 |
 | [5–9 September 2019](2019-09-09-KantarPublic.html) | Kantar Public | 34 | 30–35 | 30–35 | 29–35 | 29–36 |
 | [6–8 September 2019](2019-09-08-ComRes.html) | ComRes <br> Daily Telegraph | 25 | 22–25 | 22–26 | 22–27 | 22–28 |
