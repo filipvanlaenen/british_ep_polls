@@ -279,7 +279,7 @@ Last result: **16** seats (General Election of 23 May 2019)
 | [1–4 November 2019](2019-11-04-ICMResearch.html) | ICM Research <br> Reuters | 8 | 7–8 | 6–9 | 6–9 | 6–10 |
 | [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 6 | 5–8 | 5–8 | 5–8 | 5–10 |
 | [30 October–1 November 2019](2019-11-01-YouGov.html) | YouGov <br> The Sunday Times | 10 | 8–13 | 8–13 | 8–13 | 8–13 |
-| [30 October–1 November 2019](2019-11-01-Opinium.html) | Opinium <br> The Observer | 9 | 8–10 | 7–11 | 6–12 | 6–12 |
+| [30 October–1 November 2019](2019-11-01-Opinium.html) | Opinium <br> The Observer | 9 | 8–10 | 8–11 | 8–12 | 6–12 |
 | [30–31 October 2019](2019-10-31-Panelbase.html) | Panelbase | 6 | 6–8 | 6–9 | 6–9 | 5–10 |
 | [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph | 8 | 6–8 | 6–9 | 6–9 | 5–10 |
 | [30–31 October 2019](2019-10-31-ComRes.html) | ComRes <br> Sunday Express | 10 | 9–11 | 9–12 | 8–12 | 8–13 |
@@ -320,7 +320,7 @@ Last result: **16** seats (General Election of 23 May 2019)
 | [5–9 September 2019](2019-09-09-KantarPublic.html) | Kantar Public | 13 | 13–16 | 13–16 | 13–17 | 11–17 |
 | [6–8 September 2019](2019-09-08-ComRes.html) | ComRes <br> Daily Telegraph | 11 | 9–13 | 9–14 | 9–14 | 7–14 |
 | [5–7 September 2019](2019-09-07-Deltapoll.html) | Deltapoll <br> The Sun on Sunday | 12 | 9–13 | 9–13 | 9–13 | 9–13 |
-| [5–6 September 2019](2019-09-06-YouGov.html) | YouGov <br> The Sunday Times | 14 | 11–15 | 11–15 | 10–16 | 9–16 |
+| [5–6 September 2019](2019-09-06-YouGov.html) | YouGov <br> The Sunday Times | 15 | 12–16 | 11–16 | 10–16 | 9–18 |
 | [5–6 September 2019](2019-09-06-Survation.html) | Survation <br> Daily Mail | 13 | 11–14 | 10–14 | 10–14 | 9–15 |
 | [5–6 September 2019](2019-09-06-Panelbase.html) | Panelbase | 13 | 13–14 | 12–14 | 11–15 | 9–15 |
 | [4–6 September 2019](2019-09-06-Opinium.html) | Opinium <br> The Observer | 11 | 9–12 | 9–13 | 8–13 | 8–14 |
