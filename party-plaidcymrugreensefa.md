@@ -279,7 +279,7 @@ Last result: **1** seats (General Election of 23 May 2019)
 | [25–28 October 2019](2019-10-28-IpsosMORI.html) | Ipsos MORI | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 0 | 0 | 0 | 0 | 0–1 |
-| [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| [20–21 October 2019](2019-10-21-YouGov.html) | YouGov <br> The Times | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | [17–18 October 2019](2019-10-18-Survation.html) | Survation <br> Daily Mail | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 0 | 0 | 0–1 | 0–1 | 0–1 |
