@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/british_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 04 Jan 2020 00:01:22 +0100</pubDate>
+    <pubDate>Tue, 07 Jan 2020 20:15:09 +0100</pubDate>
     <item>
       <title>Opinion Poll by Survation, 10–11 December 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/british_ep_polls/2019-12-11-Survation.html#seats</link>
@@ -2254,10 +2254,10 @@
       <link>https://filipvanlaenen.github.io/british_ep_polls/2019-10-21-YouGov.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Conservative Party (ECR): 34.2–38.8%&lt;/li&gt;&lt;li&gt;Labour Party (S&amp;amp;D): 19.8–23.7%&lt;/li&gt;&lt;li&gt;Liberal Democrats (RE): 16.9–20.7%&lt;/li&gt;&lt;li&gt;Scottish National Party (Greens/EFA): 2.2–3.9%&lt;/li&gt;&lt;li&gt;Plaid Cymru (Greens/EFA): 0.6–1.6%&lt;/li&gt;&lt;li&gt;UK Independence Party (ID): 0.6–1.6%&lt;/li&gt;&lt;li&gt;Green Party (Greens/EFA): 5.7–8.2%&lt;/li&gt;&lt;li&gt;Brexit Party (NI): 9.4–12.4%&lt;/li&gt;&lt;li&gt;Change UK (RE): 0.1–0.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/british_ep_polls/2019-10-21-YouGov.png"
-        length="252429"
+        length="252500"
         type="image/png"/>
-      <pubDate>Thu, 24 Oct 2019 17:54:32 +0200</pubDate>
-      <dc:date>2019-10-24T17:54:32.959238+02:00</dc:date>
+      <pubDate>Tue, 07 Jan 2020 20:15:09 +0100</pubDate>
+      <dc:date>2020-01-07T20:15:09.992708+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Deltapoll, 18–21 October 2019 – Seat Projections for the Parties</title>
@@ -4569,6 +4569,6 @@
       <pubDate>Mon, 22 Jul 2019 21:27:08 +0200</pubDate>
       <dc:date>2019-07-22T21:27:08.139393+02:00</dc:date>
     </item>
-    <dc:date>2020-01-04T00:01:22.797538+01:00</dc:date>
+    <dc:date>2020-01-07T20:15:09.992708+01:00</dc:date>
   </channel>
 </rss>
