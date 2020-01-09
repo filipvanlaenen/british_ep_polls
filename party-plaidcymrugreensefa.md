@@ -269,7 +269,7 @@ Last result: **1** seats (General Election of 23 May 2019)
 | [1–4 November 2019](2019-11-04-ICMResearch.html) | ICM Research <br> Reuters | 0 | 0 | 0 | 0 | 0 |
 | [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [30 October–1 November 2019](2019-11-01-YouGov.html) | YouGov <br> The Sunday Times | 1 | 1 | 1–2 | 0–2 | 0–2 |
-| [30 October–1 November 2019](2019-11-01-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 0–1 | 0–2 |
+| [30 October–1 November 2019](2019-11-01-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1 | 0–2 |
 | [30–31 October 2019](2019-10-31-Panelbase.html) | Panelbase | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph | 0 | 0 | 0 | 0 | 0–1 |
 | [30–31 October 2019](2019-10-31-ComRes.html) | ComRes <br> Sunday Express | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -283,7 +283,7 @@ Last result: **1** seats (General Election of 23 May 2019)
 | [18–21 October 2019](2019-10-21-Deltapoll.html) | Deltapoll | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | [17–18 October 2019](2019-10-18-Survation.html) | Survation <br> Daily Mail | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | [17–18 October 2019](2019-10-18-Panelbase.html) | Panelbase | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [15–17 October 2019](2019-10-17-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1 | 1–2 | 1–2 |
+| [15–17 October 2019](2019-10-17-Opinium.html) | Opinium <br> The Observer | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | [16–17 October 2019](2019-10-17-ComRes.html) | ComRes <br> Britain Elects | 1 | 1 | 1 | 1 | 0–2 |
 | [14–15 October 2019](2019-10-15-YouGov.html) | YouGov <br> The Times | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | [10–15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
