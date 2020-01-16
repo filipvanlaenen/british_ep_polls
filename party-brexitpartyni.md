@@ -285,7 +285,7 @@ Last result: **29** seats (General Election of 23 May 2019)
 | [7–11 November 2019](2019-11-11-KantarPublic.html) | Kantar Public | 5 | 2–6 | 1–6 | 1–6 | 1–7 |
 | [8–11 November 2019](2019-11-11-ICMResearch.html) | ICM Research | 2 | 1–3 | 1–3 | 1–3 | 0–5 |
 | [8–10 November 2019](2019-11-10-ComRes.html) | ComRes <br> Britain Elects | 3 | 2–5 | 1–5 | 1–6 | 1–6 |
-| [6–9 November 2019](2019-11-09-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [6–9 November 2019](2019-11-09-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [7–8 November 2019](2019-11-08-YouGov.html) | YouGov <br> The Sunday Times and Sky News | 5 | 4–6 | 3–6 | 3–7 | 1–7 |
 | [6–8 November 2019](2019-11-08-Survation.html) | Survation | 6 | 3–6 | 3–6 | 3–6 | 2–7 |
 | [6–8 November 2019](2019-11-08-Panelbase.html) | Panelbase | 2 | 1–3 | 1–3 | 0–5 | 0–5 |

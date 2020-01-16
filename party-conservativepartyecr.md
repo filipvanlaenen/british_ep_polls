@@ -307,7 +307,7 @@ Last result: **4** seats (General Election of 23 May 2019)
 | [31 October–2 November 2019](2019-11-02-Deltapoll.html) | Deltapoll <br> The Mail on Sunday | 32 | 31–34 | 30–35 | 30–35 | 29–36 |
 | [30 October–1 November 2019](2019-11-01-YouGov.html) | YouGov <br> The Sunday Times | 33 | 30–36 | 29–37 | 29–37 | 29–37 |
 | [30 October–1 November 2019](2019-11-01-Opinium.html) | Opinium <br> The Observer | 35 | 33–36 | 33–37 | 32–37 | 31–38 |
-| [30–31 October 2019](2019-10-31-Panelbase.html) | Panelbase | 32 | 31–35 | 31–36 | 30–36 | 29–37 |
+| [30–31 October 2019](2019-10-31-Panelbase.html) | Panelbase | 32 | 31–35 | 31–36 | 30–37 | 29–37 |
 | [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph | 30 | 28–31 | 28–32 | 27–32 | 27–33 |
 | [30–31 October 2019](2019-10-31-ComRes.html) | ComRes <br> Sunday Express | 30 | 29–30 | 28–31 | 28–32 | 26–32 |
 | [29–30 October 2019](2019-10-30-YouGov.html) | YouGov <br> The Times | 31 | 29–31 | 28–32 | 28–32 | 28–33 |
