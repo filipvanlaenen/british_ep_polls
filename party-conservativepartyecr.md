@@ -10,14 +10,15 @@ Last result: **8.8%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 43.4% | 40.9–45.4% | 40.3–46.0% | 39.8–46.4% | 38.8–47.1% |
+| N/A | [Poll Average](average.html) | 44.3% | 42.6–46.0% | 42.2–46.4% | 41.9–46.7% | 41.2–47.4% |
+| [8–10 January 2020](2020-01-10-BMGResearch.html) | BMG Research <br> The Independent | 44.7% | N/A | N/A | N/A | N/A |
 | [10–11 December 2019](2019-12-11-Survation.html) | Survation | 45.0% | 43.7–46.3% | 43.3–46.7% | 43.0–47.0% | 42.4–47.6% |
 | [10–11 December 2019](2019-12-11-Panelbase.html) | Panelbase | 43.0% | 41.9–44.1% | 41.6–44.5% | 41.3–44.7% | 40.8–45.3% |
 | [10–11 December 2019](2019-12-11-Opinium.html) | Opinium | 45.3% | 44.2–46.5% | 43.8–46.8% | 43.5–47.1% | 43.0–47.7% |
 | [9–11 December 2019](2019-12-11-KantarPublic.html) | Kantar Public | 43.9% | 42.7–45.1% | 42.4–45.5% | 42.1–45.8% | 41.5–46.3% |
-| [9–11 December 2019](2019-12-11-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 44.0% | 42.7–45.4% | 42.3–45.8% | 41.9–46.1% | 41.3–46.7% |
+| [9–11 December 2019](2019-12-11-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 44.0% | N/A | N/A | N/A | N/A |
 | [9–11 December 2019](2019-12-11-Deltapoll.html) | Deltapoll | 44.3% | 42.8–45.8% | 42.4–46.3% | 42.1–46.6% | 41.4–47.4% |
-| [6–11 December 2019](2019-12-11-BMGResearch.html) | BMG Research | 41.0% | 39.5–42.6% | 39.0–43.0% | 38.7–43.4% | 37.9–44.2% |
+| [6–11 December 2019](2019-12-11-BMGResearch.html) | BMG Research | 41.0% | N/A | N/A | N/A | N/A |
 | [8–10 December 2019](2019-12-10-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 43.0% | 41.0–45.0% | 40.5–45.6% | 40.0–46.1% | 39.0–47.1% |
 | [9–10 December 2019](2019-12-10-ComRes.html) | ComRes <br> Daily Telegraph | 41.0% | 39.6–42.4% | 39.2–42.8% | 38.9–43.1% | 38.2–43.8% |
 | [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 42.2% | 40.8–43.7% | 40.4–44.0% | 40.1–44.4% | 39.4–45.1% |
@@ -211,17 +212,17 @@ The following table shows the probability mass function per percentage block of 
 | 34.5–35.5% | 0% | 100% |  |
 | 35.5–36.5% | 0% | 100% |  |
 | 36.5–37.5% | 0% | 100% |  |
-| 37.5–38.5% | 0.2% | 100% |  |
-| 38.5–39.5% | 2% | 99.7% |  |
-| 39.5–40.5% | 5% | 98% |  |
-| 40.5–41.5% | 10% | 93% |  |
-| 41.5–42.5% | 16% | 83% |  |
-| 42.5–43.5% | 21% | 67% | Median |
-| 43.5–44.5% | 22% | 46% |  |
-| 44.5–45.5% | 16% | 24% |  |
-| 45.5–46.5% | 7% | 9% |  |
-| 46.5–47.5% | 2% | 2% |  |
-| 47.5–48.5% | 0.2% | 0.2% |  |
+| 37.5–38.5% | 0% | 100% |  |
+| 38.5–39.5% | 0% | 100% |  |
+| 39.5–40.5% | 0.1% | 100% |  |
+| 40.5–41.5% | 1.2% | 99.9% |  |
+| 41.5–42.5% | 8% | 98.8% |  |
+| 42.5–43.5% | 20% | 91% |  |
+| 43.5–44.5% | 28% | 72% | Median |
+| 44.5–45.5% | 26% | 44% |  |
+| 45.5–46.5% | 14% | 18% |  |
+| 46.5–47.5% | 3% | 4% |  |
+| 47.5–48.5% | 0.3% | 0.3% |  |
 | 48.5–49.5% | 0% | 0% |  |
 
 
@@ -233,14 +234,15 @@ Last result: **4** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 36 | 34–37 | 33–38 | 33–38 | 32–38 |
+| N/A | [Poll Average](average.html) | 37 | 36–37 | 36–38 | 36–38 | 35–38 |
+| [8–10 January 2020](2020-01-10-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
 | [10–11 December 2019](2019-12-11-Survation.html) | Survation | 37 | 36–37 | 36–38 | 36–38 | 36–38 |
 | [10–11 December 2019](2019-12-11-Panelbase.html) | Panelbase | 36 | 36–37 | 36–37 | 36–37 | 35–38 |
 | [10–11 December 2019](2019-12-11-Opinium.html) | Opinium | 36 | 36–38 | 36–38 | 36–38 | 36–38 |
 | [9–11 December 2019](2019-12-11-KantarPublic.html) | Kantar Public | 37 | 36–37 | 36–37 | 36–37 | 35–37 |
-| [9–11 December 2019](2019-12-11-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 35 | 35–36 | 35–37 | 35–37 | 35–37 |
+| [9–11 December 2019](2019-12-11-IpsosMORI.html) | Ipsos MORI <br> Evening Standard |  |  |  |  |  |
 | [9–11 December 2019](2019-12-11-Deltapoll.html) | Deltapoll | 37 | 37–38 | 36–38 | 36–38 | 35–38 |
-| [6–11 December 2019](2019-12-11-BMGResearch.html) | BMG Research | 35 | 33–35 | 33–36 | 32–36 | 31–36 |
+| [6–11 December 2019](2019-12-11-BMGResearch.html) | BMG Research |  |  |  |  |  |
 | [8–10 December 2019](2019-12-10-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 35 | 34–37 | 34–37 | 33–38 | 32–39 |
 | [9–10 December 2019](2019-12-10-ComRes.html) | ComRes <br> Daily Telegraph | 34 | 32–35 | 32–35 | 31–35 | 31–36 |
 | [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 36 | 34–36 | 33–37 | 33–37 | 32–37 |
@@ -309,10 +311,10 @@ Last result: **4** seats (General Election of 23 May 2019)
 | [30 October–1 November 2019](2019-11-01-Opinium.html) | Opinium <br> The Observer | 35 | 33–36 | 33–37 | 32–37 | 31–38 |
 | [30–31 October 2019](2019-10-31-Panelbase.html) | Panelbase | 32 | 31–35 | 31–36 | 30–37 | 29–37 |
 | [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph | 30 | 28–31 | 28–32 | 27–32 | 27–33 |
-| [30–31 October 2019](2019-10-31-ComRes.html) | ComRes <br> Sunday Express | 30 | 29–30 | 28–31 | 28–32 | 26–32 |
-| [29–30 October 2019](2019-10-30-YouGov.html) | YouGov <br> The Times | 31 | 29–31 | 28–32 | 28–32 | 28–33 |
+| [30–31 October 2019](2019-10-31-ComRes.html) | ComRes <br> Sunday Express | 30 | 28–31 | 27–32 | 27–32 | 25–33 |
+| [29–30 October 2019](2019-10-30-YouGov.html) | YouGov <br> The Times | 31 | 29–32 | 28–32 | 28–32 | 27–33 |
 | [29–30 October 2019](2019-10-30-Survation.html) | Survation | 26 | 25–29 | 24–30 | 24–30 | 23–32 |
-| [17–28 October 2019](2019-10-28-YouGov.html) | YouGov | 29 | 29–31 | 29–32 | 29–32 | 29–32 |
+| [17–28 October 2019](2019-10-28-YouGov.html) | YouGov | 30 | 29–31 | 29–31 | 29–31 | 29–32 |
 | [25–28 October 2019](2019-10-28-IpsosMORI.html) | Ipsos MORI | 34 | 33–36 | 33–37 | 31–38 | 30–39 |
 | [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 30 | 29–32 | 28–32 | 28–32 | 26–33 |
 | [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 33 | 32–35 | 32–35 | 32–36 | 32–37 |
@@ -327,7 +329,7 @@ Last result: **4** seats (General Election of 23 May 2019)
 | [9–11 October 2019](2019-10-11-Panelbase.html) | Panelbase <br> The Sunday Times | 26 | 24–28 | 23–28 | 23–28 | 22–29 |
 | [9–10 October 2019](2019-10-10-ComRes.html) | ComRes <br> Daily Express | 26 | 25–27 | 24–28 | 24–28 | 23–29 |
 | [8–9 October 2019](2019-10-09-YouGov.html) | YouGov <br> The Times | 29 | 27–31 | 26–31 | 25–31 | 24–32 |
-| [4–6 October 2019](2019-10-06-ComRes.html) | ComRes <br> Daily Telegraph | 24 | 24–26 | 24–27 | 24–27 | 23–28 |
+| [4–6 October 2019](2019-10-06-ComRes.html) | ComRes <br> Daily Telegraph | 25 | 24–27 | 24–27 | 24–27 | 23–28 |
 | [3–4 October 2019](2019-10-04-Opinium.html) | Opinium <br> The Observer | 33 | 32–33 | 31–34 | 31–35 | 30–35 |
 | [1–4 October 2019](2019-10-04-BMGResearch.html) | BMG Research <br> The Independent | 24 | 24–26 | 23–26 | 23–27 | 23–28 |
 | [30 September–1 October 2019](2019-10-01-YouGov.html) | YouGov <br> The Times | 27 | 26–30 | 25–30 | 25–30 | 24–30 |
@@ -434,16 +436,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 28 | 0% | 100% |  |
 | 29 | 0% | 100% |  |
 | 30 | 0% | 100% |  |
-| 31 | 0.4% | 100% |  |
-| 32 | 2% | 99.6% |  |
-| 33 | 4% | 98% |  |
-| 34 | 5% | 93% |  |
-| 35 | 19% | 88% |  |
-| 36 | 34% | 69% | Median, Majority |
-| 37 | 30% | 35% |  |
-| 38 | 5% | 5% |  |
-| 39 | 0.4% | 0.5% |  |
-| 40 | 0.1% | 0.1% |  |
-| 41 | 0% | 0% |  |
+| 31 | 0% | 100% |  |
+| 32 | 0% | 100% |  |
+| 33 | 0% | 100% |  |
+| 34 | 0.1% | 100% |  |
+| 35 | 0.6% | 99.9% |  |
+| 36 | 40% | 99.3% | Majority |
+| 37 | 51% | 59% | Median |
+| 38 | 8% | 8% |  |
+| 39 | 0.2% | 0.2% |  |
+| 40 | 0% | 0% |  |
 
 

@@ -10,7 +10,8 @@ Last result: **3.5%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.9% | 2.5–4.5% | 2.0–4.7% | 1.9–4.9% | 1.6–5.3% |
+| N/A | [Poll Average](average.html) | 4.0% | 3.5–4.5% | 3.4–4.7% | 3.3–4.8% | 3.1–5.1% |
+| [8–10 January 2020](2020-01-10-BMGResearch.html) | BMG Research <br> The Independent | 3.1% | N/A | N/A | N/A | N/A |
 | [10–11 December 2019](2019-12-11-Survation.html) | Survation | 4.0% | 3.5–4.6% | 3.4–4.7% | 3.3–4.9% | 3.1–5.2% |
 | [10–11 December 2019](2019-12-11-Panelbase.html) | Panelbase | 4.0% | 3.6–4.5% | 3.5–4.6% | 3.4–4.8% | 3.2–5.0% |
 | [10–11 December 2019](2019-12-11-Opinium.html) | Opinium | 4.0% | 3.6–4.5% | 3.5–4.7% | 3.4–4.8% | 3.2–5.0% |
@@ -182,14 +183,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 0.3% | 100% |  |
-| 1.5–2.5% | 10% | 99.7% |  |
-| 2.5–3.5% | 19% | 90% |  |
-| 3.5–4.5% | 62% | 71% | Last Result, Median |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 10% | 100% |  |
+| 3.5–4.5% | 80% | 90% | Last Result, Median |
 | 4.5–5.5% | 9% | 9% |  |
-| 5.5–6.5% | 0.2% | 0.2% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -200,7 +198,8 @@ Last result: **3** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2 | 2 |
+| [8–10 January 2020](2020-01-10-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
 | [10–11 December 2019](2019-12-11-Survation.html) | Survation | 2 | 2 | 2 | 2 | 2 |
 | [10–11 December 2019](2019-12-11-Panelbase.html) | Panelbase | 2 | 2 | 2 | 2 | 2 |
 | [10–11 December 2019](2019-12-11-Opinium.html) | Opinium | 2 | 2 | 2 | 2 | 2 |
@@ -276,10 +275,10 @@ Last result: **3** seats (General Election of 23 May 2019)
 | [30 October–1 November 2019](2019-11-01-Opinium.html) | Opinium <br> The Observer | 2 | 2 | 2 | 2–3 | 2–3 |
 | [30–31 October 2019](2019-10-31-Panelbase.html) | Panelbase | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [30–31 October 2019](2019-10-31-ORB.html) | ORB <br> The Telegraph | 3 | 3 | 2–3 | 2–3 | 2–3 |
-| [30–31 October 2019](2019-10-31-ComRes.html) | ComRes <br> Sunday Express | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| [30–31 October 2019](2019-10-31-ComRes.html) | ComRes <br> Sunday Express | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [29–30 October 2019](2019-10-30-YouGov.html) | YouGov <br> The Times | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [29–30 October 2019](2019-10-30-Survation.html) | Survation | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [17–28 October 2019](2019-10-28-YouGov.html) | YouGov | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [17–28 October 2019](2019-10-28-YouGov.html) | YouGov | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [25–28 October 2019](2019-10-28-IpsosMORI.html) | Ipsos MORI | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [24–25 October 2019](2019-10-25-YouGov.html) | YouGov | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | [23–25 October 2019](2019-10-25-Opinium.html) | Opinium <br> The Observer | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -374,9 +373,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 10% | 100% |  |
-| 2 | 88% | 90% | Median |
-| 3 | 1.1% | 1.1% | Last Result |
+| 2 | 99.7% | 100% | Median |
+| 3 | 0.2% | 0.2% | Last Result |
 | 4 | 0% | 0% |  |
 
 
