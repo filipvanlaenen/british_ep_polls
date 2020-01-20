@@ -5,14 +5,14 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | BREXIT | LIBDEM | LAB | GREEN | CON | SNP | PC | ChUK | UKIP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 23 May 2019 | General Election | 30.5% <br> 29 | 19.6% <br> 16 | 13.7% <br> 10 | 11.8% <br> 7 | 8.8% <br> 4 | 3.5% <br> 3 | 1.0% <br> 1 | 3.3% <br> 0 | 3.2% <br> 0 |
-| [8–10 January 2020](2020-01-10-BMGResearch.html) | BMG Research <br> The Independent | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [8–10 January 2020](2020-01-10-BMGResearch.html) | BMG Research <br> The Independent | 3–5% <br> 0 | 10–13% <br> 4–6 | 27–32% <br> 23–27 | 4–6% <br> 0 | 42–47% <br> 36–40 | 2–4% <br> 1–2 | 0–1% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
 | [10–11 December 2019](2019-12-11-Survation.html) | Survation | 2–4% <br> 0 | 8–10% <br> 2–4 | 32–36% <br> 26–28 | 2–4% <br> 0 | 43–47% <br> 36–38 | 3–5% <br> 2 | 1% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
 | [10–11 December 2019](2019-12-11-Panelbase.html) | Panelbase | 3–5% <br> 0 | 10–12% <br> 4–5 | 32–36% <br> 26–27 | 2–4% <br> 0 | 41–45% <br> 36–37 | 3–5% <br> 2 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | [10–11 December 2019](2019-12-11-Opinium.html) | Opinium | 2–3% <br> 0 | 11–13% <br> 4–6 | 32–35% <br> 25–27 | 2–3% <br> 0 | 44–47% <br> 36–38 | 3–5% <br> 2 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | [9–11 December 2019](2019-12-11-KantarPublic.html) | Kantar Public | 2–4% <br> 0 | 12–14% <br> 5–6 | 30–34% <br> 25–27 | 2–4% <br> 0 | 42–46% <br> 36–37 | 3–5% <br> 2 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A |
-| [9–11 December 2019](2019-12-11-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [9–11 December 2019](2019-12-11-IpsosMORI.html) | Ipsos MORI <br> Evening Standard | 1–3% <br> 0 | 11–13% <br> 4–6 | 31–35% <br> 25–27 | 2–4% <br> 0 | 42–46% <br> 35–37 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [9–11 December 2019](2019-12-11-Deltapoll.html) | Deltapoll | 3–5% <br> 0 | 9–11% <br> 2–5 | 32–37% <br> 26–28 | 2–4% <br> 0 | 42–47% <br> 36–38 | 3–5% <br> 2 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A |
-| [6–11 December 2019](2019-12-11-BMGResearch.html) | BMG Research | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [6–11 December 2019](2019-12-11-BMGResearch.html) | BMG Research | 3–5% <br> 0 | 12–16% <br> 6–8 | 30–34% <br> 25–27 | 2–4% <br> 0 | 39–43% <br> 32–36 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [8–10 December 2019](2019-12-10-NumberCruncherPolitics.html) | Number Cruncher Politics <br> Bloomberg | 2–4% <br> 0 | 10–14% <br> 4–6 | 30–36% <br> 24–28 | 2–4% <br> 0 | 40–46% <br> 33–38 | 3–5% <br> 2–3 | 1–2% <br> 0–2 | N/A <br> N/A | N/A <br> N/A |
 | [9–10 December 2019](2019-12-10-ComRes.html) | ComRes <br> Daily Telegraph | 2–4% <br> 0 | 11–13% <br> 5–6 | 34–38% <br> 26–30 | 1–3% <br> 0 | 39–43% <br> 31–35 | 3–5% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [6–9 December 2019](2019-12-09-ICMResearch.html) | ICM Research | 2–4% <br> 0 | 11–14% <br> 4–6 | 34–38% <br> 26–30 | 1–3% <br> 0 | 40–44% <br> 33–37 | 2–4% <br> 1–2 | 0–1% <br> 0 | N/A <br> N/A | 0–1% <br> 0 |
