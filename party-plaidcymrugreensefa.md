@@ -11,7 +11,7 @@ Last result: **1.0%** (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.3% | 0.2–1.0% | 0.1–1.2% | 0.1–1.3% | 0.1–1.5% |
-| [8–10 January 2020](2020-01-10-BMGResearch.html) | BMG Research <br> The Independent | 0.5% | N/A | N/A | N/A | N/A |
+| [8–10 January 2020](2020-01-10-BMGResearch.html) | BMG Research <br> The Independent | 0.5% | 0.4–0.9% | 0.3–1.0% | 0.3–1.1% | 0.2–1.2% |
 | [10–11 December 2019](2019-12-11-Survation.html) | Survation | 1.0% | 0.8–1.3% | 0.7–1.4% | 0.7–1.5% | 0.6–1.7% |
 | [10–11 December 2019](2019-12-11-Panelbase.html) | Panelbase | 0.3% | 0.2–0.4% | 0.1–0.5% | 0.1–0.5% | 0.1–0.6% |
 | [10–11 December 2019](2019-12-11-Opinium.html) | Opinium | 0.3% | 0.2–0.4% | 0.2–0.5% | 0.1–0.5% | 0.1–0.6% |
@@ -183,9 +183,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 79% | 100% | Median |
-| 0.5–1.5% | 21% | 21% | Last Result |
-| 1.5–2.5% | 0.3% | 0.3% |  |
+| 0.0–0.5% | 73% | 100% | Median |
+| 0.5–1.5% | 27% | 27% | Last Result |
+| 1.5–2.5% | 0.2% | 0.2% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -198,7 +198,7 @@ Last result: **1** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [8–10 January 2020](2020-01-10-BMGResearch.html) | BMG Research <br> The Independent |  |  |  |  |  |
+| [8–10 January 2020](2020-01-10-BMGResearch.html) | BMG Research <br> The Independent | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–11 December 2019](2019-12-11-Survation.html) | Survation | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–11 December 2019](2019-12-11-Panelbase.html) | Panelbase | 0 | 0 | 0 | 0 | 0 |
 | [10–11 December 2019](2019-12-11-Opinium.html) | Opinium | 0 | 0 | 0 | 0 | 0 |
@@ -372,8 +372,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 82% | 100% | Median |
-| 1 | 18% | 18% | Last Result |
+| 0 | 83% | 100% | Median |
+| 1 | 17% | 17% | Last Result |
 | 2 | 0% | 0% |  |
 
 
