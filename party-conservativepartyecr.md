@@ -10,7 +10,8 @@ Last result: **8.8%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 44.3% | 42.7–46.0% | 42.3–46.4% | 41.9–46.8% | 41.2–47.5% |
+| N/A | [Poll Average](average.html) | 44.1% | 42.5–45.9% | 42.1–46.3% | 41.8–46.8% | 41.1–47.5% |
+| [15–17 January 2020](2020-01-17-Opinium.html) | Opinium | 46.9% | N/A | N/A | N/A | N/A |
 | [8–10 January 2020](2020-01-10-BMGResearch.html) | BMG Research <br> The Independent | 44.7% | 43.1–46.3% | 42.6–46.8% | 42.2–47.2% | 41.4–48.0% |
 | [10–11 December 2019](2019-12-11-Survation.html) | Survation | 45.0% | 43.7–46.3% | 43.3–46.7% | 43.0–47.0% | 42.4–47.6% |
 | [10–11 December 2019](2019-12-11-Panelbase.html) | Panelbase | 43.0% | 41.9–44.1% | 41.6–44.5% | 41.3–44.7% | 40.8–45.3% |
@@ -215,14 +216,14 @@ The following table shows the probability mass function per percentage block of 
 | 37.5–38.5% | 0% | 100% |  |
 | 38.5–39.5% | 0% | 100% |  |
 | 39.5–40.5% | 0.1% | 100% |  |
-| 40.5–41.5% | 1.1% | 99.9% |  |
-| 41.5–42.5% | 7% | 98.9% |  |
-| 42.5–43.5% | 19% | 92% |  |
-| 43.5–44.5% | 29% | 72% | Median |
-| 44.5–45.5% | 26% | 44% |  |
-| 45.5–46.5% | 13% | 17% |  |
+| 40.5–41.5% | 1.4% | 99.9% |  |
+| 41.5–42.5% | 9% | 98% |  |
+| 42.5–43.5% | 23% | 89% |  |
+| 43.5–44.5% | 29% | 67% | Median |
+| 44.5–45.5% | 23% | 38% |  |
+| 45.5–46.5% | 11% | 15% |  |
 | 46.5–47.5% | 3% | 4% |  |
-| 47.5–48.5% | 0.4% | 0.4% |  |
+| 47.5–48.5% | 0.4% | 0.5% |  |
 | 48.5–49.5% | 0% | 0% |  |
 
 
@@ -234,7 +235,8 @@ Last result: **4** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 37 | 36–38 | 35–39 | 35–39 | 35–40 |
+| N/A | [Poll Average](average.html) | 37 | 36–38 | 36–39 | 36–39 | 35–40 |
+| [15–17 January 2020](2020-01-17-Opinium.html) | Opinium |  |  |  |  |  |
 | [8–10 January 2020](2020-01-10-BMGResearch.html) | BMG Research <br> The Independent | 38 | 37–39 | 36–40 | 36–40 | 35–41 |
 | [10–11 December 2019](2019-12-11-Survation.html) | Survation | 37 | 36–37 | 36–38 | 36–38 | 36–38 |
 | [10–11 December 2019](2019-12-11-Panelbase.html) | Panelbase | 36 | 36–37 | 36–37 | 36–37 | 35–38 |
@@ -440,13 +442,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 32 | 0% | 100% |  |
 | 33 | 0% | 100% |  |
 | 34 | 0.1% | 100% |  |
-| 35 | 10% | 99.9% |  |
-| 36 | 34% | 90% | Majority |
-| 37 | 42% | 57% | Median |
-| 38 | 9% | 15% |  |
-| 39 | 4% | 5% |  |
-| 40 | 1.2% | 1.3% |  |
-| 41 | 0.1% | 0.1% |  |
+| 35 | 0.8% | 99.9% |  |
+| 36 | 35% | 99.1% | Majority |
+| 37 | 46% | 64% | Median |
+| 38 | 9% | 18% |  |
+| 39 | 7% | 9% |  |
+| 40 | 2% | 2% |  |
+| 41 | 0.2% | 0.2% |  |
 | 42 | 0% | 0% |  |
 
 
