@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/british_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2020-01-18T10:24:05.306031+01:00</updated>
+  <updated>2020-01-23T06:43:11.387533+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party (ECR): 44.7–49.1%, 37–40 seats</li><li>Labour Party (S&amp;D): 27.9–32.0%, 24–27 seats</li><li>Liberal Democrats (RE): 7.8–10.3%, 1–4 seats</li><li>Scottish National Party (Greens/EFA): 4.1–6.1%, 2–3 seats</li><li>Plaid Cymru (Greens/EFA): 0.1–0.6%, 0 seats</li><li>Green Party (Greens/EFA): 3.2–5.0%, 0 seats</li><li>Brexit Party (NI): 2.3–3.8%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/british_ep_polls/2020-01-17-Opinium.html</id>
+    <link href="https://filipvanlaenen.github.io/british_ep_polls/2020-01-17-Opinium.html"/>
+    <title>Opinion Poll by Opinium, 15–17 January 2020</title>
+    <updated>2020-01-23T06:43:11.387533+01:00</updated>
+    <dc:date>2020-01-23T06:43:11.387533+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Conservative Party (ECR): 42.2–47.2%, 36–40 seats</li><li>Labour Party (S&amp;D): 27.2–31.8%, 23–27 seats</li><li>Liberal Democrats (RE): 9.6–12.8%, 4–6 seats</li><li>Scottish National Party (Greens/EFA): 2.3–4.1%, 1–2 seats</li><li>Plaid Cymru (Greens/EFA): 0.3–1.1%, 0–1 seats</li><li>Green Party (Greens/EFA): 4.1–6.3%, 0 seats</li><li>Brexit Party (NI): 3.2–5.2%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/british_ep_polls/2020-01-10-BMGResearch.html</id>
@@ -1295,5 +1303,5 @@
     <updated>2019-07-22T21:27:08.139393+02:00</updated>
     <dc:date>2019-07-22T21:27:08.139393+02:00</dc:date>
   </entry>
-  <dc:date>2020-01-18T10:24:05.306031+01:00</dc:date>
+  <dc:date>2020-01-23T06:43:11.387533+01:00</dc:date>
 </feed>
