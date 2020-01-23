@@ -10,8 +10,8 @@ Last result: **13.7%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 32.8% | 29.2–34.8% | 28.5–35.2% | 28.0–35.5% | 27.1–36.1% |
-| [15–17 January 2020](2020-01-17-Opinium.html) | Opinium | 29.9% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 32.0% | 29.0–34.6% | 28.4–35.0% | 28.0–35.4% | 27.1–36.1% |
+| [15–17 January 2020](2020-01-17-Opinium.html) | Opinium | 29.9% | 28.6–31.3% | 28.3–31.7% | 27.9–32.0% | 27.3–32.6% |
 | [8–10 January 2020](2020-01-10-BMGResearch.html) | BMG Research <br> The Independent | 29.4% | 28.0–31.0% | 27.5–31.4% | 27.2–31.8% | 26.5–32.5% |
 | [10–11 December 2019](2019-12-11-Survation.html) | Survation | 34.0% | 32.8–35.3% | 32.4–35.6% | 32.1–35.9% | 31.5–36.5% |
 | [10–11 December 2019](2019-12-11-Panelbase.html) | Panelbase | 34.0% | 32.9–35.1% | 32.6–35.4% | 32.4–35.7% | 31.9–36.2% |
@@ -198,14 +198,14 @@ The following table shows the probability mass function per percentage block of 
 | 24.5–25.5% | 0% | 100% |  |
 | 25.5–26.5% | 0.1% | 100% |  |
 | 26.5–27.5% | 1.1% | 99.9% |  |
-| 27.5–28.5% | 4% | 98.7% |  |
-| 28.5–29.5% | 8% | 95% |  |
-| 29.5–30.5% | 9% | 87% |  |
-| 30.5–31.5% | 10% | 78% |  |
-| 31.5–32.5% | 14% | 68% |  |
-| 32.5–33.5% | 18% | 54% | Median |
-| 33.5–34.5% | 22% | 36% |  |
-| 34.5–35.5% | 11% | 14% |  |
+| 27.5–28.5% | 5% | 98.8% |  |
+| 28.5–29.5% | 12% | 94% |  |
+| 29.5–30.5% | 14% | 82% |  |
+| 30.5–31.5% | 13% | 68% |  |
+| 31.5–32.5% | 12% | 55% | Median |
+| 32.5–33.5% | 15% | 43% |  |
+| 33.5–34.5% | 18% | 28% |  |
+| 34.5–35.5% | 9% | 11% |  |
 | 35.5–36.5% | 2% | 2% |  |
 | 36.5–37.5% | 0.1% | 0.1% |  |
 | 37.5–38.5% | 0% | 0% |  |
@@ -219,8 +219,8 @@ Last result: **10** seats (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26 | 25–27 | 25–28 | 24–28 | 23–28 |
-| [15–17 January 2020](2020-01-17-Opinium.html) | Opinium |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 26 | 25–27 | 24–28 | 24–28 | 23–28 |
+| [15–17 January 2020](2020-01-17-Opinium.html) | Opinium | 25 | 24–26 | 24–27 | 24–27 | 23–28 |
 | [8–10 January 2020](2020-01-10-BMGResearch.html) | BMG Research <br> The Independent | 25 | 24–26 | 24–26 | 23–27 | 22–27 |
 | [10–11 December 2019](2019-12-11-Survation.html) | Survation | 27 | 27–28 | 26–28 | 26–28 | 26–28 |
 | [10–11 December 2019](2019-12-11-Panelbase.html) | Panelbase | 27 | 27 | 27 | 26–27 | 26–28 |
@@ -407,13 +407,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
 | 21 | 0% | 100% |  |
-| 22 | 0.2% | 100% |  |
-| 23 | 0.8% | 99.8% |  |
-| 24 | 3% | 99.0% |  |
-| 25 | 28% | 96% |  |
-| 26 | 19% | 67% | Median |
-| 27 | 41% | 48% |  |
-| 28 | 7% | 7% |  |
+| 22 | 0.2% | 99.9% |  |
+| 23 | 1.1% | 99.8% |  |
+| 24 | 6% | 98.7% |  |
+| 25 | 34% | 93% |  |
+| 26 | 19% | 59% | Median |
+| 27 | 34% | 40% |  |
+| 28 | 6% | 6% |  |
 | 29 | 0% | 0% |  |
 
 
