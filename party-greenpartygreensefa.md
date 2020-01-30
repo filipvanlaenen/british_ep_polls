@@ -10,7 +10,8 @@ Last result: **11.8%** (General Election of 23 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.3% | 2.7–5.2% | 2.6–5.5% | 2.5–5.8% | 2.3–6.3% |
+| N/A | [Poll Average](average.html) | 3.7% | 2.8–5.2% | 2.7–5.5% | 2.6–5.8% | 2.3–6.3% |
+| [24–26 January 2020](2020-01-26-YouGov.html) | YouGov <br> The Times | 4.0% | 3.4–4.7% | 3.3–4.9% | 3.1–5.1% | 2.9–5.4% |
 | [15–17 January 2020](2020-01-17-Opinium.html) | Opinium | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
 | [8–10 January 2020](2020-01-10-BMGResearch.html) | BMG Research <br> The Independent | 5.1% | 4.4–5.9% | 4.3–6.1% | 4.1–6.3% | 3.8–6.8% |
 | [10–11 December 2019](2019-12-11-Survation.html) | Survation | 3.0% | 2.6–3.5% | 2.5–3.7% | 2.4–3.8% | 2.2–4.0% |
@@ -185,10 +186,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 4% | 100% |  |
-| 2.5–3.5% | 55% | 96% | Median |
-| 3.5–4.5% | 21% | 41% |  |
-| 4.5–5.5% | 15% | 20% |  |
+| 1.5–2.5% | 2% | 100% |  |
+| 2.5–3.5% | 41% | 98% |  |
+| 3.5–4.5% | 34% | 57% | Median |
+| 4.5–5.5% | 18% | 23% |  |
 | 5.5–6.5% | 5% | 5% |  |
 | 6.5–7.5% | 0.2% | 0.2% |  |
 | 7.5–8.5% | 0% | 0% |  |
@@ -207,6 +208,7 @@ Last result: **7** seats (General Election of 23 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [24–26 January 2020](2020-01-26-YouGov.html) | YouGov <br> The Times | 0 | 0 | 0 | 0 | 0 |
 | [15–17 January 2020](2020-01-17-Opinium.html) | Opinium | 0 | 0 | 0 | 0 | 0 |
 | [8–10 January 2020](2020-01-10-BMGResearch.html) | BMG Research <br> The Independent | 0 | 0 | 0 | 0 | 0–1 |
 | [10–11 December 2019](2019-12-11-Survation.html) | Survation | 0 | 0 | 0 | 0 | 0 |
