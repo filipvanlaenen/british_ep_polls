@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | BREXIT | LIBDEM | LAB | GREEN | CON | SNP | PC | ChUK | UKIP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 23 May 2019 | General Election | 30.5% <br> 29 | 19.6% <br> 16 | 13.7% <br> 10 | 11.8% <br> 7 | 8.8% <br> 4 | 3.5% <br> 3 | 1.0% <br> 1 | 3.3% <br> 0 | 3.2% <br> 0 |
+| [24–26 January 2020](2020-01-26-YouGov.html) | YouGov <br> The Times | 1–3% <br> 0 | 9–12% <br> 4–5 | 27–31% <br> 19–25 | 3–5% <br> 0 | 46–51% <br> 38–43 | 4–6% <br> 2–3 | 1–2% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
 | [15–17 January 2020](2020-01-17-Opinium.html) | Opinium | 2–4% <br> 0 | 8–10% <br> 1–4 | 28–32% <br> 24–27 | 3–5% <br> 0 | 45–49% <br> 37–40 | 4–6% <br> 2–3 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | [8–10 January 2020](2020-01-10-BMGResearch.html) | BMG Research <br> The Independent | 3–5% <br> 0 | 10–13% <br> 4–6 | 27–32% <br> 23–27 | 4–6% <br> 0 | 42–47% <br> 36–40 | 2–4% <br> 1–2 | 0–1% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
 | [10–11 December 2019](2019-12-11-Survation.html) | Survation | 2–4% <br> 0 | 8–10% <br> 2–4 | 32–36% <br> 26–28 | 2–4% <br> 0 | 43–47% <br> 36–38 | 3–5% <br> 2 | 1% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
